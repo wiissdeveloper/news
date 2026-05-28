@@ -2,24 +2,43 @@
   "date": "2026-05-28",
   "notices": [
     {
+      "guid": "https://www.eurogamer.pt/steinsgate-reboot-chega-como-exclusivo-xbox-nas-consolas",
+      "title": "Steins;Gate Re:Boot chega como exclusivo Xbox nas consolas",
+      "link": "https://www.eurogamer.pt/steinsgate-reboot-chega-como-exclusivo-xbox-nas-consolas",
+      "pubDate": "Thu, 28 May 2026 09:01:21 +0000",
+      "contentSnippet": "A Spike Chunsoft surpreendeu ao revelar que Steins;Gate Re:Boot será um exclusivo Xbox Series nas consolas, durante aproximadamente dois meses.\n Ler mais",
+      "thumbnail": "https://assetsio.gnwcdn.com/STEINS-GATE-REBOOT_2026_05-27-26_001.jpg?width=690&quality=85&format=jpg&auto=webp"
+    },
+    {
+      "guid": "https://www.eurogamer.pt/call-of-duty-podera-chegar-a-nintendo-switch-2-em-2026",
+      "title": "Call of Duty poderá chegar à Nintendo Switch 2 em 2026",
+      "link": "https://www.eurogamer.pt/call-of-duty-podera-chegar-a-nintendo-switch-2-em-2026",
+      "pubDate": "Thu, 28 May 2026 08:54:34 +0000",
+      "contentSnippet": "A Activision e a Infinity Ward já confirmaram que estão a trabalhar num novo jogo Call of Duty que chega em 2026, mas até à data ainda não temos informações sobre o nome ou plataformas.\n Ler mais",
+      "thumbnail": "https://assetsio.gnwcdn.com/VE_compare_and_choose_you_edition.webp?width=690&quality=85&format=jpg&auto=webp"
+    },
+    {
+      "guid": "https://www.eurogamer.pt/donkey-kong-64-a-caminho-da-switch",
+      "title": "Donkey Kong 64 a caminho da Switch",
+      "link": "https://www.eurogamer.pt/donkey-kong-64-a-caminho-da-switch",
+      "pubDate": "Thu, 28 May 2026 08:48:30 +0000",
+      "contentSnippet": "A Nintendo revelou que Donkey Kong 64, um dos maiores clássicos da N64, está finalmente a caminho da Nintendo Switch 2 e Nintendo Switch.\n Ler mais",
+      "thumbnail": "https://assetsio.gnwcdn.com/NSO-DK64_05-27-26.png?width=690&quality=85&format=jpg&auto=webp"
+    },
+    {
       "guid": "https://www.eurogamer.pt/tens-poucas-horas-para-resgatar-a-trilogia-remasterizada-de-tomb-raider-de-graca-no-pc",
       "title": "Tens poucas horas para resgatar a trilogia remasterizada de Tomb Raider de graça no PC",
       "link": "https://www.eurogamer.pt/tens-poucas-horas-para-resgatar-a-trilogia-remasterizada-de-tomb-raider-de-graca-no-pc",
       "pubDate": "Wed, 27 May 2026 23:58:03 +0000",
+      "contentSnippet": "Se ainda não abriste a Epic Games Store esta semana, tens de te despachar. Hoje é o último dia para adicionares Tomb Raider I-III Remastered Starring Lara Croft à tua biblioteca de forma totalmente gratuita.\n Ler mais",
       "thumbnail": "https://assetsio.gnwcdn.com/Tomb-Raider-I-III-Remastered.png?width=690&quality=85&format=jpg&auto=webp"
-    },
-    {
-      "guid": "https://www.eurogamer.pt/mina-the-hollower-e-o-melhor-jogo-de-2026-no-metacritic",
-      "title": "Mina the Hollower é o melhor jogo de 2026 no Metacritic",
-      "link": "https://www.eurogamer.pt/mina-the-hollower-e-o-melhor-jogo-de-2026-no-metacritic",
-      "pubDate": "Wed, 27 May 2026 21:20:53 +0000",
-      "thumbnail": "https://assetsio.gnwcdn.com/gothicfeaturedimage.png?width=690&quality=85&format=jpg&auto=webp"
     },
     {
       "guid": "https://www.eurogamer.pt/steam-deck-oled-proxima-dos-1000",
       "title": "Steam Deck OLED próxima dos 1000€",
       "link": "https://www.eurogamer.pt/steam-deck-oled-proxima-dos-1000",
       "pubDate": "Wed, 27 May 2026 20:57:02 +0000",
+      "contentSnippet": "A Valve anunciou aumentos nos preços da Steam Deck OLED, que vai ficar disponível a preços quase inacreditáveis, por mais que fosse previsível o aumento no preço dos modelos.\n Ler mais",
       "thumbnail": "https://assetsio.gnwcdn.com/F3Bu-yjbcAAdYJl.jpeg?width=690&quality=85&format=jpg&auto=webp"
     },
     {
@@ -27,6 +46,7 @@
       "title": "007: First Light review - ação cinematográfica",
       "link": "https://www.eurogamer.pt/007-first-light-review",
       "pubDate": "Wed, 27 May 2026 17:03:35 +0000",
+      "contentSnippet": "Este inesperado híbrido entre Hitman e Uncharted resulta num divertido jogo de ação e espionagem cinematográfica. Com muito carisma e digno do legado incrível, 007: First Light é um empolgante primeiro passo numa nova série, onde o bom pesa muito mais do que o menos bom.\n Ler mais",
       "thumbnail": "https://assetsio.gnwcdn.com/007FirstLight_KeyArt_Clean_16x9_Full-Res-scaled.png?width=690&quality=85&format=jpg&auto=webp"
     },
     {
@@ -34,6 +54,7 @@
       "title": "A caminho dos 10 anos, No Man's Sky não para de crescer",
       "link": "https://www.eurogamer.pt/a-caminho-dos-10-anos-no-mans-sky-nao-para-de-crescer",
       "pubDate": "Wed, 27 May 2026 15:52:24 +0000",
+      "contentSnippet": "A caminho do seu décimo aniversário, que se celebra em agosto, No Man's Sky continua a crescer. A Hello Games acaba de lançar a atualização 6.4, The Swarm, que introduz uma nova ameaça no universo do jogo.\n Ler mais",
       "thumbnail": "https://assetsio.gnwcdn.com/No-Man's-Sky-The-Swarm.jpg?width=690&quality=85&format=jpg&auto=webp"
     },
     {
@@ -41,27 +62,15 @@
       "title": "Pokémon TCG Aura Seeker chega em novembro",
       "link": "https://www.eurogamer.pt/pokemon-tcg-aura-seeker-chega-em-novembro",
       "pubDate": "Wed, 27 May 2026 15:30:22 +0000",
+      "contentSnippet": "A The Pokémon Company vai apresentar Pokémon TCG Aura Seeker aos japoneses no final de novembro, uma nova expansão focada em Mega Lucario Z ex que permanece um dos Pokémon mais populares do momento.\n Ler mais",
       "thumbnail": "https://assetsio.gnwcdn.com/HGl4GZMXUAAq2To.jpeg?width=690&quality=85&format=jpg&auto=webp"
-    },
-    {
-      "guid": "https://www.eurogamer.pt/joga-marathon-de-borla",
-      "title": "Joga Marathon de borla",
-      "link": "https://www.eurogamer.pt/joga-marathon-de-borla",
-      "pubDate": "Wed, 27 May 2026 15:23:26 +0000",
-      "thumbnail": "https://assetsio.gnwcdn.com/Marathon.jpeg?width=690&quality=85&format=jpg&auto=webp"
-    },
-    {
-      "guid": "https://www.eurogamer.pt/produzidas-10-mil-milhoes-de-cartas-pokemon-tcg-num-ano",
-      "title": "Produzidas 10 mil milhões de cartas Pokémon TCG num ano",
-      "link": "https://www.eurogamer.pt/produzidas-10-mil-milhoes-de-cartas-pokemon-tcg-num-ano",
-      "pubDate": "Wed, 27 May 2026 14:39:31 +0000",
-      "thumbnail": "https://assetsio.gnwcdn.com/Captura-de-ecra%CC%83-2026-05-11%2C-a%CC%80s-17.33.07.png?width=690&quality=85&format=jpg&auto=webp"
     },
     {
       "guid": "https://www.eurogamer.pt/nova-carta-pokemon-tcg-a-venda-por-959",
       "title": "Nova carta Pokémon TCG à venda por 959€",
       "link": "https://www.eurogamer.pt/nova-carta-pokemon-tcg-a-venda-por-959",
       "pubDate": "Wed, 27 May 2026 14:29:31 +0000",
+      "contentSnippet": "A versão japonesa de Pokémon TCG recebeu a expansão Abyss Eye no passado dia 22 de maio (quando recebemos Chaos Rising), o que já despertou grande procura pelas novas Illustrarion Rare e Special Illustration Rare. No entanto, é a nova Mega Hyper Rare que está a dar que falar.\n Ler mais",
       "thumbnail": "https://assetsio.gnwcdn.com/me05-announce-169-en.png?width=690&quality=85&format=jpg&auto=webp"
     },
     {
@@ -69,21 +78,24 @@
       "title": "Dragon Quest Monsters: The Withered World anunciado",
       "link": "https://www.eurogamer.pt/dragon-quest-monsters-the-withered-world-anunciado",
       "pubDate": "Wed, 27 May 2026 14:08:53 +0000",
+      "contentSnippet": "Na transmissão dos 40 anos de Dragon Quest, a Square Enix revelou Dragon Quest Monsters: The Withered World, um novo jogo para a Nintendo Switch 2, Nintendo Switch, PS5, Xbox Series e PC.\n Ler mais",
       "thumbnail": "https://assetsio.gnwcdn.com/DQM4-Ann_05-27-26-1440x810-(1).jpg?width=690&quality=85&format=jpg&auto=webp"
-    },
-    {
-      "guid": "https://www.eurogamer.pt/dragon-quest-12-foi-reiniciado",
-      "title": "Dragon Quest 12 foi reiniciado",
-      "link": "https://www.eurogamer.pt/dragon-quest-12-foi-reiniciado",
-      "pubDate": "Wed, 27 May 2026 14:02:35 +0000",
-      "thumbnail": "https://assetsio.gnwcdn.com/HJVDGxgbEAAUGuL.jpeg?width=690&quality=85&format=jpg&auto=webp"
     },
     {
       "guid": "https://www.eurogamer.pt/the-witcher-3-recebe-nova-expansao-mas-o-teu-pc-pode-nao-aguentar",
       "title": "The Witcher 3 recebe nova expansão, mas o teu PC pode não aguentar",
       "link": "https://www.eurogamer.pt/the-witcher-3-recebe-nova-expansao-mas-o-teu-pc-pode-nao-aguentar",
       "pubDate": "Wed, 27 May 2026 13:25:09 +0000",
+      "contentSnippet": "A CD Projekt Red mudou os requisitos mínimos para jogar The Witcher 3: Wild Hunt no PC. O jogo, que já tem 11 anos, vai deixar de funcionar em discos rígidos antigos (HDD) e no Windows 10. A partir de agora, vais precisar obrigatoriamente de um disco SSD e do Windows 11.\n Ler mais",
       "thumbnail": "https://assetsio.gnwcdn.com/witcher-3-geralt-songs-of-past-expansion.webp?width=690&quality=85&format=jpg&auto=webp"
+    },
+    {
+      "guid": "https://www.eurogamer.pt/dragon-quest-11s-tera-versao-nintendo-switch-2",
+      "title": "Dragon Quest 11S terá versão Nintendo Switch 2",
+      "link": "https://www.eurogamer.pt/dragon-quest-11s-tera-versao-nintendo-switch-2",
+      "pubDate": "Wed, 27 May 2026 12:55:16 +0000",
+      "contentSnippet": "A Square Enix anunciou a versão nativa de Dragon Quest XI S: Echoes of an Elusive Age – Definitive Edition para a Nintendo Switch 2.\n Ler mais",
+      "thumbnail": "https://assetsio.gnwcdn.com/bZBvuQ98T04JvJCR7lJFYssZ.webp?width=690&quality=85&format=jpg&auto=webp"
     }
   ]
 }
