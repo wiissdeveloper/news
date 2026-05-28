@@ -13,6 +13,9 @@ const parser = new Parser({
 
 const TOTAL = 12;
 
+// ===============================
+//  FUENTES POR IDIOMA
+// ===============================
 const SOURCES = {
   es: [
     "https://vandal.elespanol.com/xml.cgi",
@@ -46,12 +49,35 @@ const SOURCES = {
   ]
 };
 
+// ===============================
+//  PALABRAS CLAVE GAMER
+// ===============================
+const GAMER_KEYWORDS = [
+  "game", "gaming", "videojuego", "video game", "juego",
+  "ps5", "playstation", "ps4", "ps3",
+  "xbox", "series x", "series s", "one",
+  "nintendo", "switch", "zelda", "mario", "pokemon",
+  "steam", "pc gaming", "pc",
+  "trailer", "review", "análisis", "avance",
+  "dlc", "expansión", "update", "actualización",
+  "esports", "torneo", "competitivo",
+  "launch", "release", "lanzamiento",
+  "fps", "rpg", "shooter", "battle royale",
+  "retro", "emulador", "emulación"
+];
 
 // ===============================
-//  EXTRAER IMAGEN REAL (CORREGIDO)
+//  FILTRO GAMER
+// ===============================
+function isGamingNews(item) {
+  const text = `${item.title} ${item.contentSnippet || ""}`.toLowerCase();
+  return GAMER_KEYWORDS.some(k => text.includes(k));
+}
+
+// ===============================
+//  EXTRAER IMAGEN REAL
 // ===============================
 function extractImage(item) {
-  // rss-parser puede devolver objetos, arrays o strings
   const tryUrl = (v) => {
     if (!v) return null;
     if (typeof v === "string") return v;
@@ -64,7 +90,6 @@ function extractImage(item) {
     tryUrl(item.thumbnail) ||
     tryUrl(item.mediaContent) ||
     tryUrl(item.enclosure) ||
-    // Buscar imagen dentro del contenido HTML
     (item.content?.match(/<img[^>]+src="([^">]+)"/)?.[1] ?? null)
   );
 }
@@ -92,16 +117,21 @@ async function generateForLang(lang) {
       title: item.title,
       link: item.link,
       pubDate: item.pubDate,
+      contentSnippet: item.contentSnippet || item.content || "",
       thumbnail: extractImage(item)
     }));
 
-    all = all.concat(mapped);
+    // FILTRO GAMER
+    const gamerOnly = mapped.filter(isGamingNews);
+
+    all = all.concat(gamerOnly);
   }
 
-  // ===============================
-  // FILTRO CORREGIDO (NO PETA)
-  // ===============================
+  // Filtrar imágenes válidas
   all = all.filter(n => typeof n.thumbnail === "string" && n.thumbnail.startsWith("http"));
+
+  // ORDENAR POR FECHA (más nuevas primero)
+  all.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
 
   // Fallback si faltan noticias
   if (all.length < TOTAL && lang !== "en") {
@@ -114,15 +144,24 @@ async function generateForLang(lang) {
         title: item.title,
         link: item.link,
         pubDate: item.pubDate,
+        contentSnippet: item.contentSnippet || item.content || "",
         thumbnail: extractImage(item)
       }));
-      fallback = fallback.concat(mapped);
+
+      const gamerOnly = mapped.filter(isGamingNews);
+
+      fallback = fallback.concat(gamerOnly);
     }
 
     fallback = fallback.filter(n => typeof n.thumbnail === "string" && n.thumbnail.startsWith("http"));
+
+    // Ordenar fallback también
+    fallback.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+
     all = all.concat(fallback);
   }
 
+  // Cortar a 12 finales
   all = all.slice(0, TOTAL);
 
   const today = new Date().toISOString().split("T")[0];
