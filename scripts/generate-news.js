@@ -3,15 +3,38 @@ import fs from "fs";
 
 const TOTAL = 12;
 
-// RSS principal (siempre funciona)
-const RSS_MAIN = [
-  "https://gamerant.com/feed/",
-  "https://www.gameinformer.com/rss.xml",
-  "https://www.pcgamer.com/rss/"
-];
-
-// Idiomas soportados
-const LANGS = ["en", "es", "fr", "it", "de", "pt"];
+const SOURCES = {
+  es: [
+    "https://vandal.elespanol.com/xml.cgi",
+    "https://www.3djuegos.com/rss/rss.xml",
+    "https://as.com/rss/meristation/portada.xml",
+    "https://www.hobbyconsolas.com/rss"
+  ],
+  fr: [
+    "https://www.jeuxvideo.com/rss/rss.xml",
+    "https://www.gamekult.com/feed.xml",
+    "https://www.actugaming.net/feed/"
+  ],
+  it: [
+    "https://www.everyeye.it/feed/feed_rss.asp",
+    "https://multiplayer.it/notizie.xml",
+    "https://www.spaziogames.it/feed/"
+  ],
+  de: [
+    "https://www.gamestar.de/news/rss/news.rss",
+    "https://www.pcgames.de/rss/news.xml",
+    "https://mein-mmo.de/feed/"
+  ],
+  pt: [
+    "https://www.eurogamer.pt/?format=rss",
+    "https://meusjogos.pt/feed/"
+  ],
+  en: [
+    "https://gamerant.com/feed/",
+    "https://www.gameinformer.com/rss.xml",
+    "https://www.pcgamer.com/rss/"
+  ]
+};
 
 async function fetchRSS(url) {
   const api = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}`;
@@ -20,20 +43,10 @@ async function fetchRSS(url) {
   return data.items || [];
 }
 
-async function translate(text, lang) {
-  if (lang === "en") return text;
-
-  const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=en|${lang}`;
-  const res = await fetch(url);
-  const data = await res.json();
-
-  return data?.responseData?.translatedText || text;
-}
-
 async function generateForLang(lang) {
   let all = [];
 
-  for (const url of RSS_MAIN) {
+  for (const url of SOURCES[lang]) {
     const items = await fetchRSS(url);
     all = all.concat(items);
   }
@@ -41,10 +54,6 @@ async function generateForLang(lang) {
   all = all
     .filter(n => n.thumbnail && n.thumbnail.startsWith("http"))
     .slice(0, TOTAL);
-
-  for (const item of all) {
-    item.title = await translate(item.title, lang);
-  }
 
   const today = new Date().toISOString().split("T")[0];
 
@@ -55,7 +64,7 @@ async function generateForLang(lang) {
 }
 
 async function main() {
-  for (const lang of LANGS) {
+  for (const lang of Object.keys(SOURCES)) {
     console.log("Generating:", lang);
     await generateForLang(lang);
   }
