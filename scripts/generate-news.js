@@ -1,11 +1,18 @@
-import fetch from "node-fetch";
+import Parser from "rss-parser";
 import fs from "fs";
+
+const parser = new Parser({
+  customFields: {
+    item: [
+      ["media:thumbnail", "thumbnail"],
+      ["media:content", "mediaContent"],
+      ["enclosure", "enclosure"]
+    ]
+  }
+});
 
 const TOTAL = 12;
 
-// ===============================
-//  FUENTES REALES POR IDIOMA
-// ===============================
 const SOURCES = {
   es: [
     "https://vandal.elespanol.com/xml.cgi",
@@ -40,14 +47,28 @@ const SOURCES = {
 };
 
 // ===============================
-//  CARGAR RSS CON FALLBACK
+//  EXTRAER IMAGEN REAL
+// ===============================
+function extractImage(item) {
+  if (item.thumbnail?.url) return item.thumbnail.url;
+  if (item.thumbnail) return item.thumbnail;
+  if (item.mediaContent?.url) return item.mediaContent.url;
+  if (item.enclosure?.url) return item.enclosure.url;
+
+  // Buscar imagen dentro del contenido HTML
+  const match = item.content?.match(/<img[^>]+src="([^">]+)"/);
+  if (match) return match[1];
+
+  return null;
+}
+
+// ===============================
+//  CARGAR RSS SIN TRADUCCIONES
 // ===============================
 async function fetchRSS(url) {
   try {
-    const api = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}`;
-    const res = await fetch(api);
-    const data = await res.json();
-    return data.items || [];
+    const feed = await parser.parseURL(url);
+    return feed.items || [];
   } catch {
     return [];
   }
@@ -61,19 +82,37 @@ async function generateForLang(lang) {
 
   for (const url of SOURCES[lang]) {
     const items = await fetchRSS(url);
-
-    // Si una fuente falla → continúa sin romper
     if (!items || items.length === 0) continue;
 
-    all = all.concat(items);
+    const mapped = items.map(item => ({
+      guid: item.guid || item.link,
+      title: item.title,
+      link: item.link,
+      pubDate: item.pubDate,
+      thumbnail: extractImage(item)
+    }));
+
+    all = all.concat(mapped);
   }
 
-  // Filtrar solo noticias con imagen válida
+  // Filtrar solo con imagen válida
   all = all.filter(n => n.thumbnail && n.thumbnail.startsWith("http"));
 
-  // Si hay menos de 12 → fallback a inglés
+  // Fallback si faltan noticias
   if (all.length < TOTAL && lang !== "en") {
-    const fallback = await generateFallback();
+    let fallback = [];
+    for (const url of SOURCES["en"]) {
+      const items = await fetchRSS(url);
+      const mapped = items.map(item => ({
+        guid: item.guid || item.link,
+        title: item.title,
+        link: item.link,
+        pubDate: item.pubDate,
+        thumbnail: extractImage(item)
+      }));
+      fallback = fallback.concat(mapped);
+    }
+    fallback = fallback.filter(n => n.thumbnail && n.thumbnail.startsWith("http"));
     all = all.concat(fallback);
   }
 
@@ -86,20 +125,6 @@ async function generateForLang(lang) {
     `news_${lang}.json`,
     JSON.stringify({ date: today, notices: all }, null, 2)
   );
-}
-
-// ===============================
-//  FALLBACK A INGLÉS SI FALTAN NOTICIAS
-// ===============================
-async function generateFallback() {
-  let fallback = [];
-
-  for (const url of SOURCES["en"]) {
-    const items = await fetchRSS(url);
-    fallback = fallback.concat(items);
-  }
-
-  return fallback.filter(n => n.thumbnail && n.thumbnail.startsWith("http"));
 }
 
 // ===============================
