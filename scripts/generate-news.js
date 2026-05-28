@@ -44,7 +44,8 @@ const SOURCES = {
     "https://www.gameinformer.com/rss.xml",
     "https://www.pcgamer.com/rss/"
   ]
-];
+};
+
 
 // ===============================
 //  EXTRAER IMAGEN REAL (CORREGIDO)
