@@ -3,6 +3,9 @@ import fs from "fs";
 
 const TOTAL = 12;
 
+// ===============================
+//  FUENTES REALES POR IDIOMA
+// ===============================
 const SOURCES = {
   es: [
     "https://vandal.elespanol.com/xml.cgi",
@@ -36,24 +39,46 @@ const SOURCES = {
   ]
 };
 
+// ===============================
+//  CARGAR RSS CON FALLBACK
+// ===============================
 async function fetchRSS(url) {
-  const api = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}`;
-  const res = await fetch(api);
-  const data = await res.json();
-  return data.items || [];
+  try {
+    const api = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}`;
+    const res = await fetch(api);
+    const data = await res.json();
+    return data.items || [];
+  } catch {
+    return [];
+  }
 }
 
+// ===============================
+//  GENERAR NOTICIAS POR IDIOMA
+// ===============================
 async function generateForLang(lang) {
   let all = [];
 
   for (const url of SOURCES[lang]) {
     const items = await fetchRSS(url);
+
+    // Si una fuente falla → continúa sin romper
+    if (!items || items.length === 0) continue;
+
     all = all.concat(items);
   }
 
-  all = all
-    .filter(n => n.thumbnail && n.thumbnail.startsWith("http"))
-    .slice(0, TOTAL);
+  // Filtrar solo noticias con imagen válida
+  all = all.filter(n => n.thumbnail && n.thumbnail.startsWith("http"));
+
+  // Si hay menos de 12 → fallback a inglés
+  if (all.length < TOTAL && lang !== "en") {
+    const fallback = await generateFallback();
+    all = all.concat(fallback);
+  }
+
+  // Cortar a 12
+  all = all.slice(0, TOTAL);
 
   const today = new Date().toISOString().split("T")[0];
 
@@ -63,6 +88,23 @@ async function generateForLang(lang) {
   );
 }
 
+// ===============================
+//  FALLBACK A INGLÉS SI FALTAN NOTICIAS
+// ===============================
+async function generateFallback() {
+  let fallback = [];
+
+  for (const url of SOURCES["en"]) {
+    const items = await fetchRSS(url);
+    fallback = fallback.concat(items);
+  }
+
+  return fallback.filter(n => n.thumbnail && n.thumbnail.startsWith("http"));
+}
+
+// ===============================
+//  EJECUCIÓN PRINCIPAL
+// ===============================
 async function main() {
   for (const lang of Object.keys(SOURCES)) {
     console.log("Generating:", lang);
