@@ -44,26 +44,30 @@ const SOURCES = {
     "https://www.gameinformer.com/rss.xml",
     "https://www.pcgamer.com/rss/"
   ]
-};
+];
 
 // ===============================
-//  EXTRAER IMAGEN REAL
+//  EXTRAER IMAGEN REAL (CORREGIDO)
 // ===============================
 function extractImage(item) {
-  if (item.thumbnail?.url) return item.thumbnail.url;
-  if (item.thumbnail) return item.thumbnail;
-  if (item.mediaContent?.url) return item.mediaContent.url;
-  if (item.enclosure?.url) return item.enclosure.url;
+  // rss-parser puede devolver objetos, arrays o strings
+  const tryUrl = (v) => {
+    if (!v) return null;
+    if (typeof v === "string") return v;
+    if (typeof v === "object" && v.url) return v.url;
+    if (Array.isArray(v) && v[0]?.url) return v[0].url;
+    return null;
+  };
 
-  // Buscar imagen dentro del contenido HTML
-  const match = item.content?.match(/<img[^>]+src="([^">]+)"/);
-  if (match) return match[1];
-
-  return null;
+  return (
+    tryUrl(item.thumbnail) ||
+    tryUrl(item.mediaContent) ||
+    tryUrl(item.enclosure) ||
+    // Buscar imagen dentro del contenido HTML
+    (item.content?.match(/<img[^>]+src="([^">]+)"/)?.[1] ?? null)
+  );
 }
 
-// ===============================
-//  CARGAR RSS SIN TRADUCCIONES
 // ===============================
 async function fetchRSS(url) {
   try {
@@ -74,8 +78,6 @@ async function fetchRSS(url) {
   }
 }
 
-// ===============================
-//  GENERAR NOTICIAS POR IDIOMA
 // ===============================
 async function generateForLang(lang) {
   let all = [];
@@ -95,12 +97,15 @@ async function generateForLang(lang) {
     all = all.concat(mapped);
   }
 
-  // Filtrar solo con imagen válida
-  all = all.filter(n => n.thumbnail && n.thumbnail.startsWith("http"));
+  // ===============================
+  // FILTRO CORREGIDO (NO PETA)
+  // ===============================
+  all = all.filter(n => typeof n.thumbnail === "string" && n.thumbnail.startsWith("http"));
 
   // Fallback si faltan noticias
   if (all.length < TOTAL && lang !== "en") {
     let fallback = [];
+
     for (const url of SOURCES["en"]) {
       const items = await fetchRSS(url);
       const mapped = items.map(item => ({
@@ -112,11 +117,11 @@ async function generateForLang(lang) {
       }));
       fallback = fallback.concat(mapped);
     }
-    fallback = fallback.filter(n => n.thumbnail && n.thumbnail.startsWith("http"));
+
+    fallback = fallback.filter(n => typeof n.thumbnail === "string" && n.thumbnail.startsWith("http"));
     all = all.concat(fallback);
   }
 
-  // Cortar a 12
   all = all.slice(0, TOTAL);
 
   const today = new Date().toISOString().split("T")[0];
@@ -127,8 +132,6 @@ async function generateForLang(lang) {
   );
 }
 
-// ===============================
-//  EJECUCIÓN PRINCIPAL
 // ===============================
 async function main() {
   for (const lang of Object.keys(SOURCES)) {
