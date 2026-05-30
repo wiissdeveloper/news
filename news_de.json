@@ -1,101 +1,101 @@
 {
-  "date": "2026-05-29",
+  "date": "2026-05-30",
   "notices": [
     {
-      "guid": "https://mein-mmo.de/?p=1392268",
-      "title": "Ein Nutzer klettert und wühlt sich durch den Müll seiner Firma, um wertvollen RAM und SSDs zu retten",
-      "link": "https://mein-mmo.de/nutzer-wuehlt-muell-firma-wertvollen-ram-ssds-retten/",
-      "pubDate": "Fri, 29 May 2026 09:17:26 +0000",
-      "contentSnippet": "Alter RAM ist wertvoll geworden. So wertvoll, dass einige Nutzer jetzt sogar in den Müll klettern, um alte PCs auszuschlachten.\nDer Beitrag Ein Nutzer klettert und wühlt sich durch den Müll seiner Firma, um wertvollen RAM und SSDs zu retten erschien zuerst auf Mein-MMO.",
-      "thumbnail": "https://images.mein-mmo.de/medien/2026/05/Titelbild-Alter-RAM-aus-dem-Muell-1140x445.jpg"
+      "guid": "https://mein-mmo.de/?p=1392237",
+      "title": "Gaming wird immer teurer: Steam-Empfehlungen von der Redaktion für unter 20 Euro",
+      "link": "https://mein-mmo.de/steam-empfehlungen-unter-20-euro/",
+      "pubDate": "Sat, 30 May 2026 06:00:00 +0000",
+      "contentSnippet": "Sparfüchse, aufgepasst: Die MeinMMO-Redaktion nennt euch ihre Spiele-Highlights auf Steam, die ihr für unter 20 Euro bekommt.\nDer Beitrag Gaming wird immer teurer: Steam-Empfehlungen von der Redaktion für unter 20 Euro erschien zuerst auf Mein-MMO.",
+      "thumbnail": "https://images.mein-mmo.de/medien/2026/05/Steam-Empfehlungen-MeinMMO-Redaktion-1140x445.jpg"
     },
     {
-      "guid": "https://www.gamestar.de/artikel/netflix-filmfoerderung-deutschland-gesetz-kritik,3453752.html",
-      "title": "Netflix - Der Streaming-Gigant warnt: Neues deutsches Gesetz könnte weniger Filme und TV-Serien bedeuten",
-      "link": "https://www.gamestar.de/artikel/netflix-filmfoerderung-deutschland-gesetz-kritik,3453752.html",
-      "pubDate": "Fri, 29 May 2026 08:31:00 GMT",
-      "contentSnippet": "Deutschland verpflichtet Streamingdienste mit einem neuen Gesetz zu höheren lokalen Investitionen, das passt Netflix und Co. allerdings nicht.",
-      "thumbnail": "https://images.cgames.de/images/gamestar/112/netflix-deutschland-gs_6420892.jpg"
+      "guid": "https://www.gamestar.de/artikel/cod-mw4-update-requires-restart-offline-modus,3453760.html",
+      "title": "Call of Duty - CoD treibt viele Fans seit Jahren mit einem simplen Pop-Up zur Weißglut, MW4 macht damit 2026 endlich Schluss",
+      "link": "https://www.gamestar.de/artikel/cod-mw4-update-requires-restart-offline-modus,3453760.html",
+      "pubDate": "Sat, 30 May 2026 05:45:00 GMT",
+      "contentSnippet": "Die Nachricht »Update Requires Restart« sorgt bei CoD-Spielern schon lange für Augenrollen. Nun wird sie in MW4 endlich entfernt und es gibt noch eine weitere, gute Neuigkeit.",
+      "thumbnail": "https://images.cgames.de/images/gamestar/112/cod-mw4_6420902.jpg"
+    },
+    {
+      "guid": "https://mein-mmo.de/?p=1392381",
+      "title": "Im aktuellen MMORPG von Amazon kämpft ihr bald gegen einen Koloss, der 100-mal so groß ist wie ihr",
+      "link": "https://mein-mmo.de/mmorpg-news-rueckblick-der-woche-30-mai-2026/",
+      "pubDate": "Sat, 30 May 2026 05:30:00 +0000",
+      "contentSnippet": "Das MeinMMO-Format „MMORPG-News in 5 Minuten“: Dieses Mal mit Preisänderungen bei HdRO und gleich mehreren Playtest-Erfahrungen.\nDer Beitrag Im aktuellen MMORPG von Amazon kämpft ihr bald gegen einen Koloss, der 100-mal so groß ist wie ihr erschien zuerst auf Mein-MMO.",
+      "thumbnail": "https://images.mein-mmo.de/medien/2026/05/Throne-and-Liberty-200-Meter-Koloss-1140x445.jpg"
+    },
+    {
+      "guid": "https://www.gamestar.de/videos/belassen-wir-es-vorerst-dabei-so-sieht-das-neue-alte-intro-im-gothic-remake-aus,140915.html",
+      "title": "»Belassen wir es vorerst dabei« - So sieht das neue alte Intro im Gothic Remake aus",
+      "link": "https://www.gamestar.de/videos/belassen-wir-es-vorerst-dabei-so-sieht-das-neue-alte-intro-im-gothic-remake-aus,140915.html",
+      "pubDate": "Sat, 30 May 2026 04:35:00 GMT",
+      "contentSnippet": "Unser Test zum Gothic Remake lässt auf sich warten. Damit ihr euch dennoch schon mal einen Eindruck vom Spiel verschaffen könnt, zeigen wir euch das überarbeitete Intro aus der Vorschauversion. Die haben wir übrigens auch aus der Perspektive eines Gothic-Veteranen gespielt und für sehr gut befunden.\r\n\r\nDas Gothic Remake erscheint am 5. Juni 2026 für PC, PlayStation 5 und Xbox Series X/S.",
+      "thumbnail": "https://images.cgames.de/images/gamestar/112/videoimage_6421005.jpg"
+    },
+    {
+      "guid": "https://www.gamestar.de/artikel/samsung-galaxy-preiserhoehung-juni-ram-kosten,3453813.html",
+      "title": "Galaxy-Smartphones - Die Preise von Samsungs Top-Handys könnten bereits im Juni in einigen Regionen steigen",
+      "link": "https://www.gamestar.de/artikel/samsung-galaxy-preiserhoehung-juni-ram-kosten,3453813.html",
+      "pubDate": "Fri, 29 May 2026 18:19:00 GMT",
+      "contentSnippet": "Steigende RAM-Kosten zwingen Samsung offenbar zum Handeln: Laut einem Bericht sollen Galaxy S26, Z Fold 7, Z Flip 7 und FE-Modelle noch im Juni um bis zu 200 Euro teurer werden.",
+      "thumbnail": "https://images.cgames.de/images/gamestar/112/samsung-galaxy-s26-ultra-kritik-gs-bildquelle-samsung_6404123.jpg"
+    },
+    {
+      "guid": "https://www.gamestar.de/artikel/ios-27-siri-app-chatgpt-konkurrent-ki-interface-leak,3453812.html",
+      "title": "WWDC 2026 - »Größter Siri-Umbau seit 15 Jahren«: Leak zu iOS 27 zeigt, in welche Richtung die Apple-Assistenz bald gehen soll",
+      "link": "https://www.gamestar.de/artikel/ios-27-siri-app-chatgpt-konkurrent-ki-interface-leak,3453812.html",
+      "pubDate": "Fri, 29 May 2026 17:39:00 GMT",
+      "contentSnippet": "Ein Leak zeigt den Fokus von iOS 27: Apple plant demnach eine grundlegende Überarbeitung der Siri-App. Neben neuen Interfaces bedeutet das auch neue KI-Funktionen.",
+      "thumbnail": "https://images.cgames.de/images/gamestar/112/ios-27-teaser-francois-eichinger-rosinka79-adobe-stock_6413290.jpg"
+    },
+    {
+      "guid": "https://www.gamestar.de/videos/forza-horizon-6-ein-komplettes-cockpitrennen-mit-der-driftkamera,140919.html",
+      "title": "Forza Horizon 6: ein komplettes Cockpitrennen mit der Driftkamera",
+      "link": "https://www.gamestar.de/videos/forza-horizon-6-ein-komplettes-cockpitrennen-mit-der-driftkamera,140919.html",
+      "pubDate": "Fri, 29 May 2026 15:39:00 GMT",
+      "contentSnippet": "In Forza Horizon 6 ist die Driftkamera standardmäßig deaktiviert, weshalb sie vermutlich viele ignorieren. Was für Heiko zumindest für diejenigen ein Fehler wäre, die bevorzugt aus der Cockpitperspektive fahren. Welchen Effekt die aktivierte Driftkamera auf die Immersion hat, könnt ihr euch in diesem Gameplay-Clip von einem kompletten Rennen anschauen.\r\n\r\nMehr Details zu den Vor- und Nachteilen findet ihr im Artikel von Heiko zur Driftkamera.",
+      "thumbnail": "https://images.cgames.de/images/gamestar/112/videoimage_6421044.jpg"
+    },
+    {
+      "guid": "https://www.gamestar.de/videos/haette-ich-nicht-erwartet-der-finale-trailer-zu-house-of-the-dragon-staffel-3-verspricht-ein-gewaltiges-spektakel,140917.html",
+      "title": "»Hätte ich nicht erwartet« - Der finale Trailer zu House of the Dragon: Staffel 3 verspricht ein gewaltiges Spektakel",
+      "link": "https://www.gamestar.de/videos/haette-ich-nicht-erwartet-der-finale-trailer-zu-house-of-the-dragon-staffel-3-verspricht-ein-gewaltiges-spektakel,140917.html",
+      "pubDate": "Fri, 29 May 2026 14:40:00 GMT",
+      "contentSnippet": "Am 22. Juni 2026 startet House of the Dragon in die dritte Staffel und könnte endlich das liefern, was sich viele Fans von Staffel 2 schon erhofft hatten: Dass ... mal etwas passiert. Zumindest stimmt der finale Trailer auf gewaltige Schlachten zur See, zu Land und zur Luft ein.\r\n\r\nNach schlechter Stimmung in der Community und einem vernichtenden Statement des Game-of-Thrones-Autors George R.R. Martin ist zumindest die Stimmung auf YouTube ziemlich positiv. Man darf gespannt sein. \r\n\r\nDie dritte und vorletzte Staffel von House of the Dragon könnt ihr in Deutschland zum Release bei HBO Max streamen.",
+      "thumbnail": "https://images.cgames.de/images/gamestar/112/videoimage_6421030.jpg"
+    },
+    {
+      "guid": "https://www.gamestar.de/videos/star-trek-voyager-across-the-unknown-hat-jetzt-den-kultigen-kleinen-delta-flyer-der-1998-seinen-ersten-tv-auftritt-hatte,140916.html",
+      "title": "Star Trek: Voyager - Across the Unknown hat jetzt den kultigen kleinen Delta Flyer, der 1998 seinen ersten TV-Auftritt hatte",
+      "link": "https://www.gamestar.de/videos/star-trek-voyager-across-the-unknown-hat-jetzt-den-kultigen-kleinen-delta-flyer-der-1998-seinen-ersten-tv-auftritt-hatte,140916.html",
+      "pubDate": "Fri, 29 May 2026 14:33:00 GMT",
+      "contentSnippet": "Star Trek: Voyager - Across the Unknown hat sein Update 1.7 bekommen, und darin steckt ein kleiner Flieger, den Fans noch von früher kennen könnten. Der Delta Flyer kommt mit einer eigenen, neuen Questline in Sector 7. Außer dem neuen Gefährt erwrten euch auch Verbesserungen an UI und dem gesamten Spiel, das jetzt stabiler laufen soll. Alle Patch Notes findet ihr hier bei Steam.",
+      "thumbnail": "https://images.cgames.de/images/gamestar/112/videoimage_6421024.jpg"
+    },
+    {
+      "guid": "https://www.gamestar.de/videos/braucht-witcher-geralt-zum-ueberleben,140913.html",
+      "title": "Braucht Witcher Geralt zum Überleben?",
+      "link": "https://www.gamestar.de/videos/braucht-witcher-geralt-zum-ueberleben,140913.html",
+      "pubDate": "Fri, 29 May 2026 14:00:00 GMT",
+      "contentSnippet": "Ein elf Jahre altes Spiel bekommt 2027 ein neues Add-on – der Hype um The Witcher 3: Songs of the Past ist real! Nachdem die ersten Infos auf dem Tisch liegen, gehen wir heute in den Deep-Dive: Wir sprechen über den Elefanten im Raum. Hat CD Projekt RED Angst davor, Geralt von Riva in Rente zu schicken? Kann die Marke \"The Witcher\" ohne ihren mürrischen Helden überhaupt existieren und wie kann Ciri in Witcher 4 eine würdige Nachfolgerin werden?\r\n\r\nGemeinsam mit Lore-Experte Jesko und Witcher Liebhaberin Magdalena schauen wir außerdem in die Glaskugel und analysieren das erste Artwork. Welche Rolle könnte Rittersporn spielen? Ist das Königreich Cidaris ein guter möglicher Schauplatz? Und was hat es mit dem rätselhaften Baummonster und Geralts drittem Schwert auf sich?\r\n\r\n \r\n\r\nDas ist die Videoversion unseres GameStar Podcasts.\r\n- Alle Folgen des GameStar Podcasts\r\n- GameStar Podcast bei Apple Podcasts\r\n- GameStar Podcast bei Spotify\r\n- GameStar Podcast bei Podcast Addict\r\n- GameStar Podcast im RSS Feed\r\n\r\nMehr Videotalks findet ihr auf bei GameStar Talk – auch auf Youtube.\r\n\r\nWas ist GameStar Talk?\r\nGameStar Talk ist sozusagen die Videofassung des GameStar Podcasts und ein gemeinsames Angebot von GameStar, GamePro und MeinMMO. Wir wollen euch mit jedem Gespräch, mit jedem Video unterhalten und zugleich etwas Neues bieten: Neue Perspektiven, neue Einblicke, neues Wissen über Spiele und die Menschen, die sie entwickeln und spielen, sowie neue Seiten unserer Teammitglieder. Falls ihr Themenwünsche habt, dann schreibt sie gerne in die Kommentare!",
+      "thumbnail": "https://images.cgames.de/images/gamestar/112/videoimage_6420977.jpg"
+    },
+    {
+      "guid": "https://mein-mmo.de/?p=1391528",
+      "title": "Vulcan II TKL im Test: Schnörkellose Tastatur, aber faires Gesamtpaket für 100 Euro",
+      "link": "https://mein-mmo.de/turtle-beach-vulcan-ii-tkl-test-review/",
+      "pubDate": "Fri, 29 May 2026 13:53:51 +0000",
+      "contentSnippet": "Die Vulcan II TKL kostet rund 100 Euro und will mit linearen Switches und einigen zusätzlichen Features punkten.\nDer Beitrag Vulcan II TKL im Test: Schnörkellose Tastatur, aber faires Gesamtpaket für 100 Euro erschien zuerst auf Mein-MMO.",
+      "thumbnail": "https://images.mein-mmo.de/medien/2026/05/Titelbild-Turtle-Beach-Vulcan-II-Seitenansicht-1140x445.jpg"
     },
     {
       "guid": "https://mein-mmo.de/?p=1392245",
-      "title": "CoD: Modern Warfare 4 belebt alten Konflikt mit Fanliebling wieder, aber Fans meckern jetzt schon über den Multiplayer",
+      "title": "CoD: Modern Warfare 4 kommt mit Fanliebling zurück, aber Fans meckern jetzt schon",
       "link": "https://mein-mmo.de/cod-mw4-reaktionen-der-fans/",
-      "pubDate": "Fri, 29 May 2026 08:23:54 +0000",
-      "contentSnippet": "Die Fans reagieren mit gemischten Meinungen auf den neuen Trailer von Call of Duty: Modern Warfare 4. Sie befürchten alles kommt wie immer.\nDer Beitrag CoD: Modern Warfare 4 belebt alten Konflikt mit Fanliebling wieder, aber Fans meckern jetzt schon über den Multiplayer erschien zuerst auf Mein-MMO.",
+      "pubDate": "Fri, 29 May 2026 13:49:49 +0000",
+      "contentSnippet": "Die Fans reagieren mit gemischten Meinungen auf den neuen Trailer von Call of Duty: Modern Warfare 4. Sie befürchten alles kommt wie immer.\nDer Beitrag CoD: Modern Warfare 4 kommt mit Fanliebling zurück, aber Fans meckern jetzt schon erschien zuerst auf Mein-MMO.",
       "thumbnail": "https://images.mein-mmo.de/medien/2026/05/Neues-Projekt-2026-05-29T100814.513-1140x445.jpg"
-    },
-    {
-      "guid": "https://www.gamestar.de/artikel/the-witcher-3-neues-addon-was-wissen-wir,3452239.html",
-      "title": "Plus - The Witcher 3 - Songs of the Past - Zum neuen Addon hat CD Projekt schon deutlich mehr verraten, als ihr vielleicht denkt",
-      "link": "https://www.gamestar.de/artikel/the-witcher-3-neues-addon-was-wissen-wir,3452239.html",
-      "pubDate": "Fri, 29 May 2026 07:50:00 GMT",
-      "contentSnippet": "Nach einem Leak im eigenen Launcher hat CD Projekt die dritte Erweiterung für The Witcher 3 offiziell angekündigt. Witcher-Experte Jesko hat sich den Reveal genauer angeschaut und verrät euch alle verborgenen Details.",
-      "thumbnail": "https://images.cgames.de/images/gamestar/112/witcher-peat-dlc-teaser-gs_6420807.jpg"
-    },
-    {
-      "guid": "https://www.gamestar.de/artikel/acer-predator-atlas-8-handheld-intel-chip,3453740.html",
-      "title": "Handhelds - Neue Konkurrenz für das Steam Deck: Bekannter Hersteller liefert beeindruckende Hardware und einen völlig neuen Chip",
-      "link": "https://www.gamestar.de/artikel/acer-predator-atlas-8-handheld-intel-chip,3453740.html",
-      "pubDate": "Fri, 29 May 2026 07:34:00 GMT",
-      "contentSnippet": "Nach mehreren Versuchen wagt Acer mit dem neuen Predator Atlas 8 im Herbst 2026 einen weiteren Angriff auf den Handheldmarkt.",
-      "thumbnail": "https://images.cgames.de/images/gamestar/112/acer-predator-atlas-8_6420859.jpg"
-    },
-    {
-      "guid": "https://mein-mmo.de/?p=1392215",
-      "title": "Subnautica 2 feiert Happy End: Starke Verkaufszahlen zwingen Publisher wohl zur Erfolgsprämie in Höhe von 250 Millionen Dollar",
-      "link": "https://mein-mmo.de/subnautica-2-erfolgspraemie-250-millionen-dollar-gesichert/",
-      "pubDate": "Fri, 29 May 2026 07:11:39 +0000",
-      "contentSnippet": "Nach einer turbulenten Entwicklung und einigem Ärger scheint Subnautica 2 auf ein großes Happy End zuzusteuern. \nDer Beitrag Subnautica 2 feiert Happy End: Starke Verkaufszahlen zwingen Publisher wohl zur Erfolgsprämie in Höhe von 250 Millionen Dollar erschien zuerst auf Mein-MMO.",
-      "thumbnail": "https://images.mein-mmo.de/medien/2026/05/Subnautica-2-Entwickler-dankt-Fans-1140x445.jpg"
-    },
-    {
-      "guid": "https://www.gamestar.de/videos/acer-predator-atlas-8-so-sieht-der-erste-handheld-mit-dem-neuen-intel-chip-aus,140898.html",
-      "title": "Acer Predator Atlas 8: So sieht der erste Handheld mit dem neuen Intel-Chip aus",
-      "link": "https://www.gamestar.de/videos/acer-predator-atlas-8-so-sieht-der-erste-handheld-mit-dem-neuen-intel-chip-aus,140898.html",
-      "pubDate": "Fri, 29 May 2026 07:08:00 GMT",
-      "contentSnippet": "Mit einem Trailer hat der Hardware-Hersteller Acer den neuen Predator Atlas 8 vorgestellt. Der Handheld soll im Oktober 2026 auf den Markt kommen.\r\n\r\nBisher ist es Acer noch nicht gelungen, sich auf dem Handheld-Markt einen Namen zu machen. Mit dem Predator Atlas 8 soll sich das im Herbst 2026 ändern. Als einer der ersten Handhelds setzt er auf die neuen Intel Arc G3 und Arc G3 Extreme.\r\n\r\nDie wichtigsten Infos:\r\n\r\n- Display: 8 Zoll, 1920 x 1200, 16:10, 120Hz\r\n- CPU: Intel Arc G3 oder Arc G3 Extreme\r\n- Grafik: Intel Arc B390 oder Arc B370\r\n- RAM: Bis zu 24 GB LPDDR5x\r\n- OS: Windows 11 Home\r\n- Akku: Bis zu 80 Wh\r\n\r\nZu den Preisen und den Ausstattungen hat Acer bisher noch keine Angaben gemacht. Die aktuell besten PC-Handhelds stellen wir euch in unserer Kaufberatung vor.",
-      "thumbnail": "https://images.cgames.de/images/gamestar/112/videoimage_6420858.jpg"
-    },
-    {
-      "guid": "https://www.gamestar.de/artikel/the-witcher-autor-videospiele-cd-projekt,3404521.html",
-      "title": "»Nicht unterhaltsam« - Witcher-Autor hat eine klare Meinung zu Videospielen [Best of GameStar]",
-      "link": "https://www.gamestar.de/artikel/the-witcher-autor-videospiele-cd-projekt,3404521.html",
-      "pubDate": "Fri, 29 May 2026 05:17:00 GMT",
-      "contentSnippet": "Andrezj Sapkowski zeigt weiterhin kein Interesse an den populären Spiele-Adaptionen seiner Werke aus dem Hause CD Projekt.",
-      "thumbnail": "https://images.cgames.de/images/gamestar/112/the-witcher-andrezj-sapkowski-spiele_6264308.jpg"
-    },
-    {
-      "guid": "https://www.gamestar.de/artikel/moerk-borg-pc-spiel-im-steam-early-access,3453695.html",
-      "title": "Mörk Borg - Eine finstere D&D-Alternative wurde in ein PC-Spiel verwandelt - und laut Steam-Reviews ist das schon im Early Access ziemlich gut ",
-      "link": "https://www.gamestar.de/artikel/moerk-borg-pc-spiel-im-steam-early-access,3453695.html",
-      "pubDate": "Fri, 29 May 2026 04:21:00 GMT",
-      "contentSnippet": "Mörk Borg kennt ihr vielleicht als kultiges Pen&Paper-Rollenspiel. Jetzt gibt es mit Heresy Supreme auch eine digitale Singleplayer-Version.",
-      "thumbnail": "https://images.cgames.de/images/gamestar/112/heresy-supreme_6420708.jpg"
-    },
-    {
-      "guid": "https://www.gamestar.de/videos/zu-99-prozent-positiv-als-eine-der-besten-marvel-serien-kuendigt-x-men-97-im-trailer-zu-staffel-2-ihre-rueckkehr-an,140891.html",
-      "title": "Zu 99 Prozent positiv: Als eine der besten Marvel-Serien kündigt X-Men '97 im Trailer zu Staffel 2 ihre Rückkehr an",
-      "link": "https://www.gamestar.de/videos/zu-99-prozent-positiv-als-eine-der-besten-marvel-serien-kuendigt-x-men-97-im-trailer-zu-staffel-2-ihre-rueckkehr-an,140891.html",
-      "pubDate": "Fri, 29 May 2026 04:17:00 GMT",
-      "contentSnippet": "Über Marvel wird ja gerne mal gemeckert. Vor allem über die vielen Filme und TV-Serien, die in der Zeit nach Avengers: Endgame nicht so recht zünden wollen. Was wir dabei aber nicht vergessen dürfen: Das MCU hat in den letzten Jahren auch ein paar echte Highlights herausgebracht! So zum Beispiel Guardians of the Galaxy Vol. 3, Thunderbolts, Loki, Daredevil: Born Again oder Wonder Man. Und auch: X-Men '97. \r\n\r\nDabei handelt es sich um ein regelrechtes Nostalgie-Feuerwerk. Denn die Animationsserie ist ganz im Stil des 90er-Jahre-Cartoons gehalten. Nicht nur das: Die Story und die Charakterzeichnung in X-Men '97 knallt ordentlich! Das spiegelt sich auch in den richtig euphorischen Wertungen etwa bei Rotten Tomatoes oder IMDb wieder. \r\n\r\nJetzt ist der erste Trailer zu Staffel 2 von X-Men '97 aufgeschlagen. Am 1. Juli 2026 geht es bei Disney Plus los.",
-      "thumbnail": "https://images.cgames.de/images/gamestar/112/videoimage_6420801.jpg"
-    },
-    {
-      "guid": "https://www.gamestar.de/artikel/hunt-showdown-road-to-hell-event-reaktionen,3453722.html",
-      "title": "Hunt: Showdown - Crytek bringt das erste MG raus und es passt trotzdem ins Setting: »Könnte das bisher beste Update werden, gute Arbeit!«",
-      "link": "https://www.gamestar.de/artikel/hunt-showdown-road-to-hell-event-reaktionen,3453722.html",
-      "pubDate": "Thu, 28 May 2026 19:04:00 GMT",
-      "contentSnippet": "Am 09. Juni startet in Cryteks Extraction-Shooter das neue Event Road to Hell. Dafür haben die Entwickler unter anderem das erste richtige MG in Hunt angekündigt - und die Community ist aus dem Häuschen.",
-      "thumbnail": "https://images.cgames.de/images/gamestar/112/hunt-showdown_6420802.jpg"
-    },
-    {
-      "guid": "https://www.gamestar.de/artikel/windows-11-cpu-boost-update,3453687.html",
-      "title": "Windows 11 - Windows 11 bekommt einen CPU-Boost, der Apps schneller startet als bisher",
-      "link": "https://www.gamestar.de/artikel/windows-11-cpu-boost-update,3453687.html",
-      "pubDate": "Thu, 28 May 2026 16:32:00 GMT",
-      "contentSnippet": "Ein neues Windows-Update verspricht einen ordentlichen Performance-Boost.",
-      "thumbnail": "https://images.cgames.de/images/gamestar/112/windows-11_6378230.jpg"
     }
   ]
 }
