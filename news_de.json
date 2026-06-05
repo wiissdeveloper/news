@@ -1,101 +1,101 @@
 {
-  "date": "2026-06-04",
+  "date": "2026-06-05",
   "notices": [
     {
-      "guid": "https://mein-mmo.de/?p=1392813",
-      "title": "4 Gründe, warum euch das größte neue MMORPG 2026 trotz einiger Stärken enttäuschen könnte",
-      "link": "https://mein-mmo.de/honor-of-kings-world-gruende-fuer-moegliche-enttaeuschung/",
-      "pubDate": "Thu, 04 Jun 2026 08:51:45 +0000",
-      "contentSnippet": "Wir haben Honor of Kings: World gespielt und verraten euch, welche Bereiche uns nicht so gut gefallen haben.\nDer Beitrag 4 Gründe, warum euch das größte neue MMORPG 2026 trotz einiger Stärken enttäuschen könnte erschien zuerst auf Mein-MMO.",
-      "thumbnail": "https://images.mein-mmo.de/medien/2026/06/Honor-of-Kings-World-Schwaechen-1140x445.jpg"
+      "guid": "https://mein-mmo.de/?p=1394008",
+      "title": "Summer Game Fest 2026 startet heute Nacht: Alles zu Uhrzeit, Spielen und Leaks im Live-Ticker",
+      "link": "https://mein-mmo.de/summer-game-fest-2026-live-ticker/",
+      "pubDate": "Fri, 05 Jun 2026 08:36:23 +0000",
+      "contentSnippet": "Summer Game Fest 2026 startet in wenigen Stunden. Alles wichtige zur Uhrzeit, Spielen und Gerüchte, findet ihr hier im Live-Ticker.\nDer Beitrag Summer Game Fest 2026 startet heute Nacht: Alles zu Uhrzeit, Spielen und Leaks im Live-Ticker erschien zuerst auf Mein-MMO.",
+      "thumbnail": "https://images.mein-mmo.de/medien/2026/06/SGF-2026-Titelbild-Ticker-1140x445.jpg"
     },
     {
-      "guid": "https://mein-mmo.de/?p=1393845",
-      "title": "Neues MMORPG auf Steam erinnert an die großen Klassiker, erreicht auf Kickstarter bereits an Tag 1 das Minimalziel",
-      "link": "https://mein-mmo.de/spiritvale-mmorpg-steam-kickstarter-start/",
-      "pubDate": "Thu, 04 Jun 2026 08:43:36 +0000",
-      "contentSnippet": "SpiritVale soll auf Steam die Tugenden alter MMORPG-Klassiker wiederbeleben und sammelt dafür derzeit Geld ein. Der Plan geht auf.\nDer Beitrag Neues MMORPG auf Steam erinnert an die großen Klassiker, erreicht auf Kickstarter bereits an Tag 1 das Minimalziel erschien zuerst auf Mein-MMO.",
-      "thumbnail": "https://images.mein-mmo.de/medien/2026/06/SpiritVale-Aufmacher-final-1140x445.jpg"
+      "guid": "https://www.gamestar.de/videos/ace-combat-8-vorschau-video-das-action-spektakel-ist-die-schoenste-lueges-des-jahres,141006.html",
+      "title": "Ace Combat 8 - Vorschau-Video: Das Action-Spektakel ist die schönste Lüges des Jahres!",
+      "link": "https://www.gamestar.de/videos/ace-combat-8-vorschau-video-das-action-spektakel-ist-die-schoenste-lueges-des-jahres,141006.html",
+      "pubDate": "Fri, 05 Jun 2026 08:21:00 GMT",
+      "contentSnippet": "Am 2. Oktober 2026 kommt Ace Combat 8: Wings of Theve für PC, PS5 und Xbox Series raus und wir haben bereits sieben Missionen aus der PC-Version ausprobiert. Im Vorschau-Video zeigen wir Gameplay aus drei Einsätzen und fassen zusammen, worum es in der neuen Action-Flugsimulation geht und welche Neuerungen der neue Serienteil liefert.\r\n\r\nUnser Video-Redakteur Christian Fritz Schneider spricht im Video zudem an, wie man die Grafik vom Vorgänger Ace Combat 7 auf dem PC noch verbessern kann. Wenn ihr das selbst machen wollt, müsst ihr nur die Datei \"Engine.ini\" im (womöglich versteckten) Ordner \"C:\\Users\\EUER NUTZERNAME/AppData/Local/BANDAI NAMCO Entertainment/ACE COMBAT 7/Config\" öffnen. Der USER-Ordner heißt bei euch vielleicht \"Benutzer\".\r\n\r\nIn der Datei ergänzt ihr dann die folgenden Zeilen:\r\n\r\n[/script/engine.renderersettings]\r\n\r\nr.ViewDistanceScale=10\r\n\r\nr.SkeletalMeshLODBias=-2\r\n\r\nr.StaticMeshLODDistanceScale=0.1\r\n\r\nr.Streaming.HLODStrategy=2\r\n\r\n \r\n\r\nDamit sollten Objekte am Boden, beispielsweise Bäume deutlich weiter weg dargestellt.",
+      "thumbnail": "https://images.cgames.de/images/gamestar/112/videoimage_6421938.jpg"
     },
     {
-      "guid": "https://www.gamestar.de/artikel/spielfilm-in-ps1-optik,3453878.html",
-      "title": "Kinofilm in PS2-Optik - Sieht aus wie GTA: Vice City und das ist pure Absicht - ein neuer Film könnte geradezu auf der PS2 laufen und wurde nur mit einem iPhone gedreht",
-      "link": "https://www.gamestar.de/artikel/spielfilm-in-ps1-optik,3453878.html",
-      "pubDate": "Thu, 04 Jun 2026 08:26:00 GMT",
-      "contentSnippet": "Bei den Filmfestspielen von Cannes feierte kürzlich ein besonderer Film seine Premiere. Le Vertige wurde komplett mit der 3D-Animationssoftware Blender erstellt und sieht aus, wie ein PS2-Spiel.",
-      "thumbnail": "https://images.cgames.de/images/gamestar/112/le-vertige-film-teaser-gs_6421282.jpg"
+      "guid": "https://www.gamestar.de/artikel/valve-steam-machine-release-fenster,3454061.html",
+      "title": "Steam Machine - Release-Fenster steht fest – das größte Fragezeichen bleibt",
+      "link": "https://www.gamestar.de/artikel/valve-steam-machine-release-fenster,3454061.html",
+      "pubDate": "Fri, 05 Jun 2026 07:07:00 GMT",
+      "contentSnippet": "Valve plant, die Steam Machine im Sommer auf den Markt zu bringen.",
+      "thumbnail": "https://images.cgames.de/images/gamestar/112/steam-machine-euro_6406521.jpg"
     },
     {
-      "guid": "https://mein-mmo.de/?p=1393860",
-      "title": "WoW: Neuer Patch erscheint in wenigen Tagen, aber es gibt Time Gating",
-      "link": "https://mein-mmo.de/wow-patch-1207-time-gating/",
-      "pubDate": "Thu, 04 Jun 2026 08:16:38 +0000",
-      "contentSnippet": "Das nächste Update für World of Warcraft ist schon fast da. Doch bis alle Inhalte spielbar sind, vergehen noch Wochen.\nDer Beitrag WoW: Neuer Patch erscheint in wenigen Tagen, aber es gibt Time Gating erschien zuerst auf Mein-MMO.",
-      "thumbnail": "https://images.mein-mmo.de/medien/2026/06/WoW-Troll-and-Haranir-titel-title-1280x720-1-1140x445.jpg"
+      "guid": "https://www.gamestar.de/artikel/james-bond-007-first-light-nachfolger-von-amazon,3454037.html",
+      "title": "James Bond - Nach dem gewaltigen Erfolg von 007 First Light will Amazon jetzt auch selbst beim Nachfolger mitmischen",
+      "link": "https://www.gamestar.de/artikel/james-bond-007-first-light-nachfolger-von-amazon,3454037.html",
+      "pubDate": "Fri, 05 Jun 2026 07:03:00 GMT",
+      "contentSnippet": "Das Bond-Spiel von IO Interactive erreichte seine Meilensteine in rasanter Geschwindigkeit und der Chef von Amazon Games hat schon Ideen für die Zukunft.",
+      "thumbnail": "https://images.cgames.de/images/gamestar/112/007-first-light-amazon_6421888.jpg"
     },
     {
-      "guid": "https://mein-mmo.de/?p=1393835",
-      "title": "Warhammer 40.000 hat ein neues, „perfektes“ Spiel auf Steam und ihr könnt die Demo jetzt spielen",
-      "link": "https://mein-mmo.de/warhammer-survivors-demo-steam/",
-      "pubDate": "Thu, 04 Jun 2026 07:34:52 +0000",
-      "contentSnippet": "Warhammer Survivors soll noch in diesem Jahr auf Steam seine Premiere feiern. Jetzt könnt ihr erstmals reinspielen.\nDer Beitrag Warhammer 40.000 hat ein neues, „perfektes“ Spiel auf Steam und ihr könnt die Demo jetzt spielen erschien zuerst auf Mein-MMO.",
-      "thumbnail": "https://images.mein-mmo.de/medien/2025/01/Warhammer-40k-Space-MArine-2-Titus-irres-grinsen-Titel-1140x445.jpg"
+      "guid": "https://mein-mmo.de/?p=1394003",
+      "title": "MMORPG-Klassiker erhöht für Deutschland einfach so die Preise, Fans fallen aus allen Wolken",
+      "link": "https://mein-mmo.de/ultima-online-abo-preis-erhoehung/",
+      "pubDate": "Fri, 05 Jun 2026 06:46:26 +0000",
+      "contentSnippet": "Was tun, wenn das Lieblings-MMORPG, für das man mehrere Accounts besitzt, ohne Ankündigung die Abo-Preise drastisch erhöht?\nDer Beitrag MMORPG-Klassiker erhöht für Deutschland einfach so die Preise, Fans fallen aus allen Wolken erschien zuerst auf Mein-MMO.",
+      "thumbnail": "https://images.mein-mmo.de/medien/2020/08/Ultima-Online-Necromancer-Neu-1140x445.jpg"
     },
     {
-      "guid": "https://www.gamestar.de/artikel/steam-counter-strike-2-skin-crash,3448657.html",
-      "title": "Counter-Strike 2 - Als Steam 2025 ein Update veröffentlichte, gingen Milliarden US-Dollar und die Ersparnisse zahlloser Spieler in Rauch auf",
-      "link": "https://www.gamestar.de/artikel/steam-counter-strike-2-skin-crash,3448657.html",
-      "pubDate": "Thu, 04 Jun 2026 07:22:00 GMT",
-      "contentSnippet": "Seltene Skins für Counter-Strike 2 werden auf Steam und bei Drittanbietern für Unsummen gehandelt. Mit einer Regeländerung sorgte Valve 2025 aber für einen massiven Wertverlust.",
-      "thumbnail": "https://images.cgames.de/images/gamestar/112/steam-skin-crash-cs2_6403912.jpg"
+      "guid": "https://www.gamestar.de/artikel/barbarella-remake-2027-sydney-sweeney-edgar-wright,3413234.html",
+      "title": "Barbarella - Der erotische Sci-Fi-Klassiker wird nach 58 Jahren neu verfilmt - von einem echten Kult-Regisseur [Best of GameStar]",
+      "link": "https://www.gamestar.de/artikel/barbarella-remake-2027-sydney-sweeney-edgar-wright,3413234.html",
+      "pubDate": "Fri, 05 Jun 2026 06:02:00 GMT",
+      "contentSnippet": "Erinnert ihr euch noch an Barbarella aus dem Jahr 1968? Der Sci-Fi-Kultfilm bekommt ein Remake spendiert. Mit Sydney Sweeney und Regisseur Edgar Wright.",
+      "thumbnail": "https://images.cgames.de/images/gamestar/112/barbarella_6290501.jpg"
     },
     {
-      "guid": "https://mein-mmo.de/?p=1393809",
-      "title": "Trainer feiert Erfolg in Pokémon GO, von dem viele Spieler aus Städten nur träumen können",
-      "link": "https://mein-mmo.de/pokemon-go-showcase-gewinner/",
-      "pubDate": "Thu, 04 Jun 2026 06:52:51 +0000",
-      "contentSnippet": "Es gibt einen Wettbewerb in Pokémon GO, bei dem Spieler aus dörflichen Regionen im Vorteil sind. Und zu diesen hat die Community eine klare Meinung.\nDer Beitrag Trainer feiert Erfolg in Pokémon GO, von dem viele Spieler aus Städten nur träumen können erschien zuerst auf Mein-MMO.",
-      "thumbnail": "https://images.mein-mmo.de/medien/2026/06/Pokemon-GO-Showcase-Gewinner-1140x445.jpg"
+      "guid": "https://www.gamestar.de/artikel/vor-24-jahren-haette-ein-legendaeres-james-bond-spiel-um-ein-haar-verhindert-dass-es-call-of-duty-wie-wirs-kennen-ueberhaupt-je-gegeben-haette,3451375.html",
+      "title": "Plus - Call of Duty - Vor 24 Jahren hat ein legendäres James-Bond-Spiel beinahe verhindert, dass Call of Duty wie wir es kennen überhaupt existiert",
+      "link": "https://www.gamestar.de/artikel/vor-24-jahren-haette-ein-legendaeres-james-bond-spiel-um-ein-haar-verhindert-dass-es-call-of-duty-wie-wirs-kennen-ueberhaupt-je-gegeben-haette,3451375.html",
+      "pubDate": "Thu, 04 Jun 2026 13:45:00 GMT",
+      "contentSnippet": "CoD-Schöpfer Vince Zampella und Jason West hätten beinahe an einem James-Bond-Spiel gebaut, statt die Grundsteine für die Shooter-Reihe zu legen.",
+      "thumbnail": "https://images.cgames.de/images/gamestar/112/007-cod_6413022.jpg"
     },
     {
-      "guid": "https://mein-mmo.de/?p=1393810",
-      "title": "Kündigt ArenaNet morgen Guild Wars 3 an? Vorfreude der Fans schießt nach offiziellem Teaser in die Höhe",
-      "link": "https://mein-mmo.de/guild-wars-3-ankuendigung-summer-game-fest-2026/",
-      "pubDate": "Thu, 04 Jun 2026 06:36:30 +0000",
-      "contentSnippet": "Die Entwickler von Guild Wars teasern für das Summer Game Fest eine große Ankündigung an, das kann doch nur ...\nDer Beitrag Kündigt ArenaNet morgen Guild Wars 3 an? Vorfreude der Fans schießt nach offiziellem Teaser in die Höhe erschien zuerst auf Mein-MMO.",
-      "thumbnail": "https://images.mein-mmo.de/medien/2026/06/Guild-Wars-3-Ankuendigung-Teaser-1140x445.jpg"
+      "guid": "https://www.gamestar.de/videos/clutch-ehemalige-forza-entwickler-kommen-ploetzlich-mit-einem-brandneuen-rennspiel-um-die-ecke-gedonnert-und-das-sieht-richtig-gut-aus,141004.html",
+      "title": "Clutch: Ehemalige Forza-Entwickler kommen plötzlich mit einem brandneuen Rennspiel um die Ecke gedonnert und das sieht richtig gut aus",
+      "link": "https://www.gamestar.de/videos/clutch-ehemalige-forza-entwickler-kommen-ploetzlich-mit-einem-brandneuen-rennspiel-um-die-ecke-gedonnert-und-das-sieht-richtig-gut-aus,141004.html",
+      "pubDate": "Thu, 04 Jun 2026 12:07:00 GMT",
+      "contentSnippet": "Hinter Maverick Games stecken unter anderem sechs ehemalige Entwickler von Playground Games, dem Studio, das die Forza-Horizon-Reihe entwickelt. Creative Director Mike Brown führt uns in dem Ankündigungsvideo zum ersten Maverick-Spiel durch die Studiobüros und präsentiert Clutch, welches das Team die letzten Jahre liebevoll zusammengeschustert hat.\r\n\r\nClutch soll mehr als eine Rennsimulation werden und die Menschen hinter dem Lenker ins Zentrum rücken. Es erzählt die Geschichte zweier Geschwister, die auf der Straße hoch hinaus wollen. Die beiden nehmen am R1K teil, einem prestigeträchtigen Wettkampf, bei dem man nur gegen die besten Fahrer antritt.\r\n\r\nClutch basiert auf einer modifierten Version der Unreal Engine 5, die einen sehr hohen Detailgrad für die Fahrzeuge ermöglicht, bei dem auch Abnutzung, Dreck und sonstige Kratzer im Lack sichtbar werden.\r\n\r\nEinen kompletten Trailer für Clutch soll es im Rahmen des Summer Game Fest am 5. Juni geben. Dann gibt es vermutlich auch mehr Details zum Release. Wir halten euch auf GameStar.de auf dem Laufenden.",
+      "thumbnail": "https://images.cgames.de/images/gamestar/112/videoimage_6421908.jpg"
     },
     {
-      "guid": "https://mein-mmo.de/?p=1393204",
-      "title": "Die 10 mächtigsten Drachen aus dem Universum von Game of Thrones im Ranking – Wer ist der Herrscher der Lüfte?",
-      "link": "https://mein-mmo.de/game-of-thrones-drachen-ranking/",
-      "pubDate": "Thu, 04 Jun 2026 06:30:00 +0000",
-      "contentSnippet": "In der Geschichte von Game of Thrones gab es viele Drachen. Doch welche feuerspeiende Kreatur war am mächtigsten? \nDer Beitrag Die 10 mächtigsten Drachen aus dem Universum von Game of Thrones im Ranking – Wer ist der Herrscher der Lüfte? erschien zuerst auf Mein-MMO.",
-      "thumbnail": "https://images.mein-mmo.de/medien/2026/06/titel-1140x445.jpg"
+      "guid": "https://www.gamestar.de/artikel/mail-newsletter-abmelden-cyberkriminelle-2026,3435378.html",
+      "title": "E-Mail Sicherheit - Seit Jahren klicken wir gedankenlos auf »Abmelden« in E-Mails – genau darauf warten Cyberkriminelle [Best of GameStar]",
+      "link": "https://www.gamestar.de/artikel/mail-newsletter-abmelden-cyberkriminelle-2026,3435378.html",
+      "pubDate": "Thu, 04 Jun 2026 12:00:00 GMT",
+      "contentSnippet": "Beim Abmelden von Spam und Newslettern ist Vorsicht geboten.",
+      "thumbnail": "https://images.cgames.de/images/gamestar/112/abmelden-button-gefaehrlich-teaser-quelle-xataka_6361573.jpg"
     },
     {
-      "guid": "https://www.gamestar.de/videos/endlich-schluss-mit-hardware-duerre-das-steckt-hinter-den-neuen-grafikkarten-handhelds-und-der-nvidia-cpu,140992.html",
-      "title": "Endlich Schluss mit Hardware-Dürre! Das steckt hinter den neuen Grafikkarten, Handhelds und der Nvidia-CPU",
-      "link": "https://www.gamestar.de/videos/endlich-schluss-mit-hardware-duerre-das-steckt-hinter-den-neuen-grafikkarten-handhelds-und-der-nvidia-cpu,140992.html",
-      "pubDate": "Thu, 04 Jun 2026 06:00:00 GMT",
-      "contentSnippet": "Die Hardware-Dürre ist endlich vorbei! Auf der Computex 2026 gabe es endlich neue Hardware für Spieler – und ads nicht zu knapp: Nvidia bricht mit dem brandneuen Spark-SoC in neue Gefilde auf und will damit sogar erfahrene Spieler überzeugen, während AMD mit der RX 9070 GRE neues Futter für Grafikkarten-Fans liefert. Als wäre das nicht genug, wurden auch noch direkt fünf neue Handhelds angekündigt, die den Markt stark aufmischen dürften.\r\n\r\nIn unserem großen Computex-Recap knöpfen sich die GameStar-Hardware-Editoren Jan und Nils zusammen mit unserem Handheld-Experten Linh die spannendsten Ankündigungen der Messe vor.\r\n\r\nDie drei diskutieren im Talk, ob Nvidias neuer Chip Konkurrenz das Fürchten lehrt, für wen sich AMDs neue Desktop-Grafikkarte wirklich lohnt und auf welches der fünf neuen Gaming-Gadgets ihr euch am meisten freuen könnt.\r\n\r\nSchnappt euch ein Spaßgetränk und diskutiert mit uns in den Kommentaren: Welche Ankündigung war euer persönliches Highlight?\r\n\r\nDas ist die Videoversion unseres GameStar Podcasts.\r\n- Alle Folgen des GameStar Podcasts\r\n- GameStar Podcast bei Apple Podcasts\r\n- GameStar Podcast bei Spotify\r\n- GameStar Podcast bei Podcast Addict\r\n- GameStar Podcast im RSS Feed\r\n\r\nMehr Videotalks findet ihr auf bei GameStar Talk – auch auf Youtube.\r\n\r\nWas ist GameStar Talk?\r\nGameStar Talk ist sozusagen die Videofassung des GameStar Podcasts und ein gemeinsames Angebot von GameStar, GamePro und MeinMMO. Wir wollen euch mit jedem Gespräch, mit jedem Video unterhalten und zugleich etwas Neues bieten: Neue Perspektiven, neue Einblicke, neues Wissen über Spiele und die Menschen, die sie entwickeln und spielen, sowie neue Seiten unserer Teammitglieder. Falls ihr Themenwünsche habt, dann schreibt sie gerne in die Kommentare!",
-      "thumbnail": "https://images.cgames.de/images/gamestar/112/videoimage_6421843.jpg"
+      "guid": "https://www.gamestar.de/artikel/warhammer-illustrator-john-blanche-verstorben,3454043.html",
+      "title": "John Blanche verstorben - ⁠Jeder Warhammer-Fan kennt seine Bilder: Fantasy-Illustrator im Alter von 77 Jahren verstorben",
+      "link": "https://www.gamestar.de/artikel/warhammer-illustrator-john-blanche-verstorben,3454043.html",
+      "pubDate": "Thu, 04 Jun 2026 11:14:00 GMT",
+      "contentSnippet": "Der britische Künstler arbeitete seit den 70ern für den Fantasy-Verlag Games Workshop und prägte den Stil von Warhammer nachhaltig.",
+      "thumbnail": "https://images.cgames.de/images/gamestar/112/warhammer-john-blanche-tot_6421897.jpg"
     },
     {
-      "guid": "https://www.gamestar.de/artikel/dungeons-and-dragons-charaktere,3446449.html",
-      "title": "Dungeons & Dragons - Spieler rechnet aus: Ihr könnt statistisch 1.024.651.689.984 unterschiedliche Charaktere spielen",
-      "link": "https://www.gamestar.de/artikel/dungeons-and-dragons-charaktere,3446449.html",
-      "pubDate": "Thu, 04 Jun 2026 03:47:00 GMT",
-      "contentSnippet": "Ein Reddit-Nutzer hat sich der mathematischen Herausforderung gestellt, alle möglichen Charakter-Kombinationen in Dungeons & Dragons 5th Edition zu berechnen.",
-      "thumbnail": "https://images.cgames.de/images/gamestar/112/bg3_6397273.jpg"
+      "guid": "https://www.gamestar.de/videos/die-gilde-europa-1410-hat-einen-release-termin-allerdings-erst-einmal-nur-im-early-access,141002.html",
+      "title": "Die Gilde: Europa 1410 hat einen Release-Termin! Allerdings erst einmal nur im Early Access",
+      "link": "https://www.gamestar.de/videos/die-gilde-europa-1410-hat-einen-release-termin-allerdings-erst-einmal-nur-im-early-access,141002.html",
+      "pubDate": "Thu, 04 Jun 2026 09:05:00 GMT",
+      "contentSnippet": "Nachdem Die Gilde 3 jahrelang im Early Access steckenblieb, sollte Die Gilde: Europa 1410 eigentlich direkt als vollwertiges Spiel erscheinen. Nun erscheint das Spiel ebenfalls erstmal als EA-Version und das schon am 16. Juli 2026. Der Trailer stimmt auf die Wirtschaftssimulation ein, in der ihr innerhalb einer mittelalterlichen Stadt eure Familie an die Spitze setzt. Egal ob durch Handel, Betrug oder Politik. Oder alles auf einmal.",
+      "thumbnail": "https://images.cgames.de/images/gamestar/112/videoimage_6421896.jpg"
     },
     {
-      "guid": "https://www.gamestar.de/videos/es-brennt-und-niemanden-kuemmerts-dafuer-ruckelt-es-gnadenlos-gameplay-aus-der-demo-von-age-after-age,140994.html",
-      "title": "Es brennt und niemanden kümmert's, dafür ruckelt es gnadenlos - Gameplay aus der Demo von Age After Age",
-      "link": "https://www.gamestar.de/videos/es-brennt-und-niemanden-kuemmerts-dafuer-ruckelt-es-gnadenlos-gameplay-aus-der-demo-von-age-after-age,140994.html",
-      "pubDate": "Thu, 04 Jun 2026 03:00:00 GMT",
-      "contentSnippet": "In Age After Age besiedelt ihr ein wenig wie in Anno eine Insel und vergrößert sukzessive eure Siedlung. Dabei müsst ihr für Baumaterial, Nahrung und weitere Waren sorgen. Über Forschung, Entdeckung und laut Spielbeschreibung auch Diplomatie, Handel, Gesetze und Richtlinien sollt ihr dann eure Siedlung zu wahrer Größe führen können.\r\n\r\nAußerdem bestimmt ihr durch eure Entscheidungen, in welche kommenden Zeitalter ihr vorrückt, etwa in eine Steampunk-Ära oder in eine industrielle Epoche. Das bleibt allerdings alles erstmal Theorie, die Demo zeigt nur einen Ausschnitt aus dem Basis-Gameplay. Und das ist gar nicht mal so gut, wie ihr auch im Video seht. Die Inszenierung reagiert nicht auf den Großbrand, genausowenig wie unsere Feuerwehr. Und zu allem Überfluss kommen noch große technische Probleme dazu. Das Spiel ruckelt sichtbar.\r\n\r\nWenn ihr noch mehr über Age After Age wissen wollt, schaut bei unserer Preview vorbei.",
-      "thumbnail": "https://images.cgames.de/images/gamestar/112/videoimage_6421782.jpg"
+      "guid": "https://www.gamestar.de/artikel/quickshare-airdrop-android-update,3454038.html",
+      "title": "Android - Urlaubsfotos einfacher teilen zwischen iPhone und Android: Google bringt die AirDrop-Unterstützung auf viele weitere Android-Smartphones",
+      "link": "https://www.gamestar.de/artikel/quickshare-airdrop-android-update,3454038.html",
+      "pubDate": "Thu, 04 Jun 2026 09:00:00 GMT",
+      "contentSnippet": "Google weitet mit dem Juni-Update für Android die Unterstützung von Quick Share und AirDrop weiter aus.",
+      "thumbnail": "https://images.cgames.de/images/gamestar/112/quick-share-teaser_6421894.jpg"
     }
   ]
 }
