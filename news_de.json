@@ -1,101 +1,101 @@
 {
-  "date": "2026-06-05",
+  "date": "2026-06-06",
   "notices": [
     {
-      "guid": "https://mein-mmo.de/?p=1394008",
-      "title": "Summer Game Fest 2026 startet heute Nacht: Alles zu Uhrzeit, Spielen und Leaks im Live-Ticker",
-      "link": "https://mein-mmo.de/summer-game-fest-2026-live-ticker/",
-      "pubDate": "Fri, 05 Jun 2026 08:36:23 +0000",
-      "contentSnippet": "Summer Game Fest 2026 startet in wenigen Stunden. Alles wichtige zur Uhrzeit, Spielen und Gerüchte, findet ihr hier im Live-Ticker.\nDer Beitrag Summer Game Fest 2026 startet heute Nacht: Alles zu Uhrzeit, Spielen und Leaks im Live-Ticker erschien zuerst auf Mein-MMO.",
-      "thumbnail": "https://images.mein-mmo.de/medien/2026/06/SGF-2026-Titelbild-Ticker-1140x445.jpg"
+      "guid": "https://mein-mmo.de/?p=1393675",
+      "title": "Der Sommer 2026 ist der perfekte Zeitpunkt, um einen der besten Loot-Shooter des vergangenen Jahrzehnts zu grinden",
+      "link": "https://mein-mmo.de/das-spielen-wir-am-wochenende-dariusz-the-division-2/",
+      "pubDate": "Sat, 06 Jun 2026 08:00:00 +0000",
+      "contentSnippet": "Willkommen beim MeinMMO-Format „Das spielen wir an diesem Wochenende“: Dariusz freut sich auf den Grind eines alten Bekannten.\nDer Beitrag Der Sommer 2026 ist der perfekte Zeitpunkt, um einen der besten Loot-Shooter des vergangenen Jahrzehnts zu grinden erschien zuerst auf Mein-MMO.",
+      "thumbnail": "https://images.mein-mmo.de/medien/2026/06/Dariusz-The-Division-2-1140x445.jpg"
     },
     {
-      "guid": "https://www.gamestar.de/videos/ace-combat-8-vorschau-video-das-action-spektakel-ist-die-schoenste-lueges-des-jahres,141006.html",
-      "title": "Ace Combat 8 - Vorschau-Video: Das Action-Spektakel ist die schönste Lüges des Jahres!",
-      "link": "https://www.gamestar.de/videos/ace-combat-8-vorschau-video-das-action-spektakel-ist-die-schoenste-lueges-des-jahres,141006.html",
-      "pubDate": "Fri, 05 Jun 2026 08:21:00 GMT",
-      "contentSnippet": "Am 2. Oktober 2026 kommt Ace Combat 8: Wings of Theve für PC, PS5 und Xbox Series raus und wir haben bereits sieben Missionen aus der PC-Version ausprobiert. Im Vorschau-Video zeigen wir Gameplay aus drei Einsätzen und fassen zusammen, worum es in der neuen Action-Flugsimulation geht und welche Neuerungen der neue Serienteil liefert.\r\n\r\nUnser Video-Redakteur Christian Fritz Schneider spricht im Video zudem an, wie man die Grafik vom Vorgänger Ace Combat 7 auf dem PC noch verbessern kann. Wenn ihr das selbst machen wollt, müsst ihr nur die Datei \"Engine.ini\" im (womöglich versteckten) Ordner \"C:\\Users\\EUER NUTZERNAME/AppData/Local/BANDAI NAMCO Entertainment/ACE COMBAT 7/Config\" öffnen. Der USER-Ordner heißt bei euch vielleicht \"Benutzer\".\r\n\r\nIn der Datei ergänzt ihr dann die folgenden Zeilen:\r\n\r\n[/script/engine.renderersettings]\r\n\r\nr.ViewDistanceScale=10\r\n\r\nr.SkeletalMeshLODBias=-2\r\n\r\nr.StaticMeshLODDistanceScale=0.1\r\n\r\nr.Streaming.HLODStrategy=2\r\n\r\n \r\n\r\nDamit sollten Objekte am Boden, beispielsweise Bäume deutlich weiter weg dargestellt.",
-      "thumbnail": "https://images.cgames.de/images/gamestar/112/videoimage_6421938.jpg"
+      "guid": "https://mein-mmo.de/?p=1394466",
+      "title": "Nach der großen Ankündigung von Guild Wars 3 spricht ArenaNet heute über die Zukunft von Guild Wars 2",
+      "link": "https://mein-mmo.de/guild-wars-3-was-wird-aus-guild-wars-2/",
+      "pubDate": "Sat, 06 Jun 2026 07:34:44 +0000",
+      "contentSnippet": "Die Ankündigung von Guild Wars 3 beim Summer Game Fest 2026 sorgt für Hype. Doch einige Spieler fragen: Was wird jetzt aus Guild Wars 2?\nDer Beitrag Nach der großen Ankündigung von Guild Wars 3 spricht ArenaNet heute über die Zukunft von Guild Wars 2 erschien zuerst auf Mein-MMO.",
+      "thumbnail": "https://images.mein-mmo.de/medien/2026/06/Guild-Wars-2-und-3-Collage-1140x445.jpg"
     },
     {
-      "guid": "https://www.gamestar.de/artikel/valve-steam-machine-release-fenster,3454061.html",
-      "title": "Steam Machine - Release-Fenster steht fest – das größte Fragezeichen bleibt",
-      "link": "https://www.gamestar.de/artikel/valve-steam-machine-release-fenster,3454061.html",
-      "pubDate": "Fri, 05 Jun 2026 07:07:00 GMT",
-      "contentSnippet": "Valve plant, die Steam Machine im Sommer auf den Markt zu bringen.",
-      "thumbnail": "https://images.cgames.de/images/gamestar/112/steam-machine-euro_6406521.jpg"
+      "guid": "https://mein-mmo.de/?p=1393389",
+      "title": "Ich modde mein Steam Deck, damit es richtig lange hält und mir die hohen Preise egal sein können",
+      "link": "https://mein-mmo.de/steam-deck-modden-reparatur-gunstig-sparen/",
+      "pubDate": "Sat, 06 Jun 2026 07:30:00 +0000",
+      "contentSnippet": "Weil ihr neuen Preise für Steam Decks zu hoch sind teilt MeinMMO-Redakteurin Sophia Weiß jetzt ihre Modding- und Reparatur-Tipps!\nDer Beitrag Ich modde mein Steam Deck, damit es richtig lange hält und mir die hohen Preise egal sein können erschien zuerst auf Mein-MMO.",
+      "thumbnail": "https://images.mein-mmo.de/medien/2026/06/Steam-Deck-reparieren-guenstiger-Titelbild-1140x445.jpg"
     },
     {
-      "guid": "https://www.gamestar.de/artikel/james-bond-007-first-light-nachfolger-von-amazon,3454037.html",
-      "title": "James Bond - Nach dem gewaltigen Erfolg von 007 First Light will Amazon jetzt auch selbst beim Nachfolger mitmischen",
-      "link": "https://www.gamestar.de/artikel/james-bond-007-first-light-nachfolger-von-amazon,3454037.html",
-      "pubDate": "Fri, 05 Jun 2026 07:03:00 GMT",
-      "contentSnippet": "Das Bond-Spiel von IO Interactive erreichte seine Meilensteine in rasanter Geschwindigkeit und der Chef von Amazon Games hat schon Ideen für die Zukunft.",
-      "thumbnail": "https://images.cgames.de/images/gamestar/112/007-first-light-amazon_6421888.jpg"
+      "guid": "https://mein-mmo.de/?p=1394161",
+      "title": "Wenn ihr einen neuen PS5-Controller braucht, ist jetzt ein guter Zeitpunkt zum Kauf: Einige Farben waren sogar noch nie so günstig",
+      "link": "https://mein-mmo.de/neuen-ps5-kaufen-guter-zeitpunkt-einige-farben-noch-nie-so-guenstig/",
+      "pubDate": "Sat, 06 Jun 2026 05:30:00 +0000",
+      "contentSnippet": "Den offiziellen PS5-Controller gibt es aktuell in vielen verschiedenen Farben schon für unter 50 Euro im Angebot.\nDer Beitrag Wenn ihr einen neuen PS5-Controller braucht, ist jetzt ein guter Zeitpunkt zum Kauf: Einige Farben waren sogar noch nie so günstig erschien zuerst auf Mein-MMO.",
+      "thumbnail": "https://images.mein-mmo.de/medien/2026/06/PS5-controller-deal-050626-1140x445.jpg"
     },
     {
-      "guid": "https://mein-mmo.de/?p=1394003",
-      "title": "MMORPG-Klassiker erhöht für Deutschland einfach so die Preise, Fans fallen aus allen Wolken",
-      "link": "https://mein-mmo.de/ultima-online-abo-preis-erhoehung/",
-      "pubDate": "Fri, 05 Jun 2026 06:46:26 +0000",
-      "contentSnippet": "Was tun, wenn das Lieblings-MMORPG, für das man mehrere Accounts besitzt, ohne Ankündigung die Abo-Preise drastisch erhöht?\nDer Beitrag MMORPG-Klassiker erhöht für Deutschland einfach so die Preise, Fans fallen aus allen Wolken erschien zuerst auf Mein-MMO.",
-      "thumbnail": "https://images.mein-mmo.de/medien/2020/08/Ultima-Online-Necromancer-Neu-1140x445.jpg"
+      "guid": "https://www.gamestar.de/artikel/final-fantasy-7-der-kroenende-abschluss-der-remake-trilogie-heisst-revelation-und-zeigt-erstmals-gameplay,3454137.html",
+      "title": "Final Fantasy 7 - Der krönende Abschluss der Remake-Trilogie heißt Revelation und zeigt erstmals Gameplay",
+      "link": "https://www.gamestar.de/artikel/final-fantasy-7-der-kroenende-abschluss-der-remake-trilogie-heisst-revelation-und-zeigt-erstmals-gameplay,3454137.html",
+      "pubDate": "Fri, 05 Jun 2026 23:38:00 GMT",
+      "contentSnippet": "Zwei Jahre nach Final Fantasy Rebirth steht das große Finale an. Im Frühling 2027 kommt Revelation.",
+      "thumbnail": "https://images.cgames.de/images/gamestar/112/ff7-revelation_6422258.jpg"
     },
     {
-      "guid": "https://www.gamestar.de/artikel/barbarella-remake-2027-sydney-sweeney-edgar-wright,3413234.html",
-      "title": "Barbarella - Der erotische Sci-Fi-Klassiker wird nach 58 Jahren neu verfilmt - von einem echten Kult-Regisseur [Best of GameStar]",
-      "link": "https://www.gamestar.de/artikel/barbarella-remake-2027-sydney-sweeney-edgar-wright,3413234.html",
-      "pubDate": "Fri, 05 Jun 2026 06:02:00 GMT",
-      "contentSnippet": "Erinnert ihr euch noch an Barbarella aus dem Jahr 1968? Der Sci-Fi-Kultfilm bekommt ein Remake spendiert. Mit Sydney Sweeney und Regisseur Edgar Wright.",
-      "thumbnail": "https://images.cgames.de/images/gamestar/112/barbarella_6290501.jpg"
+      "guid": "https://www.gamestar.de/videos/mech-fans-aufgepasst-endlich-kommt-ein-neues-grosses-gundam-spiel,141065.html",
+      "title": "Mech-Fans aufgepasst: Endlich kommt ein neues großes Gundam-Spiel",
+      "link": "https://www.gamestar.de/videos/mech-fans-aufgepasst-endlich-kommt-ein-neues-grosses-gundam-spiel,141065.html",
+      "pubDate": "Fri, 05 Jun 2026 23:32:00 GMT",
+      "contentSnippet": "Bandai Namco bringt mit Gundam Rogue Orbit im Jahr 2027 ein rasantes Mecha-Actionspiel für PC, PlayStation 5 und Xbox Series X/S auf den Markt. In Third-Person-Kämpfen steuert ihr euren ganz individuell angepassten Mech in eine filmreife Geschichte, in der eine noch völlig unbekannte Bedrohung auf euch wartet.\r\n\r\nDa der Titel in einem komplett neuen Universum angesiedelt ist, brauchen Neulinge keinerlei Vorwissen zur Gundam-Geschichte.",
+      "thumbnail": "https://images.cgames.de/images/gamestar/112/videoimage_6422259.jpg"
     },
     {
-      "guid": "https://www.gamestar.de/artikel/vor-24-jahren-haette-ein-legendaeres-james-bond-spiel-um-ein-haar-verhindert-dass-es-call-of-duty-wie-wirs-kennen-ueberhaupt-je-gegeben-haette,3451375.html",
-      "title": "Plus - Call of Duty - Vor 24 Jahren hat ein legendäres James-Bond-Spiel beinahe verhindert, dass Call of Duty wie wir es kennen überhaupt existiert",
-      "link": "https://www.gamestar.de/artikel/vor-24-jahren-haette-ein-legendaeres-james-bond-spiel-um-ein-haar-verhindert-dass-es-call-of-duty-wie-wirs-kennen-ueberhaupt-je-gegeben-haette,3451375.html",
-      "pubDate": "Thu, 04 Jun 2026 13:45:00 GMT",
-      "contentSnippet": "CoD-Schöpfer Vince Zampella und Jason West hätten beinahe an einem James-Bond-Spiel gebaut, statt die Grundsteine für die Shooter-Reihe zu legen.",
-      "thumbnail": "https://images.cgames.de/images/gamestar/112/007-cod_6413022.jpg"
+      "guid": "https://www.gamestar.de/videos/strategie-rollenspiel-im-early-access-noch-2026-schnallt-euch-chronicles-medieval-die-ritterruestung-um,141025.html",
+      "title": "Strategie-Rollenspiel im Early Access: Noch 2026 schnallt euch Chronicles: Medieval die Ritterrüstung um",
+      "link": "https://www.gamestar.de/videos/strategie-rollenspiel-im-early-access-noch-2026-schnallt-euch-chronicles-medieval-die-ritterruestung-um,141025.html",
+      "pubDate": "Fri, 05 Jun 2026 23:30:00 GMT",
+      "contentSnippet": "Das dänische Entwicklerstudio Raw Power Games hat auf dem Summer Game Fest das erste echte Gameplay zu seinem Debüttitel Chronicles: Medieval präsentiert. Das historische Sandbox-Spiel versetzt euch mitten in die Ära des Hundertjährigen Krieges. Der Release im Early Access auf dem PC über die Plattform Steam ist für Ende dieses Jahres geplant.\r\n\r\nDas Kernfeature des Spiels ist eine ungewöhnliche Mischung aus Strategie und Action-Rollenspiel. Ihr agiert auf den riesigen Schlachtfeldern gleichzeitig als Feldherr und als aktiver Kämpfer. Während ihr selbst im dichten Getümmel die Klinge schwingt, erteilt ihr euren Truppen wie Langbogenschützen, Kavallerie und Waffenknechten in Echtzeit Befehle. Jede Einheit erfüllt eine eigene taktische Rolle, was die Massenschlachten sehr dynamisch machen soll.\r\n\r\nPreview: Chronicles Medieval bringt Mount & Blade ins Schwitzen\r\n\r\nDer frisch veröffentlichte Gameplay-Trailer, der vom bekannten dänischen Schauspieler Lars Mikkelsen vertont wurde, enthüllt zudem eine wichtige Neuerung. Neben England und Frankreich wird das Heilige Römische Reich als dritte voll spielbare Fraktion zur Verfügung stehen.\r\n\r\nDiese drei Mächte bestimmen das Geschehen in der offenen Spielwelt, die sich über die Britischen Inseln, Frankreich und Mitteleuropa erstreckt. Ihr startet als einfacher Soldat ohne Besitz, rekrutiert Truppen, schmiedet Allianzen und baut euch einen historischen Ruf auf. Technisch basiert der Titel auf der Unreal Engine 5 und einer hauseigenen Technologie namens Asgard, um die gewaltigen Truppenbewegungen flüssig darzustellen",
+      "thumbnail": "https://images.cgames.de/images/gamestar/112/videoimage_6422114.jpg"
     },
     {
-      "guid": "https://www.gamestar.de/videos/clutch-ehemalige-forza-entwickler-kommen-ploetzlich-mit-einem-brandneuen-rennspiel-um-die-ecke-gedonnert-und-das-sieht-richtig-gut-aus,141004.html",
-      "title": "Clutch: Ehemalige Forza-Entwickler kommen plötzlich mit einem brandneuen Rennspiel um die Ecke gedonnert und das sieht richtig gut aus",
-      "link": "https://www.gamestar.de/videos/clutch-ehemalige-forza-entwickler-kommen-ploetzlich-mit-einem-brandneuen-rennspiel-um-die-ecke-gedonnert-und-das-sieht-richtig-gut-aus,141004.html",
-      "pubDate": "Thu, 04 Jun 2026 12:07:00 GMT",
-      "contentSnippet": "Hinter Maverick Games stecken unter anderem sechs ehemalige Entwickler von Playground Games, dem Studio, das die Forza-Horizon-Reihe entwickelt. Creative Director Mike Brown führt uns in dem Ankündigungsvideo zum ersten Maverick-Spiel durch die Studiobüros und präsentiert Clutch, welches das Team die letzten Jahre liebevoll zusammengeschustert hat.\r\n\r\nClutch soll mehr als eine Rennsimulation werden und die Menschen hinter dem Lenker ins Zentrum rücken. Es erzählt die Geschichte zweier Geschwister, die auf der Straße hoch hinaus wollen. Die beiden nehmen am R1K teil, einem prestigeträchtigen Wettkampf, bei dem man nur gegen die besten Fahrer antritt.\r\n\r\nClutch basiert auf einer modifierten Version der Unreal Engine 5, die einen sehr hohen Detailgrad für die Fahrzeuge ermöglicht, bei dem auch Abnutzung, Dreck und sonstige Kratzer im Lack sichtbar werden.\r\n\r\nEinen kompletten Trailer für Clutch soll es im Rahmen des Summer Game Fest am 5. Juni geben. Dann gibt es vermutlich auch mehr Details zum Release. Wir halten euch auf GameStar.de auf dem Laufenden.",
-      "thumbnail": "https://images.cgames.de/images/gamestar/112/videoimage_6421908.jpg"
+      "guid": "https://www.gamestar.de/videos/final-fantasy-7-revelations-schliesst-die-grosse-remake-trilogie-ab-und-erscheint-im-fruehling-2027-direkt-auf-dem-pc,141067.html",
+      "title": "Final Fantasy 7: Revelations schließt die große Remake-Trilogie ab und erscheint im Frühling 2027 direkt auf dem PC",
+      "link": "https://www.gamestar.de/videos/final-fantasy-7-revelations-schliesst-die-grosse-remake-trilogie-ab-und-erscheint-im-fruehling-2027-direkt-auf-dem-pc,141067.html",
+      "pubDate": "Fri, 05 Jun 2026 23:23:00 GMT",
+      "contentSnippet": "Als das berühmte »One Last Thing« wurde im Rahmen des Summer Game Fests der dritte Teil der Final-Fantasy-7-Remake-Reihe angekündigt. Das finale Spiel hört auf den Namen Revelation und soll im Frühjahr 2027 an den Start gehen - zeitgleich auf allen Plattformen (PC, PS5, Xbox Series X/S und Switch 2)",
+      "thumbnail": "https://images.cgames.de/images/gamestar/112/videoimage_6422257.jpg"
     },
     {
-      "guid": "https://www.gamestar.de/artikel/mail-newsletter-abmelden-cyberkriminelle-2026,3435378.html",
-      "title": "E-Mail Sicherheit - Seit Jahren klicken wir gedankenlos auf »Abmelden« in E-Mails – genau darauf warten Cyberkriminelle [Best of GameStar]",
-      "link": "https://www.gamestar.de/artikel/mail-newsletter-abmelden-cyberkriminelle-2026,3435378.html",
-      "pubDate": "Thu, 04 Jun 2026 12:00:00 GMT",
-      "contentSnippet": "Beim Abmelden von Spam und Newslettern ist Vorsicht geboten.",
-      "thumbnail": "https://images.cgames.de/images/gamestar/112/abmelden-button-gefaehrlich-teaser-quelle-xataka_6361573.jpg"
+      "guid": "https://www.gamestar.de/videos/haex-im-neuen-neuen-sci-fi-survival-shooter-formt-eine-mysterioese-alien-technologie-die-open-world-um-euch-herum,141064.html",
+      "title": "Haex: Im neuen neuen Sci-Fi-Survival-Shooter formt eine mysteriöse Alien-Technologie die Open World um euch herum",
+      "link": "https://www.gamestar.de/videos/haex-im-neuen-neuen-sci-fi-survival-shooter-formt-eine-mysterioese-alien-technologie-die-open-world-um-euch-herum,141064.html",
+      "pubDate": "Fri, 05 Jun 2026 23:21:00 GMT",
+      "contentSnippet": "Im neu angekündigten Sci-Fi-Survival-Shooter Haex kämpft ihr auf einem feindseligen Planeten ums Überleben und müsst euch stets auf eine dynamisch wandelbare Spielwelt einstellen. Eine mysteriöse Alien-Technologie formt die Open World in Echtzeit um, was völlig unerwartet neue Deckungsmöglichkeiten oder tödliche Fallen direkt vor euren Augen erschafft. Ein genaues Release-Datum für den Survival-Titel steht zum aktuellen Zeitpunkt allerdings noch nicht fest.\r\n\r\nDas Spiel könnt ihr auf Steam bereits auf eure Wunschliste packen.",
+      "thumbnail": "https://images.cgames.de/images/gamestar/112/videoimage_6422256.jpg"
     },
     {
-      "guid": "https://www.gamestar.de/artikel/warhammer-illustrator-john-blanche-verstorben,3454043.html",
-      "title": "John Blanche verstorben - ⁠Jeder Warhammer-Fan kennt seine Bilder: Fantasy-Illustrator im Alter von 77 Jahren verstorben",
-      "link": "https://www.gamestar.de/artikel/warhammer-illustrator-john-blanche-verstorben,3454043.html",
-      "pubDate": "Thu, 04 Jun 2026 11:14:00 GMT",
-      "contentSnippet": "Der britische Künstler arbeitete seit den 70ern für den Fantasy-Verlag Games Workshop und prägte den Stil von Warhammer nachhaltig.",
-      "thumbnail": "https://images.cgames.de/images/gamestar/112/warhammer-john-blanche-tot_6421897.jpg"
+      "guid": "https://www.gamestar.de/videos/monster-hunter-wilds-enthuellt-ein-riesiges-addon-das-2027-neue-gebiete-in-luftiger-hoehe-oeffnet,141062.html",
+      "title": "Monster Hunter Wilds enthüllt ein riesiges Addon, das 2027 neue Gebiete in luftiger Höhe öffnet",
+      "link": "https://www.gamestar.de/videos/monster-hunter-wilds-enthuellt-ein-riesiges-addon-das-2027-neue-gebiete-in-luftiger-hoehe-oeffnet,141062.html",
+      "pubDate": "Fri, 05 Jun 2026 23:21:00 GMT",
+      "contentSnippet": "Bei der Monster-Hunter-Reihe ist es sehr üblich, dass zu den großen Spielen noch (fast genauso) große Addons erscheinen, die neue Monster, Gebiete und mehr für emsige Jäger bereithalten. Für Monster Hunter Wilds trägt diese Erweiterung den Namen Ascendance.\r\n\r\nUnd der Name ist Programm, denn diesmal geht es wohl in luftige Höhen, wie der Enthüllungs-Trailer vom Summer Game Fest zeigt. Viel mehr wissen wir allerdings noch nicht, bleibt abzuwarten, wann Capcom die neuen Monster, Gebiete und Features enthüllt. Iceborne brachte für Monster Hunter World nicht nur eine frostige Zone mit neuen Effekten wie Kälte, sondern auch die Klammerklaue, die einen großen Einfluss auf den Kampfstil der Jäger nahm.\r\n\r\nSeit dem Release im Februar 2025 erschienen regelmäßig kostenlose Updates, sodass den Spielern vorher auch nicht langweilig wurde. Damit wird es wohl noch ein bisschen weitergehen, denn Ascendance erscheint erst 2027 für PC, PS5 und Xbox Series.",
+      "thumbnail": "https://images.cgames.de/images/gamestar/112/videoimage_6422251.jpg"
     },
     {
-      "guid": "https://www.gamestar.de/videos/die-gilde-europa-1410-hat-einen-release-termin-allerdings-erst-einmal-nur-im-early-access,141002.html",
-      "title": "Die Gilde: Europa 1410 hat einen Release-Termin! Allerdings erst einmal nur im Early Access",
-      "link": "https://www.gamestar.de/videos/die-gilde-europa-1410-hat-einen-release-termin-allerdings-erst-einmal-nur-im-early-access,141002.html",
-      "pubDate": "Thu, 04 Jun 2026 09:05:00 GMT",
-      "contentSnippet": "Nachdem Die Gilde 3 jahrelang im Early Access steckenblieb, sollte Die Gilde: Europa 1410 eigentlich direkt als vollwertiges Spiel erscheinen. Nun erscheint das Spiel ebenfalls erstmal als EA-Version und das schon am 16. Juli 2026. Der Trailer stimmt auf die Wirtschaftssimulation ein, in der ihr innerhalb einer mittelalterlichen Stadt eure Familie an die Spitze setzt. Egal ob durch Handel, Betrug oder Politik. Oder alles auf einmal.",
-      "thumbnail": "https://images.cgames.de/images/gamestar/112/videoimage_6421896.jpg"
+      "guid": "https://www.gamestar.de/artikel/stellar-blade-ueberrascht-auf-dem-summer-game-fest-mit-einem-sequel,3454136.html",
+      "title": "Stellar Blade Bloodrain - Unfassbar schöne Cyberpunk-Kulisse und wuchtige Nahkämpfe: Das gefeierte Stellar Blade überrascht auf dem Summer Game Fest mit einem Sequel",
+      "link": "https://www.gamestar.de/artikel/stellar-blade-ueberrascht-auf-dem-summer-game-fest-mit-einem-sequel,3454136.html",
+      "pubDate": "Fri, 05 Jun 2026 23:12:00 GMT",
+      "contentSnippet": "Ein neues Sci-Fi-Highlight wurde auf dem Summer Game Fest angekündigt, sieht absolut fantastisch aus und kommt direkt für den PC.",
+      "thumbnail": "https://images.cgames.de/images/gamestar/112/stellar-blade-bloodrain_6422250.jpg"
     },
     {
-      "guid": "https://www.gamestar.de/artikel/quickshare-airdrop-android-update,3454038.html",
-      "title": "Android - Urlaubsfotos einfacher teilen zwischen iPhone und Android: Google bringt die AirDrop-Unterstützung auf viele weitere Android-Smartphones",
-      "link": "https://www.gamestar.de/artikel/quickshare-airdrop-android-update,3454038.html",
-      "pubDate": "Thu, 04 Jun 2026 09:00:00 GMT",
-      "contentSnippet": "Google weitet mit dem Juni-Update für Android die Unterstützung von Quick Share und AirDrop weiter aus.",
-      "thumbnail": "https://images.cgames.de/images/gamestar/112/quick-share-teaser_6421894.jpg"
+      "guid": "https://www.gamestar.de/videos/ein-traum-fuer-cyberpunk-fans-stellar-blade-bloodrain-haut-uns-mit-irre-schicker-grafik-um,141060.html",
+      "title": "Ein Traum für Cyberpunk-Fans: Stellar Blade Bloodrain haut uns mit irre schicker Grafik um",
+      "link": "https://www.gamestar.de/videos/ein-traum-fuer-cyberpunk-fans-stellar-blade-bloodrain-haut-uns-mit-irre-schicker-grafik-um,141060.html",
+      "pubDate": "Fri, 05 Jun 2026 23:05:00 GMT",
+      "contentSnippet": "Auf dem Summer Game Fest 2026 hat Entwickler Shift Up mit Stellar Blade Bloodrain eine offizielle Fortsetzung zum beliebten Action-Hit angekündigt. Weil das Studio ab sofort als eigener Publisher agiert, fällt die bisherige PlayStation-Exklusivität weg und ihr dürft euch zum Launch auch auf Xbox Series X/S sowie dem PC in die rasanten Kämpfe stürzen.\r\n\r\nDa sich der Titel laut den Machern allerdings noch in einer sehr frühen Entwicklungsphase befindet, werdet ihr auf den Release leider noch eine ganze Weile warten müssen.",
+      "thumbnail": "https://images.cgames.de/images/gamestar/112/videoimage_6422249.jpg"
     }
   ]
 }
