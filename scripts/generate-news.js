@@ -12,8 +12,13 @@ const parser = new Parser({
 });
 
 const TOTAL = 12;
+
+// Rango estándar
 const MAX_DAYS_BACK = 30;
 const MAX_DAYS_BACK_EXTENDED = 60;
+
+// Rango especial FR/IT
+const MAX_DAYS_FR_IT = 120;
 
 // ===============================
 //  FUENTES POR IDIOMA
@@ -69,13 +74,22 @@ const GAMER_KEYWORDS = [
 ];
 
 // ===============================
-//  PALABRAS CLAVE ANTI-CINE
+//  PALABRAS CLAVE ANTI-CINE / ANIME / SERIES
 // ===============================
 const MOVIE_KEYWORDS = [
   "película", "pelicula", "movie", "film", "cine",
   "actor", "actriz", "director",
-  "taquilla", "box office",
-  "serie", "temporada"
+  "taquilla", "box office"
+];
+
+const ANIME_KEYWORDS = [
+  "anime", "manga", "one piece", "dragon ball", "naruto",
+  "bleach", "haki", "luffy", "zoro", "gear 5"
+];
+
+const SERIES_KEYWORDS = [
+  "season", "episode", "serie", "series", "temporada",
+  "house of the dragon", "netflix", "hbo", "prime video"
 ];
 
 // ===============================
@@ -86,8 +100,10 @@ function isGamingNews(item) {
 
   const isGame = GAMER_KEYWORDS.some(k => text.includes(k));
   const isMovie = MOVIE_KEYWORDS.some(k => text.includes(k));
+  const isAnime = ANIME_KEYWORDS.some(k => text.includes(k));
+  const isSeries = SERIES_KEYWORDS.some(k => text.includes(k));
 
-  return isGame && !isMovie;
+  return isGame && !isMovie && !isAnime && !isSeries;
 }
 
 // ===============================
@@ -146,8 +162,7 @@ async function generateForLang(lang) {
       thumbnail: extractImage(item)
     }));
 
-    const gamerOnly = mapped.filter(isGamingNews);
-    all = all.concat(gamerOnly);
+    all = all.concat(mapped.filter(isGamingNews));
   }
 
   all = all.filter(n => typeof n.thumbnail === "string" && n.thumbnail.startsWith("http"));
@@ -157,16 +172,20 @@ async function generateForLang(lang) {
 
   // 2) Si faltan → ampliar a 60 días
   if (recent.length < TOTAL) {
-    const extended = all.filter(n => isRecent(n, MAX_DAYS_BACK_EXTENDED));
-    recent = [...recent, ...extended];
+    recent = [...recent, ...all.filter(n => isRecent(n, MAX_DAYS_BACK_EXTENDED))];
   }
 
-  // 3) Si aún faltan → usar todas las del idioma
+  // 3) Si aún faltan → ampliar SOLO FR/IT a 120 días
+  if (recent.length < TOTAL && (lang === "fr" || lang === "it")) {
+    recent = [...recent, ...all.filter(n => isRecent(n, MAX_DAYS_FR_IT))];
+  }
+
+  // 4) Si aún faltan → usar todas las del idioma
   if (recent.length < TOTAL) {
     recent = [...recent, ...all];
   }
 
-  // 4) Si aún faltan → fallback inglés
+  // 5) Si aún faltan → fallback inglés
   if (recent.length < TOTAL && lang !== "en") {
     let fallback = [];
 

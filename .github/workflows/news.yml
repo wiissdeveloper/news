@@ -2,7 +2,7 @@ name: Update News
 
 on:
   schedule:
-    - cron: "0 6 * * *"
+    - cron: "0 */12 * * *"   # Ejecuta cada 12 horas (00:00 y 12:00 UTC)
   workflow_dispatch:
 
 permissions:
