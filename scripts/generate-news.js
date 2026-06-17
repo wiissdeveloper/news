@@ -16,6 +16,12 @@ const MAX_ITEMS_PER_FEED = 150;
 const MAX_RETRIES = 3;
 const TIMEOUT_MS = 5000;
 
+// RANGOS (OBLIGATORIOS)
+const MAX_DAYS_BACK = 30;
+const MAX_DAYS_BACK_EXTENDED = 60;
+const MAX_DAYS_FR_IT = 120;
+
+
 // ===============================
 //  FETCH MANUAL CON HEADERS + TIMEOUT + REINTENTOS
 // ===============================
