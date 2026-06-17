@@ -13,6 +13,8 @@ const parser = new Parser({
 
 const TOTAL = 12;
 const MAX_ITEMS_PER_FEED = 150;
+const MAX_RETRIES = 3;
+const TIMEOUT_MS = 5000;
 
 // Rango estándar
 const MAX_DAYS_BACK = 30;
@@ -140,9 +142,9 @@ function extractImage(item) {
 }
 
 // ===============================
-//  FETCH RSS CON TIMEOUT
+//  FETCH RSS CON TIMEOUT + REINTENTOS
 // ===============================
-function fetchWithTimeout(url, timeout = 5000) {
+function fetchWithTimeout(url, timeout = TIMEOUT_MS) {
   return Promise.race([
     parser.parseURL(url),
     new Promise((_, reject) =>
@@ -152,12 +154,14 @@ function fetchWithTimeout(url, timeout = 5000) {
 }
 
 async function fetchRSS(url) {
-  try {
-    const feed = await fetchWithTimeout(url);
-    return (feed.items || []).slice(0, MAX_ITEMS_PER_FEED);
-  } catch {
-    console.log("Timeout o error en:", url);
-    return [];
+  for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
+    try {
+      const feed = await fetchWithTimeout(url);
+      return (feed.items || []).slice(0, MAX_ITEMS_PER_FEED);
+    } catch (err) {
+      console.log(`Error en ${url} (intento ${attempt})`);
+      if (attempt === MAX_RETRIES) return [];
+    }
   }
 }
 
@@ -183,13 +187,12 @@ function removeDuplicates(items) {
 // ===============================
 //  GENERAR NOTICIAS POR IDIOMA
 // ===============================
-async function generateForLang(lang) {
+async function generateForLang(lang, log) {
   const feeds = SOURCES[lang];
+  log.push(`\n=== ${lang.toUpperCase()} ===`);
 
-  // Descargar todos los RSS en paralelo
   const results = await Promise.all(feeds.map(fetchRSS));
 
-  // Aplanar
   let all = results.flat().map(item => ({
     guid: item.guid || item.link,
     title: item.title,
@@ -199,14 +202,13 @@ async function generateForLang(lang) {
     thumbnail: extractImage(item)
   }));
 
-  // Filtrar gamer + imagen válida
   all = all.filter(isGamingNews)
            .filter(n => typeof n.thumbnail === "string" && n.thumbnail.startsWith("http"));
 
-  // Eliminar duplicados
   all = removeDuplicates(all);
 
-  // Precalcular rangos
+  log.push(`Noticias locales encontradas: ${all.length}`);
+
   const r30 = all.filter(n => isRecent(n, MAX_DAYS_BACK));
   const r60 = all.filter(n => isRecent(n, MAX_DAYS_BACK_EXTENDED));
   const r120 = (lang === "fr" || lang === "it")
@@ -214,13 +216,13 @@ async function generateForLang(lang) {
     : [];
 
   let final = [...r30];
-
   if (final.length < TOTAL) final = [...final, ...r60];
   if (final.length < TOTAL) final = [...final, ...r120];
   if (final.length < TOTAL) final = [...final, ...all];
 
   // Fallback inglés
   if (final.length < TOTAL && lang !== "en") {
+    log.push(`Usando fallback inglés...`);
     const fallbackFeeds = await Promise.all(SOURCES["en"].map(fetchRSS));
     let fallback = fallbackFeeds.flat()
       .map(item => ({
@@ -236,14 +238,15 @@ async function generateForLang(lang) {
 
     fallback = removeDuplicates(fallback);
 
+    log.push(`Noticias inglesas disponibles: ${fallback.length}`);
+
     final = [...final, ...fallback];
   }
 
-  // Orden final
   final.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
-
-  // Cortar a 12
   final = final.slice(0, TOTAL);
+
+  log.push(`Total final: ${final.length}`);
 
   const today = new Date().toISOString().split("T")[0];
 
@@ -255,10 +258,13 @@ async function generateForLang(lang) {
 
 // ===============================
 async function main() {
+  const log = [];
+
   for (const lang of Object.keys(SOURCES)) {
-    console.log("Generating:", lang);
-    await generateForLang(lang);
+    await generateForLang(lang, log);
   }
+
+  fs.writeFileSync("news_log.txt", log.join("\n"));
 }
 
 main();
