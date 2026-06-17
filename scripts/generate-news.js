@@ -16,11 +16,36 @@ const MAX_ITEMS_PER_FEED = 150;
 const MAX_RETRIES = 3;
 const TIMEOUT_MS = 5000;
 
-// RANGOS (OBLIGATORIOS)
-const MAX_DAYS_BACK = 30;
-const MAX_DAYS_BACK_EXTENDED = 60;
-const MAX_DAYS_FR_IT = 120;
+// RANGOS DINÁMICOS POR PAÍS
+const RANGES = {
+  es: [30, 60, 120],
+  fr: [30, 60, 120],
+  it: [30, 60, 120, 180], // Italia necesita más rango
+  de: [30, 60, 120],
+  pt: [30, 60, 120],
+  en: [30, 60, 120]
+};
 
+// FUENTES ALTERNATIVAS POR PAÍS
+const SOURCES_ALT = {
+  it: [
+    "https://www.ilvideogioco.com/feed/",
+    "https://www.gamesource.it/feed/",
+    "https://www.nintendoomed.it/feed/",
+    "https://www.pcgaming.it/feed/"
+  ],
+  es: [
+    "https://areajugones.sport.es/feed/",
+    "https://www.vidaextra.com/feed"
+  ],
+  fr: [
+    "https://www.jeuxactu.com/rss/",
+    "https://www.gameblog.fr/rss"
+  ],
+  de: [],
+  pt: [],
+  en: []
+};
 
 // ===============================
 //  FETCH MANUAL CON HEADERS + TIMEOUT + REINTENTOS
@@ -64,6 +89,7 @@ async function fetchXML(url) {
 async function fetchRSS(url) {
   return await fetchXML(url);
 }
+
 // ===============================
 //  FUENTES POR IDIOMA
 // ===============================
@@ -203,15 +229,15 @@ function removeDuplicates(items) {
 // ===============================
 //  GENERAR NOTICIAS POR IDIOMA
 // ===============================
+// ===============================
+//  GENERAR NOTICIAS POR IDIOMA (NUEVO)
+// ===============================
 async function generateForLang(lang, log) {
-  const feeds = SOURCES[lang];
   log.push(`\n=== ${lang.toUpperCase()} ===`);
 
-  // Descargar todos los RSS usando fetchRSS (que usa fetchXML)
-  const results = await Promise.all(feeds.map(fetchRSS));
-
-  // Aplanar
-  let all = results.flat().map(item => ({
+  // 1. DESCARGAR FUENTES PRINCIPALES
+  const primaryFeeds = await Promise.all(SOURCES[lang].map(fetchRSS));
+  let all = primaryFeeds.flat().map(item => ({
     guid: item.guid || item.link,
     title: item.title,
     link: item.link,
@@ -220,70 +246,93 @@ async function generateForLang(lang, log) {
     thumbnail: extractImage(item)
   }));
 
-  // Filtrar gamer + imagen válida
-  all = all.filter(isGamingNews)
-           .filter(n => typeof n.thumbnail === "string" && n.thumbnail.startsWith("http"));
+  // 2. FILTROS BÁSICOS
+  all = all
+    .filter(isGamingNews)
+    .filter(n => typeof n.thumbnail === "string" && n.thumbnail.startsWith("http"));
 
-  // Eliminar duplicados
   all = removeDuplicates(all);
 
   log.push(`Noticias locales encontradas: ${all.length}`);
 
-  // Rangos temporales
-  const r30 = all.filter(n => isRecent(n, MAX_DAYS_BACK));
-  const r60 = all.filter(n => isRecent(n, MAX_DAYS_BACK_EXTENDED));
-  const r120 = (lang === "fr" || lang === "it")
-    ? all.filter(n => isRecent(n, MAX_DAYS_FR_IT))
-    : [];
+  let final = [];
 
-  let final = [...r30];
-  if (final.length < TOTAL) final = [...final, ...r60];
-  if (final.length < TOTAL) final = [...final, ...r120];
-  if (final.length < TOTAL) final = [...final, ...all];
+  // 3. RANGO DINÁMICO POR PAÍS
+  for (const days of RANGES[lang]) {
+    const filtered = all.filter(n => isRecent(n, days));
+    if (filtered.length >= TOTAL) {
+      final = filtered;
+      log.push(`Rango aplicado: ${days} días`);
+      break;
+    }
+  }
 
-  // ===============================
-  //  FALLBACK INGLÉS HASTA COMPLETAR 12
-  // ===============================
+  // Si aún no hay suficientes, usar TODO lo disponible
+  if (final.length < TOTAL) {
+    final = [...final, ...all];
+  }
+
+  // 4. FUENTES ALTERNATIVAS SI FALTAN NOTICIAS
+  if (final.length < TOTAL && SOURCES_ALT[lang].length > 0) {
+    log.push("Usando fuentes alternativas…");
+
+    const altFeeds = await Promise.all(SOURCES_ALT[lang].map(fetchRSS));
+    let alt = altFeeds.flat().map(item => ({
+      guid: item.guid || item.link,
+      title: item.title,
+      link: item.link,
+      pubDate: item.pubDate,
+      contentSnippet: item.contentSnippet || item.content || "",
+      thumbnail: extractImage(item)
+    }));
+
+    alt = alt
+      .filter(isGamingNews)
+      .filter(n => typeof n.thumbnail === "string" && n.thumbnail.startsWith("http"));
+
+    alt = removeDuplicates(alt);
+
+    all.push(...alt);
+    final.push(...alt);
+  }
+
+  // 5. FALLBACK INGLÉS
   if (final.length < TOTAL && lang !== "en") {
-    log.push(`Usando fallback inglés...`);
+    log.push("Usando fallback inglés…");
 
     const fallbackFeeds = await Promise.all(SOURCES["en"].map(fetchRSS));
+    let fallback = fallbackFeeds.flat().map(item => ({
+      guid: item.guid || item.link,
+      title: item.title,
+      link: item.link,
+      pubDate: item.pubDate,
+      contentSnippet: item.contentSnippet || item.content || "",
+      thumbnail: extractImage(item)
+    }));
 
-    let fallback = fallbackFeeds.flat()
-      .map(item => ({
-        guid: item.guid || item.link,
-        title: item.title,
-        link: item.link,
-        pubDate: item.pubDate,
-        contentSnippet: item.contentSnippet || item.content || "",
-        thumbnail: extractImage(item)
-      }))
+    fallback = fallback
       .filter(isGamingNews)
       .filter(n => typeof n.thumbnail === "string" && n.thumbnail.startsWith("http"));
 
     fallback = removeDuplicates(fallback);
 
-    log.push(`Noticias inglesas disponibles: ${fallback.length}`);
-
-    final = [...final, ...fallback];
+    final.push(...fallback);
   }
 
-  // Ordenar por fecha
+  // 6. ORDENAR Y CORTAR
   final.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
-
-  // Cortar a 12
   final = final.slice(0, TOTAL);
 
   log.push(`Total final: ${final.length}`);
 
-  // Guardar JSON
+  // 7. GUARDAR JSON
   const today = new Date().toISOString().split("T")[0];
-
   fs.writeFileSync(
     `news_${lang}.json`,
     JSON.stringify({ date: today, notices: final }, null, 2)
   );
 }
+
 
 // ===============================
 //  MAIN + LOG FINAL
