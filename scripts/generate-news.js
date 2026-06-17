@@ -2,11 +2,6 @@ import Parser from "rss-parser";
 import fs from "fs";
 
 const parser = new Parser({
-  headers: {
-    "User-Agent":
-      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-    "Accept": "application/rss+xml, application/xml, text/xml;q=0.9, */*;q=0.8"
-  },
   customFields: {
     item: [
       ["media:thumbnail", "thumbnail"],
@@ -16,19 +11,53 @@ const parser = new Parser({
   }
 });
 
-
 const TOTAL = 12;
 const MAX_ITEMS_PER_FEED = 150;
 const MAX_RETRIES = 3;
 const TIMEOUT_MS = 5000;
 
-// Rango estándar
-const MAX_DAYS_BACK = 30;
-const MAX_DAYS_BACK_EXTENDED = 60;
+// ===============================
+//  FETCH MANUAL CON HEADERS + TIMEOUT + REINTENTOS
+// ===============================
+async function fetchXML(url) {
+  for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
+    try {
+      const controller = new AbortController();
+      const timeout = setTimeout(() => controller.abort(), TIMEOUT_MS);
 
-// Rango especial FR/IT
-const MAX_DAYS_FR_IT = 120;
+      const res = await fetch(url, {
+        method: "GET",
+        headers: {
+          "User-Agent":
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+          "Accept":
+            "application/rss+xml, application/xml, text/xml;q=0.9, */*;q=0.8"
+        },
+        signal: controller.signal
+      });
 
+      clearTimeout(timeout);
+
+      if (!res.ok) throw new Error("HTTP " + res.status);
+
+      const xml = await res.text();
+      const feed = await parser.parseString(xml);
+
+      return (feed.items || []).slice(0, MAX_ITEMS_PER_FEED);
+
+    } catch (err) {
+      console.log(`Error en ${url} (intento ${attempt})`);
+      if (attempt === MAX_RETRIES) return [];
+    }
+  }
+}
+
+// ===============================
+//  FETCH RSS (USA fetchXML, NO parseURL)
+// ===============================
+async function fetchRSS(url) {
+  return await fetchXML(url);
+}
 // ===============================
 //  FUENTES POR IDIOMA
 // ===============================
@@ -148,30 +177,6 @@ function extractImage(item) {
 }
 
 // ===============================
-//  FETCH RSS CON TIMEOUT + REINTENTOS
-// ===============================
-function fetchWithTimeout(url, timeout = TIMEOUT_MS) {
-  return Promise.race([
-    parser.parseURL(url),
-    new Promise((_, reject) =>
-      setTimeout(() => reject(new Error("timeout")), timeout)
-    )
-  ]);
-}
-
-async function fetchRSS(url) {
-  for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
-    try {
-      const feed = await fetchWithTimeout(url);
-      return (feed.items || []).slice(0, MAX_ITEMS_PER_FEED);
-    } catch (err) {
-      console.log(`Error en ${url} (intento ${attempt})`);
-      if (attempt === MAX_RETRIES) return [];
-    }
-  }
-}
-
-// ===============================
 //  ELIMINAR DUPLICADOS
 // ===============================
 function removeDuplicates(items) {
@@ -189,7 +194,6 @@ function removeDuplicates(items) {
 
   return result;
 }
-
 // ===============================
 //  GENERAR NOTICIAS POR IDIOMA
 // ===============================
@@ -197,8 +201,10 @@ async function generateForLang(lang, log) {
   const feeds = SOURCES[lang];
   log.push(`\n=== ${lang.toUpperCase()} ===`);
 
+  // Descargar todos los RSS usando fetchRSS (que usa fetchXML)
   const results = await Promise.all(feeds.map(fetchRSS));
 
+  // Aplanar
   let all = results.flat().map(item => ({
     guid: item.guid || item.link,
     title: item.title,
@@ -208,13 +214,16 @@ async function generateForLang(lang, log) {
     thumbnail: extractImage(item)
   }));
 
+  // Filtrar gamer + imagen válida
   all = all.filter(isGamingNews)
            .filter(n => typeof n.thumbnail === "string" && n.thumbnail.startsWith("http"));
 
+  // Eliminar duplicados
   all = removeDuplicates(all);
 
   log.push(`Noticias locales encontradas: ${all.length}`);
 
+  // Rangos temporales
   const r30 = all.filter(n => isRecent(n, MAX_DAYS_BACK));
   const r60 = all.filter(n => isRecent(n, MAX_DAYS_BACK_EXTENDED));
   const r120 = (lang === "fr" || lang === "it")
@@ -226,10 +235,14 @@ async function generateForLang(lang, log) {
   if (final.length < TOTAL) final = [...final, ...r120];
   if (final.length < TOTAL) final = [...final, ...all];
 
-  // Fallback inglés
+  // ===============================
+  //  FALLBACK INGLÉS HASTA COMPLETAR 12
+  // ===============================
   if (final.length < TOTAL && lang !== "en") {
     log.push(`Usando fallback inglés...`);
+
     const fallbackFeeds = await Promise.all(SOURCES["en"].map(fetchRSS));
+
     let fallback = fallbackFeeds.flat()
       .map(item => ({
         guid: item.guid || item.link,
@@ -249,11 +262,15 @@ async function generateForLang(lang, log) {
     final = [...final, ...fallback];
   }
 
+  // Ordenar por fecha
   final.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+
+  // Cortar a 12
   final = final.slice(0, TOTAL);
 
   log.push(`Total final: ${final.length}`);
 
+  // Guardar JSON
   const today = new Date().toISOString().split("T")[0];
 
   fs.writeFileSync(
@@ -262,6 +279,8 @@ async function generateForLang(lang, log) {
   );
 }
 
+// ===============================
+//  MAIN + LOG FINAL
 // ===============================
 async function main() {
   const log = [];
