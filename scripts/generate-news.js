@@ -12,6 +12,7 @@ const parser = new Parser({
 });
 
 const TOTAL = 12;
+const MAX_ITEMS_PER_FEED = 150;
 
 // Rango estándar
 const MAX_DAYS_BACK = 30;
@@ -134,10 +135,13 @@ function extractImage(item) {
   );
 }
 
+// ===============================
+//  FETCH RSS (LIMITADO)
+// ===============================
 async function fetchRSS(url) {
   try {
     const feed = await parser.parseURL(url);
-    return feed.items || [];
+    return (feed.items || []).slice(0, MAX_ITEMS_PER_FEED);
   } catch {
     return [];
   }
@@ -147,79 +151,67 @@ async function fetchRSS(url) {
 //  GENERAR NOTICIAS POR IDIOMA
 // ===============================
 async function generateForLang(lang) {
-  let all = [];
+  const feeds = SOURCES[lang];
 
-  for (const url of SOURCES[lang]) {
-    const items = await fetchRSS(url);
-    if (!items.length) continue;
+  // Descargar todos los RSS en paralelo
+  const results = await Promise.all(feeds.map(fetchRSS));
 
-    const mapped = items.map(item => ({
-      guid: item.guid || item.link,
-      title: item.title,
-      link: item.link,
-      pubDate: item.pubDate,
-      contentSnippet: item.contentSnippet || item.content || "",
-      thumbnail: extractImage(item)
-    }));
+  // Aplanar
+  let all = results.flat().map(item => ({
+    guid: item.guid || item.link,
+    title: item.title,
+    link: item.link,
+    pubDate: item.pubDate,
+    contentSnippet: item.contentSnippet || item.content || "",
+    thumbnail: extractImage(item)
+  }));
 
-    all = all.concat(mapped.filter(isGamingNews));
-  }
+  // Filtrar gamer + imagen válida
+  all = all.filter(isGamingNews)
+           .filter(n => typeof n.thumbnail === "string" && n.thumbnail.startsWith("http"));
 
-  all = all.filter(n => typeof n.thumbnail === "string" && n.thumbnail.startsWith("http"));
+  // Precalcular rangos
+  const r30 = all.filter(n => isRecent(n, MAX_DAYS_BACK));
+  const r60 = all.filter(n => isRecent(n, MAX_DAYS_BACK_EXTENDED));
+  const r120 = (lang === "fr" || lang === "it")
+    ? all.filter(n => isRecent(n, MAX_DAYS_FR_IT))
+    : [];
 
-  // 1) Noticias recientes (30 días)
-  let recent = all.filter(n => isRecent(n, MAX_DAYS_BACK));
+  let final = [...r30];
 
-  // 2) Si faltan → ampliar a 60 días
-  if (recent.length < TOTAL) {
-    recent = [...recent, ...all.filter(n => isRecent(n, MAX_DAYS_BACK_EXTENDED))];
-  }
+  if (final.length < TOTAL) final = [...final, ...r60];
+  if (final.length < TOTAL) final = [...final, ...r120];
+  if (final.length < TOTAL) final = [...final, ...all];
 
-  // 3) Si aún faltan → ampliar SOLO FR/IT a 120 días
-  if (recent.length < TOTAL && (lang === "fr" || lang === "it")) {
-    recent = [...recent, ...all.filter(n => isRecent(n, MAX_DAYS_FR_IT))];
-  }
-
-  // 4) Si aún faltan → usar todas las del idioma
-  if (recent.length < TOTAL) {
-    recent = [...recent, ...all];
-  }
-
-  // 5) Si aún faltan → fallback inglés
-  if (recent.length < TOTAL && lang !== "en") {
-    let fallback = [];
-
-    for (const url of SOURCES["en"]) {
-      const items = await fetchRSS(url);
-
-      const mapped = items.map(item => ({
+  // Fallback inglés
+  if (final.length < TOTAL && lang !== "en") {
+    const fallbackFeeds = await Promise.all(SOURCES["en"].map(fetchRSS));
+    const fallback = fallbackFeeds.flat()
+      .map(item => ({
         guid: item.guid || item.link,
         title: item.title,
         link: item.link,
         pubDate: item.pubDate,
         contentSnippet: item.contentSnippet || item.content || "",
         thumbnail: extractImage(item)
-      }));
+      }))
+      .filter(isGamingNews)
+      .filter(n => typeof n.thumbnail === "string" && n.thumbnail.startsWith("http"));
 
-      fallback = fallback.concat(mapped.filter(isGamingNews));
-    }
-
-    fallback = fallback.filter(n => typeof n.thumbnail === "string" && n.thumbnail.startsWith("http"));
-
-    recent = [...recent, ...fallback];
+    final = [...final, ...fallback];
   }
 
   // Orden final
-  recent.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+  final.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
 
   // Cortar a 12
-  recent = recent.slice(0, TOTAL);
+  final = final.slice(0, TOTAL);
 
   const today = new Date().toISOString().split("T")[0];
 
   fs.writeFileSync(
     `news_${lang}.json`,
-    JSON.stringify({ date: today, notices: recent }, null, 2)
+    JSON.stringify({ date: today, notices: final }, null, 2)
   );
 }
 
