@@ -39,7 +39,11 @@ const SOURCES = {
   it: [
     "https://www.everyeye.it/feed/feed_rss.asp",
     "https://multiplayer.it/notizie.xml",
-    "https://www.spaziogames.it/feed/"
+    "https://www.spaziogames.it/feed/",
+    "https://www.ilvideogioco.com/feed/",
+    "https://www.player.it/feed/",
+    "https://www.gamesvillage.it/feed/",
+    "https://www.tomshw.it/videogioco/feed/"
   ],
   de: [
     "https://www.gamestar.de/news/rss/news.rss",
@@ -136,15 +140,44 @@ function extractImage(item) {
 }
 
 // ===============================
-//  FETCH RSS (LIMITADO)
+//  FETCH RSS CON TIMEOUT
 // ===============================
+function fetchWithTimeout(url, timeout = 5000) {
+  return Promise.race([
+    parser.parseURL(url),
+    new Promise((_, reject) =>
+      setTimeout(() => reject(new Error("timeout")), timeout)
+    )
+  ]);
+}
+
 async function fetchRSS(url) {
   try {
-    const feed = await parser.parseURL(url);
+    const feed = await fetchWithTimeout(url);
     return (feed.items || []).slice(0, MAX_ITEMS_PER_FEED);
   } catch {
+    console.log("Timeout o error en:", url);
     return [];
   }
+}
+
+// ===============================
+//  ELIMINAR DUPLICADOS
+// ===============================
+function removeDuplicates(items) {
+  const seen = new Set();
+  const result = [];
+
+  for (const item of items) {
+    const key = (item.guid || item.link || item.title).toLowerCase();
+
+    if (!seen.has(key)) {
+      seen.add(key);
+      result.push(item);
+    }
+  }
+
+  return result;
 }
 
 // ===============================
@@ -170,6 +203,9 @@ async function generateForLang(lang) {
   all = all.filter(isGamingNews)
            .filter(n => typeof n.thumbnail === "string" && n.thumbnail.startsWith("http"));
 
+  // Eliminar duplicados
+  all = removeDuplicates(all);
+
   // Precalcular rangos
   const r30 = all.filter(n => isRecent(n, MAX_DAYS_BACK));
   const r60 = all.filter(n => isRecent(n, MAX_DAYS_BACK_EXTENDED));
@@ -186,7 +222,7 @@ async function generateForLang(lang) {
   // Fallback inglés
   if (final.length < TOTAL && lang !== "en") {
     const fallbackFeeds = await Promise.all(SOURCES["en"].map(fetchRSS));
-    const fallback = fallbackFeeds.flat()
+    let fallback = fallbackFeeds.flat()
       .map(item => ({
         guid: item.guid || item.link,
         title: item.title,
@@ -197,6 +233,8 @@ async function generateForLang(lang) {
       }))
       .filter(isGamingNews)
       .filter(n => typeof n.thumbnail === "string" && n.thumbnail.startsWith("http"));
+
+    fallback = removeDuplicates(fallback);
 
     final = [...final, ...fallback];
   }
