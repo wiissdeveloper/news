@@ -12,8 +12,6 @@ const parser = new Parser({
 });
 
 const TOTAL = 12;
-const MAX_DAYS_BACK = 30;
-const MAX_DAYS_BACK_EXTENDED = 60;
 
 // ===============================
 //  FUENTES POR IDIOMA
@@ -69,33 +67,11 @@ const GAMER_KEYWORDS = [
 ];
 
 // ===============================
-//  PALABRAS CLAVE ANTI-CINE
-// ===============================
-const MOVIE_KEYWORDS = [
-  "película", "pelicula", "movie", "film", "cine",
-  "actor", "actriz", "director",
-  "taquilla", "box office",
-  "serie", "temporada"
-];
-
-// ===============================
-//  FILTRO GAMER REAL
+//  FILTRO GAMER
 // ===============================
 function isGamingNews(item) {
   const text = `${item.title} ${item.contentSnippet || ""}`.toLowerCase();
-
-  const isGame = GAMER_KEYWORDS.some(k => text.includes(k));
-  const isMovie = MOVIE_KEYWORDS.some(k => text.includes(k));
-
-  return isGame && !isMovie;
-}
-
-// ===============================
-//  RANGO TEMPORAL
-// ===============================
-function isRecent(item, days) {
-  const diff = (Date.now() - new Date(item.pubDate)) / (1000 * 60 * 60 * 24);
-  return diff <= days;
+  return GAMER_KEYWORDS.some(k => text.includes(k));
 }
 
 // ===============================
@@ -118,6 +94,7 @@ function extractImage(item) {
   );
 }
 
+// ===============================
 async function fetchRSS(url) {
   try {
     const feed = await parser.parseURL(url);
@@ -128,14 +105,12 @@ async function fetchRSS(url) {
 }
 
 // ===============================
-//  GENERAR NOTICIAS POR IDIOMA
-// ===============================
 async function generateForLang(lang) {
   let all = [];
 
   for (const url of SOURCES[lang]) {
     const items = await fetchRSS(url);
-    if (!items.length) continue;
+    if (!items || items.length === 0) continue;
 
     const mapped = items.map(item => ({
       guid: item.guid || item.link,
@@ -146,33 +121,24 @@ async function generateForLang(lang) {
       thumbnail: extractImage(item)
     }));
 
+    // FILTRO GAMER
     const gamerOnly = mapped.filter(isGamingNews);
+
     all = all.concat(gamerOnly);
   }
 
+  // Filtrar imágenes válidas
   all = all.filter(n => typeof n.thumbnail === "string" && n.thumbnail.startsWith("http"));
 
-  // 1) Noticias recientes (30 días)
-  let recent = all.filter(n => isRecent(n, MAX_DAYS_BACK));
+  // ORDENAR POR FECHA (más nuevas primero)
+  all.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
 
-  // 2) Si faltan → ampliar a 60 días
-  if (recent.length < TOTAL) {
-    const extended = all.filter(n => isRecent(n, MAX_DAYS_BACK_EXTENDED));
-    recent = [...recent, ...extended];
-  }
-
-  // 3) Si aún faltan → usar todas las del idioma
-  if (recent.length < TOTAL) {
-    recent = [...recent, ...all];
-  }
-
-  // 4) Si aún faltan → fallback inglés
-  if (recent.length < TOTAL && lang !== "en") {
+  // Fallback si faltan noticias
+  if (all.length < TOTAL && lang !== "en") {
     let fallback = [];
 
     for (const url of SOURCES["en"]) {
       const items = await fetchRSS(url);
-
       const mapped = items.map(item => ({
         guid: item.guid || item.link,
         title: item.title,
@@ -182,25 +148,27 @@ async function generateForLang(lang) {
         thumbnail: extractImage(item)
       }));
 
-      fallback = fallback.concat(mapped.filter(isGamingNews));
+      const gamerOnly = mapped.filter(isGamingNews);
+
+      fallback = fallback.concat(gamerOnly);
     }
 
     fallback = fallback.filter(n => typeof n.thumbnail === "string" && n.thumbnail.startsWith("http"));
 
-    recent = [...recent, ...fallback];
+    // Ordenar fallback también
+    fallback.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+
+    all = all.concat(fallback);
   }
 
-  // Orden final
-  recent.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
-
-  // Cortar a 12
-  recent = recent.slice(0, TOTAL);
+  // Cortar a 12 finales
+  all = all.slice(0, TOTAL);
 
   const today = new Date().toISOString().split("T")[0];
 
   fs.writeFileSync(
     `news_${lang}.json`,
-    JSON.stringify({ date: today, notices: recent }, null, 2)
+    JSON.stringify({ date: today, notices: all }, null, 2)
   );
 }
 
