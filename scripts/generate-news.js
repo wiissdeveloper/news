@@ -1,5 +1,6 @@
 import Parser from "rss-parser";
 import fs from "fs";
+import iconv from "iconv-lite";
 
 const parser = new Parser({
   customFields: {
@@ -50,6 +51,7 @@ const SOURCES_ALT = {
 // ===============================
 //  FETCH MANUAL CON HEADERS + TIMEOUT + REINTENTOS
 // ===============================
+
 async function fetchXML(url) {
   for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
     try {
@@ -71,9 +73,17 @@ async function fetchXML(url) {
 
       if (!res.ok) throw new Error("HTTP " + res.status);
 
-      const xml = await res.text();
-      const feed = await parser.parseString(xml);
+      // LEER COMO BINARIO
+      const buffer = Buffer.from(await res.arrayBuffer());
 
+      // DETECTAR CODIFICACIÓN DEL XML
+      const xmlDecl = buffer.toString("ascii", 0, 200).match(/encoding="([^"]+)"/i);
+      const encoding = xmlDecl ? xmlDecl[1].toLowerCase() : "utf-8";
+
+      // DECODIFICAR CORRECTAMENTE
+      const xml = iconv.decode(buffer, encoding);
+
+      const feed = await parser.parseString(xml);
       return (feed.items || []).slice(0, MAX_ITEMS_PER_FEED);
 
     } catch (err) {
@@ -82,6 +92,29 @@ async function fetchXML(url) {
     }
   }
 }
+
+function cleanText(str) {
+  if (!str) return "";
+  return str
+    .replace(/&#39;/g, "'")
+    .replace(/&quot;/g, '"')
+    .replace(/&amp;/g, "&")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&nbsp;/g, " ")
+    .replace(/&rsquo;/g, "'")
+    .replace(/&lsquo;/g, "'")
+    .replace(/&ldquo;/g, '"')
+    .replace(/&rdquo;/g, '"')
+    .replace(/&hellip;/g, "…")
+    .replace(/&eacute;/g, "é")
+    .replace(/&aacute;/g, "á")
+    .replace(/&iacute;/g, "í")
+    .replace(/&oacute;/g, "ó")
+    .replace(/&uacute;/g, "ú")
+    .replace(/&ntilde;/g, "ñ");
+}
+
 
 // ===============================
 //  FETCH RSS (USA fetchXML, NO parseURL)
@@ -237,14 +270,15 @@ async function generateForLang(lang, log) {
 
   // 1. DESCARGAR FUENTES PRINCIPALES
   const primaryFeeds = await Promise.all(SOURCES[lang].map(fetchRSS));
-  let all = primaryFeeds.flat().map(item => ({
-    guid: item.guid || item.link,
-    title: item.title,
-    link: item.link,
-    pubDate: item.pubDate,
-    contentSnippet: item.contentSnippet || item.content || "",
-    thumbnail: extractImage(item)
-  }));
+let all = primaryFeeds.flat().map(item => ({
+  guid: item.guid || item.link,
+  title: cleanText(item.title),
+  link: item.link,
+  pubDate: item.pubDate,
+  contentSnippet: cleanText(item.contentSnippet || item.content || ""),
+  thumbnail: extractImage(item)
+}));
+
 
   // 2. FILTROS BÁSICOS
   all = all
@@ -279,10 +313,10 @@ async function generateForLang(lang, log) {
     const altFeeds = await Promise.all(SOURCES_ALT[lang].map(fetchRSS));
     let alt = altFeeds.flat().map(item => ({
       guid: item.guid || item.link,
-      title: item.title,
+      title: cleanText(item.title),
       link: item.link,
       pubDate: item.pubDate,
-      contentSnippet: item.contentSnippet || item.content || "",
+      contentSnippet: cleanText(item.contentSnippet || item.content || ""),
       thumbnail: extractImage(item)
     }));
 
@@ -303,10 +337,10 @@ async function generateForLang(lang, log) {
     const fallbackFeeds = await Promise.all(SOURCES["en"].map(fetchRSS));
     let fallback = fallbackFeeds.flat().map(item => ({
       guid: item.guid || item.link,
-      title: item.title,
+      title: cleanText(item.title),
       link: item.link,
       pubDate: item.pubDate,
-      contentSnippet: item.contentSnippet || item.content || "",
+      contentSnippet: cleanText(item.contentSnippet || item.content || ""),
       thumbnail: extractImage(item)
     }));
 
