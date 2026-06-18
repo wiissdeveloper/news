@@ -1,6 +1,38 @@
 {
-  "date": "2026-06-17",
+  "date": "2026-06-18",
   "notices": [
+    {
+      "guid": "https://www.gamestar.de/artikel/unreal-engine-5-8-letzte-grosse-version,3454810.html",
+      "title": "Unreal Engine 5.8 - Die nächste Version ist wohl auch der Schlusstakt der aktuellen Engine",
+      "link": "https://www.gamestar.de/artikel/unreal-engine-5-8-letzte-grosse-version,3454810.html",
+      "pubDate": "Wed, 17 Jun 2026 21:12:00 GMT",
+      "contentSnippet": "Epic Games hat Unreal Engine 5.8 veröffentlicht und erklärt die Version offiziell zur letzten großen UE5-Version – parallel laufen die Vorbereitungen für den Nachfolger.",
+      "thumbnail": "https://images.cgames.de/images/gamestar/112/state-of-unreal_6357433.jpg"
+    },
+    {
+      "guid": "https://mein-mmo.de/?p=1397424",
+      "title": "Zehntausende nutzen täglich eine beliebte App auf Steam, im ärgerlichsten Fall habt ihr euch damit Malware geholt",
+      "link": "https://mein-mmo.de/steam-malware-ueber-wallpaper/",
+      "pubDate": "Wed, 17 Jun 2026 16:41:05 +0000",
+      "contentSnippet": "Eine Anwendung für Wallpaper auf Steam wird täglich von etlichen Spielern genutzt. Viele davon enthalten derzeit jedoch bösartige Dateien.\nDer Beitrag Zehntausende nutzen täglich eine beliebte App auf Steam, im ärgerlichsten Fall habt ihr euch damit Malware geholt erschien zuerst auf Mein-MMO.",
+      "thumbnail": "https://images.mein-mmo.de/medien/2026/06/pc-malware-steam-titelbild-1140x445.jpg"
+    },
+    {
+      "guid": "https://www.gamestar.de/artikel/unreal-engine-6-early-access-2027-roadmap,3454807.html",
+      "title": "Unreal Engine 6 - Epics erster Ausblick verrät ein wichtiges Detail – und einen ersten Zeitraum für Tests",
+      "link": "https://www.gamestar.de/artikel/unreal-engine-6-early-access-2027-roadmap,3454807.html",
+      "pubDate": "Wed, 17 Jun 2026 16:41:00 GMT",
+      "contentSnippet": "Epic Games hat einen ersten Fahrplan zu Unreal Engine 6 vorgestellt: Entwicklungschef Marcus Wassmer nennt einen Zeitraum für den Early-Access-Start und erklärt, wie UE5 und UEFN zusammenwachsen.",
+      "thumbnail": "https://images.cgames.de/images/gamestar/112/arksurvivalevolved-unrealengine-studio-wildcard-epic-games_6394531.jpg"
+    },
+    {
+      "guid": "https://mein-mmo.de/?p=1397187",
+      "title": "Die Gen Z und Boomer verstehen sich nicht und daran sind sie nicht mal selbst schuld",
+      "link": "https://mein-mmo.de/boomer-millenial-sprache-verstehen/",
+      "pubDate": "Wed, 17 Jun 2026 16:35:00 +0000",
+      "contentSnippet": "Häufiger wird darüber diskutiert, ob Generationen nicht aneinander vorbeireden und warum. Tatsächlich gibt es dafür wohl gute Gründe.\nDer Beitrag Die Gen Z und Boomer verstehen sich nicht und daran sind sie nicht mal selbst schuld erschien zuerst auf Mein-MMO.",
+      "thumbnail": "https://images.mein-mmo.de/medien/2026/06/Titelbild-alter-Mann-Jonathan-Cosens-Unsplash-1140x445.jpg"
+    },
     {
       "guid": "https://mein-mmo.de/?p=1397324",
       "title": "Steams Gabe Newell reichen drei Yachten nicht mehr, jetzt hat er 71 Millionen Dollar in eine fette Villa gesteckt",
@@ -34,22 +66,6 @@
       "thumbnail": "https://images.mein-mmo.de/medien/2025/11/Titelbild-Steam-Machine-Tischtennis-1140x445.jpg"
     },
     {
-      "guid": "https://mein-mmo.de/?p=1397070",
-      "title": "Auf Steam könnt ihr gerade 13 neue MMORPGs testen und eines davon solltet ihr nicht verpassen",
-      "link": "https://mein-mmo.de/steam-next-fest-mmorpg-embers-of-the-uncrowned/",
-      "pubDate": "Wed, 17 Jun 2026 14:11:27 +0000",
-      "contentSnippet": "Das neue MMORPG Embers of the Uncrowned kann derzeit getestet werden und verspricht eine düstere Welt mit Vibes wie bei Lost Ark.\nDer Beitrag Auf Steam könnt ihr gerade 13 neue MMORPGs testen und eines davon solltet ihr nicht verpassen erschien zuerst auf Mein-MMO.",
-      "thumbnail": "https://images.mein-mmo.de/medien/2026/06/Neues-Projekt-2026-06-16T122643.487-1140x445.jpg"
-    },
-    {
-      "guid": "https://mein-mmo.de/?p=1397251",
-      "title": "Guild Wars 3 verrät schon jetzt 4 wichtige Features des MMORPGs und gibt ein großes Versprechen ab",
-      "link": "https://mein-mmo.de/guild-wars-3-monetarisierung-und-weitere-ausblicke/",
-      "pubDate": "Wed, 17 Jun 2026 14:10:58 +0000",
-      "contentSnippet": "Die Entwickler von Guild Wars 3 haben über die Monetarisierung und weitere Grundpfeiler der Entwicklung gesprochen.\nDer Beitrag Guild Wars 3 verrät schon jetzt 4 wichtige Features des MMORPGs und gibt ein großes Versprechen ab erschien zuerst auf Mein-MMO.",
-      "thumbnail": "https://images.mein-mmo.de/medien/2026/06/Neues-Projekt-2026-06-17T100834.965-1140x445.jpg"
-    },
-    {
       "guid": "https://www.gamestar.de/artikel/steam-sale-vorm-summer-sale,3454758.html",
       "title": "Plus - Steam Sale - Ihr könnt schon Tage vor dem Summer Sale richtig Geld sparen und 9 tolle Spiele so günstig wie noch nie mitnehmen",
       "link": "https://www.gamestar.de/artikel/steam-sale-vorm-summer-sale,3454758.html",
@@ -80,22 +96,6 @@
       "pubDate": "Wed, 17 Jun 2026 10:41:00 GMT",
       "contentSnippet": "Das aktuelle Steam Next Fest kommt nicht gut bei vielen Spielern an. Schuld sind KI-Inhalte, die für viele inzwischen zu dominant auf der Plattform sind.",
       "thumbnail": "https://images.cgames.de/images/gamestar/112/steam-next-fest-ki_6424183.jpg"
-    },
-    {
-      "guid": "https://www.gamestar.de/videos/stellaris-nomads-wir-fliehen-vor-den-schergen-des-khans-und-zeigen-euch-unser-stolzes-archeschiff-im-kampf,141285.html",
-      "title": "Stellaris Nomads: Wir fliehen vor den Schergen des Khans und zeigen euch unser stolzes Archeschiff im Kampf",
-      "link": "https://www.gamestar.de/videos/stellaris-nomads-wir-fliehen-vor-den-schergen-des-khans-und-zeigen-euch-unser-stolzes-archeschiff-im-kampf,141285.html",
-      "pubDate": "Wed, 17 Jun 2026 10:30:00 GMT",
-      "contentSnippet": "In Stellaris: Nomads regiert ihr nicht mehr über ein Reich mit Planeten und Sternensystemen, sondern fliegt mit riesigen Archeschiffen durch den Weltraum, auf dem eure gesamte Bevölkerung sowie eure Forschungseinrichtungen und Fabriken Platz finden. Um den Ressourcenhunger eurer Zivilisation zu stillen, baut ihr die Rohstoffe direkt von Gestirnen ab, entweder mit euren Hauptschiffen, kleineren Logistikschiffen oder Wegstationen, die zusammen ein Wegenetz bilden können, das euch besondere Vorteile gewährt.\r\n\r\nWie wir in unserem Test beschreiben, ist die Umsetzung bislang allerdings noch etwas halbgar. Nomads verändert das Spielgeschehen deutlich, was sich bei der Integratione bemerkbar macht. So ist etwa die Bedienung oft ungelenk umgesetzt und auch das Spielprinzip sollte noch ausgefeilt werden.\r\n\r\nDer DLC kostet aktuell 25 Euro und ist neben Steam und dem Microsoft Store auf GOG.com erhältlich.",
-      "thumbnail": "https://images.cgames.de/images/gamestar/112/videoimage_6424205.jpg"
-    },
-    {
-      "guid": "https://www.gamestar.de/artikel/steam-machine-cpu-geekbench-benchmarks,3454745.html",
-      "title": "Steam Machine - Geekbench-Leak enthüllt: So stark könnte der Prozessor der neuen Steam Machine sein",
-      "link": "https://www.gamestar.de/artikel/steam-machine-cpu-geekbench-benchmarks,3454745.html",
-      "pubDate": "Wed, 17 Jun 2026 09:05:00 GMT",
-      "contentSnippet": "Erste Benchmarks der Steam Machine könnten auf Geekbench veröffentlicht worden sein.",
-      "thumbnail": "https://images.cgames.de/images/gamestar/112/steam-machine-valve-gs-bildquelle-valve_6406261.jpg"
     }
   ]
 }
