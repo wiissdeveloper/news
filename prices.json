@@ -444,13 +444,13 @@
       },
       {
         "rank": 13,
-        "name": "Moon Cresta [Homebrew]",
+        "name": "Ikari Warriors",
         "price_usd": 125,
         "price_eur": 115
       },
       {
         "rank": 14,
-        "name": "Ikari Warriors",
+        "name": "Moon Cresta [Homebrew]",
         "price_usd": 125,
         "price_eur": 115
       },
@@ -463,8 +463,8 @@
       {
         "rank": 16,
         "name": "Commando",
-        "price_usd": 113.68,
-        "price_eur": 105
+        "price_usd": 121.24,
+        "price_eur": 112
       },
       {
         "rank": 17,
@@ -474,21 +474,21 @@
       },
       {
         "rank": 18,
-        "name": "Midnight Mutants",
-        "price_usd": 110.42,
+        "name": "Mean 18 Ultimate Golf",
+        "price_usd": 111.12,
         "price_eur": 102
       },
       {
         "rank": 19,
-        "name": "Alien Brigade",
-        "price_usd": 109.99,
-        "price_eur": 101
+        "name": "Midnight Mutants",
+        "price_usd": 110.48,
+        "price_eur": 102
       },
       {
         "rank": 20,
-        "name": "Super Pac-Man [Homebrew]",
-        "price_usd": 107.5,
-        "price_eur": 99
+        "name": "Alien Brigade",
+        "price_usd": 109.99,
+        "price_eur": 101
       }
     ],
     "atari800": [],
