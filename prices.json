@@ -491,7 +491,128 @@
         "price_eur": 101
       }
     ],
-    "atari800": [],
+    "atari800": [
+      {
+        "rank": 1,
+        "name": "Softporn Adventure",
+        "price_usd": 417.44,
+        "price_eur": 384
+      },
+      {
+        "rank": 2,
+        "name": "Alley Cat",
+        "price_usd": 355.9,
+        "price_eur": 327
+      },
+      {
+        "rank": 3,
+        "name": "Ultima I: The Original",
+        "price_usd": 253.85,
+        "price_eur": 234
+      },
+      {
+        "rank": 4,
+        "name": "Into the Eagle's Nest",
+        "price_usd": 200.99,
+        "price_eur": 185
+      },
+      {
+        "rank": 5,
+        "name": "Atari 130xe",
+        "price_usd": 199.95,
+        "price_eur": 184
+      },
+      {
+        "rank": 6,
+        "name": "Atari 400 Computer System",
+        "price_usd": 164.99,
+        "price_eur": 152
+      },
+      {
+        "rank": 7,
+        "name": "New York City",
+        "price_usd": 159.99,
+        "price_eur": 147
+      },
+      {
+        "rank": 8,
+        "name": "Atari 410 Program Recorder",
+        "price_usd": 145.5,
+        "price_eur": 134
+      },
+      {
+        "rank": 9,
+        "name": "Atari 800 Console",
+        "price_usd": 141.5,
+        "price_eur": 130
+      },
+      {
+        "rank": 10,
+        "name": "Scramble",
+        "price_usd": 133.2,
+        "price_eur": 123
+      },
+      {
+        "rank": 11,
+        "name": "Atari 1010 Program Recorder",
+        "price_usd": 129.99,
+        "price_eur": 120
+      },
+      {
+        "rank": 12,
+        "name": "Mario Bros.",
+        "price_usd": 109.98,
+        "price_eur": 101
+      },
+      {
+        "rank": 13,
+        "name": "Atari 400 Console",
+        "price_usd": 105.5,
+        "price_eur": 97
+      },
+      {
+        "rank": 14,
+        "name": "Super Zaxxon",
+        "price_usd": 96.33,
+        "price_eur": 89
+      },
+      {
+        "rank": 15,
+        "name": "Thunderfox",
+        "price_usd": 94.99,
+        "price_eur": 87
+      },
+      {
+        "rank": 16,
+        "name": "Picnic Paranoia",
+        "price_usd": 90.21,
+        "price_eur": 83
+      },
+      {
+        "rank": 17,
+        "name": "Atari 400 Mini",
+        "price_usd": 90,
+        "price_eur": 83
+      },
+      {
+        "rank": 18,
+        "name": "Atari 800 XL Console",
+        "price_usd": 88.13,
+        "price_eur": 81
+      },
+      {
+        "rank": 19,
+        "name": "Ultima IV: Quest of the Avatar",
+        "price_usd": 87.04,
+        "price_eur": 80
+      },
+      {
+        "rank": 20,
+        "name": "Captain Beeble",
+        "price_usd": 86.44,
+        "price_eur": 80
+      }
+    ],
     "atarilynx": [
       {
         "rank": 1,
