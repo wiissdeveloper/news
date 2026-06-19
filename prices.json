@@ -1,0 +1,759 @@
+{
+  "updated": "2026-06-19",
+  "source": "https://www.pricecharting.com",
+  "systems": {
+    "3do": [
+      {
+        "rank": 1,
+        "name": "DinoPark Tycoon",
+        "price_usd": 743.75,
+        "price_eur": 684
+      },
+      {
+        "rank": 2,
+        "name": "Lucienne's Quest",
+        "price_usd": 322.15,
+        "price_eur": 296
+      },
+      {
+        "rank": 3,
+        "name": "Firewall",
+        "price_usd": 298.91,
+        "price_eur": 275
+      },
+      {
+        "rank": 4,
+        "name": "DOCS Wireless Controllers",
+        "price_usd": 279.99,
+        "price_eur": 258
+      },
+      {
+        "rank": 5,
+        "name": "GameGun",
+        "price_usd": 277.88,
+        "price_eur": 256
+      },
+      {
+        "rank": 6,
+        "name": "3DO FZ-1 Console",
+        "price_usd": 269.42,
+        "price_eur": 248
+      },
+      {
+        "rank": 7,
+        "name": "3DO Console Sanyo",
+        "price_usd": 253.72,
+        "price_eur": 233
+      },
+      {
+        "rank": 8,
+        "name": "Panasonic FZ-10 Console [Gex Bundle]",
+        "price_usd": 249.99,
+        "price_eur": 230
+      },
+      {
+        "rank": 9,
+        "name": "Panasonic 3DO FZ-1",
+        "price_usd": 249.99,
+        "price_eur": 230
+      },
+      {
+        "rank": 10,
+        "name": "3DO Console FZ-10",
+        "price_usd": 229.98,
+        "price_eur": 212
+      },
+      {
+        "rank": 11,
+        "name": "3DO Console",
+        "price_usd": 220,
+        "price_eur": 202
+      },
+      {
+        "rank": 12,
+        "name": "Endlessly",
+        "price_usd": 219.5,
+        "price_eur": 202
+      },
+      {
+        "rank": 13,
+        "name": "NeuroDancer: Journey Into The Neuronet",
+        "price_usd": 179.99,
+        "price_eur": 166
+      },
+      {
+        "rank": 14,
+        "name": "3DO FZ-10 Controller",
+        "price_usd": 156.02,
+        "price_eur": 144
+      },
+      {
+        "rank": 15,
+        "name": "Mind Teazzer",
+        "price_usd": 141.29,
+        "price_eur": 130
+      },
+      {
+        "rank": 16,
+        "name": "Battle Blues",
+        "price_usd": 140.48,
+        "price_eur": 129
+      },
+      {
+        "rank": 17,
+        "name": "Royal Pro Wrestling",
+        "price_usd": 139.99,
+        "price_eur": 129
+      },
+      {
+        "rank": 18,
+        "name": "American Laser Games Game Gun",
+        "price_usd": 129.92,
+        "price_eur": 120
+      },
+      {
+        "rank": 19,
+        "name": "3DO Gamegun",
+        "price_usd": 123.29,
+        "price_eur": 113
+      },
+      {
+        "rank": 20,
+        "name": "Sex",
+        "price_usd": 122.12,
+        "price_eur": 112
+      }
+    ],
+    "amiga": [
+      {
+        "rank": 1,
+        "name": "Amiga 4000 Desktop",
+        "price_usd": 2130.65,
+        "price_eur": 1960
+      },
+      {
+        "rank": 2,
+        "name": "Amiga 1200 Computer",
+        "price_usd": 922.83,
+        "price_eur": 849
+      },
+      {
+        "rank": 3,
+        "name": "Amiga 1000 Computer",
+        "price_usd": 509.73,
+        "price_eur": 469
+      },
+      {
+        "rank": 4,
+        "name": "Amiga 2000 Computer",
+        "price_usd": 499,
+        "price_eur": 459
+      },
+      {
+        "rank": 5,
+        "name": "The Great Giana Sisters",
+        "price_usd": 481.25,
+        "price_eur": 443
+      },
+      {
+        "rank": 6,
+        "name": "Amiga 600 Computer",
+        "price_usd": 474.16,
+        "price_eur": 436
+      },
+      {
+        "rank": 7,
+        "name": "Street Rod 2",
+        "price_usd": 300,
+        "price_eur": 276
+      },
+      {
+        "rank": 8,
+        "name": "Commodore Amiga CDTV",
+        "price_usd": 266.81,
+        "price_eur": 245
+      },
+      {
+        "rank": 9,
+        "name": "Spellbreaker",
+        "price_usd": 249.99,
+        "price_eur": 230
+      },
+      {
+        "rank": 10,
+        "name": "A500 Mini",
+        "price_usd": 204.88,
+        "price_eur": 188
+      },
+      {
+        "rank": 11,
+        "name": "Astaroth: The Angel of Death",
+        "price_usd": 199.95,
+        "price_eur": 184
+      },
+      {
+        "rank": 12,
+        "name": "Amiga 500 Computer",
+        "price_usd": 171.12,
+        "price_eur": 157
+      },
+      {
+        "rank": 13,
+        "name": "Wings",
+        "price_usd": 160,
+        "price_eur": 147
+      },
+      {
+        "rank": 14,
+        "name": "King's Quest VI: Heir Today Gone Tomorrow",
+        "price_usd": 149,
+        "price_eur": 137
+      },
+      {
+        "rank": 15,
+        "name": "Ultima III: Exodus",
+        "price_usd": 131.02,
+        "price_eur": 121
+      },
+      {
+        "rank": 16,
+        "name": "Turrican",
+        "price_usd": 129.3,
+        "price_eur": 119
+      },
+      {
+        "rank": 17,
+        "name": "Loom",
+        "price_usd": 120,
+        "price_eur": 110
+      },
+      {
+        "rank": 18,
+        "name": "Space Quest II: Vohaul's Revenge",
+        "price_usd": 103.5,
+        "price_eur": 95
+      },
+      {
+        "rank": 19,
+        "name": "Storm Across Europe",
+        "price_usd": 100.99,
+        "price_eur": 93
+      },
+      {
+        "rank": 20,
+        "name": "Ultima V: Warriors Of Destiny",
+        "price_usd": 99.99,
+        "price_eur": 92
+      }
+    ],
+    "arcade": [],
+    "atari2600": [
+      {
+        "rank": 1,
+        "name": "Red Sea Crossing",
+        "price_usd": 10400,
+        "price_eur": 9568
+      },
+      {
+        "rank": 2,
+        "name": "Air Raid",
+        "price_usd": 8499.99,
+        "price_eur": 7820
+      },
+      {
+        "rank": 3,
+        "name": "Pepsi Invaders",
+        "price_usd": 1965.66,
+        "price_eur": 1808
+      },
+      {
+        "rank": 4,
+        "name": "Eli's Ladder",
+        "price_usd": 1500,
+        "price_eur": 1380
+      },
+      {
+        "rank": 5,
+        "name": "Lochjaw",
+        "price_usd": 1425.44,
+        "price_eur": 1311
+      },
+      {
+        "rank": 6,
+        "name": "Star Wars Ewok Adventure Prototype",
+        "price_usd": 1245.28,
+        "price_eur": 1146
+      },
+      {
+        "rank": 7,
+        "name": "Superman [Tele Games Picture Label]",
+        "price_usd": 929.26,
+        "price_eur": 855
+      },
+      {
+        "rank": 8,
+        "name": "River Patrol",
+        "price_usd": 797.77,
+        "price_eur": 734
+      },
+      {
+        "rank": 9,
+        "name": "Karate [Ultravision]",
+        "price_usd": 742.81,
+        "price_eur": 683
+      },
+      {
+        "rank": 10,
+        "name": "Color Bar Generator",
+        "price_usd": 615.12,
+        "price_eur": 566
+      },
+      {
+        "rank": 11,
+        "name": "Malagai",
+        "price_usd": 575,
+        "price_eur": 529
+      },
+      {
+        "rank": 12,
+        "name": "Out of Control",
+        "price_usd": 558.96,
+        "price_eur": 514
+      },
+      {
+        "rank": 13,
+        "name": "Stunt Cycle",
+        "price_usd": 550,
+        "price_eur": 506
+      },
+      {
+        "rank": 14,
+        "name": "Halloween",
+        "price_usd": 539,
+        "price_eur": 496
+      },
+      {
+        "rank": 15,
+        "name": "Copy Cart",
+        "price_usd": 500,
+        "price_eur": 460
+      },
+      {
+        "rank": 16,
+        "name": "The Music Machine",
+        "price_usd": 454.86,
+        "price_eur": 418
+      },
+      {
+        "rank": 17,
+        "name": "Pursuit Of The Pink Panther [Homebrew]",
+        "price_usd": 405,
+        "price_eur": 373
+      },
+      {
+        "rank": 18,
+        "name": "Desert Bus 2600 [Homebrew]",
+        "price_usd": 350,
+        "price_eur": 322
+      },
+      {
+        "rank": 19,
+        "name": "Dukes Of Hazzard: Stunt Cycle [Homewbrew]",
+        "price_usd": 323.95,
+        "price_eur": 298
+      },
+      {
+        "rank": 20,
+        "name": "Cakewalk",
+        "price_usd": 300,
+        "price_eur": 276
+      }
+    ],
+    "atari7800": [
+      {
+        "rank": 1,
+        "name": "Scramble [Homebrew]",
+        "price_usd": 467,
+        "price_eur": 430
+      },
+      {
+        "rank": 2,
+        "name": "Galaxian [Homebrew]",
+        "price_usd": 449.99,
+        "price_eur": 414
+      },
+      {
+        "rank": 3,
+        "name": "b*nQ [Homebrew]",
+        "price_usd": 378.89,
+        "price_eur": 349
+      },
+      {
+        "rank": 4,
+        "name": "Donkey Kong PK [Homebrew]",
+        "price_usd": 350,
+        "price_eur": 322
+      },
+      {
+        "rank": 5,
+        "name": "Tank Command",
+        "price_usd": 299.1,
+        "price_eur": 275
+      },
+      {
+        "rank": 6,
+        "name": "Rikki & Vikki [Homebrew]",
+        "price_usd": 261.13,
+        "price_eur": 240
+      },
+      {
+        "rank": 7,
+        "name": "K.C. Munchkin [Homebrew]",
+        "price_usd": 175,
+        "price_eur": 161
+      },
+      {
+        "rank": 8,
+        "name": "7800 GameDrive",
+        "price_usd": 170,
+        "price_eur": 156
+      },
+      {
+        "rank": 9,
+        "name": "Pac-Man Double Feature [Gold Edition]",
+        "price_usd": 169.54,
+        "price_eur": 156
+      },
+      {
+        "rank": 10,
+        "name": "Astro Fighter [Homebrew]",
+        "price_usd": 147.3,
+        "price_eur": 136
+      },
+      {
+        "rank": 11,
+        "name": "Space Invaders [Homebrew]",
+        "price_usd": 143.75,
+        "price_eur": 132
+      },
+      {
+        "rank": 12,
+        "name": "Serpentine [Homebrew]",
+        "price_usd": 140,
+        "price_eur": 129
+      },
+      {
+        "rank": 13,
+        "name": "Moon Cresta [Homebrew]",
+        "price_usd": 125,
+        "price_eur": 115
+      },
+      {
+        "rank": 14,
+        "name": "Ikari Warriors",
+        "price_usd": 125,
+        "price_eur": 115
+      },
+      {
+        "rank": 15,
+        "name": "Klax [Homebrew]",
+        "price_usd": 124.95,
+        "price_eur": 115
+      },
+      {
+        "rank": 16,
+        "name": "Commando",
+        "price_usd": 113.68,
+        "price_eur": 105
+      },
+      {
+        "rank": 17,
+        "name": "Missing In Action [Homebrew]",
+        "price_usd": 113.19,
+        "price_eur": 104
+      },
+      {
+        "rank": 18,
+        "name": "Midnight Mutants",
+        "price_usd": 110.42,
+        "price_eur": 102
+      },
+      {
+        "rank": 19,
+        "name": "Alien Brigade",
+        "price_usd": 109.99,
+        "price_eur": 101
+      },
+      {
+        "rank": 20,
+        "name": "Super Pac-Man [Homebrew]",
+        "price_usd": 107.5,
+        "price_eur": 99
+      }
+    ],
+    "atari800": [],
+    "atarilynx": [
+      {
+        "rank": 1,
+        "name": "Relief Pitcher [Prototype]",
+        "price_usd": 340.15,
+        "price_eur": 313
+      },
+      {
+        "rank": 2,
+        "name": "Atari Lynx II Console",
+        "price_usd": 175.64,
+        "price_eur": 162
+      },
+      {
+        "rank": 3,
+        "name": "Atari Lynx Console",
+        "price_usd": 171.29,
+        "price_eur": 158
+      },
+      {
+        "rank": 4,
+        "name": "Bubble Trouble",
+        "price_usd": 134.99,
+        "price_eur": 124
+      },
+      {
+        "rank": 5,
+        "name": "Puzzler 2000 [Homebrew]",
+        "price_usd": 127.5,
+        "price_eur": 117
+      },
+      {
+        "rank": 6,
+        "name": "Zaku",
+        "price_usd": 125.66,
+        "price_eur": 116
+      },
+      {
+        "rank": 7,
+        "name": "Dynablaster",
+        "price_usd": 122.5,
+        "price_eur": 113
+      },
+      {
+        "rank": 8,
+        "name": "Raiden",
+        "price_usd": 112.75,
+        "price_eur": 104
+      },
+      {
+        "rank": 9,
+        "name": "PokerMania [Homebrew]",
+        "price_usd": 109.39,
+        "price_eur": 101
+      },
+      {
+        "rank": 10,
+        "name": "Double Dragon",
+        "price_usd": 105.82,
+        "price_eur": 97
+      },
+      {
+        "rank": 11,
+        "name": "Super Asteroids & Missile Command",
+        "price_usd": 99.49,
+        "price_eur": 92
+      },
+      {
+        "rank": 12,
+        "name": "Fat Bobby",
+        "price_usd": 97.12,
+        "price_eur": 89
+      },
+      {
+        "rank": 13,
+        "name": "Lemmings",
+        "price_usd": 95.56,
+        "price_eur": 88
+      },
+      {
+        "rank": 14,
+        "name": "Game Drive",
+        "price_usd": 90,
+        "price_eur": 83
+      },
+      {
+        "rank": 15,
+        "name": "Battlezone 2000",
+        "price_usd": 75.66,
+        "price_eur": 70
+      },
+      {
+        "rank": 16,
+        "name": "Super Off Road",
+        "price_usd": 74.99,
+        "price_eur": 69
+      },
+      {
+        "rank": 17,
+        "name": "Quadromania [Homebrew]",
+        "price_usd": 70,
+        "price_eur": 64
+      },
+      {
+        "rank": 18,
+        "name": "Solitaire [Homebrew]",
+        "price_usd": 68,
+        "price_eur": 63
+      },
+      {
+        "rank": 19,
+        "name": "SokoMania [Homebrew]",
+        "price_usd": 66,
+        "price_eur": 61
+      },
+      {
+        "rank": 20,
+        "name": "Desert Strike",
+        "price_usd": 62.47,
+        "price_eur": 57
+      }
+    ],
+    "dreamcast": [],
+    "fds": [
+      {
+        "rank": 1,
+        "name": "Golf [Gold]",
+        "price_usd": 404.36,
+        "price_eur": 372
+      },
+      {
+        "rank": 2,
+        "name": "I am a Teacher: Teami no Kiso",
+        "price_usd": 178.3,
+        "price_eur": 164
+      },
+      {
+        "rank": 3,
+        "name": "All One",
+        "price_usd": 107.72,
+        "price_eur": 99
+      },
+      {
+        "rank": 4,
+        "name": "Famicom Disk System Console",
+        "price_usd": 89.98,
+        "price_eur": 83
+      },
+      {
+        "rank": 5,
+        "name": "Janken Disk Jo",
+        "price_usd": 84.99,
+        "price_eur": 78
+      },
+      {
+        "rank": 6,
+        "name": "Roger Rabbit",
+        "price_usd": 80,
+        "price_eur": 74
+      },
+      {
+        "rank": 7,
+        "name": "All Night Nippon Super Mario Bros",
+        "price_usd": 79.98,
+        "price_eur": 74
+      },
+      {
+        "rank": 8,
+        "name": "Omoikkiri Tanteidan Haado Gumi",
+        "price_usd": 60.21,
+        "price_eur": 55
+      },
+      {
+        "rank": 9,
+        "name": "Doremikko",
+        "price_usd": 59.49,
+        "price_eur": 55
+      },
+      {
+        "rank": 10,
+        "name": "Battle City",
+        "price_usd": 50,
+        "price_eur": 46
+      },
+      {
+        "rank": 11,
+        "name": "Dracula II",
+        "price_usd": 45.7,
+        "price_eur": 42
+      },
+      {
+        "rank": 12,
+        "name": "Clu Clu Land",
+        "price_usd": 42.99,
+        "price_eur": 40
+      },
+      {
+        "rank": 13,
+        "name": "Panic Space",
+        "price_usd": 42.37,
+        "price_eur": 39
+      },
+      {
+        "rank": 14,
+        "name": "Legend of Zelda",
+        "price_usd": 41.99,
+        "price_eur": 39
+      },
+      {
+        "rank": 15,
+        "name": "Time Twist: Rekishi no Katasumi de [Kouhen]",
+        "price_usd": 41.06,
+        "price_eur": 38
+      },
+      {
+        "rank": 16,
+        "name": "BurgerTime",
+        "price_usd": 40.63,
+        "price_eur": 37
+      },
+      {
+        "rank": 17,
+        "name": "Akumajou Dracula",
+        "price_usd": 39.99,
+        "price_eur": 37
+      },
+      {
+        "rank": 18,
+        "name": "Fairytale",
+        "price_usd": 39,
+        "price_eur": 36
+      },
+      {
+        "rank": 19,
+        "name": "Metroid",
+        "price_usd": 38.99,
+        "price_eur": 36
+      },
+      {
+        "rank": 20,
+        "name": "Fire Rock",
+        "price_usd": 37.68,
+        "price_eur": 35
+      }
+    ],
+    "gb": [],
+    "gba": [],
+    "gbc": [],
+    "gamegear": [],
+    "genesis": [],
+    "mame": [],
+    "mastersystem": [],
+    "megadrive": [],
+    "n64": [],
+    "nds": [],
+    "neogeo": [],
+    "nes": [],
+    "pcengine": [],
+    "psx": [],
+    "ps2": [],
+    "psp": [],
+    "snes": [],
+    "zxspectrum": []
+  }
+}
