@@ -1,16 +1,34 @@
 import fs from "fs";
 import fetch from "node-fetch";
+import axios from "axios";
 import { JSDOM } from "jsdom";
 
 // ===============================
 //  CONFIG
 // ===============================
-const USD_TO_EUR = 0.92;
+let USD_TO_EUR = 0.92; // valor por defecto
 const MAX_RETRIES = 3;
 const TIMEOUT_MS = 10000;
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 const getRandomDelay = (min, max) => Math.floor(Math.random() * (max - min + 1) + min);
+
+// ===============================
+//  GET REAL USD→EUR
+// ===============================
+async function getRealUSDtoEUR() {
+  try {
+    const res = await axios.get("https://api.exchangerate.host/latest?base=USD&symbols=EUR");
+    const rate = res.data?.rates?.EUR;
+    if (rate) {
+      console.log("Tipo de cambio USD→EUR actualizado:", rate);
+      return rate;
+    }
+  } catch (err) {
+    console.log("No se pudo obtener el tipo de cambio real. Usando fallback:", USD_TO_EUR);
+  }
+  return USD_TO_EUR;
+}
 
 // ===============================
 //  SYSTEMS
@@ -159,6 +177,8 @@ function parseSalesTable(html) {
 //  MAIN
 // ===============================
 async function main() {
+  USD_TO_EUR = await getRealUSDtoEUR();
+
   const result = {};
 
   for (const id of Object.keys(SYSTEMS)) result[id] = [];
