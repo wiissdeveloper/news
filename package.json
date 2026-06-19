@@ -1,8 +1,11 @@
 {
+  "name": "vortex-scrapers",
+  "version": "1.0.0",
   "type": "module",
   "dependencies": {
-    "iconv-lite": "^0.7.2",
-    "node-fetch": "^2.7.0",
+    "jsdom": "^24.0.0",
+    "node-fetch": "^3.3.2",
+    "iconv-lite": "^0.6.3",
     "rss-parser": "^3.13.0"
   }
 }
