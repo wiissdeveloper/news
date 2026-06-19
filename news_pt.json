@@ -1,6 +1,30 @@
 {
-  "date": "2026-06-18",
+  "date": "2026-06-19",
   "notices": [
+    {
+      "guid": "https://www.eurogamer.pt/ceo-da-playstation-diz-que-as-consolas-sao-necessarias-para-jogar",
+      "title": "CEO da PlayStation diz que as consolas são \"necessárias\" para jogar",
+      "link": "https://www.eurogamer.pt/ceo-da-playstation-diz-que-as-consolas-sao-necessarias-para-jogar",
+      "pubDate": "Thu, 18 Jun 2026 23:00:04 +0000",
+      "contentSnippet": "Numa entrevista à revista japonesa Famitsu, Hideaki Nishino, CEO da PlayStation, falou sobre a situação atual da indústria e disse que as consolas continuam a ser uma parte importante dos videojogos. Num mercado em que os computadores estão a ganhar cada vez mais terreno e os dispositivos móveis dominam as receitas globais, a opinião do executivo diz muito sobre a importância estratégica do hardware dedicado para a Sony.\n Ler mais",
+      "thumbnail": "https://assetsio.gnwcdn.com/PS5-Pro_AAqQMZ5.png?width=690&quality=85&format=jpg&auto=webp"
+    },
+    {
+      "guid": "https://www.eurogamer.pt/lancamento-da-ps6-pode-ser-adiado-para-2028-ou-2029",
+      "title": "Lançamento da PS6 pode ser adiado para 2028 ou 2029",
+      "link": "https://www.eurogamer.pt/lancamento-da-ps6-pode-ser-adiado-para-2028-ou-2029",
+      "pubDate": "Thu, 18 Jun 2026 22:21:54 +0000",
+      "contentSnippet": "De acordo com um novo relatório da Embracer, a chegada da PlayStation 6 não deverá acontecer em 2027, o que interrompe o ciclo tradicional de sete anos que se verificou entre a PS4 e a PS5.\n Ler mais",
+      "thumbnail": "https://assetsio.gnwcdn.com/PS6_2.png?width=690&quality=85&format=jpg&auto=webp"
+    },
+    {
+      "guid": "https://www.eurogamer.pt/digimon-story-time-stranger-a-60fps-nas-consolas",
+      "title": "Digimon Story: Time Stranger a 60fps nas consolas",
+      "link": "https://www.eurogamer.pt/digimon-story-time-stranger-a-60fps-nas-consolas",
+      "pubDate": "Thu, 18 Jun 2026 16:43:08 +0000",
+      "contentSnippet": "A Bandai Namco anunciou que a partir de 9 de julho, será possível jogar Digimon Story: Time Stranger a 60fps numa consola.\n Ler mais",
+      "thumbnail": "https://assetsio.gnwcdn.com/Digimon-Story-Time-Stranger-Update_06-18-26_Top-1440x810.jpg?width=690&quality=85&format=jpg&auto=webp"
+    },
     {
       "guid": "https://www.eurogamer.pt/my-hero-academia-alls-justice-na-switch-2",
       "title": "My Hero Academia: All’s Justice na Switch 2",
@@ -72,30 +96,6 @@
       "pubDate": "Thu, 18 Jun 2026 10:27:28 +0000",
       "contentSnippet": "Apesar da recuperação nos últimos dias e do forte sucesso da última grande atualização de Destiny 2, o futuro da Bungie parece que vai ser mesmo marcado por cortes drásticos. Espera-se que o apoio ativo ao jogo seja drasticamente reduzido muito em breve\n Ler mais",
       "thumbnail": "https://assetsio.gnwcdn.com/destiny.jpeg?width=690&quality=85&format=jpg&auto=webp"
-    },
-    {
-      "guid": "https://www.eurogamer.pt/lego-revela-maquina-de-pinball-na-qual-podes-jogar",
-      "title": "LEGO revela máquina de Pinball na qual podes jogar",
-      "link": "https://www.eurogamer.pt/lego-revela-maquina-de-pinball-na-qual-podes-jogar",
-      "pubDate": "Thu, 18 Jun 2026 09:51:23 +0000",
-      "contentSnippet": "O Grupo LEGO revelou a primeira máquina funcional de pinball LEGO de sempre, um modelo inspirado pelos jogos de arcada retro no qual podes jogar.\n Ler mais",
-      "thumbnail": "https://assetsio.gnwcdn.com/11374_Lifestyle_Cons_01.jpg?width=690&quality=85&format=jpg&auto=webp"
-    },
-    {
-      "guid": "https://www.eurogamer.pt/black-ops-e-black-ops-2-na-ps5",
-      "title": "Black Ops e Black Ops 2 na PS5",
-      "link": "https://www.eurogamer.pt/black-ops-e-black-ops-2-na-ps5",
-      "pubDate": "Thu, 18 Jun 2026 09:45:30 +0000",
-      "contentSnippet": "Os jogos Call of Duty: Black Ops e Call of Duty: Black Ops 2 vão receber versões nativas para a PlayStation.\n Ler mais",
-      "thumbnail": "https://assetsio.gnwcdn.com/apps.9168.71037132718083264.9e558f9c-31e4-4757-b43c-05a53e0c4977.jpeg?width=690&quality=85&format=jpg&auto=webp"
-    },
-    {
-      "guid": "https://www.eurogamer.pt/empresa-fecha-para-jogar-gta-6",
-      "title": "Empresa fecha para jogar GTA 6",
-      "link": "https://www.eurogamer.pt/empresa-fecha-para-jogar-gta-6",
-      "pubDate": "Thu, 18 Jun 2026 09:28:25 +0000",
-      "contentSnippet": "GTA 6 vai causar um forte impacto na produtitivade em novembro, isto é algo que a maioria consegue prever, mas já estamos a ver os primeiros sinais disso. Uma empresa na Califórnia comunicou que vai mesmo encerrar no dia de lançamento do jogo da Rockstar Games.\n Ler mais",
-      "thumbnail": "https://assetsio.gnwcdn.com/Jason_and_Lucia_02_landscape.webp?width=690&quality=85&format=jpg&auto=webp"
     }
   ]
 }
