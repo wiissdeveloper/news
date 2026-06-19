@@ -12,6 +12,9 @@ const TIMEOUT_MS = 10000;
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 const getRandomDelay = (min, max) => Math.floor(Math.random() * (max - min + 1) + min);
 
+// ===============================
+//  SYSTEMS
+// ===============================
 const SYSTEMS = {
   '3do': 'Panasonic 3DO', 'amiga': 'Amiga', 'arcade': 'Arcade', 'atari2600': 'Atari 2600',
   'atari7800': 'Atari 7800', 'atari800': 'Atari 800', 'atarilynx': 'Atari Lynx', 'atarijaguar': 'Atari Jaguar',
@@ -26,6 +29,9 @@ const SYSTEMS = {
   'virtualboy': 'Virtual Boy', 'wonderswan': 'WonderSwan', 'wonderswancolor': 'WonderSwan Color', 'zxspectrum': 'ZX Spectrum'
 };
 
+// ===============================
+//  MAP
+// ===============================
 const MAP = {
   "3do": "3do", "amiga": "amiga", "atari-2600": "atari2600", "atari-7800": "atari7800",
   "atari-lynx": "atarilynx", "dreamcast": "dreamcast", "famicom-disk-system": "fds",
@@ -41,6 +47,9 @@ const MAP = {
   "wonderswan-color": "wonderswancolor"
 };
 
+// ===============================
+//  PRICECHARTING_URLS
+// ===============================
 const PRICECHARTING_URLS = {
   "3do": "https://www.pricecharting.com/console/3do?sort=highest-price",
   "atari-2600": "https://www.pricecharting.com/console/atari-2600?sort=highest-price",
@@ -78,6 +87,9 @@ const PRICECHARTING_URLS = {
   "wonderswan-color": "https://www.pricecharting.com/console/wonderswan-color?sort=highest-price"
 };
 
+// ===============================
+//  FETCH HTML
+// ===============================
 async function fetchHTML(url) {
   for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
     try {
@@ -94,35 +106,88 @@ async function fetchHTML(url) {
   }
 }
 
+// ===============================
+//  PARSE GAMES TABLE
+// ===============================
 function parseTable(html) {
   const dom = new JSDOM(html);
   const table = dom.window.document.querySelector("table#games_table");
-  if (!table) return [];
+  if (!table) return null;
+
   return [...table.querySelectorAll("tbody tr")].slice(0, 20).map((row, i) => {
     const cols = row.querySelectorAll("td");
     if (cols.length < 3) return null;
+
     const price = Number(cols[2]?.textContent.replace(/[^0-9.]/g, "")) || 0;
-    return { rank: i + 1, name: cols[1]?.textContent.trim(), price_usd: price, price_eur: Math.round(price * USD_TO_EUR) };
+
+    return {
+      rank: i + 1,
+      name: cols[1]?.textContent.trim(),
+      price_usd: price,
+      price_eur: Math.round(price * USD_TO_EUR),
+      isHistory: false
+    };
   }).filter(Boolean);
 }
 
+// ===============================
+//  PARSE SALES TABLE
+// ===============================
+function parseSalesTable(html) {
+  const dom = new JSDOM(html);
+  const table = dom.window.document.querySelector("table#sales_table, table#product_sales");
+
+  if (!table) return [];
+
+  return [...table.querySelectorAll("tbody tr")].slice(0, 20).map((row, i) => {
+    const cols = row.querySelectorAll("td");
+    if (cols.length < 3) return null;
+
+    const price = Number(cols[2]?.textContent.replace(/[^0-9.]/g, "")) || 0;
+
+    return {
+      rank: i + 1,
+      name: cols[1]?.textContent.trim(),
+      price_usd: price,
+      price_eur: Math.round(price * USD_TO_EUR),
+      isHistory: true
+    };
+  }).filter(Boolean);
+}
+
+// ===============================
+//  MAIN
+// ===============================
 async function main() {
   const result = {};
-  // Inicializar TODOS los sistemas en el resultado
+
   for (const id of Object.keys(SYSTEMS)) result[id] = [];
 
-  // Procesar solo los que tienen URL configurada
   for (const [key, url] of Object.entries(PRICECHARTING_URLS)) {
     const systemId = MAP[key];
     if (systemId && SYSTEMS[systemId]) {
       console.log(`Scraping: ${SYSTEMS[systemId]}...`);
+
       const html = await fetchHTML(url);
-      if (html) result[systemId] = parseTable(html);
+      if (!html) continue;
+
+      let data = parseTable(html);
+
+      if (data === null) {
+        console.log(`[INFO] ${systemId} → sin tabla de juegos, buscando historial...`);
+        data = parseSalesTable(html);
+      }
+
+      result[systemId] = data || [];
       await sleep(getRandomDelay(2000, 5000));
     }
   }
 
-  fs.writeFileSync('prices.json', JSON.stringify({ updated: new Date().toISOString().split("T")[0], systems: result }, null, 2));
+  fs.writeFileSync(
+    'prices.json',
+    JSON.stringify({ updated: new Date().toISOString().split("T")[0], systems: result }, null, 2)
+  );
+
   console.log("¡Hecho! prices.json generado.");
 }
 
