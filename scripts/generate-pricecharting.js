@@ -44,7 +44,9 @@ const SYSTEMS = {
   'zxspectrum': 'ZX Spectrum'
 };
 
-// Mapeo PriceCharting → tus IDs
+// ===============================
+//  MAPEOS PriceCharting → tus IDs
+// ===============================
 const MAP = {
   "3do": "3do",
   "amiga": "amiga",
@@ -61,17 +63,20 @@ const MAP = {
   "mega-drive": "megadrive",
   "master-system": "mastersystem",
   "n64": "n64",
+  "nintendo-ds": "nds",
   "neo-geo-aes": "neogeo",
   "nes": "nes",
   "pc-engine": "pcengine",
   "playstation": "psx",
   "playstation-2": "ps2",
   "playstation-portable": "psp",
-  "snes": "snes",
+  "super-nintendo": "snes",
   "zx-spectrum": "zxspectrum"
 };
 
-// URLs reales de PriceCharting
+// ===============================
+//  TODAS LAS URLs REALES
+// ===============================
 const PRICECHARTING_URLS = {
   "3do": "https://www.pricecharting.com/console/3do?sort=highest-price",
   "amiga": "https://www.pricecharting.com/console/amiga?sort=highest-price",
@@ -88,13 +93,14 @@ const PRICECHARTING_URLS = {
   "mega-drive": "https://www.pricecharting.com/console/mega-drive?sort=highest-price",
   "master-system": "https://www.pricecharting.com/console/master-system?sort=highest-price",
   "n64": "https://www.pricecharting.com/console/n64?sort=highest-price",
+  "nintendo-ds": "https://www.pricecharting.com/console/nintendo-ds?sort=highest-price",
   "neo-geo-aes": "https://www.pricecharting.com/console/neo-geo-aes?sort=highest-price",
   "nes": "https://www.pricecharting.com/console/nes?sort=highest-price",
   "pc-engine": "https://www.pricecharting.com/console/pc-engine?sort=highest-price",
   "playstation": "https://www.pricecharting.com/console/playstation?sort=highest-price",
   "playstation-2": "https://www.pricecharting.com/console/playstation-2?sort=highest-price",
   "playstation-portable": "https://www.pricecharting.com/console/playstation-portable?sort=highest-price",
-  "snes": "https://www.pricecharting.com/console/snes?sort=highest-price",
+  "super-nintendo": "https://www.pricecharting.com/console/super-nintendo?sort=highest-price",
   "zx-spectrum": "https://www.pricecharting.com/console/zx-spectrum?sort=highest-price"
 };
 
