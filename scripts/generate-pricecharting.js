@@ -142,7 +142,7 @@ function parseTable(html) {
       rank: i + 1,
       name: cols[1]?.textContent.trim(),
       price_usd: price,
-      price_eur: Math.round(price * USD_TO_EUR),
+      price_eur: Number((price * USD_TO_EUR).toFixed(2)),
       isHistory: false
     };
   }).filter(Boolean);
@@ -167,7 +167,7 @@ function parseSalesTable(html) {
       rank: i + 1,
       name: cols[1]?.textContent.trim(),
       price_usd: price,
-      price_eur: Math.round(price * USD_TO_EUR),
+      price_eur: Number((price * USD_TO_EUR).toFixed(2)),
       isHistory: true
     };
   }).filter(Boolean);
