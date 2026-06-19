@@ -5,78 +5,35 @@ import { JSDOM } from "jsdom";
 // ===============================
 //  CONFIG
 // ===============================
-
-// Conversión USD → EUR (puedes actualizarlo 1 vez al mes)
 const USD_TO_EUR = 0.92;
-
-// Reintentos y timeout
 const MAX_RETRIES = 3;
-const TIMEOUT_MS = 8000;
+const TIMEOUT_MS = 10000;
 
-// Tus sistemas (frontend)
+// Utilidad para pausas aleatorias (evita detección de bot)
+const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+const getRandomDelay = (min, max) => Math.floor(Math.random() * (max - min + 1) + min);
+
 const SYSTEMS = {
-  '3do': 'Panasonic 3DO',
-  'amiga': 'Amiga',
-  'arcade': 'Arcade',
-  'atari2600': 'Atari 2600',
-  'atari7800': 'Atari 7800',
-  'atari800': 'Atari 800',
-  'atarilynx': 'Atari Lynx',
-  'dreamcast': 'Sega Dreamcast',
-  'fds': 'Famicom Disk System',
-  'gb': 'Game Boy',
-  'gba': 'Game Boy Advance',
-  'gbc': 'Game Boy Color',
-  'gamegear': 'Sega Game Gear',
-  'genesis': 'Sega Genesis',
-  'mame': 'MAME Arcade',
-  'mastersystem': 'Master System',
-  'megadrive': 'Sega Mega Drive',
-  'n64': 'Nintendo 64',
-  'nds': 'Nintendo DS',
-  'neogeo': 'Neo Geo AES',
-  'nes': 'Nintendo NES',
-  'pcengine': 'PC Engine',
-  'psx': 'PlayStation',
-  'ps2': 'PlayStation 2',
-  'psp': 'PSP',
-  'snes': 'Super Nintendo',
-  'zxspectrum': 'ZX Spectrum'
+  '3do': 'Panasonic 3DO', 'amiga': 'Amiga', 'arcade': 'Arcade', 'atari2600': 'Atari 2600',
+  'atari7800': 'Atari 7800', 'atari800': 'Atari 800', 'atarilynx': 'Atari Lynx', 'dreamcast': 'Sega Dreamcast',
+  'fds': 'Famicom Disk System', 'gb': 'Game Boy', 'gba': 'Game Boy Advance', 'gbc': 'Game Boy Color',
+  'gamegear': 'Sega Game Gear', 'genesis': 'Sega Genesis', 'mame': 'MAME Arcade', 'mastersystem': 'Master System',
+  'megadrive': 'Sega Mega Drive', 'n64': 'Nintendo 64', 'nds': 'Nintendo DS', 'neogeo': 'Neo Geo AES',
+  'nes': 'Nintendo NES', 'pcengine': 'PC Engine', 'psx': 'PlayStation', 'ps2': 'PlayStation 2',
+  'psp': 'PSP', 'snes': 'Super Nintendo', 'zxspectrum': 'ZX Spectrum'
 };
 
-// ===============================
-//  MAPEOS PriceCharting → tus IDs
-// ===============================
 const MAP = {
-  "3do": "3do",
-  "amiga": "amiga",
-  "atari-2600": "atari2600",
-  "atari-7800": "atari7800",
-  "atari-lynx": "atarilynx",
-  "dreamcast": "dreamcast",
-  "famicom-disk-system": "fds",
-  "game-boy": "gb",
-  "game-boy-color": "gbc",
-  "game-boy-advance": "gba",
-  "game-gear": "gamegear",
-  "genesis": "genesis",
-  "mega-drive": "megadrive",
-  "master-system": "mastersystem",
-  "n64": "n64",
-  "nintendo-ds": "nds",
-  "neo-geo-aes": "neogeo",
-  "nes": "nes",
-  "pc-engine": "pcengine",
-  "playstation": "psx",
-  "playstation-2": "ps2",
-  "playstation-portable": "psp",
-  "super-nintendo": "snes",
-  "zx-spectrum": "zxspectrum"
+  "3do": "3do", "amiga": "amiga", "atari-2600": "atari2600", "atari-7800": "atari7800",
+  "atari-lynx": "atarilynx", "dreamcast": "dreamcast", "famicom-disk-system": "fds",
+  "game-boy": "gb", "game-boy-color": "gbc", "game-boy-advance": "gba", "game-gear": "gamegear",
+  "genesis": "genesis", "mega-drive": "megadrive", "master-system": "mastersystem",
+  "n64": "n64", "nintendo-ds": "nds", "neo-geo-aes": "neogeo", "nes": "nes",
+  "pc-engine": "pcengine", "playstation": "psx", "playstation-2": "ps2",
+  "playstation-portable": "psp", "super-nintendo": "snes", "zx-spectrum": "zxspectrum",
+  "atari-400": "atari800"
 };
 
-// ===============================
-//  TODAS LAS URLs REALES
-// ===============================
 const PRICECHARTING_URLS = {
   "3do": "https://www.pricecharting.com/console/3do?sort=highest-price",
   "amiga": "https://www.pricecharting.com/console/amiga?sort=highest-price",
@@ -101,7 +58,8 @@ const PRICECHARTING_URLS = {
   "playstation-2": "https://www.pricecharting.com/console/playstation-2?sort=highest-price",
   "playstation-portable": "https://www.pricecharting.com/console/psp?sort=highest-price",
   "super-nintendo": "https://www.pricecharting.com/console/super-nintendo?sort=highest-price",
-  "zx-spectrum": "https://www.pricecharting.com/console/zx-spectrum?sort=highest-price"
+  "zx-spectrum": "https://www.pricecharting.com/console/zx-spectrum?sort=highest-price",
+  "atari-400": "https://www.pricecharting.com/console/atari-400?sort=highest-price"
 };
 
 // ===============================
@@ -115,20 +73,22 @@ async function fetchHTML(url) {
 
       const res = await fetch(url, {
         headers: {
-          "User-Agent":
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36"
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+          "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
+          "Referer": "https://www.pricecharting.com/",
+          "Connection": "keep-alive"
         },
         signal: controller.signal
       });
 
       clearTimeout(timeout);
-
-      if (!res.ok) throw new Error("HTTP " + res.status);
-
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
       return await res.text();
     } catch (err) {
-      console.log(`Error en ${url} (intento ${attempt})`);
+      console.log(`Error en ${url} (intento ${attempt}): ${err.message}`);
       if (attempt === MAX_RETRIES) return null;
+      await sleep(5000 * attempt); // Espera creciente si falla
     }
   }
 }
@@ -144,21 +104,21 @@ function parsePrice(str) {
 function parseTable(html) {
   const dom = new JSDOM(html);
   const doc = dom.window.document;
+  const table = doc.querySelector("table#games_table");
+  if (!table) return [];
 
-  const rows = [...doc.querySelectorAll("table#games_table tbody tr")];
-
+  const rows = [...table.querySelectorAll("tbody tr")];
   return rows.slice(0, 20).map((row, i) => {
     const cols = row.querySelectorAll("td");
-
+    if (cols.length < 3) return null;
     const price_usd = parsePrice(cols[2]?.textContent);
-
     return {
       rank: i + 1,
       name: cols[1]?.textContent.trim() || "",
       price_usd,
       price_eur: Math.round(price_usd * USD_TO_EUR)
     };
-  });
+  }).filter(r => r !== null);
 }
 
 // ===============================
@@ -166,39 +126,25 @@ function parseTable(html) {
 // ===============================
 async function main() {
   const result = {};
+  for (const id of Object.keys(SYSTEMS)) result[id] = [];
 
-  // Inicializar todas las consolas vacías
-  for (const id of Object.keys(SYSTEMS)) {
-    result[id] = [];
-  }
-
-  // Scrapeo real
   for (const [pcID, url] of Object.entries(PRICECHARTING_URLS)) {
     const mapped = MAP[pcID];
     if (!mapped) continue;
 
     console.log("Scraping:", mapped);
-
     const html = await fetchHTML(url);
-    if (!html) {
-      result[mapped] = [];
-      continue;
+    
+    if (html) {
+      result[mapped] = parseTable(html);
     }
-
-    result[mapped] = parseTable(html);
+    
+    // Pausa aleatoria entre 2 y 5 segundos
+    await sleep(getRandomDelay(2000, 5000));
   }
 
   const today = new Date().toISOString().split("T")[0];
-
-  fs.writeFileSync(
-    `prices.json`,
-    JSON.stringify({
-      updated: today,
-      source: "https://www.pricecharting.com",
-      systems: result
-    }, null, 2)
-  );
-
+  fs.writeFileSync('prices.json', JSON.stringify({ updated: today, source: "https://www.pricecharting.com", systems: result }, null, 2));
   console.log("prices.json generado correctamente");
 }
 
