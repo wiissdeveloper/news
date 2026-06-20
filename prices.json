@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19",
+  "updated": "2026-06-20",
   "systems": {
     "3do": [
       {
@@ -524,8 +524,8 @@
       {
         "rank": 14,
         "name": "Super Zaxxon",
-        "price_usd": 96.33,
-        "price_eur": 88.62,
+        "price_usd": 96.71,
+        "price_eur": 88.97,
         "isHistory": false
       },
       {
@@ -821,16 +821,16 @@
       },
       {
         "rank": 16,
-        "name": "Rayman",
-        "price_usd": 134.57,
-        "price_eur": 123.8,
+        "name": "Jag Zombies",
+        "price_usd": 135.87,
+        "price_eur": 125,
         "isHistory": false
       },
       {
         "rank": 17,
-        "name": "Jag Zombies",
-        "price_usd": 134.37,
-        "price_eur": 123.62,
+        "name": "Rayman",
+        "price_usd": 134.57,
+        "price_eur": 123.8,
         "isHistory": false
       },
       {
@@ -850,8 +850,8 @@
       {
         "rank": 20,
         "name": "Worms",
-        "price_usd": 121.96,
-        "price_eur": 112.2,
+        "price_usd": 121.97,
+        "price_eur": 112.21,
         "isHistory": false
       }
     ],
@@ -901,14 +901,14 @@
       },
       {
         "rank": 7,
-        "name": "Sega Dreamcast Sports Edition Console",
+        "name": "Speed Devils [Clean Cover]",
         "price_usd": 185,
         "price_eur": 170.2,
         "isHistory": false
       },
       {
         "rank": 8,
-        "name": "Speed Devils [Clean Cover]",
+        "name": "Sega Dreamcast Sports Edition Console",
         "price_usd": 185,
         "price_eur": 170.2,
         "isHistory": false
@@ -922,23 +922,23 @@
       },
       {
         "rank": 10,
-        "name": "Giga Wing 2",
-        "price_usd": 147.82,
-        "price_eur": 135.99,
-        "isHistory": false
-      },
-      {
-        "rank": 11,
         "name": "Sega Dreamcast Broadband Adapter",
         "price_usd": 139.48,
         "price_eur": 128.32,
         "isHistory": false
       },
       {
-        "rank": 12,
+        "rank": 11,
         "name": "Sega Dreamcast Console",
         "price_usd": 135,
         "price_eur": 124.2,
+        "isHistory": false
+      },
+      {
+        "rank": 12,
+        "name": "Giga Wing 2",
+        "price_usd": 132.28,
+        "price_eur": 121.7,
         "isHistory": false
       },
       {
@@ -951,8 +951,8 @@
       {
         "rank": 14,
         "name": "JoJo's Bizarre Adventure",
-        "price_usd": 104.72,
-        "price_eur": 96.34,
+        "price_usd": 105.64,
+        "price_eur": 97.19,
         "isHistory": false
       },
       {
@@ -1023,8 +1023,8 @@
       {
         "rank": 4,
         "name": "Famicom Disk System Console",
-        "price_usd": 89.98,
-        "price_eur": 82.78,
+        "price_usd": 91.05,
+        "price_eur": 83.77,
         "isHistory": false
       },
       {
@@ -1086,15 +1086,15 @@
       {
         "rank": 13,
         "name": "Panic Space",
-        "price_usd": 42.37,
-        "price_eur": 38.98,
+        "price_usd": 42.36,
+        "price_eur": 38.97,
         "isHistory": false
       },
       {
         "rank": 14,
         "name": "Legend of Zelda",
-        "price_usd": 41.99,
-        "price_eur": 38.63,
+        "price_usd": 41.28,
+        "price_eur": 37.98,
         "isHistory": false
       },
       {
@@ -1719,8 +1719,8 @@
       {
         "rank": 2,
         "name": "Mega Man",
-        "price_usd": 255.93,
-        "price_eur": 235.46,
+        "price_usd": 256.41,
+        "price_eur": 235.9,
         "isHistory": false
       },
       {
@@ -2439,8 +2439,8 @@
       {
         "rank": 3,
         "name": "Pokemon [Not for Resale Regigigas and Shaymin]",
-        "price_usd": 2683.1,
-        "price_eur": 2468.45,
+        "price_usd": 2685.22,
+        "price_eur": 2470.4,
         "isHistory": false
       },
       {
@@ -2772,8 +2772,8 @@
       {
         "rank": 10,
         "name": "Bubble Bath Babes",
-        "price_usd": 2259.04,
-        "price_eur": 2078.32,
+        "price_usd": 2269.39,
+        "price_eur": 2087.84,
         "isHistory": false
       },
       {
@@ -3314,8 +3314,8 @@
       {
         "rank": 6,
         "name": "Persona 2 Eternal Punishment",
-        "price_usd": 264.12,
-        "price_eur": 242.99,
+        "price_usd": 264.35,
+        "price_eur": 243.2,
         "isHistory": false
       },
       {
@@ -3384,8 +3384,8 @@
       {
         "rank": 16,
         "name": "Batman Forever Arcade",
-        "price_usd": 160.56,
-        "price_eur": 147.72,
+        "price_usd": 160.71,
+        "price_eur": 147.85,
         "isHistory": false
       },
       {
@@ -3674,30 +3674,30 @@
       },
       {
         "rank": 17,
+        "name": "PSP 3000",
+        "price_usd": 144.95,
+        "price_eur": 133.35,
+        "isHistory": false
+      },
+      {
+        "rank": 18,
         "name": "Shin Megami Tensei: Persona 2: Innocent Sin",
         "price_usd": 144.25,
         "price_eur": 132.71,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 19,
         "name": "PSP 3000 Bright Yellow",
         "price_usd": 142.42,
         "price_eur": 131.03,
         "isHistory": false
       },
       {
-        "rank": 19,
-        "name": "PSP 3000",
-        "price_usd": 141.99,
-        "price_eur": 130.63,
-        "isHistory": false
-      },
-      {
         "rank": 20,
         "name": "Legend of Heroes: Trails in the Sky [Premium Edition]",
-        "price_usd": 135.7,
-        "price_eur": 124.84,
+        "price_usd": 140,
+        "price_eur": 128.8,
         "isHistory": false
       }
     ],
@@ -3711,30 +3711,30 @@
       },
       {
         "rank": 2,
+        "name": "Motherbase",
+        "price_usd": 224.82,
+        "price_eur": 206.83,
+        "isHistory": false
+      },
+      {
+        "rank": 3,
         "name": "Knuckles Chaotix",
         "price_usd": 201.75,
         "price_eur": 185.61,
         "isHistory": false
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "NBA Jam Tournament Edition",
         "price_usd": 157.39,
         "price_eur": 144.8,
         "isHistory": false
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "Kolibri",
         "price_usd": 153.7,
         "price_eur": 141.4,
-        "isHistory": false
-      },
-      {
-        "rank": 5,
-        "name": "Motherbase",
-        "price_usd": 146.35,
-        "price_eur": 134.64,
         "isHistory": false
       },
       {
@@ -3990,8 +3990,8 @@
       {
         "rank": 1,
         "name": "Donkey Kong Country [5-Game Crate]",
-        "price_usd": 1455.59,
-        "price_eur": 1339.14,
+        "price_usd": 1673.37,
+        "price_eur": 1539.5,
         "isHistory": false
       },
       {
@@ -4038,37 +4038,37 @@
       },
       {
         "rank": 8,
-        "name": "Castlevania: Vampire's Kiss",
-        "price_usd": 252.23,
-        "price_eur": 232.05,
-        "isHistory": false
-      },
-      {
-        "rank": 9,
         "name": "Final Fight 3",
         "price_usd": 241,
         "price_eur": 221.72,
         "isHistory": false
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "Daze Before Christmas",
         "price_usd": 234.63,
         "price_eur": 215.86,
         "isHistory": false
       },
       {
-        "rank": 11,
+        "rank": 10,
         "name": "Captain Commando",
-        "price_usd": 230.96,
-        "price_eur": 212.48,
+        "price_usd": 230.79,
+        "price_eur": 212.33,
+        "isHistory": false
+      },
+      {
+        "rank": 11,
+        "name": "Super Chase HQ",
+        "price_usd": 228.36,
+        "price_eur": 210.09,
         "isHistory": false
       },
       {
         "rank": 12,
-        "name": "Super Chase HQ",
-        "price_usd": 228.36,
-        "price_eur": 210.09,
+        "name": "Castlevania: Vampire's Kiss",
+        "price_usd": 218.52,
+        "price_eur": 201.04,
         "isHistory": false
       },
       {
@@ -4081,8 +4081,8 @@
       {
         "rank": 14,
         "name": "Whirlo",
-        "price_usd": 203.5,
-        "price_eur": 187.22,
+        "price_usd": 202.95,
+        "price_eur": 186.71,
         "isHistory": false
       },
       {
@@ -4102,8 +4102,8 @@
       {
         "rank": 17,
         "name": "The Firemen",
-        "price_usd": 189.4,
-        "price_eur": 174.25,
+        "price_usd": 185.09,
+        "price_eur": 170.28,
         "isHistory": false
       },
       {
@@ -4394,8 +4394,8 @@
       {
         "rank": 18,
         "name": "Wario Land",
-        "price_usd": 75,
-        "price_eur": 69,
+        "price_usd": 73.76,
+        "price_eur": 67.86,
         "isHistory": false
       },
       {
