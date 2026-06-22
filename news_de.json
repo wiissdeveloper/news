@@ -1,6 +1,22 @@
 {
-  "date": "2026-06-21",
+  "date": "2026-06-22",
   "notices": [
+    {
+      "guid": "https://www.gamestar.de/artikel/neu-bei-steam,3454965.html",
+      "title": "Neu bei Steam - In diesem Shooter baut ihr eine Basis und fahrt sie direkt ins Gefecht",
+      "link": "https://www.gamestar.de/artikel/neu-bei-steam,3454965.html",
+      "pubDate": "Mon, 22 Jun 2026 04:17:00 GMT",
+      "contentSnippet": "Alle spannenden Steam-Neuerscheinungen der Woche im Überblick – und ein Shooter sticht dabei besonders heraus.",
+      "thumbnail": "https://images.cgames.de/images/gamestar/112/neu-bei-steam_6424930.jpg"
+    },
+    {
+      "guid": "https://mein-mmo.de/?p=1398527",
+      "title": "WoW ändert Weltbosse für immer, behebt ein riesiges MMORPG-Problem",
+      "link": "https://mein-mmo.de/wow-weltbosse-fuer-immer-anders/",
+      "pubDate": "Mon, 22 Jun 2026 04:00:00 +0000",
+      "contentSnippet": "Weltbosse in World of Warcraft bekommen eine große Veränderung. Sie werden besser – und das in absolut jeder Hinsicht.\nDer Beitrag WoW ändert Weltbosse für immer, behebt ein riesiges MMORPG-Problem erschien zuerst auf Mein-MMO.",
+      "thumbnail": "https://images.mein-mmo.de/medien/2026/06/WoW-Pit-Lord-Silvermoon-titel-title-1280x720-1-1140x445.jpg"
+    },
     {
       "guid": "https://mein-mmo.de/?p=1398142",
       "title": "DC hat einen eigenen Homelander, aber der kann Superman etwas aussetzen",
@@ -42,14 +58,6 @@
       "thumbnail": "https://images.cgames.de/images/gamestar/112/gothic-remake-patch-102_6424910.jpg"
     },
     {
-      "guid": "https://mein-mmo.de/?p=1398208",
-      "title": "Ihr wollt so cool sein wie Muscle Mommy Rhea Ripley? So zockt ihr Retro Games auf PS1 und PS2",
-      "link": "https://mein-mmo.de/ps1-und-ps2-anschliessen-putzen-spielen/",
-      "pubDate": "Sun, 21 Jun 2026 06:30:02 +0000",
-      "contentSnippet": "Die Profi-Wrestlerin Rhea Ripley zockt am liebsten Retro-Games auf PS1 und PS2. MeinMMO-Redakteurin Sophia Weiß sagt: Das könnt ihr auch.\nDer Beitrag Ihr wollt so cool sein wie Muscle Mommy Rhea Ripley? So zockt ihr Retro Games auf PS1 und PS2 erschien zuerst auf Mein-MMO.",
-      "thumbnail": "https://images.mein-mmo.de/medien/2026/06/PS1-und-PS2-wieder-zocken-Titelbild-2-1140x445.jpg"
-    },
-    {
       "guid": "https://www.gamestar.de/artikel/brandon-sanderson-crowfunding-neues-buch-17-millionen-dollar,3410099.html",
       "title": "Brandon Sanderson - 17 Millionen Dollar in nur einer Woche: Beliebter Fantasy-Autor sprengte damit Crowdfunding-Rekorde [Best of GameStar]",
       "link": "https://www.gamestar.de/artikel/brandon-sanderson-crowfunding-neues-buch-17-millionen-dollar,3410099.html",
@@ -88,14 +96,6 @@
       "pubDate": "Fri, 19 Jun 2026 17:06:00 GMT",
       "contentSnippet": "In dem charmanten Multiplayer-Spiel Cat a Photo macht ihr euch auf dem PC auf die Jagd nach dem perfekten Schnappschuss von knuffigen, aber eigensinnigen Katzen. Eure geschossenen Meisterwerke bringen euch Punkte ein, mit denen ihr sowohl neues Kamera-Equipment als auch Möbel und Spielzeuge für euer eigenes virtuelles Katzen-Zuhause freischaltet.\r\n\r\nDabei habt ihr die Wahl, ob ihr gemeinsam mit Freunden in gemütlicher Koop-Atmosphäre entspannt nach Fotomotiven sucht oder in Wettkämpfen um das beste Bild wetteifert. Der Release ist noch für das Jahr 2026 auf Steam geplant, einen genauen Termin gibt es bislang allerdings noch nicht.",
       "thumbnail": "https://images.cgames.de/images/gamestar/112/videoimage_6424888.jpg"
-    },
-    {
-      "guid": "https://www.gamestar.de/videos/pokemon-trifft-hades-wilderings-verbindet-knackige-action-mit-monster-sammeln,141323.html",
-      "title": "Pokémon trifft Hades: Wilderings verbindet knackige Action mit Monster-Sammeln",
-      "link": "https://www.gamestar.de/videos/pokemon-trifft-hades-wilderings-verbindet-knackige-action-mit-monster-sammeln,141323.html",
-      "pubDate": "Fri, 19 Jun 2026 14:52:00 GMT",
-      "contentSnippet": "Mit Wilderings: The Lost Spring melden sich die Macher von Endling zurück und schicken euch in ein rasantes Abenteuer, bei dem ihr eine vergiftete Welt durch das Sammeln magischer Kreaturen heilt. Diese niedlichen Begleiter unterstützen euch in den Kämpfen mit mächtigen Synergieangriffen, während ihr die Spielwelt mithilfe von Greifhaken und Gleitern frei erkundet.\r\n\r\nNach einem gescheiterten Versuch kehrt ihr auf euer schwebendes Skyship zurück, um in aller Ruhe eure gesammelten Wesen aufzuwerten und neue Taktiken für den nächsten Durchlauf vorzubereiten. Das ökologisch angehauchte Roguelite startet voraussichtlich im September 2026 in den Early Access auf Steam, wobei ihr euch schon jetzt eine spielbare Demo herunterladen könnt.",
-      "thumbnail": "https://images.cgames.de/images/gamestar/112/videoimage_6424883.jpg"
     }
   ]
 }
