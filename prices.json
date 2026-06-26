@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25",
+  "updated": "2026-06-26",
   "systems": {
     "3do": [
       {
@@ -319,8 +319,8 @@
       {
         "rank": 5,
         "name": "Tank Command",
-        "price_usd": 299.1,
-        "price_eur": 275.17,
+        "price_usd": 299.55,
+        "price_eur": 275.59,
         "isHistory": false
       },
       {
@@ -582,15 +582,15 @@
       {
         "rank": 2,
         "name": "Atari Lynx II Console",
-        "price_usd": 175.64,
-        "price_eur": 161.59,
+        "price_usd": 174.05,
+        "price_eur": 160.13,
         "isHistory": false
       },
       {
         "rank": 3,
         "name": "Atari Lynx Console",
-        "price_usd": 171.29,
-        "price_eur": 157.59,
+        "price_usd": 162.58,
+        "price_eur": 149.57,
         "isHistory": false
       },
       {
@@ -901,14 +901,14 @@
       },
       {
         "rank": 7,
-        "name": "Sega Dreamcast Sports Edition Console",
+        "name": "Speed Devils [Clean Cover]",
         "price_usd": 185,
         "price_eur": 170.2,
         "isHistory": false
       },
       {
         "rank": 8,
-        "name": "Speed Devils [Clean Cover]",
+        "name": "Sega Dreamcast Sports Edition Console",
         "price_usd": 185,
         "price_eur": 170.2,
         "isHistory": false
@@ -922,16 +922,16 @@
       },
       {
         "rank": 10,
-        "name": "Sega Dreamcast Console",
-        "price_usd": 142.5,
-        "price_eur": 131.1,
+        "name": "Sega Dreamcast Broadband Adapter",
+        "price_usd": 139.48,
+        "price_eur": 128.32,
         "isHistory": false
       },
       {
         "rank": 11,
-        "name": "Sega Dreamcast Broadband Adapter",
-        "price_usd": 139.48,
-        "price_eur": 128.32,
+        "name": "Sega Dreamcast Console",
+        "price_usd": 133.95,
+        "price_eur": 123.23,
         "isHistory": false
       },
       {
@@ -1314,8 +1314,8 @@
       {
         "rank": 5,
         "name": "Amazing Tater",
-        "price_usd": 772.59,
-        "price_eur": 710.78,
+        "price_usd": 800,
+        "price_eur": 736,
         "isHistory": false
       },
       {
@@ -1504,16 +1504,16 @@
       },
       {
         "rank": 12,
-        "name": "Ninja Five O",
-        "price_usd": 323.91,
-        "price_eur": 298,
+        "name": "Gameboy Advance SP [Rayquaza Edition]",
+        "price_usd": 384.21,
+        "price_eur": 353.47,
         "isHistory": false
       },
       {
         "rank": 13,
-        "name": "Drill Dozer [Not for Resale]",
-        "price_usd": 300,
-        "price_eur": 276,
+        "name": "Ninja Five O",
+        "price_usd": 323.45,
+        "price_eur": 297.57,
         "isHistory": false
       },
       {
@@ -1525,44 +1525,44 @@
       },
       {
         "rank": 15,
+        "name": "Drill Dozer [Not for Resale]",
+        "price_usd": 300,
+        "price_eur": 276,
+        "isHistory": false
+      },
+      {
+        "rank": 16,
         "name": "IQue Gameboy Advance SP Dragon",
         "price_usd": 269.8,
         "price_eur": 248.22,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 17,
         "name": "Eon Ticket",
         "price_usd": 264.98,
         "price_eur": 243.78,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 18,
         "name": "Pokemon Center New York System",
         "price_usd": 260.37,
         "price_eur": 239.54,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 19,
         "name": "GBA Micro Silver",
         "price_usd": 236.98,
         "price_eur": 218.02,
         "isHistory": false
       },
       {
-        "rank": 19,
-        "name": "Pokemon Emerald",
-        "price_usd": 235,
-        "price_eur": 216.2,
-        "isHistory": false
-      },
-      {
         "rank": 20,
         "name": "iQue Gameboy Advance",
-        "price_usd": 226.34,
-        "price_eur": 208.23,
+        "price_usd": 226.1,
+        "price_eur": 208.01,
         "isHistory": false
       }
     ],
@@ -1653,30 +1653,30 @@
       },
       {
         "rank": 13,
-        "name": "Pokemon Crystal",
-        "price_usd": 170.2,
-        "price_eur": 156.58,
-        "isHistory": false
-      },
-      {
-        "rank": 14,
         "name": "Modretro Chromatic [GameStop]",
         "price_usd": 165.25,
         "price_eur": 152.03,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 14,
         "name": "Pokemon Special Edition Gameboy Color System",
         "price_usd": 164.05,
         "price_eur": 150.93,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 15,
         "name": "Zelda Oracle of Seasons [Not for Resale]",
         "price_usd": 161.25,
         "price_eur": 148.35,
+        "isHistory": false
+      },
+      {
+        "rank": 16,
+        "name": "Pokemon Crystal",
+        "price_usd": 152.56,
+        "price_eur": 140.36,
         "isHistory": false
       },
       {
@@ -1695,16 +1695,16 @@
       },
       {
         "rank": 19,
-        "name": "Metal Gear Solid",
-        "price_usd": 136.23,
-        "price_eur": 125.33,
+        "name": "Pokemon Gold and Silver Special Edition Gameboy Color",
+        "price_usd": 129.99,
+        "price_eur": 119.59,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "Pokemon Gold and Silver Special Edition Gameboy Color",
-        "price_usd": 129.99,
-        "price_eur": 119.59,
+        "name": "Wendy Every Witch Way",
+        "price_usd": 129.31,
+        "price_eur": 118.97,
         "isHistory": false
       }
     ],
@@ -1775,8 +1775,8 @@
       {
         "rank": 10,
         "name": "Tails' Adventure",
-        "price_usd": 83.9,
-        "price_eur": 77.19,
+        "price_usd": 83.88,
+        "price_eur": 77.17,
         "isHistory": false
       },
       {
@@ -1881,16 +1881,16 @@
       },
       {
         "rank": 5,
-        "name": "Analogue Mega SG",
-        "price_usd": 590,
-        "price_eur": 542.8,
+        "name": "Sega Genesis JVC X'Eye",
+        "price_usd": 608.76,
+        "price_eur": 560.06,
         "isHistory": false
       },
       {
         "rank": 6,
-        "name": "Sega Genesis JVC X'Eye",
-        "price_usd": 580,
-        "price_eur": 533.6,
+        "name": "Analogue Mega SG",
+        "price_usd": 590,
+        "price_eur": 542.8,
         "isHistory": false
       },
       {
@@ -2068,8 +2068,8 @@
       {
         "rank": 11,
         "name": "Phantasy Star",
-        "price_usd": 83.8,
-        "price_eur": 77.1,
+        "price_usd": 83.62,
+        "price_eur": 76.93,
         "isHistory": false
       },
       {
@@ -2487,16 +2487,16 @@
       },
       {
         "rank": 10,
-        "name": "Pokemon [Not for Resale Diamond & Pearl]",
-        "price_usd": 902.76,
-        "price_eur": 830.54,
+        "name": "Pokemon [Not for Resale Zoroark]",
+        "price_usd": 907.38,
+        "price_eur": 834.79,
         "isHistory": false
       },
       {
         "rank": 11,
-        "name": "Pokemon [Not for Resale Zoroark]",
-        "price_usd": 898.39,
-        "price_eur": 826.52,
+        "name": "Pokemon [Not for Resale Diamond & Pearl]",
+        "price_usd": 902.76,
+        "price_eur": 830.54,
         "isHistory": false
       },
       {
@@ -2821,8 +2821,8 @@
       {
         "rank": 17,
         "name": "Power Blade 2",
-        "price_usd": 1184.22,
-        "price_eur": 1089.48,
+        "price_usd": 1140.83,
+        "price_eur": 1049.56,
         "isHistory": false
       },
       {
@@ -3015,30 +3015,30 @@
       },
       {
         "rank": 4,
-        "name": "Magical Chase",
-        "price_usd": 450.75,
-        "price_eur": 414.69,
-        "isHistory": false
-      },
-      {
-        "rank": 5,
         "name": "Illust Booster",
         "price_usd": 449.99,
         "price_eur": 413.99,
         "isHistory": false
       },
       {
-        "rank": 6,
+        "rank": 5,
         "name": "PC Engine Duo-RX",
         "price_usd": 448.33,
         "price_eur": 412.46,
         "isHistory": false
       },
       {
-        "rank": 7,
+        "rank": 6,
         "name": "SuperGrafx Console",
         "price_usd": 444.6,
         "price_eur": 409.03,
+        "isHistory": false
+      },
+      {
+        "rank": 7,
+        "name": "Magical Chase",
+        "price_usd": 439.13,
+        "price_eur": 404,
         "isHistory": false
       },
       {
@@ -3093,8 +3093,8 @@
       {
         "rank": 15,
         "name": "PC Engine Shuttle",
-        "price_usd": 233.52,
-        "price_eur": 214.84,
+        "price_usd": 221.25,
+        "price_eur": 203.55,
         "isHistory": false
       },
       {
@@ -3107,8 +3107,8 @@
       {
         "rank": 17,
         "name": "PC Engine Duo System",
-        "price_usd": 210.08,
-        "price_eur": 193.27,
+        "price_usd": 211.53,
+        "price_eur": 194.61,
         "isHistory": false
       },
       {
@@ -3207,8 +3207,8 @@
       {
         "rank": 11,
         "name": "PC-FX controller",
-        "price_usd": 106.65,
-        "price_eur": 98.12,
+        "price_usd": 106.56,
+        "price_eur": 98.04,
         "isHistory": false
       },
       {
@@ -3328,8 +3328,8 @@
       {
         "rank": 8,
         "name": "Koudelka",
-        "price_usd": 219.99,
-        "price_eur": 202.39,
+        "price_usd": 215.48,
+        "price_eur": 198.24,
         "isHistory": false
       },
       {
@@ -3384,8 +3384,8 @@
       {
         "rank": 16,
         "name": "Batman Forever Arcade",
-        "price_usd": 160.71,
-        "price_eur": 147.85,
+        "price_usd": 160.28,
+        "price_eur": 147.46,
         "isHistory": false
       },
       {
@@ -3681,16 +3681,16 @@
       },
       {
         "rank": 18,
-        "name": "Legend of Heroes: Trails in the Sky [Premium Edition]",
+        "name": "PSP 3000",
         "price_usd": 140,
         "price_eur": 128.8,
         "isHistory": false
       },
       {
         "rank": 19,
-        "name": "PSP 3000",
-        "price_usd": 139.99,
-        "price_eur": 128.79,
+        "name": "Legend of Heroes: Trails in the Sky [Premium Edition]",
+        "price_usd": 140,
+        "price_eur": 128.8,
         "isHistory": false
       },
       {
@@ -4303,7 +4303,7 @@
       {
         "rank": 5,
         "name": "Red Alarm [Not for Resale]",
-        "price_usd": 299.94,
+        "price_usd": 299.93,
         "price_eur": 275.94,
         "isHistory": false
       },
@@ -4394,8 +4394,8 @@
       {
         "rank": 18,
         "name": "Wario Land",
-        "price_usd": 75,
-        "price_eur": 69,
+        "price_usd": 74.33,
+        "price_eur": 68.38,
         "isHistory": false
       },
       {
@@ -4600,30 +4600,30 @@
       },
       {
         "rank": 7,
-        "name": "Wonderswan Color Console",
-        "price_usd": 138.1,
-        "price_eur": 127.05,
-        "isHistory": false
-      },
-      {
-        "rank": 8,
         "name": "WonderSwan Color Console [Pearl Blue]",
         "price_usd": 137.17,
         "price_eur": 126.2,
         "isHistory": false
       },
       {
-        "rank": 9,
+        "rank": 8,
         "name": "WonderSwan Color [Final Fantasy Edition]",
         "price_usd": 135.02,
         "price_eur": 124.22,
         "isHistory": false
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "Rockman EXE N1 Battle",
         "price_usd": 129.59,
         "price_eur": 119.22,
+        "isHistory": false
+      },
+      {
+        "rank": 10,
+        "name": "Wonderswan Color Console",
+        "price_usd": 122.94,
+        "price_eur": 113.1,
         "isHistory": false
       },
       {
@@ -4692,8 +4692,8 @@
       {
         "rank": 20,
         "name": "Guilty Gear Petit",
-        "price_usd": 64.82,
-        "price_eur": 59.63,
+        "price_usd": 64.7,
+        "price_eur": 59.52,
         "isHistory": false
       }
     ],
@@ -4812,30 +4812,30 @@
       },
       {
         "rank": 17,
-        "name": "Street Fighter II",
-        "price_usd": 67.75,
-        "price_eur": 62.33,
-        "isHistory": false
-      },
-      {
-        "rank": 18,
         "name": "Lord Harry",
         "price_usd": 66.94,
         "price_eur": 61.58,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 18,
         "name": "Deus Ex Machina",
         "price_usd": 65.59,
         "price_eur": 60.34,
         "isHistory": false
       },
       {
-        "rank": 20,
+        "rank": 19,
         "name": "Batty",
         "price_usd": 63.84,
         "price_eur": 58.73,
+        "isHistory": false
+      },
+      {
+        "rank": 20,
+        "name": "Live Ammo [+3 Disk]",
+        "price_usd": 63.22,
+        "price_eur": 58.16,
         "isHistory": false
       }
     ]
