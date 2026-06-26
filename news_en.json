@@ -1,4 +1,101 @@
 {
-  "date": "2026-06-26T16:11:23.501Z",
-  "notices": []
+  "date": "2026-06-26",
+  "notices": [
+    {
+      "guid": "https://gamerant.com/half-life-2-free-browser/",
+      "title": "Half-Life 2 Is Now a Free Browser Game, But Probably Not for Long",
+      "link": "https://gamerant.com/half-life-2-free-browser/",
+      "pubDate": "Fri, 26 Jun 2026 16:00:16 GMT",
+      "contentSnippet": "Surprisingly, players can currently play Valve's iconic Half-Life 2 in a web browser completely free of charge, but there's a catch.",
+      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/06/half-life-2-web-port-browser-game-free-to-play-gamerant.jpg"
+    },
+    {
+      "guid": "https://gamerant.com/star-fox-switch-2-mouse-controls/",
+      "title": "It's Official: Star Fox on Switch 2 Is Best Without Mouse Controls",
+      "link": "https://gamerant.com/star-fox-switch-2-mouse-controls/",
+      "pubDate": "Fri, 26 Jun 2026 15:45:16 GMT",
+      "contentSnippet": "Star Fox is one of the newest games to try and utilize the Switch 2's mouse controls, but it doesn't work as well as one would expect.",
+      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/06/star-fox-switch-2-best-without-a-mouse-game-rant.jpg"
+    },
+    {
+      "guid": "127029",
+      "title": "ConcernedApe Explains Why He's Shown So Little Of Haunted Chocolatier: 'I Would Rather Serve A Fully Baked Bread'\n",
+      "link": "https://gameinformer.com/2026/06/26/concernedape-explains-why-hes-shown-so-little-of-haunted-chocolatier-i-would-rather",
+      "pubDate": "Fri, 26 Jun 2026 10:18:00 CDT",
+      "contentSnippet": "Haunted Chocolatier is the highly, highly anticipated follow-up to Stardew Valley, one of the biggest indie games of all time. But while this chocolate-making spiritual successor was announced way back in 2021, we've seen very little of the project, save for a handful of blog posts on creator ConcernedApe's website. The last update came in late January, and now, just under six months later, developer Eric Barone is checking back in with a new post to reassure fans he's still working on the game and explain why he's shown so little.\nFirst, Barone thanks everyone for their patience, and gives some insight into why his development process is so time-consuming. \"Lately, I’ve been revisiting the recipe book for making chocolates,\" Barone writes. \"As with many things in the game, I’ve iterated on this many times, each time bringing it closer to its final form. To me, it’s not a simple task, as I torture myself over every last detail. This is a UI you will be using fairly often, so it has to be perfect.\"\n \nWhile this recipe book is one of the core mechanics, he adds that he likes to \"fuss over\" his whole game this way. Ideally, the game will come out with a level of polish he's satisfied with (like how Stardew Valley is now), but that also means the process will take a long time. On that note, he says that his eye for detail and refinement is also the reason there are so few screenshots or gameplay clips in the wild.\n\"Side note… please excuse me, but I don’t like to share too many screenshots, or even talk about the systems in too much detail, while the game is in development,\" Barone's blog reads. \"Partly, it feels like I’m serving a half-baked bread. I would rather serve a fully baked bread. Also, I know that many parts of the game will likely evolve and change before release, so if I reveal them early, I risk disappointing players if the final product does not match their expectation.\"\nHaunted Chocolatier currently has no release window. While Barone said he hoped to release the game within five years back in 2025, he has since clarified that this isn't a hard and fast date. \"The bottom line is, I don’t want to give a release date,\" his January update reads. \"The game will come out when it’s done.\"\nFor more Haunted Chocolatier and Stardew Valley, you can check out guest contributor Ana Diaz's in-depth interview with Barone from issue 378, published online in May. For more on why Haunted Chocolatier is one of our most anticipated games, check out our collection of our Most Anticipated Games of 2026 (And Beyond) from issue 375.",
+      "thumbnail": "https://www.gameinformer.com/sites/default/files/styles/body_default/public/2026/06/26/b041a55d/haunted_chocolatier_1.jpg.webp"
+    },
+    {
+      "guid": "https://gamerant.com/haunted-chocolatier-development-stardew-concernedape-still-here-grinding/",
+      "title": "Stardew Valley Dev Gives Official Development Update on Haunted Chocolatier",
+      "link": "https://gamerant.com/haunted-chocolatier-development-stardew-concernedape-still-here-grinding/",
+      "pubDate": "Fri, 26 Jun 2026 15:14:41 GMT",
+      "contentSnippet": "Stardew Valley developer ConcernedApe gives fans an official update on the development status of his next game, Haunted Chocolatier.",
+      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/06/haunted-choclatier-screenshot.jpg"
+    },
+    {
+      "guid": "ane9hKWbFyZ9C2cVdgsa8A",
+      "title": " I've hunted down every confirmed GTA 6 gun in its trailers and screenshots so far ",
+      "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-weapons-list/",
+      "pubDate": "Fri, 26 Jun 2026 13:33:19 +0000",
+      "contentSnippet": "There are tons of pistols, an obligatory rocket launcher, and a couple of Red Dead Redemption 2 references.",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/dKuWnE6XtEPJqCTiQWVibZ-1280-80.jpg"
+    },
+    {
+      "guid": "TtBjDtTSq4NosgooJvWoVV",
+      "title": " Eric Barone gives players a small update on Haunted Chocolatier's progress: 'It’s not a simple task, as I torture myself over every last detail' ",
+      "link": "https://www.pcgamer.com/games/life-sim/eric-barone-gives-players-a-small-update-on-haunted-chocolatiers-progress-its-not-a-simple-task-as-i-torture-myself-over-every-last-detail/",
+      "pubDate": "Fri, 26 Jun 2026 11:16:00 +0000",
+      "contentSnippet": "Good things come to those who wait.",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/sF8KxPT4Kn7CvNSZkb3CNH-1280-80.jpg"
+    },
+    {
+      "guid": "PjvhfnZk35ASHzJzNm5qBF",
+      "title": " 'Generational talent just gone': Developers react in shock at the brutal scale of Bungie layoffs, which has reportedly seen the Destiny 2 team almost completely wiped out ",
+      "link": "https://www.pcgamer.com/gaming-industry/generational-talent-just-gone-developers-react-in-shock-at-the-brutal-scale-of-bungie-layoffs-which-has-reportedly-seen-the-destiny-2-team-almost-completely-wiped-out/",
+      "pubDate": "Thu, 25 Jun 2026 22:53:01 +0000",
+      "contentSnippet": "Many of those being let go are showing incredible dignity in the face of a gigantic squandering of talent.",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/BZd94yDJc3M5UZ7tbvWSM5-1280-80.jpg"
+    },
+    {
+      "guid": "127027",
+      "title": "Everything Announced At The 2026 Capcom Spotlight\n",
+      "link": "https://gameinformer.com/2026/06/25/everything-announced-at-the-2026-capcom-spotlight",
+      "pubDate": "Thu, 25 Jun 2026 17:01:00 CDT",
+      "contentSnippet": "Capcom held one of its annual summer Spotlight showcases today. While it was light on major announcements, we did learn more about Dragon's Dogma 2: Dark Arisen, the reveal of new story DLC for Monster Hunter Stories 3: Twisted Reflection, and smaller updates for Onimusha: Way of the Sword and Resident Evil Requiem. Here's a summary of each notable announcement. \nMonster Hunter Stories 3: Twisted Reflection\n\nAdditional Side Story: Rudy DLC is available today for $9.99 (free for Deluxe/Premium edition owners). The narrative explores the origin of Rudy, the Royal Feylne, and his ancestors.\nPlayers can challenge the powerful elder dragon Nergigante\nDownloading the update with a completed save file lets you challenge a harder version of the final battle. Winning this version of the fight turns all existing monsters into Royal Monsters in the field for stronger battles. \n\n\n\n\n\n\n  \n          \n                  \n              \n              \n                  \n\n  \n\n\n  \n  \n  \n\n\nResident Evil Requiem\n\nThe previously revealed Grace Ashcroft and Leon S. Kennedy Amiibo have a release date: June 30\n\n\n\n\n\n\n  \n          \n                  \n              \n              \n                  \n\n  \n\n\n  \n  \n  \n\n\nDragon’s Dogma 2: Dark Arisen\n\nThe expansion's story takes place in the new northern region of Norgan and centers on the fallen dragon and a mysterious woman hunting it named Eir. \nIntroduces 12 unique dungeons\nAdds an expanded character editor\nNorgan features Relics players can find that can be appraised and forged into weapons/armor, which are stronger and can have special effects/skills\nAn August update is planned before Dark Arisen's launch that will add additional save slots,  improve performance, adjust the Dragonsplauge condition with more treatment methods, and raise weapon skill slots to six. \n\n\n\n\n\n\n  \n          \n                  \n              \n              \n                  \n\n  \n\n\n  \n  \n  \n\n\nOnimusha: Way of the Sword\n\nNew gameplay footage shows off a battle against a newly revealed Genma, Dohatsu-ten.",
+      "thumbnail": "https://www.gameinformer.com/sites/default/files/styles/body_default/public/2026/06/25/e533b960/dragons_dogma_2_dark_arisen_fallen_dragon.jpg.webp"
+    },
+    {
+      "guid": "VHPXxhj65WnuWxvBVVk2SF",
+      "title": " Deltarune Chapter 5 launches to nearly 300,000 concurrent players on Steam, Chapter 6 is coming in 2027 ",
+      "link": "https://www.pcgamer.com/games/rpg/deltarune-chapter-5-launches-to-nearly-300-000-concurrent-players-on-steam-chapter-6-is-coming-in-2027/",
+      "pubDate": "Thu, 25 Jun 2026 21:45:49 +0000",
+      "contentSnippet": "People sure seem to like Deltarune.",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/EmUrhNikp9rAdNrCaAgvsd-1280-80.jpg"
+    },
+    {
+      "guid": "CEPDPobdMf8arY9vYjCsYK",
+      "title": " 1 year after launch, spaceship shooter Wildgate will end development after its next update ",
+      "link": "https://www.pcgamer.com/games/fps/1-year-after-launch-spaceship-shooter-wildgate-will-end-development-after-its-next-update/",
+      "pubDate": "Thu, 25 Jun 2026 21:27:17 +0000",
+      "contentSnippet": "Thankfully, it's not shutting down, and developer Moonshot Games says no layoffs are planned.",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/YrEExvCfqDRmwSsVWJG4QT-1280-80.jpg"
+    },
+    {
+      "guid": "xMtwKx4P84mq8FdbnPN3bS",
+      "title": " I've played countless Doom engine games, so believe me when I say this one that combines the FPS with JRPG combat might be the coolest one in 30 years ",
+      "link": "https://www.pcgamer.com/games/fps/ive-played-countless-doom-engine-games-so-believe-me-when-i-say-this-one-that-combines-the-fps-with-jrpg-combat-might-be-the-coolest-one-in-30-years/",
+      "pubDate": "Thu, 25 Jun 2026 21:24:54 +0000",
+      "contentSnippet": "Free Doom total conversion End of Starchild is part bullet hell, part surprise RPG, all enigma.",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/VT8cPPK89w3gGPH6GDRWzK-1280-80.jpg"
+    },
+    {
+      "guid": "QgfyHESAuMdbJfA2nZxkE7",
+      "title": " PC Gamer's 2025 GOTY is yours for a ludicrous $24 during the Steam Summer Sale ",
+      "link": "https://www.pcgamer.com/games/rpg/pc-gamers-2025-goty-is-yours-for-a-ludicrous-usd24-during-the-steam-summer-sale/",
+      "pubDate": "Thu, 25 Jun 2026 21:08:42 +0000",
+      "contentSnippet": "Kingdom Come: Deliverance 2 is 60% off, and Warhorse is celebrating with a free quest.",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/yDSiHxg3rRBdUFukFttV6H-1280-80.jpg"
+    }
+  ]
 }
