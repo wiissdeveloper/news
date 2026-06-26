@@ -1,11 +1,26 @@
 import Parser from "rss-parser";
 import fs from "fs";
+import iconv from "iconv-lite";
 
 const parser = new Parser({
-  customFields: { item: [["media:thumbnail", "thumbnail"], ["media:content", "mediaContent"], ["enclosure", "enclosure"]] }
+  customFields: {
+    item: [
+      ["media:thumbnail", "thumbnail"],
+      ["media:content", "mediaContent"],
+      ["enclosure", "enclosure"]
+    ]
+  }
 });
 
 const TOTAL = 12;
+const MAX_ITEMS_PER_FEED = 150;
+const TIMEOUT_MS = 3000; // Timeout agresivo para no bloquear el script
+
+const RANGES = {
+  es: [30, 60, 120], fr: [30, 60, 120], it: [30, 60, 120, 180], 
+  de: [30, 60, 120], pt: [30, 60, 120], en: [30, 60, 120]
+};
+
 const SOURCES = {
   es: ["https://vandal.elespanol.com/xml.cgi", "https://www.3djuegos.com/rss/rss.xml", "https://as.com/rss/meristation/portada.xml", "https://www.hobbyconsolas.com/rss", "https://areajugones.sport.es/feed/", "https://www.vidaextra.com/feed"],
   it: ["https://www.everyeye.it/feed/feed_rss.asp", "https://multiplayer.it/notizie.xml", "https://www.spaziogames.it/feed/", "https://www.ilvideogioco.com/feed/", "https://www.player.it/feed/", "https://www.gamesvillage.it/feed/", "https://www.tomshw.it/videogioco/feed/", "https://www.gamesource.it/feed/"],
@@ -13,70 +28,85 @@ const SOURCES = {
   en: ["https://gamerant.com/feed/", "https://www.gameinformer.com/rss.xml", "https://www.pcgamer.com/rss/"]
 };
 
-const GAMER_KEYWORDS = ["game", "gaming", "videojuego", "video game", "juego", "ps5", "playstation", "ps4", "ps3", "xbox", "series x", "series s", "one", "nintendo", "switch", "zelda", "mario", "pokemon", "steam", "pc gaming", "pc", "trailer", "review", "análisis", "avance", "dlc", "expansión", "update", "actualización", "esports", "torneo", "competitivo", "launch", "release", "lanzamiento", "fps", "rpg", "shooter", "battle royale", "retro", "emulador", "emulación"];
-const MOVIE_KEYWORDS = ["película", "pelicula", "movie", "film", "cine", "actor", "actriz", "director", "taquilla", "box office"];
-const ANIME_KEYWORDS = ["anime", "manga", "one piece", "dragon ball", "naruto", "bleach", "haki", "luffy", "zoro", "gear 5"];
-const SERIES_KEYWORDS = ["season", "episode", "serie", "series", "temporada", "house of the dragon", "netflix", "hbo", "prime video"];
-const IT_EXCLUDE = ["politica", "governo", "elezioni", "parlamento", "guerra", "crisi"];
+// --- PALABRAS CLAVE ---
+const GAMER_KEYWORDS = ["game", "gaming", "videojuego", "juego", "ps5", "xbox", "nintendo", "switch", "pc", "trailer", "review", "análisis", "launch", "lanzamiento", "rpg", "fps"];
+const MOVIE_KEYWORDS = ["película", "pelicula", "movie", "cine", "actor", "director"];
+const ANIME_KEYWORDS = ["anime", "manga", "one piece", "dragon ball", "naruto"];
+const SERIES_KEYWORDS = ["season", "episode", "serie", "series", "temporada", "netflix", "hbo"];
 
-const log = [];
-
-async function fetchXML(url) {
-  try {
-    const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`;
-    const res = await fetch(proxyUrl, {
-      headers: { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" }
-    });
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const data = await res.json();
-    const feed = await parser.parseString(data.contents);
-    log.push(`OK: ${url}`);
-    return feed.items || [];
-  } catch (e) {
-    log.push(`ERROR: ${url} -> ${e.message}`);
-    return [];
-  }
+// --- FUNCIONES AUXILIARES ---
+function cleanText(str) {
+  if (!str) return "";
+  return str.replace(/&#39;/g, "'").replace(/&quot;/g, '"').replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">");
 }
 
-function isValid(item, lang) {
+function isGamingNews(item) {
   const text = `${item.title} ${item.contentSnippet || ""}`.toLowerCase();
   const isGame = GAMER_KEYWORDS.some(k => text.includes(k));
   const isMovie = MOVIE_KEYWORDS.some(k => text.includes(k));
   const isAnime = ANIME_KEYWORDS.some(k => text.includes(k));
   const isSeries = SERIES_KEYWORDS.some(k => text.includes(k));
-  const isItBad = lang === 'it' && IT_EXCLUDE.some(k => text.includes(k));
-  return isGame && !isMovie && !isAnime && !isSeries && !isItBad;
+  return isGame && !isMovie && !isAnime && !isSeries;
 }
 
-async function generate() {
-  for (const lang of Object.keys(SOURCES)) {
-    log.push(`\n=== Procesando ${lang.toUpperCase()} ===`);
-    let allNews = [];
-    
-    for (const url of SOURCES[lang]) {
-      const items = await fetchXML(url);
-      allNews.push(...items.map(i => ({
-        ...i,
-        pubDate: new Date(i.pubDate || Date.now()),
-        thumbnail: i.thumbnail?.url || i.enclosure?.url || i.content?.match(/src="([^"]+)"/)?.[1]
-      })));
-    }
+function extractImage(item) {
+  return item.thumbnail?.url || item.mediaContent?.url || item.enclosure?.url || item.content?.match(/src="([^"]+)"/)?.[1];
+}
 
-    let final = allNews
-      .filter(n => isValid(n, lang) && n.thumbnail?.startsWith("http"))
-      .sort((a, b) => b.pubDate - a.pubDate);
-    
-    if (final.length < TOTAL && lang !== 'en') {
-      log.push(`-> Rellenando ${lang} con fuentes globales (fallback).`);
-      const fallback = await fetchXML(SOURCES['en'][0]);
-      final.push(...fallback.filter(n => isValid(n, 'en')));
-    }
+async function fetchXML(url) {
+  try {
+    const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`;
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), TIMEOUT_MS);
 
-    final = Array.from(new Set(final.map(n => n.link))).map(link => final.find(n => n.link === link)).slice(0, TOTAL);
-    fs.writeFileSync(`news_${lang}.json`, JSON.stringify({ date: new Date().toISOString().split('T')[0], notices: final }, null, 2));
-    log.push(`-> Total guardadas: ${final.length}`);
+    const res = await fetch(proxyUrl, {
+      headers: { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" },
+      signal: controller.signal
+    });
+    clearTimeout(timeout);
+
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    const feed = await parser.parseString(data.contents);
+    console.log(`✅ OK: ${url}`);
+    return (feed.items || []).slice(0, MAX_ITEMS_PER_FEED);
+  } catch (err) {
+    console.log(`❌ ERROR: ${url} -> ${err.message}`);
+    return [];
   }
-  fs.writeFileSync("news_log.txt", log.join("\n"));
+}
+
+// --- GENERADOR ---
+async function generate() {
+  const log = [];
+  for (const lang of Object.keys(SOURCES)) {
+    console.log(`\n=== PROCESANDO ${lang.toUpperCase()} ===`);
+    log.push(`\n=== ${lang.toUpperCase()} ===`);
+    
+    const feeds = await Promise.all(SOURCES[lang].map(fetchXML));
+    let all = feeds.flat().map(i => ({
+      title: cleanText(i.title), link: i.link, pubDate: i.pubDate, 
+      contentSnippet: cleanText(i.contentSnippet), thumbnail: extractImage(i)
+    }));
+
+    all = all.filter(isGamingNews).filter(n => n.thumbnail?.startsWith("http"));
+    
+    // Relleno de fallback inglés
+    if (all.length < TOTAL && lang !== 'en') {
+      console.log(`⚠️ Fallback activo para ${lang}`);
+      const fallback = await fetchXML(SOURCES['en'][0]);
+      all.push(...fallback.filter(isGamingNews));
+    }
+
+    const final = Array.from(new Set(all.map(n => n.link)))
+      .map(link => all.find(n => n.link === link))
+      .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate))
+      .slice(0, TOTAL);
+
+    fs.writeFileSync(`news_${lang}.json`, JSON.stringify({ date: new Date(), notices: final }, null, 2));
+    log.push(`Total: ${final.length}`);
+    fs.writeFileSync("news_log.txt", log.join("\n"));
+  }
 }
 
 generate();
