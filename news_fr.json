@@ -1,4 +1,304 @@
 {
-  "date": "2026-06-26T15:39:48.085Z",
-  "notices": []
+  "date": "2026-06-26",
+  "notices": [
+    {
+      "creator": "Kyujilo",
+      "title": "Guild Wars Reforged : le MMORPG d'ArenaNet débarque par surprise sur iOS et Android",
+      "link": "https://www.gamekult.com/actualite/guild-wars-reforged-le-mmorpg-d-arenanet-debarque-par-surprise-sur-ios-et-android-3050870959.html",
+      "pubDate": "2026-06-26T13:39:00.000Z",
+      "enclosure": {
+        "url": "https://cdn.gamekult.com/optim/images/news/30/3050870959/guild-wars-reforged-le-mmorpg-d-arenanet-debarque-par-surprise-sur-ios-et-android-80b7632e__930_300__0-0-1920-621.jpg",
+        "type": "image/jpg",
+        "length": "5000"
+      },
+      "dc:creator": "Kyujilo",
+      "mediaContent": {
+        "$": {
+          "url": "https://cdn.gamekult.com/optim/images/news/30/3050870959/guild-wars-reforged-le-mmorpg-d-arenanet-debarque-par-surprise-sur-ios-et-android-80b7632e__800_800__783-0-1863-1080.jpg",
+          "type": "image/jpeg",
+          "expression": "full",
+          "width": "800",
+          "height": "800"
+        }
+      },
+      "content": "Plus de vingt ans après avoir bousculé les codes du RPG en ligne sur PC, la franchise mythique d'ArenaNet s'offre un retour aussi inattendu que, disons.... &quot;clivant&quot;. L'éditeur NCSoft vient d'officialiser le lancement immédiat de Guild Wars Reforged, une adaptation entièrement pensée pour les supports mobiles, d'ores et déjà disponible sur l'App Store et Google Play.\n\n\n",
+      "contentSnippet": "Plus de vingt ans après avoir bousculé les codes du RPG en ligne sur PC, la franchise mythique d'ArenaNet s'offre un retour aussi inattendu que, disons.... \"clivant\". L'éditeur NCSoft vient d'officialiser le lancement immédiat de Guild Wars Reforged, une adaptation entièrement pensée pour les supports mobiles, d'ores et déjà disponible sur l'App Store et Google Play.",
+      "guid": "https://www.gamekult.com/actualite/guild-wars-reforged-le-mmorpg-d-arenanet-debarque-par-surprise-sur-ios-et-android-3050870959.html",
+      "isoDate": "2026-06-26T13:39:00.000Z",
+      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050870959/guild-wars-reforged-le-mmorpg-d-arenanet-debarque-par-surprise-sur-ios-et-android-80b7632e__930_300__0-0-1920-621.jpg"
+    },
+    {
+      "creator": "Jarod",
+      "title": "Clutch : le jeu de course narratif en monde ouvert s'expose pendant une heure",
+      "link": "https://www.gamekult.com/actualite/clutch-le-jeu-de-course-narratif-en-monde-ouvert-s-expose-pendant-une-heure-3050870958.html",
+      "pubDate": "2026-06-26T12:40:00.000Z",
+      "enclosure": {
+        "url": "https://cdn.gamekult.com/optim/images/news/30/3050870958/clutch-le-jeu-de-course-narratif-en-monde-ouvert-s-expose-pendant-une-heure-eebe4424__930_300__0-666-3840-1900.jpg",
+        "type": "image/jpg",
+        "length": "5000"
+      },
+      "dc:creator": "Jarod",
+      "mediaContent": {
+        "$": {
+          "url": "https://cdn.gamekult.com/optim/images/news/30/3050870958/clutch-le-jeu-de-course-narratif-en-monde-ouvert-s-expose-pendant-une-heure-eebe4424__800_800__1660-661-3081-2082.jpg",
+          "type": "image/jpeg",
+          "expression": "full",
+          "width": "800",
+          "height": "800"
+        }
+      },
+      "content": "Grand espoir du jeu de course en monde ouvert, Clutch enchaîne. Après l'annonce du jeu au Summer Game Fest, l'équipe de Maverick Games, formée en grande partie par des anciens de Playground Games, a présenté le début du jeu dans le cadre d'un livestream.\n",
+      "contentSnippet": "Grand espoir du jeu de course en monde ouvert, Clutch enchaîne. Après l'annonce du jeu au Summer Game Fest, l'équipe de Maverick Games, formée en grande partie par des anciens de Playground Games, a présenté le début du jeu dans le cadre d'un livestream.",
+      "guid": "https://www.gamekult.com/actualite/clutch-le-jeu-de-course-narratif-en-monde-ouvert-s-expose-pendant-une-heure-3050870958.html",
+      "isoDate": "2026-06-26T12:40:00.000Z",
+      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050870958/clutch-le-jeu-de-course-narratif-en-monde-ouvert-s-expose-pendant-une-heure-eebe4424__930_300__0-666-3840-1900.jpg"
+    },
+    {
+      "creator": "LuigiAndSpace",
+      "title": "Les joueurs sont-ils en meilleure santé physique que la population générale ? Une étude se penche sur la question",
+      "link": "https://www.jeuxvideo.com/news/2090669/les-joueurs-sont-ils-en-meilleure-sante-physique-que-la-population-generale-une-etude-se-penche-sur-la-question.htm",
+      "pubDate": "2026-06-26T12:20:10.000Z",
+      "enclosure": {
+        "url": "https://image.jeuxvideo.com/medias-lg/178232/1782316318-7871-card.jpg",
+        "type": "image/jpeg"
+      },
+      "dc:creator": "LuigiAndSpace",
+      "content": "On ne compte plus les représentations du joueur lambda vissé sur son siège, chips à la main et souris dans l’autre, dont le taux de sucre dans le sang ne peut qu'excéder le manque d’exercice physique. On est taquins, car personne ne se retrouve dans cette représentation stéréotypée. Simplement parce...",
+      "contentSnippet": "On ne compte plus les représentations du joueur lambda vissé sur son siège, chips à la main et souris dans l’autre, dont le taux de sucre dans le sang ne peut qu'excéder le manque d’exercice physique. On est taquins, car personne ne se retrouve dans cette représentation stéréotypée. Simplement parce...",
+      "guid": "https://www.jeuxvideo.com/news/2090669/les-joueurs-sont-ils-en-meilleure-sante-physique-que-la-population-generale-une-etude-se-penche-sur-la-question.htm",
+      "categories": [
+        "News jeu"
+      ],
+      "isoDate": "2026-06-26T12:20:10.000Z",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178232/1782316318-7871-card.jpg"
+    },
+    {
+      "creator": "Le Doc",
+      "title": "Pour sa nouvelle console sous Android, GoRetroid fait le choix du format 4:3",
+      "link": "https://www.gamekult.com/actualite/pour-sa-nouvelle-console-sous-android-goretroid-fait-le-choix-du-format-4-3-3050870957.html",
+      "pubDate": "2026-06-26T11:16:00.000Z",
+      "enclosure": {
+        "url": "https://cdn.gamekult.com/optim/images/news/30/3050870957/pour-sa-nouvelle-console-sous-android-goretroid-fait-le-choix-du-format-4-3-2acfaf4a__930_300__0-228-1959-859.jpg",
+        "type": "image/jpg",
+        "length": "5000"
+      },
+      "dc:creator": "Le Doc",
+      "mediaContent": {
+        "$": {
+          "url": "https://cdn.gamekult.com/optim/images/news/30/3050870957/pour-sa-nouvelle-console-sous-android-goretroid-fait-le-choix-du-format-4-3-2acfaf4a__800_800__262-0-1730-1469.jpg",
+          "type": "image/jpeg",
+          "expression": "full",
+          "width": "800",
+          "height": "800"
+        }
+      },
+      "content": "GoRetroid a dévoilé l'intégralité des informations à propos de sa prochaine machine Android, la Pocket Nova, ainsi que sa grille tarifaire. Le positionnement est ambitieux (aussi bien techniquement que du point de vue du prix) et s'inscrit dans une course au meilleur format 4:3 du marché (face à d'autres modèles comme l'Anbernic RG 55G1 et à l'Ayaneo Pocket Micro 2).\n",
+      "contentSnippet": "GoRetroid a dévoilé l'intégralité des informations à propos de sa prochaine machine Android, la Pocket Nova, ainsi que sa grille tarifaire. Le positionnement est ambitieux (aussi bien techniquement que du point de vue du prix) et s'inscrit dans une course au meilleur format 4:3 du marché (face à d'autres modèles comme l'Anbernic RG 55G1 et à l'Ayaneo Pocket Micro 2).",
+      "guid": "https://www.gamekult.com/actualite/pour-sa-nouvelle-console-sous-android-goretroid-fait-le-choix-du-format-4-3-3050870957.html",
+      "isoDate": "2026-06-26T11:16:00.000Z",
+      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050870957/pour-sa-nouvelle-console-sous-android-goretroid-fait-le-choix-du-format-4-3-2acfaf4a__930_300__0-228-1959-859.jpg"
+    },
+    {
+      "creator": "Kyujilo",
+      "title": "Divulgation de l'IA sur Steam : Tim Sweeney s'en prend à Valve et dénonce une dictature imposée aux développeurs",
+      "link": "https://www.gamekult.com/actualite/divulgation-de-l-ia-sur-steam-tim-sweeney-s-en-prend-a-valve-et-denonce-une-dictature-imposee-aux-developpeurs-3050870954.html",
+      "pubDate": "2026-06-26T10:32:00.000Z",
+      "enclosure": {
+        "url": "https://cdn.gamekult.com/optim/images/news/30/3050870954/divulgation-de-l-ia-sur-steam-tim-sweeney-s-en-prend-a-valve-et-denonce-une-dictature-imposee-aux-developpeurs-9baf6229__930_300__0-112-1920-734.jpg",
+        "type": "image/jpg",
+        "length": "5000"
+      },
+      "dc:creator": "Kyujilo",
+      "mediaContent": {
+        "$": {
+          "url": "https://cdn.gamekult.com/optim/images/news/30/3050870954/divulgation-de-l-ia-sur-steam-tim-sweeney-s-en-prend-a-valve-et-denonce-une-dictature-imposee-aux-developpeurs-9baf6229__800_800__131-0-1211-1080.jpg",
+          "type": "image/jpeg",
+          "expression": "full",
+          "width": "800",
+          "height": "800"
+        }
+      },
+      "content": "Quelques jours après avoir admis l'usage d'outils génératifs chez Epic Games, le PDG de la boîte remet le couvert. Dans une interview exclusive accordée à PC Gamer, Tim Sweeney a qualifié d'« irresponsable » la politique de transparence de Valve concernant l'intelligence artificielle sur Steam, accusant la plateforme de jeter les créateurs en pâture aux communautés de joueurs.\n",
+      "contentSnippet": "Quelques jours après avoir admis l'usage d'outils génératifs chez Epic Games, le PDG de la boîte remet le couvert. Dans une interview exclusive accordée à PC Gamer, Tim Sweeney a qualifié d'« irresponsable » la politique de transparence de Valve concernant l'intelligence artificielle sur Steam, accusant la plateforme de jeter les créateurs en pâture aux communautés de joueurs.",
+      "guid": "https://www.gamekult.com/actualite/divulgation-de-l-ia-sur-steam-tim-sweeney-s-en-prend-a-valve-et-denonce-une-dictature-imposee-aux-developpeurs-3050870954.html",
+      "isoDate": "2026-06-26T10:32:00.000Z",
+      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050870954/divulgation-de-l-ia-sur-steam-tim-sweeney-s-en-prend-a-valve-et-denonce-une-dictature-imposee-aux-developpeurs-9baf6229__930_300__0-112-1920-734.jpg"
+    },
+    {
+      "creator": "Le Doc",
+      "title": "Aethermancer reçoit sa mise à jour Alchemical Awakening, la plus ambitieuse depuis son lancement en accès anticipé",
+      "link": "https://www.gamekult.com/actualite/aethermancer-recoit-sa-mise-a-jour-alchemical-awakening-la-plus-ambitieuse-depuis-son-lancement-en-acces-anticipe-3050870955.html",
+      "pubDate": "2026-06-26T09:16:00.000Z",
+      "enclosure": {
+        "url": "https://cdn.gamekult.com/optim/images/news/30/3050870955/aethermancer-recoit-sa-mise-a-jour-alchemical-awakening-la-plus-ambitieuse-depuis-son-lancement-en-acces-anticipe-d8966927__930_300__0-206-1920-827.jpg",
+        "type": "image/jpg",
+        "length": "5000"
+      },
+      "dc:creator": "Le Doc",
+      "mediaContent": {
+        "$": {
+          "url": "https://cdn.gamekult.com/optim/images/news/30/3050870955/aethermancer-recoit-sa-mise-a-jour-alchemical-awakening-la-plus-ambitieuse-depuis-son-lancement-en-acces-anticipe-d8966927__800_800__423-0-1502-1080.jpg",
+          "type": "image/jpeg",
+          "expression": "full",
+          "width": "800",
+          "height": "800"
+        }
+      },
+      "content": "offbrand games et moi rai games (respectivement connus pour Rivals of Aether II et Monster Sanctuary) ont déployé la mise à jour gratuite Alchemical Awakening pour Aethermancer, leur roguelite de capture de monstres en accès anticipé sur Steam. Il s'agit de la deuxième mise à jour majeure du jeu et du troisième jalon de sa feuille de route d'accès anticipé.\n\n\n",
+      "contentSnippet": "offbrand games et moi rai games (respectivement connus pour Rivals of Aether II et Monster Sanctuary) ont déployé la mise à jour gratuite Alchemical Awakening pour Aethermancer, leur roguelite de capture de monstres en accès anticipé sur Steam. Il s'agit de la deuxième mise à jour majeure du jeu et du troisième jalon de sa feuille de route d'accès anticipé.",
+      "guid": "https://www.gamekult.com/actualite/aethermancer-recoit-sa-mise-a-jour-alchemical-awakening-la-plus-ambitieuse-depuis-son-lancement-en-acces-anticipe-3050870955.html",
+      "isoDate": "2026-06-26T09:16:00.000Z",
+      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050870955/aethermancer-recoit-sa-mise-a-jour-alchemical-awakening-la-plus-ambitieuse-depuis-son-lancement-en-acces-anticipe-d8966927__930_300__0-206-1920-827.jpg"
+    },
+    {
+      "creator": "Cael",
+      "title": "Onimusha : Way of the Sword présente un nouveau monstre ailé",
+      "link": "https://www.gamekult.com/actualite/onimusha-way-of-the-sword-presente-un-nouveau-monstre-aile-3050870953.html",
+      "pubDate": "2026-06-26T08:31:00.000Z",
+      "enclosure": {
+        "url": "https://cdn.gamekult.com/optim/images/news/30/3050870953/onimusha-way-of-the-sword-presente-un-nouveau-monstre-aile-67835217__930_300__0-176-1920-796.jpg",
+        "type": "image/jpg",
+        "length": "5000"
+      },
+      "dc:creator": "Cael",
+      "mediaContent": {
+        "$": {
+          "url": "https://cdn.gamekult.com/optim/images/news/30/3050870953/onimusha-way-of-the-sword-presente-un-nouveau-monstre-aile-67835217__800_800__550-24-1592-1065.jpg",
+          "type": "image/jpeg",
+          "expression": "full",
+          "width": "800",
+          "height": "800"
+        }
+      },
+      "content": "Quasiment dans sa dernière ligne droite, Onimusha : Way of the Sword repartage un peu de gameplay avec un nouveau monstre stylé.\n",
+      "contentSnippet": "Quasiment dans sa dernière ligne droite, Onimusha : Way of the Sword repartage un peu de gameplay avec un nouveau monstre stylé.",
+      "guid": "https://www.gamekult.com/actualite/onimusha-way-of-the-sword-presente-un-nouveau-monstre-aile-3050870953.html",
+      "isoDate": "2026-06-26T08:31:00.000Z",
+      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050870953/onimusha-way-of-the-sword-presente-un-nouveau-monstre-aile-67835217__930_300__0-176-1920-796.jpg"
+    },
+    {
+      "creator": "Jinxeb",
+      "title": "858,26€ : c'est le prix du jeu le plus cher sur Steam et il a une durée de vie de seulement 10 minutes",
+      "link": "https://www.jeuxvideo.com/news/2090797/858-26-c-est-le-prix-du-jeu-le-plus-cher-sur-steam-et-il-a-une-duree-de-vie-de-seulement-10-minutes.htm",
+      "pubDate": "2026-06-26T08:30:19.000Z",
+      "author": "Benjamin Annequet aka « Jinxeb » ",
+      "enclosure": {
+        "url": "https://image.jeuxvideo.com/medias-lg/178231/1782309810-875-card.jpg",
+        "type": "image/jpeg"
+      },
+      "dc:creator": "Jinxeb",
+      "content": "Sur Steam, certains jeux cherchent à repousser les limites de l’originalité. Mais parfois, ce n’est pas leur gameplay qui attire l’attention… c’est leur prix. Une expérience aussi étrange que provocatrice a récemment fait parler d’elle en affichant un tarif complètement démesuré. Entre coup marketing,...",
+      "contentSnippet": "Sur Steam, certains jeux cherchent à repousser les limites de l’originalité. Mais parfois, ce n’est pas leur gameplay qui attire l’attention… c’est leur prix. Une expérience aussi étrange que provocatrice a récemment fait parler d’elle en affichant un tarif complètement démesuré. Entre coup marketing,...",
+      "guid": "https://www.jeuxvideo.com/news/2090797/858-26-c-est-le-prix-du-jeu-le-plus-cher-sur-steam-et-il-a-une-duree-de-vie-de-seulement-10-minutes.htm",
+      "categories": [
+        "News jeu"
+      ],
+      "isoDate": "2026-06-26T08:30:19.000Z",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178231/1782309810-875-card.jpg"
+    },
+    {
+      "creator": "Le Doc",
+      "title": "Nintendo confirme l'ouverture de son nouveau centre de R&D à Kyoto pour mars 2029",
+      "link": "https://www.gamekult.com/actualite/nintendo-confirme-l-ouverture-de-son-nouveau-centre-de-r-d-a-kyoto-pour-mars-2029-3050870952.html",
+      "pubDate": "2026-06-26T07:46:00.000Z",
+      "enclosure": {
+        "url": "https://cdn.gamekult.com/optim/images/news/30/3050870952/nintendo-confirme-l-ouverture-de-son-nouveau-centre-de-r-d-a-kyoto-pour-mars-2029-e967ec8a__930_300__0-112-3264-1164.jpg",
+        "type": "image/jpg",
+        "length": "5000"
+      },
+      "dc:creator": "Le Doc",
+      "mediaContent": {
+        "$": {
+          "url": "https://cdn.gamekult.com/optim/images/news/30/3050870952/nintendo-confirme-l-ouverture-de-son-nouveau-centre-de-r-d-a-kyoto-pour-mars-2029-e967ec8a__800_800__841-0-2809-1970.jpg",
+          "type": "image/jpeg",
+          "expression": "full",
+          "width": "800",
+          "height": "800"
+        }
+      },
+      "content": "Nintendo a communiqué de nouvelles informations concernant son futur bâtiment de recherche et développement en cours de construction à Kyoto, en renommant officiellement le projet &quot;Technology Development Center&quot; - il s'appelait jusqu'ici &quot;Corporate Headquarters Development Center, Building No. 2&quot;. L'ouverture est désormais prévue pour mars 2029, pour un coût de construction estimé à 121 milliards de yens, soit environ 650 millions d'euros.\n",
+      "contentSnippet": "Nintendo a communiqué de nouvelles informations concernant son futur bâtiment de recherche et développement en cours de construction à Kyoto, en renommant officiellement le projet \"Technology Development Center\" - il s'appelait jusqu'ici \"Corporate Headquarters Development Center, Building No. 2\". L'ouverture est désormais prévue pour mars 2029, pour un coût de construction estimé à 121 milliards de yens, soit environ 650 millions d'euros.",
+      "guid": "https://www.gamekult.com/actualite/nintendo-confirme-l-ouverture-de-son-nouveau-centre-de-r-d-a-kyoto-pour-mars-2029-3050870952.html",
+      "isoDate": "2026-06-26T07:46:00.000Z",
+      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050870952/nintendo-confirme-l-ouverture-de-son-nouveau-centre-de-r-d-a-kyoto-pour-mars-2029-e967ec8a__930_300__0-112-3264-1164.jpg"
+    },
+    {
+      "creator": "Cael",
+      "title": "Monster Hunter Stories 3 : Twisted Reflection chasse le Nergigante dans son extension",
+      "link": "https://www.gamekult.com/actualite/monster-hunter-stories-3-twisted-reflection-chasse-le-nergigante-dans-son-extension-3050870950.html",
+      "pubDate": "2026-06-26T07:02:00.000Z",
+      "enclosure": {
+        "url": "https://cdn.gamekult.com/optim/images/news/30/3050870950/d39301ab__930_300__0-196-3840-1436.jpg",
+        "type": "image/jpg",
+        "length": "5000"
+      },
+      "dc:creator": "Cael",
+      "mediaContent": {
+        "$": {
+          "url": "https://cdn.gamekult.com/optim/images/news/30/3050870950/d39301ab__800_800__885-0-3047-2160.jpg",
+          "type": "image/jpeg",
+          "expression": "full",
+          "width": "800",
+          "height": "800"
+        }
+      },
+      "content": "Capcom investit encore un peu dans son RPG Monster Hunter Stories 3 : Twisted Reflection et propose une petite extension centrée sur le felyne Navirou et le terrible Nergigante, en parallèle d'une mise à jour gratuite sur les monstres royaux.\n",
+      "contentSnippet": "Capcom investit encore un peu dans son RPG Monster Hunter Stories 3 : Twisted Reflection et propose une petite extension centrée sur le felyne Navirou et le terrible Nergigante, en parallèle d'une mise à jour gratuite sur les monstres royaux.",
+      "guid": "https://www.gamekult.com/actualite/monster-hunter-stories-3-twisted-reflection-chasse-le-nergigante-dans-son-extension-3050870950.html",
+      "isoDate": "2026-06-26T07:02:00.000Z",
+      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050870950/d39301ab__930_300__0-196-3840-1436.jpg"
+    },
+    {
+      "creator": "Le Doc",
+      "title": "Dragon's Dogma 2 : Dark Arisen détaille sa région inédite, ses donjons et ses reliques",
+      "link": "https://www.gamekult.com/actualite/dragon-s-dogma-2-dark-arisen-detaille-sa-region-inedite-ses-donjons-et-ses-reliques-3050870951.html",
+      "pubDate": "2026-06-26T06:18:00.000Z",
+      "enclosure": {
+        "url": "https://cdn.gamekult.com/optim/images/news/30/3050870951/dragon-s-dogma-2-dark-arisen-detaille-sa-region-inedite-ses-donjons-et-ses-reliques-b861ed9c__930_300__0-154-3840-1395.jpg",
+        "type": "image/jpg",
+        "length": "5000"
+      },
+      "dc:creator": "Le Doc",
+      "mediaContent": {
+        "$": {
+          "url": "https://cdn.gamekult.com/optim/images/news/30/3050870951/dragon-s-dogma-2-dark-arisen-detaille-sa-region-inedite-ses-donjons-et-ses-reliques-b861ed9c__800_800__1300-0-3458-2160.jpg",
+          "type": "image/jpeg",
+          "expression": "full",
+          "width": "800",
+          "height": "800"
+        }
+      },
+      "content": "Kento Kinoshita, directeur de l'extension annoncée il y a quelques jours lors du dernier Nintendo Direct, a profité du livestream Capcom de cette nuit pour détailler le contenu de Dragon's Dogma 2 : Dark Arisen, prévu le 9 octobre. Son nom ne sera pas inconnu des amateurs de la franchise : Kinoshita avait déjà officié comme directeur de la version Dark Arisen du premier jeu de la licence en 2013.\n\n",
+      "contentSnippet": "Kento Kinoshita, directeur de l'extension annoncée il y a quelques jours lors du dernier Nintendo Direct, a profité du livestream Capcom de cette nuit pour détailler le contenu de Dragon's Dogma 2 : Dark Arisen, prévu le 9 octobre. Son nom ne sera pas inconnu des amateurs de la franchise : Kinoshita avait déjà officié comme directeur de la version Dark Arisen du premier jeu de la licence en 2013.",
+      "guid": "https://www.gamekult.com/actualite/dragon-s-dogma-2-dark-arisen-detaille-sa-region-inedite-ses-donjons-et-ses-reliques-3050870951.html",
+      "isoDate": "2026-06-26T06:18:00.000Z",
+      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050870951/dragon-s-dogma-2-dark-arisen-detaille-sa-region-inedite-ses-donjons-et-ses-reliques-b861ed9c__930_300__0-154-3840-1395.jpg"
+    },
+    {
+      "creator": "Le Doc",
+      "title": "Final Fantasy XV sur Nintendo Switch : Square Enix n'exclut pas totalement un portage",
+      "link": "https://www.gamekult.com/actualite/final-fantasy-xv-sur-nintendo-switch-square-enix-n-exclut-pas-totalement-un-portage-3050870944.html",
+      "pubDate": "2026-06-26T05:31:00.000Z",
+      "enclosure": {
+        "url": "https://cdn.gamekult.com/optim/images/news/30/3050870944/final-fantasy-xv-sur-nintendo-switch-square-enix-n-exclut-pas-totalement-un-portage-e04b6355__930_300__0-98-1920-717.jpg",
+        "type": "image/jpg",
+        "length": "5000"
+      },
+      "dc:creator": "Le Doc",
+      "mediaContent": {
+        "$": {
+          "url": "https://cdn.gamekult.com/optim/images/news/30/3050870944/final-fantasy-xv-sur-nintendo-switch-square-enix-n-exclut-pas-totalement-un-portage-e04b6355__800_800__571-0-1650-1080.jpg",
+          "type": "image/jpeg",
+          "expression": "full",
+          "width": "800",
+          "height": "800"
+        }
+      },
+      "content": "Vous en connaissez beaucoup des gens qui réclamaient une telle chose vous ? Nous non plus, mais visiblement la possibilité serait à l'étude chez Square Enix : Final Fantasy XV sur Switch, première du nom, c'est possible. C'est même à l'étude, si l'on en croit les mots de Square Enix.\n",
+      "contentSnippet": "Vous en connaissez beaucoup des gens qui réclamaient une telle chose vous ? Nous non plus, mais visiblement la possibilité serait à l'étude chez Square Enix : Final Fantasy XV sur Switch, première du nom, c'est possible. C'est même à l'étude, si l'on en croit les mots de Square Enix.",
+      "guid": "https://www.gamekult.com/actualite/final-fantasy-xv-sur-nintendo-switch-square-enix-n-exclut-pas-totalement-un-portage-3050870944.html",
+      "isoDate": "2026-06-26T05:31:00.000Z",
+      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050870944/final-fantasy-xv-sur-nintendo-switch-square-enix-n-exclut-pas-totalement-un-portage-e04b6355__930_300__0-98-1920-717.jpg"
+    }
+  ]
 }
