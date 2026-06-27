@@ -17,17 +17,21 @@ const MAX_ITEMS_PER_FEED = 150;
 const MAX_RETRIES = 3;
 const TIMEOUT_MS = 5000;
 
-// RANGOS DINÁMICOS POR PAÍS (ITALIA AMPLIADO)
+// ===============================
+// RANGOS DINÁMICOS (ITALIA AMPLIADO)
+// ===============================
 const RANGES = {
   es: [30, 60, 120],
   fr: [30, 60, 120],
-  it: [30, 60, 120, 180, 240, 300], // ampliado
+  it: [30, 60, 120, 180, 240, 300],
   de: [30, 60, 120],
   pt: [30, 60, 120],
   en: [30, 60, 120]
 };
 
-// FUENTES ALTERNATIVAS POR PAÍS
+// ===============================
+// FUENTES ALTERNATIVAS
+// ===============================
 const SOURCES_ALT = {
   it: [
     "https://www.ilvideogioco.com/feed/",
@@ -49,7 +53,7 @@ const SOURCES_ALT = {
 };
 
 // ===============================
-// FETCH MANUAL CON HEADERS + TIMEOUT + REINTENTOS
+// FETCH XML CON HEADERS + TIMEOUT + RETRIES
 // ===============================
 async function fetchXML(url) {
   for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
@@ -73,10 +77,8 @@ async function fetchXML(url) {
       if (!res.ok) throw new Error("HTTP " + res.status);
 
       const buffer = Buffer.from(await res.arrayBuffer());
-
       const xmlDecl = buffer.toString("ascii", 0, 200).match(/encoding="([^"]+)"/i);
       const encoding = xmlDecl ? xmlDecl[1].toLowerCase() : "utf-8";
-
       const xml = iconv.decode(buffer, encoding);
 
       const feed = await parser.parseString(xml);
@@ -87,6 +89,10 @@ async function fetchXML(url) {
       if (attempt === MAX_RETRIES) return [];
     }
   }
+}
+
+async function fetchRSS(url) {
+  return await fetchXML(url);
 }
 
 function cleanText(str) {
@@ -112,13 +118,6 @@ function cleanText(str) {
 }
 
 // ===============================
-// FETCH RSS
-// ===============================
-async function fetchRSS(url) {
-  return await fetchXML(url);
-}
-
-// ===============================
 // FUENTES POR IDIOMA
 // ===============================
 const SOURCES = {
@@ -133,24 +132,16 @@ const SOURCES = {
     "https://www.gamekult.com/feed.xml",
     "https://www.actugaming.net/feed/"
   ],
-
-  // ===============================
-  // ITALIA OPTIMIZADA
-  // ===============================
   it: [
-    // FUNCIONAN SIEMPRE
     "https://www.ilvideogioco.com/feed/",
     "https://www.gamesource.it/feed/",
     "https://www.gametimers.it/feed/",
     "https://www.drcommodore.it/feed/",
-
-    // FUNCIONAN A VECES
     "https://www.player.it/feed/",
     "https://www.nintendoomed.it/feed/",
     "https://www.pcgaming.it/feed/",
     "https://www.game-experience.it/feed/"
   ],
-
   de: [
     "https://www.gamestar.de/news/rss/news.rss",
     "https://www.pcgames.de/rss/news.xml",
@@ -168,71 +159,46 @@ const SOURCES = {
 };
 
 // ===============================
-// PALABRAS CLAVE GAMER
+// PALABRAS CLAVE
 // ===============================
 const GAMER_KEYWORDS = [
-  "game", "gaming", "videojuego", "video game", "juego",
-  "ps5", "playstation", "ps4", "ps3",
-  "xbox", "series x", "series s", "one",
-  "nintendo", "switch", "zelda", "mario", "pokemon",
-  "steam", "pc gaming", "pc",
-  "trailer", "review", "análisis", "avance",
-  "dlc", "expansión", "update", "actualización",
-  "esports", "torneo", "competitivo",
-  "launch", "release", "lanzamiento",
-  "fps", "rpg", "shooter", "battle royale",
-  "retro", "emulador", "emulación"
+  "game","gaming","videojuego","video game","juego",
+  "ps5","playstation","ps4","ps3",
+  "xbox","series x","series s","one",
+  "nintendo","switch","zelda","mario","pokemon",
+  "steam","pc gaming","pc",
+  "trailer","review","análisis","avance",
+  "dlc","expansión","update","actualización",
+  "esports","torneo","competitivo",
+  "launch","release","lanzamiento",
+  "fps","rpg","shooter","battle royale",
+  "retro","emulador","emulación"
 ];
 
-// ===============================
-// PALABRAS CLAVE ANTI-CINE / ANIME / SERIES
-// ===============================
-const MOVIE_KEYWORDS = [
-  "película", "pelicula", "movie", "film", "cine",
-  "actor", "actriz", "director",
-  "taquilla", "box office"
-];
-
-const ANIME_KEYWORDS = [
-  "anime", "manga", "one piece", "dragon ball", "naruto",
-  "bleach", "haki", "luffy", "zoro", "gear 5"
-];
-
-const SERIES_KEYWORDS = [
-  "season", "episode", "serie", "series", "temporada",
-  "house of the dragon", "netflix", "hbo", "prime video"
-];
+const MOVIE_KEYWORDS = ["película","pelicula","movie","film","cine","actor","actriz","director","taquilla","box office"];
+const ANIME_KEYWORDS = ["anime","manga","one piece","dragon ball","naruto","bleach","haki","luffy","zoro","gear 5"];
+const SERIES_KEYWORDS = ["season","episode","serie","series","temporada","house of the dragon","netflix","hbo","prime video"];
+const POLITICS_KEYWORDS = ["politica","politics","elezioni","election","governo","government","parlamento","parliament","ministro","minister","presidente","president","partito","party","senato","senate"];
 
 // ===============================
-// PALABRAS CLAVE ANTI‑POLÍTICA
-// ===============================
-const POLITICS_KEYWORDS = [
-  "politica", "politics", "elezioni", "election",
-  "governo", "government", "parlamento", "parliament",
-  "ministro", "minister", "presidente", "president",
-  "partito", "party", "senato", "senate"
-];
-
-// ===============================
-// FILTRO GAMER REAL
+// FILTRO GAMER
 // ===============================
 function isGamingNews(item) {
   const text = `${item.title} ${item.contentSnippet || ""}`.toLowerCase();
-
-  const isGame = GAMER_KEYWORDS.some(k => text.includes(k));
-  const isMovie = MOVIE_KEYWORDS.some(k => text.includes(k));
-  const isAnime = ANIME_KEYWORDS.some(k => text.includes(k));
-  const isSeries = SERIES_KEYWORDS.some(k => text.includes(k));
-  const isPolitics = POLITICS_KEYWORDS.some(k => text.includes(k));
-
-  return isGame && !isMovie && !isAnime && !isSeries && !isPolitics;
+  return (
+    GAMER_KEYWORDS.some(k => text.includes(k)) &&
+    !MOVIE_KEYWORDS.some(k => text.includes(k)) &&
+    !ANIME_KEYWORDS.some(k => text.includes(k)) &&
+    !SERIES_KEYWORDS.some(k => text.includes(k)) &&
+    !POLITICS_KEYWORDS.some(k => text.includes(k))
+  );
 }
 
 // ===============================
-// EXTRAER IMAGEN REAL
+// EXTRAER IMAGEN
 // ===============================
 function extractImage(item) {
-  const tryUrl = (v) => {
+  const tryUrl = v => {
     if (!v) return null;
     if (typeof v === "string") return v;
     if (typeof v === "object" && v.url) return v.url;
@@ -249,7 +215,7 @@ function extractImage(item) {
 }
 
 // ===============================
-// ELIMINAR DUPLICADOS (TÍTULO + IMAGEN)
+// ANTI‑DUPLICADOS (TÍTULO + IMAGEN)
 // ===============================
 function removeDuplicates(items) {
   const seen = new Set();
@@ -271,7 +237,16 @@ function removeDuplicates(items) {
 }
 
 // ===============================
-// GENERAR NOTICIAS POR IDIOMA
+// RANGO TEMPORAL (RESTAURADO)
+// ===============================
+function isRecent(item, days) {
+  const diff =
+    (Date.now() - new Date(item.pubDate)) / (1000 * 60 * 60 * 24);
+  return diff <= days;
+}
+
+// ===============================
+// GENERAR NOTICIAS
 // ===============================
 async function generateForLang(lang, log) {
   log.push(`\n=== ${lang.toUpperCase()} ===`);
@@ -306,9 +281,7 @@ async function generateForLang(lang, log) {
     }
   }
 
-  if (final.length < TOTAL) {
-    final = [...final, ...all];
-  }
+  if (final.length < TOTAL) final = [...final, ...all];
 
   if (final.length < TOTAL && SOURCES_ALT[lang].length > 0) {
     log.push("Usando fuentes alternativas…");
@@ -368,7 +341,7 @@ async function generateForLang(lang, log) {
 }
 
 // ===============================
-// MAIN + LOG FINAL
+// MAIN
 // ===============================
 async function main() {
   const log = [];
