@@ -21,7 +21,7 @@ const TIMEOUT_MS = 5000;
 const RANGES = {
   es: [30, 60, 120],
   fr: [30, 60, 120],
-  it: [30, 60, 120, 180], // Italia necesita más rango
+  it: [30, 60, 120, 180],
   de: [30, 60, 120],
   pt: [30, 60, 120],
   en: [30, 60, 120]
@@ -49,7 +49,7 @@ const SOURCES_ALT = {
 };
 
 // ===============================
-//  FETCH MANUAL CON HEADERS + TIMEOUT + REINTENTOS
+// FETCH MANUAL CON HEADERS + TIMEOUT + REINTENTOS
 // ===============================
 async function fetchXML(url) {
   for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
@@ -112,14 +112,14 @@ function cleanText(str) {
 }
 
 // ===============================
-//  FETCH RSS (USA fetchXML, NO parseURL)
+// FETCH RSS
 // ===============================
 async function fetchRSS(url) {
   return await fetchXML(url);
 }
 
 // ===============================
-//  FUENTES POR IDIOMA
+// FUENTES POR IDIOMA
 // ===============================
 const SOURCES = {
   es: [
@@ -135,7 +135,7 @@ const SOURCES = {
   ],
 
   // ===============================
-  //  ITALIA OPTIMIZADA
+  // ITALIA OPTIMIZADA
   // ===============================
   it: [
     // FUNCIONAN SIEMPRE
@@ -144,7 +144,7 @@ const SOURCES = {
     "https://www.gametimers.it/feed/",
     "https://www.drcommodore.it/feed/",
 
-    // FUNCIONAN A VECES (pero dan noticias reales)
+    // FUNCIONAN A VECES (intermitentes pero útiles)
     "https://www.player.it/feed/",
     "https://www.nintendoomed.it/feed/",
     "https://www.pcgaming.it/feed/",
@@ -168,7 +168,7 @@ const SOURCES = {
 };
 
 // ===============================
-//  PALABRAS CLAVE GAMER
+// PALABRAS CLAVE GAMER
 // ===============================
 const GAMER_KEYWORDS = [
   "game", "gaming", "videojuego", "video game", "juego",
@@ -185,7 +185,7 @@ const GAMER_KEYWORDS = [
 ];
 
 // ===============================
-//  PALABRAS CLAVE ANTI-CINE / ANIME / SERIES
+// PALABRAS CLAVE ANTI-CINE / ANIME / SERIES
 // ===============================
 const MOVIE_KEYWORDS = [
   "película", "pelicula", "movie", "film", "cine",
@@ -204,7 +204,7 @@ const SERIES_KEYWORDS = [
 ];
 
 // ===============================
-//  PALABRAS CLAVE ANTI‑POLÍTICA
+// PALABRAS CLAVE ANTI‑POLÍTICA
 // ===============================
 const POLITICS_KEYWORDS = [
   "politica", "politics", "elezioni", "election",
@@ -214,7 +214,7 @@ const POLITICS_KEYWORDS = [
 ];
 
 // ===============================
-//  FILTRO GAMER REAL
+// FILTRO GAMER REAL
 // ===============================
 function isGamingNews(item) {
   const text = `${item.title} ${item.contentSnippet || ""}`.toLowerCase();
@@ -229,7 +229,7 @@ function isGamingNews(item) {
 }
 
 // ===============================
-//  RANGO TEMPORAL
+// RANGO TEMPORAL
 // ===============================
 function isRecent(item, days) {
   const diff = (Date.now() - new Date(item.pubDate)) / (1000 * 60 * 60 * 24);
@@ -237,7 +237,7 @@ function isRecent(item, days) {
 }
 
 // ===============================
-//  EXTRAER IMAGEN REAL
+// EXTRAER IMAGEN REAL
 // ===============================
 function extractImage(item) {
   const tryUrl = (v) => {
@@ -257,17 +257,20 @@ function extractImage(item) {
 }
 
 // ===============================
-//  ELIMINAR DUPLICADOS
+// ELIMINAR DUPLICADOS (NUEVO: POR TÍTULO NORMALIZADO)
 // ===============================
 function removeDuplicates(items) {
-  const seen = new Set();
+  const seenTitles = new Set();
   const result = [];
 
   for (const item of items) {
-    const key = (item.guid || item.link || item.title).toLowerCase();
+    const normalizedTitle = item.title
+      .toLowerCase()
+      .replace(/[^a-z0-9]/g, "")
+      .trim();
 
-    if (!seen.has(key)) {
-      seen.add(key);
+    if (!seenTitles.has(normalizedTitle)) {
+      seenTitles.add(normalizedTitle);
       result.push(item);
     }
   }
@@ -276,7 +279,7 @@ function removeDuplicates(items) {
 }
 
 // ===============================
-//  GENERAR NOTICIAS POR IDIOMA
+// GENERAR NOTICIAS POR IDIOMA
 // ===============================
 async function generateForLang(lang, log) {
   log.push(`\n=== ${lang.toUpperCase()} ===`);
@@ -373,7 +376,7 @@ async function generateForLang(lang, log) {
 }
 
 // ===============================
-//  MAIN + LOG FINAL
+// MAIN + LOG FINAL
 // ===============================
 async function main() {
   const log = [];
