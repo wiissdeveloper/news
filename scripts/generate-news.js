@@ -115,7 +115,6 @@ function cleanText(str) {
     .replace(/&ntilde;/g, "ñ");
 }
 
-
 // ===============================
 //  FETCH RSS (USA fetchXML, NO parseURL)
 // ===============================
@@ -145,7 +144,12 @@ const SOURCES = {
     "https://www.ilvideogioco.com/feed/",
     "https://www.player.it/feed/",
     "https://www.gamesvillage.it/feed/",
-    "https://www.tomshw.it/videogioco/feed/"
+    "https://www.tomshw.it/videogioco/feed/",
+
+    // NUEVAS (FUNCIONAN EN GITHUB ACTIONS)
+    "https://www.game-experience.it/feed/",
+    "https://www.gametimers.it/feed/",
+    "https://www.drcommodore.it/feed/"
   ],
   de: [
     "https://www.gamestar.de/news/rss/news.rss",
@@ -200,6 +204,16 @@ const SERIES_KEYWORDS = [
 ];
 
 // ===============================
+//  PALABRAS CLAVE ANTI‑POLÍTICA
+// ===============================
+const POLITICS_KEYWORDS = [
+  "politica", "politics", "elezioni", "election",
+  "governo", "government", "parlamento", "parliament",
+  "ministro", "minister", "presidente", "president",
+  "partito", "party", "senato", "senate"
+];
+
+// ===============================
 //  FILTRO GAMER REAL
 // ===============================
 function isGamingNews(item) {
@@ -209,8 +223,9 @@ function isGamingNews(item) {
   const isMovie = MOVIE_KEYWORDS.some(k => text.includes(k));
   const isAnime = ANIME_KEYWORDS.some(k => text.includes(k));
   const isSeries = SERIES_KEYWORDS.some(k => text.includes(k));
+  const isPolitics = POLITICS_KEYWORDS.some(k => text.includes(k));
 
-  return isGame && !isMovie && !isAnime && !isSeries;
+  return isGame && !isMovie && !isAnime && !isSeries && !isPolitics;
 }
 
 // ===============================
@@ -259,26 +274,23 @@ function removeDuplicates(items) {
 
   return result;
 }
+
 // ===============================
 //  GENERAR NOTICIAS POR IDIOMA
-// ===============================
-// ===============================
-//  GENERAR NOTICIAS POR IDIOMA (NUEVO)
 // ===============================
 async function generateForLang(lang, log) {
   log.push(`\n=== ${lang.toUpperCase()} ===`);
 
   // 1. DESCARGAR FUENTES PRINCIPALES
   const primaryFeeds = await Promise.all(SOURCES[lang].map(fetchRSS));
-let all = primaryFeeds.flat().map(item => ({
-  guid: item.guid || item.link,
-  title: cleanText(item.title),
-  link: item.link,
-  pubDate: item.pubDate,
-  contentSnippet: cleanText(item.contentSnippet || item.content || ""),
-  thumbnail: extractImage(item)
-}));
-
+  let all = primaryFeeds.flat().map(item => ({
+    guid: item.guid || item.link,
+    title: cleanText(item.title),
+    link: item.link,
+    pubDate: item.pubDate,
+    contentSnippet: cleanText(item.contentSnippet || item.content || ""),
+    thumbnail: extractImage(item)
+  }));
 
   // 2. FILTROS BÁSICOS
   all = all
@@ -366,7 +378,6 @@ let all = primaryFeeds.flat().map(item => ({
     JSON.stringify({ date: today, notices: final }, null, 2)
   );
 }
-
 
 // ===============================
 //  MAIN + LOG FINAL
