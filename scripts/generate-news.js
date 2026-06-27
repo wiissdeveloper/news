@@ -49,9 +49,33 @@ const SOURCES_ALT = {
 };
 
 // ===============================
+//  PROXY SOLO PARA ITALIA
+// ===============================
+function proxyIfNeeded(url, lang) {
+  if (lang !== "it") return url;
+
+  const blockedPatterns = [
+    "everyeye.it",
+    "multiplayer.it",
+    "spaziogames.it",
+    "gamesvillage.it",
+    "tomshw.it",
+    "player.it",
+    "nintendoomed.it",
+    "pcgaming.it",
+    "game-experience.it"
+  ];
+
+  if (blockedPatterns.some(p => url.includes(p))) {
+    return `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`;
+  }
+
+  return url;
+}
+
+// ===============================
 //  FETCH MANUAL CON HEADERS + TIMEOUT + REINTENTOS
 // ===============================
-
 async function fetchXML(url) {
   for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
     try {
@@ -73,14 +97,11 @@ async function fetchXML(url) {
 
       if (!res.ok) throw new Error("HTTP " + res.status);
 
-      // LEER COMO BINARIO
       const buffer = Buffer.from(await res.arrayBuffer());
 
-      // DETECTAR CODIFICACIÓN DEL XML
       const xmlDecl = buffer.toString("ascii", 0, 200).match(/encoding="([^"]+)"/i);
       const encoding = xmlDecl ? xmlDecl[1].toLowerCase() : "utf-8";
 
-      // DECODIFICAR CORRECTAMENTE
       const xml = iconv.decode(buffer, encoding);
 
       const feed = await parser.parseString(xml);
@@ -145,8 +166,6 @@ const SOURCES = {
     "https://www.player.it/feed/",
     "https://www.gamesvillage.it/feed/",
     "https://www.tomshw.it/videogioco/feed/",
-
-    // NUEVAS (FUNCIONAN EN GITHUB ACTIONS)
     "https://www.game-experience.it/feed/",
     "https://www.gametimers.it/feed/",
     "https://www.drcommodore.it/feed/"
@@ -237,8 +256,6 @@ function isRecent(item, days) {
 }
 
 // ===============================
-//  EXTRAER IMAGEN REAL
-// ===============================
 function extractImage(item) {
   const tryUrl = (v) => {
     if (!v) return null;
@@ -256,8 +273,6 @@ function extractImage(item) {
   );
 }
 
-// ===============================
-//  ELIMINAR DUPLICADOS
 // ===============================
 function removeDuplicates(items) {
   const seen = new Set();
@@ -281,8 +296,11 @@ function removeDuplicates(items) {
 async function generateForLang(lang, log) {
   log.push(`\n=== ${lang.toUpperCase()} ===`);
 
-  // 1. DESCARGAR FUENTES PRINCIPALES
-  const primaryFeeds = await Promise.all(SOURCES[lang].map(fetchRSS));
+  // 1. DESCARGAR FUENTES PRINCIPALES (CON PROXY SOLO ITALIA)
+  const primaryFeeds = await Promise.all(
+    SOURCES[lang].map(url => fetchRSS(proxyIfNeeded(url, lang)))
+  );
+
   let all = primaryFeeds.flat().map(item => ({
     guid: item.guid || item.link,
     title: cleanText(item.title),
@@ -313,16 +331,18 @@ async function generateForLang(lang, log) {
     }
   }
 
-  // Si aún no hay suficientes, usar TODO lo disponible
   if (final.length < TOTAL) {
     final = [...final, ...all];
   }
 
-  // 4. FUENTES ALTERNATIVAS SI FALTAN NOTICIAS
+  // 4. FUENTES ALTERNATIVAS (CON PROXY SOLO ITALIA)
   if (final.length < TOTAL && SOURCES_ALT[lang].length > 0) {
     log.push("Usando fuentes alternativas…");
 
-    const altFeeds = await Promise.all(SOURCES_ALT[lang].map(fetchRSS));
+    const altFeeds = await Promise.all(
+      SOURCES_ALT[lang].map(url => fetchRSS(proxyIfNeeded(url, lang)))
+    );
+
     let alt = altFeeds.flat().map(item => ({
       guid: item.guid || item.link,
       title: cleanText(item.title),
