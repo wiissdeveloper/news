@@ -2,6 +2,14 @@
   "date": "2026-06-27",
   "notices": [
     {
+      "guid": "https://www.gamestar.de/artikel/beyond-all-reason-steam-release-singleplayer,3455445.html",
+      "title": "Plus - Beyond All Reason - Für die Echtzeit-Strategie mit tausenden Einheiten gibt es exzellente Neuigkeiten, auch für Singleplayer-Fans",
+      "link": "https://www.gamestar.de/artikel/beyond-all-reason-steam-release-singleplayer,3455445.html",
+      "pubDate": "Sat, 27 Jun 2026 10:50:00 GMT",
+      "contentSnippet": "Das gigantische Echtzeit-Strategie-Spiel BAR hat sich einen Publisher für den Steam-Release gesichert. Der Gratis-Titel bekommt auch eine neue Kampagne.",
+      "thumbnail": "https://images.cgames.de/images/gamestar/112/gs-plus-beyond-all-reason_6426339.jpg"
+    },
+    {
       "guid": "https://www.gamestar.de/artikel/indiana-jones-4-an-der-kontroversesten-entscheidung-war-george-lucas-schuld,3455327.html",
       "title": "Indiana Jones - An der kontroversesten Entscheidung für Teil 4 war George Lucas schuld - nicht mal Steven Spielberg und Harrison Ford waren überzeugt",
       "link": "https://www.gamestar.de/artikel/indiana-jones-4-an-der-kontroversesten-entscheidung-war-george-lucas-schuld,3455327.html",
@@ -74,14 +82,6 @@
       "thumbnail": "https://images.cgames.de/images/gamestar/112/gta-6_6426222.jpg"
     },
     {
-      "guid": "https://www.gamestar.de/artikel/podcast-sorgenkinder-2024,3376752.html",
-      "title": "Plus - Spiele-Sorgenkinder 2026 - Gewinner und Verlierer des ersten Halbjahrs",
-      "link": "https://www.gamestar.de/artikel/podcast-sorgenkinder-2024,3376752.html",
-      "pubDate": "Fri, 26 Jun 2026 06:00:00 GMT",
-      "contentSnippet": "Regelmäßig sezieren Micha und Fritz in unserem Sorgenkinder-Format fünf Problemspiele fürs nächste Halbjahr - und werten ihre Sorgen hinterher aus. Neue Folgen erscheinen eine Woche lang exklusiv für GameStar Plus, danach für alle User.",
-      "thumbnail": "https://images.cgames.de/images/gamestar/112/videoimage_6426108.jpg"
-    },
-    {
       "guid": "https://www.gamestar.de/videos/sorgenkinder-2026-gewinner-und-verlierer-des-ersten-halbjahrs,141395.html",
       "title": "Plus - Sorgenkinder 2026: Gewinner und Verlierer des ersten Halbjahrs",
       "link": "https://www.gamestar.de/videos/sorgenkinder-2026-gewinner-und-verlierer-des-ersten-halbjahrs,141395.html",
@@ -90,12 +90,12 @@
       "thumbnail": "https://images.cgames.de/images/gamestar/112/videoimage_6426108.jpg"
     },
     {
-      "guid": "https://www.gamestar.de/artikel/gta-6-online-release-spaeter,3455300.html",
-      "title": "GTA 6 Online - Wann erscheint der Multiplayer? Zumindest wissen wir jetzt: Zum Release gibt's nur den Singleplayer",
-      "link": "https://www.gamestar.de/artikel/gta-6-online-release-spaeter,3455300.html",
-      "pubDate": "Fri, 26 Jun 2026 05:09:00 GMT",
-      "contentSnippet": "Zum Release müssen wir erstmal mit dem Singleplayer von GTA 6 auskommen. GTA 6 Online wird wenn dann später nachgereicht.",
-      "thumbnail": "https://images.cgames.de/images/gamestar/112/gta-6-gs_6425999.jpg"
+      "guid": "https://www.gamestar.de/artikel/podcast-sorgenkinder-2024,3376752.html",
+      "title": "Plus - Spiele-Sorgenkinder 2026 - Gewinner und Verlierer des ersten Halbjahrs",
+      "link": "https://www.gamestar.de/artikel/podcast-sorgenkinder-2024,3376752.html",
+      "pubDate": "Fri, 26 Jun 2026 06:00:00 GMT",
+      "contentSnippet": "Regelmäßig sezieren Micha und Fritz in unserem Sorgenkinder-Format fünf Problemspiele fürs nächste Halbjahr - und werten ihre Sorgen hinterher aus. Neue Folgen erscheinen eine Woche lang exklusiv für GameStar Plus, danach für alle User.",
+      "thumbnail": "https://images.cgames.de/images/gamestar/112/videoimage_6426108.jpg"
     }
   ]
 }
