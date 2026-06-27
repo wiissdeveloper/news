@@ -1,6 +1,30 @@
 {
-  "date": "2026-06-26",
+  "date": "2026-06-27",
   "notices": [
+    {
+      "guid": "https://www.eurogamer.pt/enquanto-a-concorrencia-despede-a-nintendo-aumenta-os-salarios-base-em-10",
+      "title": "Enquanto a concorrência despede, a Nintendo aumenta os salários base em 10%",
+      "link": "https://www.eurogamer.pt/enquanto-a-concorrencia-despede-a-nintendo-aumenta-os-salarios-base-em-10",
+      "pubDate": "Fri, 26 Jun 2026 21:44:26 +0000",
+      "contentSnippet": "Numa fase negra para a indústria dos videojogos, em que as gigantes ocidentais como a Sony e a Microsoft fecham estúdios e despedem centenas de pessoas, a Nintendo decidiu fazer o contrário. A casa do Super Mario anunciou um aumento de 10% no salário base dos seus funcionários.\n Ler mais",
+      "thumbnail": "https://assetsio.gnwcdn.com/nintendo-status-update-confirms-eshop-payment-processing-is-suspended-in-russia-1646415852627.jpg?width=690&quality=85&format=jpg&auto=webp"
+    },
+    {
+      "guid": "https://www.eurogamer.pt/nintendo-switch-2-bate-recordes-historicos-nos-eua",
+      "title": "Nintendo Switch 2 bate recordes históricos nos EUA",
+      "link": "https://www.eurogamer.pt/nintendo-switch-2-bate-recordes-historicos-nos-eua",
+      "pubDate": "Fri, 26 Jun 2026 17:23:46 +0000",
+      "contentSnippet": "A Nintendo Switch 2 está a vender com um ritmo absolutamente espetacular, superior a qualquer outra consola caseira e capaz de alcançar resultados históricos nos Estados Unidos.\n Ler mais",
+      "thumbnail": "https://assetsio.gnwcdn.com/l-kv-pic-ezgif-com-webp-to-jpg-converter.webp?width=690&quality=85&format=jpg&auto=webp"
+    },
+    {
+      "guid": "https://www.eurogamer.pt/playstation-vai-continuar-a-apostar-em-jogos-live-service",
+      "title": "PlayStation vai continuar a apostar em jogos live-service",
+      "link": "https://www.eurogamer.pt/playstation-vai-continuar-a-apostar-em-jogos-live-service",
+      "pubDate": "Fri, 26 Jun 2026 17:08:09 +0000",
+      "contentSnippet": "Mesmo com os resultados desastrosos recentes, a PlayStation não vai desistir dos jogos live-service. Mais do que isso, está a realizar o desenvolvimento de hardware para se adaptar aos novos estilos de vida dos jogadores, o que deixa em aberto a forte possibilidade de uma consola portátil na próxima geração.\n Ler mais",
+      "thumbnail": "https://assetsio.gnwcdn.com/Marathon-Bungie_EGuKp3X.png?width=690&quality=85&format=jpg&auto=webp"
+    },
     {
       "guid": "https://www.eurogamer.pt/vendas-da-ps5-caem-quase-60-nos-eua",
       "title": "Vendas da PS5 caem quase 60% nos EUA",
@@ -72,30 +96,6 @@
       "pubDate": "Thu, 25 Jun 2026 23:27:14 +0000",
       "contentSnippet": "Se procuras um bom jogo para o teu telemóvel sem gastar dinheiro, temos uma boa dica. Teenage Mutant Ninja Turtles: Shredder's Revenge está totalmente grátis na Epic Games Store Mobile.\n Ler mais",
       "thumbnail": "https://assetsio.gnwcdn.com/tnmt.jpg?width=690&quality=85&format=jpg&auto=webp"
-    },
-    {
-      "guid": "https://www.eurogamer.pt/valve-altera-pagina-da-steam-machine-e-retira-a-promessa-dos-4k-a-60fps",
-      "title": "Valve altera página da Steam Machine e retira a promessa dos 4K a 60fps",
-      "link": "https://www.eurogamer.pt/valve-altera-pagina-da-steam-machine-e-retira-a-promessa-dos-4k-a-60fps",
-      "pubDate": "Thu, 25 Jun 2026 22:38:13 +0000",
-      "contentSnippet": "Já começaram a aparecer as primeiras análises da nova Steam Machine, e a reação tem sido bastante variada. Embora a facilidade de configuração da máquina tenha sido muito valorizada, as críticas têm-se centrado no hardware e nas promessas iniciais da Valve, que afirmavam que o dispositivo poderia correr jogos com resolução 4K a 60 fps.\n Ler mais",
-      "thumbnail": "https://assetsio.gnwcdn.com/Steam-Machine-1.webp?width=690&quality=85&format=jpg&auto=webp"
-    },
-    {
-      "guid": "https://www.eurogamer.pt/insomniac-garante-que-edicao-fisica-de-marvels-wolverine-tem-disco",
-      "title": "Insomniac garante que edição física de Marvel's Wolverine tem disco",
-      "link": "https://www.eurogamer.pt/insomniac-garante-que-edicao-fisica-de-marvels-wolverine-tem-disco",
-      "pubDate": "Thu, 25 Jun 2026 22:19:43 +0000",
-      "contentSnippet": "Os jogadores da PlayStation podem respirar de alívio: a edição física de Marvel's Wolverine vai mesmo incluir um disco quando chegar à PS5 no dia 15 de setembro.\n Ler mais",
-      "thumbnail": "https://assetsio.gnwcdn.com/81a9c783e964f2a74ec46253e6d81a4f6bd84a3a-scaled.webp?width=690&quality=85&format=jpg&auto=webp"
-    },
-    {
-      "guid": "https://www.eurogamer.pt/nem-a-apple-resiste-aos-aumentos-de-precos",
-      "title": "Nem a Apple resiste aos aumentos de preços",
-      "link": "https://www.eurogamer.pt/nem-a-apple-resiste-aos-aumentos-de-precos",
-      "pubDate": "Thu, 25 Jun 2026 16:31:15 +0000",
-      "contentSnippet": "A Apple aumentou o preço de vários modelos dos seus Macbooks e Ipads em todo o mundo, devido ao crescente custo dos componentes de memória e armazenamento.\n Ler mais",
-      "thumbnail": "https://assetsio.gnwcdn.com/Captura-de-ecra%CC%83-2024-05-07%2C-a%CC%80s-16.18.47.png?width=690&quality=85&format=jpg&auto=webp"
     }
   ]
 }
