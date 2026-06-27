@@ -17,17 +17,21 @@ const MAX_ITEMS_PER_FEED = 150;
 const MAX_RETRIES = 3;
 const TIMEOUT_MS = 5000;
 
-// RANGOS DINÁMICOS POR PAÍS
+// ===============================
+//  RANGOS DINÁMICOS POR PAÍS
+// ===============================
 const RANGES = {
   es: [30, 60, 120],
   fr: [30, 60, 120],
-  it: [30, 60, 120, 180], // Italia necesita más rango
+  it: [30, 60, 120, 180, 240, 300], // 🔥 ampliado
   de: [30, 60, 120],
   pt: [30, 60, 120],
   en: [30, 60, 120]
 };
 
-// FUENTES ALTERNATIVAS POR PAÍS
+// ===============================
+//  FUENTES ALTERNATIVAS POR PAÍS
+// ===============================
 const SOURCES_ALT = {
   it: [
     "https://www.ilvideogioco.com/feed/",
@@ -51,7 +55,6 @@ const SOURCES_ALT = {
 // ===============================
 //  FETCH MANUAL CON HEADERS + TIMEOUT + REINTENTOS
 // ===============================
-
 async function fetchXML(url) {
   for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
     try {
@@ -73,14 +76,9 @@ async function fetchXML(url) {
 
       if (!res.ok) throw new Error("HTTP " + res.status);
 
-      // LEER COMO BINARIO
       const buffer = Buffer.from(await res.arrayBuffer());
-
-      // DETECTAR CODIFICACIÓN DEL XML
       const xmlDecl = buffer.toString("ascii", 0, 200).match(/encoding="([^"]+)"/i);
       const encoding = xmlDecl ? xmlDecl[1].toLowerCase() : "utf-8";
-
-      // DECODIFICAR CORRECTAMENTE
       const xml = iconv.decode(buffer, encoding);
 
       const feed = await parser.parseString(xml);
@@ -115,10 +113,6 @@ function cleanText(str) {
     .replace(/&ntilde;/g, "ñ");
 }
 
-
-// ===============================
-//  FETCH RSS (USA fetchXML, NO parseURL)
-// ===============================
 async function fetchRSS(url) {
   return await fetchXML(url);
 }
@@ -164,45 +158,31 @@ const SOURCES = {
 };
 
 // ===============================
-//  PALABRAS CLAVE GAMER
+//  PALABRAS CLAVE
 // ===============================
 const GAMER_KEYWORDS = [
-  "game", "gaming", "videojuego", "video game", "juego",
-  "ps5", "playstation", "ps4", "ps3",
-  "xbox", "series x", "series s", "one",
-  "nintendo", "switch", "zelda", "mario", "pokemon",
-  "steam", "pc gaming", "pc",
-  "trailer", "review", "análisis", "avance",
-  "dlc", "expansión", "update", "actualización",
-  "esports", "torneo", "competitivo",
-  "launch", "release", "lanzamiento",
-  "fps", "rpg", "shooter", "battle royale",
-  "retro", "emulador", "emulación"
+  "game","gaming","videojuego","video game","juego",
+  "ps5","playstation","ps4","ps3",
+  "xbox","series x","series s","one",
+  "nintendo","switch","zelda","mario","pokemon",
+  "steam","pc gaming","pc",
+  "trailer","review","análisis","avance",
+  "dlc","expansión","update","actualización",
+  "esports","torneo","competitivo",
+  "launch","release","lanzamiento",
+  "fps","rpg","shooter","battle royale",
+  "retro","emulador","emulación"
 ];
 
-// ===============================
-//  PALABRAS CLAVE ANTI-CINE / ANIME / SERIES
-// ===============================
-const MOVIE_KEYWORDS = [
-  "película", "pelicula", "movie", "film", "cine",
-  "actor", "actriz", "director",
-  "taquilla", "box office"
-];
-
-const ANIME_KEYWORDS = [
-  "anime", "manga", "one piece", "dragon ball", "naruto",
-  "bleach", "haki", "luffy", "zoro", "gear 5"
-];
-
-const SERIES_KEYWORDS = [
-  "season", "episode", "serie", "series", "temporada",
-  "house of the dragon", "netflix", "hbo", "prime video"
-];
+const MOVIE_KEYWORDS = ["película","pelicula","movie","film","cine","actor","actriz","director","taquilla","box office"];
+const ANIME_KEYWORDS = ["anime","manga","one piece","dragon ball","naruto","bleach","haki","luffy","zoro","gear 5"];
+const SERIES_KEYWORDS = ["season","episode","serie","series","temporada","house of the dragon","netflix","hbo","prime video"];
+const POLITICS_KEYWORDS = ["politica","politics","elezioni","election","governo","government","parlamento","parliament","ministro","minister","presidente","president","partito","party","senato","senate"];
 
 // ===============================
-//  FILTRO GAMER REAL
+//  FILTRO GAMER + ANTI‑POLÍTICA SOLO ITALIA
 // ===============================
-function isGamingNews(item) {
+function isGamingNews(item, lang) {
   const text = `${item.title} ${item.contentSnippet || ""}`.toLowerCase();
 
   const isGame = GAMER_KEYWORDS.some(k => text.includes(k));
@@ -210,7 +190,9 @@ function isGamingNews(item) {
   const isAnime = ANIME_KEYWORDS.some(k => text.includes(k));
   const isSeries = SERIES_KEYWORDS.some(k => text.includes(k));
 
-  return isGame && !isMovie && !isAnime && !isSeries;
+  const isPolitics = lang === "it" && POLITICS_KEYWORDS.some(k => text.includes(k));
+
+  return isGame && !isMovie && !isAnime && !isSeries && !isPolitics;
 }
 
 // ===============================
@@ -242,14 +224,17 @@ function extractImage(item) {
 }
 
 // ===============================
-//  ELIMINAR DUPLICADOS
+//  ELIMINAR DUPLICADOS (TÍTULO + IMAGEN)
 // ===============================
 function removeDuplicates(items) {
   const seen = new Set();
   const result = [];
 
   for (const item of items) {
-    const key = (item.guid || item.link || item.title).toLowerCase();
+    const key =
+      (item.title || "").toLowerCase().trim() +
+      "|" +
+      (item.thumbnail || "").toLowerCase().trim();
 
     if (!seen.has(key)) {
       seen.add(key);
@@ -259,30 +244,26 @@ function removeDuplicates(items) {
 
   return result;
 }
+
 // ===============================
 //  GENERAR NOTICIAS POR IDIOMA
-// ===============================
-// ===============================
-//  GENERAR NOTICIAS POR IDIOMA (NUEVO)
 // ===============================
 async function generateForLang(lang, log) {
   log.push(`\n=== ${lang.toUpperCase()} ===`);
 
-  // 1. DESCARGAR FUENTES PRINCIPALES
   const primaryFeeds = await Promise.all(SOURCES[lang].map(fetchRSS));
-let all = primaryFeeds.flat().map(item => ({
-  guid: item.guid || item.link,
-  title: cleanText(item.title),
-  link: item.link,
-  pubDate: item.pubDate,
-  contentSnippet: cleanText(item.contentSnippet || item.content || ""),
-  thumbnail: extractImage(item)
-}));
 
+  let all = primaryFeeds.flat().map(item => ({
+    guid: item.guid || item.link,
+    title: cleanText(item.title),
+    link: item.link,
+    pubDate: item.pubDate,
+    contentSnippet: cleanText(item.contentSnippet || item.content || ""),
+    thumbnail: extractImage(item)
+  }));
 
-  // 2. FILTROS BÁSICOS
   all = all
-    .filter(isGamingNews)
+    .filter(n => isGamingNews(n, lang))
     .filter(n => typeof n.thumbnail === "string" && n.thumbnail.startsWith("http"));
 
   all = removeDuplicates(all);
@@ -291,7 +272,6 @@ let all = primaryFeeds.flat().map(item => ({
 
   let final = [];
 
-  // 3. RANGO DINÁMICO POR PAÍS
   for (const days of RANGES[lang]) {
     const filtered = all.filter(n => isRecent(n, days));
     if (filtered.length >= TOTAL) {
@@ -301,12 +281,8 @@ let all = primaryFeeds.flat().map(item => ({
     }
   }
 
-  // Si aún no hay suficientes, usar TODO lo disponible
-  if (final.length < TOTAL) {
-    final = [...final, ...all];
-  }
+  if (final.length < TOTAL) final = [...final, ...all];
 
-  // 4. FUENTES ALTERNATIVAS SI FALTAN NOTICIAS
   if (final.length < TOTAL && SOURCES_ALT[lang].length > 0) {
     log.push("Usando fuentes alternativas…");
 
@@ -321,7 +297,7 @@ let all = primaryFeeds.flat().map(item => ({
     }));
 
     alt = alt
-      .filter(isGamingNews)
+      .filter(n => isGamingNews(n, lang))
       .filter(n => typeof n.thumbnail === "string" && n.thumbnail.startsWith("http"));
 
     alt = removeDuplicates(alt);
@@ -330,7 +306,6 @@ let all = primaryFeeds.flat().map(item => ({
     final.push(...alt);
   }
 
-  // 5. FALLBACK INGLÉS
   if (final.length < TOTAL && lang !== "en") {
     log.push("Usando fallback inglés…");
 
@@ -345,7 +320,7 @@ let all = primaryFeeds.flat().map(item => ({
     }));
 
     fallback = fallback
-      .filter(isGamingNews)
+      .filter(n => isGamingNews(n, lang))
       .filter(n => typeof n.thumbnail === "string" && n.thumbnail.startsWith("http"));
 
     fallback = removeDuplicates(fallback);
@@ -353,13 +328,11 @@ let all = primaryFeeds.flat().map(item => ({
     final.push(...fallback);
   }
 
-  // 6. ORDENAR Y CORTAR
   final.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
   final = final.slice(0, TOTAL);
 
   log.push(`Total final: ${final.length}`);
 
-  // 7. GUARDAR JSON
   const today = new Date().toISOString().split("T")[0];
   fs.writeFileSync(
     `news_${lang}.json`,
@@ -367,9 +340,8 @@ let all = primaryFeeds.flat().map(item => ({
   );
 }
 
-
 // ===============================
-//  MAIN + LOG FINAL
+//  MAIN
 // ===============================
 async function main() {
   const log = [];
