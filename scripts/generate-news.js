@@ -17,11 +17,11 @@ const MAX_ITEMS_PER_FEED = 150;
 const MAX_RETRIES = 3;
 const TIMEOUT_MS = 5000;
 
-// RANGOS DINÁMICOS POR PAÍS
+// RANGOS DINÁMICOS POR PAÍS (ITALIA AMPLIADO)
 const RANGES = {
   es: [30, 60, 120],
   fr: [30, 60, 120],
-  it: [30, 60, 120, 180],
+  it: [30, 60, 120, 180, 240, 300], // ampliado
   de: [30, 60, 120],
   pt: [30, 60, 120],
   en: [30, 60, 120]
@@ -144,7 +144,7 @@ const SOURCES = {
     "https://www.gametimers.it/feed/",
     "https://www.drcommodore.it/feed/",
 
-    // FUNCIONAN A VECES (intermitentes pero útiles)
+    // FUNCIONAN A VECES
     "https://www.player.it/feed/",
     "https://www.nintendoomed.it/feed/",
     "https://www.pcgaming.it/feed/",
@@ -257,20 +257,45 @@ function extractImage(item) {
 }
 
 // ===============================
-// ELIMINAR DUPLICADOS (NUEVO: POR TÍTULO NORMALIZADO)
+// ELIMINAR DUPLICADOS (FUZZY MATCHING 0.93)
 // ===============================
 function removeDuplicates(items) {
-  const seenTitles = new Set();
   const result = [];
 
-  for (const item of items) {
-    const normalizedTitle = item.title
-      .toLowerCase()
-      .replace(/[^a-z0-9]/g, "")
-      .trim();
+  function similarity(a, b) {
+    a = a.toLowerCase();
+    b = b.toLowerCase();
+    const longer = a.length > b.length ? a : b;
+    const shorter = a.length > b.length ? b : a;
+    const longerLength = longer.length;
+    if (longerLength === 0) return 1.0;
+    const same = longerLength - editDistance(longer, shorter);
+    return same / longerLength;
+  }
 
-    if (!seenTitles.has(normalizedTitle)) {
-      seenTitles.add(normalizedTitle);
+  function editDistance(a, b) {
+    const matrix = [];
+    for (let i = 0; i <= b.length; i++) matrix[i] = [i];
+    for (let j = 0; j <= a.length; j++) matrix[0][j] = j;
+
+    for (let i = 1; i <= b.length; i++) {
+      for (let j = 1; j <= a.length; j++) {
+        matrix[i][j] = Math.min(
+          matrix[i - 1][j] + 1,
+          matrix[i][j - 1] + 1,
+          matrix[i - 1][j - 1] + (a[j - 1] === b[i - 1] ? 0 : 1)
+        );
+      }
+    }
+    return matrix[b.length][a.length];
+  }
+
+  for (const item of items) {
+    const title = item.title.toLowerCase();
+
+    const isDuplicate = result.some(r => similarity(r.title, title) > 0.93);
+
+    if (!isDuplicate) {
       result.push(item);
     }
   }
