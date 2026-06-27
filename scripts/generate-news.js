@@ -229,14 +229,6 @@ function isGamingNews(item) {
 }
 
 // ===============================
-// RANGO TEMPORAL
-// ===============================
-function isRecent(item, days) {
-  const diff = (Date.now() - new Date(item.pubDate)) / (1000 * 60 * 60 * 24);
-  return diff <= days;
-}
-
-// ===============================
 // EXTRAER IMAGEN REAL
 // ===============================
 function extractImage(item) {
@@ -257,45 +249,20 @@ function extractImage(item) {
 }
 
 // ===============================
-// ELIMINAR DUPLICADOS (FUZZY MATCHING 0.93)
+// ELIMINAR DUPLICADOS (TÍTULO + IMAGEN)
 // ===============================
 function removeDuplicates(items) {
+  const seen = new Set();
   const result = [];
 
-  function similarity(a, b) {
-    a = a.toLowerCase();
-    b = b.toLowerCase();
-    const longer = a.length > b.length ? a : b;
-    const shorter = a.length > b.length ? b : a;
-    const longerLength = longer.length;
-    if (longerLength === 0) return 1.0;
-    const same = longerLength - editDistance(longer, shorter);
-    return same / longerLength;
-  }
-
-  function editDistance(a, b) {
-    const matrix = [];
-    for (let i = 0; i <= b.length; i++) matrix[i] = [i];
-    for (let j = 0; j <= a.length; j++) matrix[0][j] = j;
-
-    for (let i = 1; i <= b.length; i++) {
-      for (let j = 1; j <= a.length; j++) {
-        matrix[i][j] = Math.min(
-          matrix[i - 1][j] + 1,
-          matrix[i][j - 1] + 1,
-          matrix[i - 1][j - 1] + (a[j - 1] === b[i - 1] ? 0 : 1)
-        );
-      }
-    }
-    return matrix[b.length][a.length];
-  }
-
   for (const item of items) {
-    const title = item.title.toLowerCase();
+    const key =
+      (item.title || "").toLowerCase().trim() +
+      "|" +
+      (item.thumbnail || "").toLowerCase().trim();
 
-    const isDuplicate = result.some(r => similarity(r.title, title) > 0.93);
-
-    if (!isDuplicate) {
+    if (!seen.has(key)) {
+      seen.add(key);
       result.push(item);
     }
   }
