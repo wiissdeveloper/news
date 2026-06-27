@@ -49,31 +49,6 @@ const SOURCES_ALT = {
 };
 
 // ===============================
-//  PROXY SOLO PARA ITALIA
-// ===============================
-function proxyIfNeeded(url, lang) {
-  if (lang !== "it") return url;
-
-  const blockedPatterns = [
-    "everyeye.it",
-    "multiplayer.it",
-    "spaziogames.it",
-    "gamesvillage.it",
-    "tomshw.it",
-    "player.it",
-    "nintendoomed.it",
-    "pcgaming.it",
-    "game-experience.it"
-  ];
-
-  if (blockedPatterns.some(p => url.includes(p))) {
-    return `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`;
-  }
-
-  return url;
-}
-
-// ===============================
 //  FETCH MANUAL CON HEADERS + TIMEOUT + REINTENTOS
 // ===============================
 async function fetchXML(url) {
@@ -158,18 +133,24 @@ const SOURCES = {
     "https://www.gamekult.com/feed.xml",
     "https://www.actugaming.net/feed/"
   ],
+
+  // ===============================
+  //  ITALIA OPTIMIZADA
+  // ===============================
   it: [
-    "https://www.everyeye.it/feed/feed_rss.asp",
-    "https://multiplayer.it/notizie.xml",
-    "https://www.spaziogames.it/feed/",
+    // FUNCIONAN SIEMPRE
     "https://www.ilvideogioco.com/feed/",
-    "https://www.player.it/feed/",
-    "https://www.gamesvillage.it/feed/",
-    "https://www.tomshw.it/videogioco/feed/",
-    "https://www.game-experience.it/feed/",
+    "https://www.gamesource.it/feed/",
     "https://www.gametimers.it/feed/",
-    "https://www.drcommodore.it/feed/"
+    "https://www.drcommodore.it/feed/",
+
+    // FUNCIONAN A VECES (pero dan noticias reales)
+    "https://www.player.it/feed/",
+    "https://www.nintendoomed.it/feed/",
+    "https://www.pcgaming.it/feed/",
+    "https://www.game-experience.it/feed/"
   ],
+
   de: [
     "https://www.gamestar.de/news/rss/news.rss",
     "https://www.pcgames.de/rss/news.xml",
@@ -256,6 +237,8 @@ function isRecent(item, days) {
 }
 
 // ===============================
+//  EXTRAER IMAGEN REAL
+// ===============================
 function extractImage(item) {
   const tryUrl = (v) => {
     if (!v) return null;
@@ -273,6 +256,8 @@ function extractImage(item) {
   );
 }
 
+// ===============================
+//  ELIMINAR DUPLICADOS
 // ===============================
 function removeDuplicates(items) {
   const seen = new Set();
@@ -296,10 +281,7 @@ function removeDuplicates(items) {
 async function generateForLang(lang, log) {
   log.push(`\n=== ${lang.toUpperCase()} ===`);
 
-  // 1. DESCARGAR FUENTES PRINCIPALES (CON PROXY SOLO ITALIA)
-  const primaryFeeds = await Promise.all(
-    SOURCES[lang].map(url => fetchRSS(proxyIfNeeded(url, lang)))
-  );
+  const primaryFeeds = await Promise.all(SOURCES[lang].map(fetchRSS));
 
   let all = primaryFeeds.flat().map(item => ({
     guid: item.guid || item.link,
@@ -310,7 +292,6 @@ async function generateForLang(lang, log) {
     thumbnail: extractImage(item)
   }));
 
-  // 2. FILTROS BÁSICOS
   all = all
     .filter(isGamingNews)
     .filter(n => typeof n.thumbnail === "string" && n.thumbnail.startsWith("http"));
@@ -321,7 +302,6 @@ async function generateForLang(lang, log) {
 
   let final = [];
 
-  // 3. RANGO DINÁMICO POR PAÍS
   for (const days of RANGES[lang]) {
     const filtered = all.filter(n => isRecent(n, days));
     if (filtered.length >= TOTAL) {
@@ -335,14 +315,10 @@ async function generateForLang(lang, log) {
     final = [...final, ...all];
   }
 
-  // 4. FUENTES ALTERNATIVAS (CON PROXY SOLO ITALIA)
   if (final.length < TOTAL && SOURCES_ALT[lang].length > 0) {
     log.push("Usando fuentes alternativas…");
 
-    const altFeeds = await Promise.all(
-      SOURCES_ALT[lang].map(url => fetchRSS(proxyIfNeeded(url, lang)))
-    );
-
+    const altFeeds = await Promise.all(SOURCES_ALT[lang].map(fetchRSS));
     let alt = altFeeds.flat().map(item => ({
       guid: item.guid || item.link,
       title: cleanText(item.title),
@@ -362,7 +338,6 @@ async function generateForLang(lang, log) {
     final.push(...alt);
   }
 
-  // 5. FALLBACK INGLÉS
   if (final.length < TOTAL && lang !== "en") {
     log.push("Usando fallback inglés…");
 
@@ -385,13 +360,11 @@ async function generateForLang(lang, log) {
     final.push(...fallback);
   }
 
-  // 6. ORDENAR Y CORTAR
   final.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
   final = final.slice(0, TOTAL);
 
   log.push(`Total final: ${final.length}`);
 
-  // 7. GUARDAR JSON
   const today = new Date().toISOString().split("T")[0];
   fs.writeFileSync(
     `news_${lang}.json`,
