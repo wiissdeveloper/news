@@ -85,7 +85,8 @@ async function fetchXML(url) {
       return (feed.items || []).slice(0, MAX_ITEMS_PER_FEED);
 
     } catch (err) {
-      return []; // 🔥 Ocultamos errores de fuentes rotas
+      console.log(`Error en ${url} (intento ${attempt})`);
+      if (attempt === MAX_RETRIES) return [];
     }
   }
 }
@@ -135,10 +136,10 @@ const SOURCES = {
     "https://multiplayer.it/feed/rss/news/",   // 🔥 TU URL PRINCIPAL
     "https://www.ilvideogioco.com/feed/",      // ✔ Funciona
     "https://www.gamesource.it/feed/",         // ✔ Funciona
-    "https://www.spaziogames.it/feed/",        // ❌ Falla pero la mantienes
-    "https://www.player.it/feed/",             // ❌ Falla pero la mantienes
-    "https://www.gamesvillage.it/feed/",       // ❌ Falla pero la mantienes
-    "https://www.tomshw.it/videogioco/feed/"   // ❌ Falla pero la mantienes
+    "https://www.spaziogames.it/feed/",
+    "https://www.player.it/feed/",
+    "https://www.gamesvillage.it/feed/",
+    "https://www.tomshw.it/videogioco/feed/"
   ],
   de: [
     "https://www.gamestar.de/news/rss/news.rss",
@@ -197,9 +198,12 @@ const SERIES_KEYWORDS = [
 // ===============================
 const POLITICS_KEYWORDS = [
   "politica", "politics", "elezioni", "election",
-  "governo", "government", "parlamento", "parliament",
-  "ministro", "minister", "presidente", "president",
-  "partito", "party", "senato", "senate"
+  "governo", "government",
+  "parlamento", "parliament",
+  "ministro", "minister",
+  "presidente", "president",
+  "partito", "party",
+  "senato", "senate"
 ];
 
 // ===============================
@@ -219,7 +223,7 @@ function isGamingNews(item, lang) {
 }
 
 // ===============================
-// RANGO TEMPORAL (🔥 ESTA FUNCIÓN FALTABA)
+// RANGO TEMPORAL (FALTABA)
 // ===============================
 function isRecent(item, days) {
   const diff = (Date.now() - new Date(item.pubDate)) / (1000 * 60 * 60 * 24);
@@ -247,20 +251,17 @@ function extractImage(item) {
 }
 
 // ===============================
-// ELIMINAR DUPLICADOS (GUID + TÍTULO NORMALIZADO)
+// ELIMINAR DUPLICADOS (VERSIÓN ORIGINAL)
 // ===============================
 function removeDuplicates(items) {
   const seen = new Set();
-  const seenTitle = new Set();
   const result = [];
 
   for (const item of items) {
     const key = (item.guid || item.link || item.title).toLowerCase();
-    const titleKey = item.title.toLowerCase().replace(/\s+/g, "");
 
-    if (!seen.has(key) && !seenTitle.has(titleKey)) {
+    if (!seen.has(key)) {
       seen.add(key);
-      seenTitle.add(titleKey);
       result.push(item);
     }
   }
