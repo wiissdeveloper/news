@@ -23,7 +23,7 @@ const TIMEOUT_MS = 5000;
 const RANGES = {
   es: [30, 60, 120],
   fr: [30, 60, 120],
-  it: [30, 60, 120, 180], 
+  it: [30, 60, 120, 180],
   de: [30, 60, 120],
   pt: [30, 60, 120],
   en: [30, 60, 120]
@@ -144,7 +144,7 @@ const SOURCES = {
     "https://www.nintendoomed.it/feed/",
     "https://www.pcgaming.it/feed/",
 
-    // Luego las que funcionan a veces
+    // Luego las semi‑estables
     "https://www.player.it/feed/",
     "https://www.game-experience.it/feed/"
   ],
@@ -232,14 +232,17 @@ function extractImage(item) {
 }
 
 // ===============================
-// ELIMINAR DUPLICADOS (TU VERSIÓN ORIGINAL)
+// ELIMINAR DUPLICADOS (TÍTULO + IMAGEN)
 // ===============================
 function removeDuplicates(items) {
   const seen = new Set();
   const result = [];
 
   for (const item of items) {
-    const key = (item.guid || item.link || item.title).toLowerCase();
+    const key =
+      (item.title || "").toLowerCase().trim() +
+      "|" +
+      (item.thumbnail || "").toLowerCase().trim();
 
     if (!seen.has(key)) {
       seen.add(key);
