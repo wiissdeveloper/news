@@ -85,8 +85,7 @@ async function fetchXML(url) {
       return (feed.items || []).slice(0, MAX_ITEMS_PER_FEED);
 
     } catch (err) {
-      // 🔥 NO mostrar errores de fuentes rotas
-      return [];
+      return []; // 🔥 Ocultamos errores de fuentes rotas
     }
   }
 }
@@ -217,6 +216,14 @@ function isGamingNews(item, lang) {
   const isPolitics = lang === "it" && POLITICS_KEYWORDS.some(k => text.includes(k));
 
   return isGame && !isMovie && !isAnime && !isSeries && !isPolitics;
+}
+
+// ===============================
+// RANGO TEMPORAL (🔥 ESTA FUNCIÓN FALTABA)
+// ===============================
+function isRecent(item, days) {
+  const diff = (Date.now() - new Date(item.pubDate)) / (1000 * 60 * 60 * 24);
+  return diff <= days;
 }
 
 // ===============================
