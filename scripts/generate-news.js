@@ -36,7 +36,8 @@ const SOURCES_ALT = {
   it: [
     "https://multiplayer.it/feed/rss/news/",
     "https://www.ilvideogioco.com/feed/",
-    "https://www.gamesource.it/feed/"
+    "https://www.gamesource.it/feed/",
+    "https://www.nintendoomed.it/feed/"
   ],
   es: [
     "https://areajugones.sport.es/feed/",
@@ -132,9 +133,13 @@ const SOURCES = {
     "https://www.actugaming.net/feed/"
   ],
   it: [
-    "https://multiplayer.it/feed/rss/news/",
-    "https://www.ilvideogioco.com/feed/",
-    "https://www.gamesource.it/feed/"
+    "https://multiplayer.it/feed/rss/news/",   // 🔥 TU URL PRINCIPAL
+    "https://www.ilvideogioco.com/feed/",      // ✔ Funciona
+    "https://www.gamesource.it/feed/",         // ✔ Funciona
+    "https://www.spaziogames.it/feed/",        // ❌ Rota pero la mantienes
+    "https://www.player.it/feed/",             // ❌ Rota pero la mantienes
+    "https://www.gamesvillage.it/feed/",       // ❌ Rota pero la mantienes
+    "https://www.tomshw.it/videogioco/feed/"   // ❌ Rota pero la mantienes
   ],
   de: [
     "https://www.gamestar.de/news/rss/news.rss",
