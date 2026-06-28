@@ -133,13 +133,13 @@ const SOURCES = {
     "https://www.actugaming.net/feed/"
   ],
   it: [
-    "https://multiplayer.it/feed/rss/news/",   // 🔥 TU URL PRINCIPAL
+    "https://multiplayer.it/feed/rss/news/",   // 🔥 PRINCIPAL
     "https://www.ilvideogioco.com/feed/",      // ✔ Funciona
     "https://www.gamesource.it/feed/",         // ✔ Funciona
-    "https://www.spaziogames.it/feed/",        // ❌ Rota pero la mantienes
-    "https://www.player.it/feed/",             // ❌ Rota pero la mantienes
-    "https://www.gamesvillage.it/feed/",       // ❌ Rota pero la mantienes
-    "https://www.tomshw.it/videogioco/feed/"   // ❌ Rota pero la mantienes
+    "https://www.spaziogames.it/feed/",        // ❌ Falla pero la mantienes
+    "https://www.player.it/feed/",             // ❌ Falla pero la mantienes
+    "https://www.gamesvillage.it/feed/",       // ❌ Falla pero la mantienes
+    "https://www.tomshw.it/videogioco/feed/"   // ❌ Falla pero la mantienes
   ],
   de: [
     "https://www.gamestar.de/news/rss/news.rss",
