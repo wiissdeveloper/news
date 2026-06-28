@@ -17,17 +17,21 @@ const MAX_ITEMS_PER_FEED = 150;
 const MAX_RETRIES = 3;
 const TIMEOUT_MS = 5000;
 
+// ===============================
 // RANGOS DINÁMICOS POR PAÍS
+// ===============================
 const RANGES = {
   es: [30, 60, 120],
   fr: [30, 60, 120],
-  it: [30, 60, 120, 180], // Italia necesita más rango
+  it: [30, 60, 120, 180],
   de: [30, 60, 120],
   pt: [30, 60, 120],
   en: [30, 60, 120]
 };
 
+// ===============================
 // FUENTES ALTERNATIVAS POR PAÍS
+// ===============================
 const SOURCES_ALT = {
   it: [
     "https://www.ilvideogioco.com/feed/",
@@ -49,9 +53,8 @@ const SOURCES_ALT = {
 };
 
 // ===============================
-//  FETCH MANUAL CON HEADERS + TIMEOUT + REINTENTOS
+// FETCH MANUAL CON HEADERS + TIMEOUT + REINTENTOS
 // ===============================
-
 async function fetchXML(url) {
   for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
     try {
@@ -73,14 +76,9 @@ async function fetchXML(url) {
 
       if (!res.ok) throw new Error("HTTP " + res.status);
 
-      // LEER COMO BINARIO
       const buffer = Buffer.from(await res.arrayBuffer());
-
-      // DETECTAR CODIFICACIÓN DEL XML
       const xmlDecl = buffer.toString("ascii", 0, 200).match(/encoding="([^"]+)"/i);
       const encoding = xmlDecl ? xmlDecl[1].toLowerCase() : "utf-8";
-
-      // DECODIFICAR CORRECTAMENTE
       const xml = iconv.decode(buffer, encoding);
 
       const feed = await parser.parseString(xml);
@@ -115,15 +113,12 @@ function cleanText(str) {
     .replace(/&ntilde;/g, "ñ");
 }
 
-// ===============================
-//  FETCH RSS (USA fetchXML, NO parseURL)
-// ===============================
 async function fetchRSS(url) {
   return await fetchXML(url);
 }
 
 // ===============================
-//  FUENTES POR IDIOMA
+// FUENTES POR IDIOMA
 // ===============================
 const SOURCES = {
   es: [
@@ -163,7 +158,7 @@ const SOURCES = {
 };
 
 // ===============================
-//  PALABRAS CLAVE GAMER
+// PALABRAS CLAVE GAMER
 // ===============================
 const GAMER_KEYWORDS = [
   "game", "gaming", "videojuego", "video game", "juego",
@@ -180,7 +175,7 @@ const GAMER_KEYWORDS = [
 ];
 
 // ===============================
-//  PALABRAS CLAVE ANTI-CINE / ANIME / SERIES
+// PALABRAS CLAVE ANTI‑CINE / ANIME / SERIES
 // ===============================
 const MOVIE_KEYWORDS = [
   "película", "pelicula", "movie", "film", "cine",
@@ -199,9 +194,19 @@ const SERIES_KEYWORDS = [
 ];
 
 // ===============================
-//  FILTRO GAMER REAL
+// PALABRAS CLAVE ANTI‑POLÍTICA
 // ===============================
-function isGamingNews(item) {
+const POLITICS_KEYWORDS = [
+  "politica", "politics", "elezioni", "election",
+  "governo", "government", "parlamento", "parliament",
+  "ministro", "minister", "presidente", "president",
+  "partito", "party", "senato", "senate"
+];
+
+// ===============================
+// FILTRO GAMER + ANTI‑POLÍTICA SOLO ITALIA
+// ===============================
+function isGamingNews(item, lang) {
   const text = `${item.title} ${item.contentSnippet || ""}`.toLowerCase();
 
   const isGame = GAMER_KEYWORDS.some(k => text.includes(k));
@@ -209,11 +214,13 @@ function isGamingNews(item) {
   const isAnime = ANIME_KEYWORDS.some(k => text.includes(k));
   const isSeries = SERIES_KEYWORDS.some(k => text.includes(k));
 
-  return isGame && !isMovie && !isAnime && !isSeries;
+  const isPolitics = lang === "it" && POLITICS_KEYWORDS.some(k => text.includes(k));
+
+  return isGame && !isMovie && !isAnime && !isSeries && !isPolitics;
 }
 
 // ===============================
-//  RANGO TEMPORAL
+// RANGO TEMPORAL
 // ===============================
 function isRecent(item, days) {
   const diff = (Date.now() - new Date(item.pubDate)) / (1000 * 60 * 60 * 24);
@@ -221,7 +228,7 @@ function isRecent(item, days) {
 }
 
 // ===============================
-//  EXTRAER IMAGEN REAL
+// EXTRAER IMAGEN REAL
 // ===============================
 function extractImage(item) {
   const tryUrl = (v) => {
@@ -241,7 +248,7 @@ function extractImage(item) {
 }
 
 // ===============================
-//  ELIMINAR DUPLICADOS (VERSIÓN ORIGINAL)
+// ELIMINAR DUPLICADOS (VERSIÓN ORIGINAL)
 // ===============================
 function removeDuplicates(items) {
   const seen = new Set();
@@ -260,7 +267,7 @@ function removeDuplicates(items) {
 }
 
 // ===============================
-//  GENERAR NOTICIAS POR IDIOMA
+// GENERAR NOTICIAS POR IDIOMA
 // ===============================
 async function generateForLang(lang, log) {
   log.push(`\n=== ${lang.toUpperCase()} ===`);
@@ -277,7 +284,7 @@ async function generateForLang(lang, log) {
   }));
 
   all = all
-    .filter(isGamingNews)
+    .filter(n => isGamingNews(n, lang))
     .filter(n => typeof n.thumbnail === "string" && n.thumbnail.startsWith("http"));
 
   all = removeDuplicates(all);
@@ -313,7 +320,7 @@ async function generateForLang(lang, log) {
     }));
 
     alt = alt
-      .filter(isGamingNews)
+      .filter(n => isGamingNews(n, lang))
       .filter(n => typeof n.thumbnail === "string" && n.thumbnail.startsWith("http"));
 
     alt = removeDuplicates(alt);
@@ -322,27 +329,8 @@ async function generateForLang(lang, log) {
     final.push(...alt);
   }
 
-  if (final.length < TOTAL && lang !== "en") {
-    log.push("Usando fallback inglés…");
-
-    const fallbackFeeds = await Promise.all(SOURCES["en"].map(fetchRSS));
-    let fallback = fallbackFeeds.flat().map(item => ({
-      guid: item.guid || item.link,
-      title: cleanText(item.title),
-      link: item.link,
-      pubDate: item.pubDate,
-      contentSnippet: cleanText(item.contentSnippet || item.content || ""),
-      thumbnail: extractImage(item)
-    }));
-
-    fallback = fallback
-      .filter(isGamingNews)
-      .filter(n => typeof n.thumbnail === "string" && n.thumbnail.startsWith("http"));
-
-    fallback = removeDuplicates(fallback);
-
-    final.push(...fallback);
-  }
+  // ❗ ELIMINAMOS EL FALLBACK INGLÉS
+  // if (final.length < TOTAL && lang !== "en") { ... }
 
   final.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
   final = final.slice(0, TOTAL);
@@ -357,7 +345,7 @@ async function generateForLang(lang, log) {
 }
 
 // ===============================
-//  MAIN + LOG FINAL
+// MAIN + LOG FINAL
 // ===============================
 async function main() {
   const log = [];
