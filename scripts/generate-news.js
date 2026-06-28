@@ -36,8 +36,7 @@ const SOURCES_ALT = {
   it: [
     "https://multiplayer.it/feed/rss/news/",
     "https://www.ilvideogioco.com/feed/",
-    "https://www.gamesource.it/feed/",
-    "https://www.nintendoomed.it/feed/"
+    "https://www.gamesource.it/feed/"
   ],
   es: [
     "https://areajugones.sport.es/feed/",
@@ -133,11 +132,9 @@ const SOURCES = {
     "https://www.actugaming.net/feed/"
   ],
   it: [
-    "https://www.spaziogames.it/feed/",
+    "https://multiplayer.it/feed/rss/news/",
     "https://www.ilvideogioco.com/feed/",
-    "https://www.player.it/feed/",
-    "https://www.gamesvillage.it/feed/",
-    "https://www.tomshw.it/videogioco/feed/"
+    "https://www.gamesource.it/feed/"
   ],
   de: [
     "https://www.gamestar.de/news/rss/news.rss",
@@ -328,7 +325,6 @@ async function generateForLang(lang, log) {
   }
 
   // ❗ ELIMINAMOS EL FALLBACK INGLÉS
-  // if (final.length < TOTAL && lang !== "en") { ... }
 
   final.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
   final = final.slice(0, TOTAL);
