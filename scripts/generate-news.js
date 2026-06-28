@@ -197,36 +197,37 @@ const SERIES_KEYWORDS = [
 // PALABRAS CLAVE ANTI‑POLÍTICA
 // ===============================
 const POLITICS_KEYWORDS = [
-  "politica", "politics", "elezioni", "election",
-  "governo", "government",
-  "parlamento", "parliament",
-  "ministro", "minister",
-  "presidente", "president",
-  "partito", "party",
-  "senato", "senate"
+  " politica ", " politics ", " elezioni ", " election ",
+  " governo ", " government ", " parlamento ", " parliament ",
+  " ministro ", " minister ", " presidente ", " president ",
+  " partito ", " party ", " senato ", " senate "
 ];
 
 // ===============================
 // FILTRO GAMER + ANTI‑POLÍTICA SOLO ITALIA
 // ===============================
 function isGamingNews(item, lang) {
-  const text = `${item.title} ${item.contentSnippet || ""}`.toLowerCase();
+  const text = ` ${item.title} ${item.contentSnippet || ""} `.toLowerCase();
 
   const isGame = GAMER_KEYWORDS.some(k => text.includes(k));
   const isMovie = MOVIE_KEYWORDS.some(k => text.includes(k));
   const isAnime = ANIME_KEYWORDS.some(k => text.includes(k));
   const isSeries = SERIES_KEYWORDS.some(k => text.includes(k));
 
-  const isPolitics = lang === "it" && POLITICS_KEYWORDS.some(k => text.includes(k));
+  const isPolitics =
+    lang === "it" &&
+    POLITICS_KEYWORDS.some(k => text.includes(k));
 
   return isGame && !isMovie && !isAnime && !isSeries && !isPolitics;
 }
 
 // ===============================
-// RANGO TEMPORAL
+// RANGO TEMPORAL (ARREGLADO)
 // ===============================
 function isRecent(item, days) {
-  const diff = (Date.now() - new Date(item.pubDate)) / (1000 * 60 * 60 * 24);
+  const d = new Date(item.pubDate);
+  if (isNaN(d.getTime())) return true; // si falla la fecha, no descartamos
+  const diff = (Date.now() - d.getTime()) / (1000 * 60 * 60 * 24);
   return diff <= days;
 }
 
