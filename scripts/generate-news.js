@@ -199,19 +199,9 @@ const SERIES_KEYWORDS = [
 ];
 
 // ===============================
-//  PALABRAS CLAVE ANTI‑POLÍTICA
+//  FILTRO GAMER REAL
 // ===============================
-const POLITICS_KEYWORDS = [
-  "politica", "politics", "elezioni", "election",
-  "governo", "government", "parlamento", "parliament",
-  "ministro", "minister", "presidente", "president",
-  "partito", "party", "senato", "senate"
-];
-
-// ===============================
-//  FILTRO GAMER REAL + ANTI‑POLÍTICA SOLO ITALIA
-// ===============================
-function isGamingNews(item, lang) {
+function isGamingNews(item) {
   const text = `${item.title} ${item.contentSnippet || ""}`.toLowerCase();
 
   const isGame = GAMER_KEYWORDS.some(k => text.includes(k));
@@ -219,9 +209,7 @@ function isGamingNews(item, lang) {
   const isAnime = ANIME_KEYWORDS.some(k => text.includes(k));
   const isSeries = SERIES_KEYWORDS.some(k => text.includes(k));
 
-  const isPolitics = lang === "it" && POLITICS_KEYWORDS.some(k => text.includes(k));
-
-  return isGame && !isMovie && !isAnime && !isSeries && !isPolitics;
+  return isGame && !isMovie && !isAnime && !isSeries;
 }
 
 // ===============================
@@ -289,7 +277,7 @@ async function generateForLang(lang, log) {
   }));
 
   all = all
-    .filter(n => isGamingNews(n, lang))
+    .filter(isGamingNews)
     .filter(n => typeof n.thumbnail === "string" && n.thumbnail.startsWith("http"));
 
   all = removeDuplicates(all);
@@ -325,7 +313,7 @@ async function generateForLang(lang, log) {
     }));
 
     alt = alt
-      .filter(n => isGamingNews(n, lang))
+      .filter(isGamingNews)
       .filter(n => typeof n.thumbnail === "string" && n.thumbnail.startsWith("http"));
 
     alt = removeDuplicates(alt);
@@ -348,7 +336,7 @@ async function generateForLang(lang, log) {
     }));
 
     fallback = fallback
-      .filter(n => isGamingNews(n, lang))
+      .filter(isGamingNews)
       .filter(n => typeof n.thumbnail === "string" && n.thumbnail.startsWith("http"));
 
     fallback = removeDuplicates(fallback);
