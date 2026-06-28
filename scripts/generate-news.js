@@ -17,17 +17,21 @@ const MAX_ITEMS_PER_FEED = 150;
 const MAX_RETRIES = 3;
 const TIMEOUT_MS = 5000;
 
+// ===============================
 // RANGOS DINÁMICOS POR PAÍS
+// ===============================
 const RANGES = {
   es: [30, 60, 120],
   fr: [30, 60, 120],
-  it: [30, 60, 120, 180], // Italia necesita más rango
+  it: [30, 60, 120, 180], 
   de: [30, 60, 120],
   pt: [30, 60, 120],
   en: [30, 60, 120]
 };
 
+// ===============================
 // FUENTES ALTERNATIVAS POR PAÍS
+// ===============================
 const SOURCES_ALT = {
   it: [
     "https://www.ilvideogioco.com/feed/",
@@ -49,9 +53,8 @@ const SOURCES_ALT = {
 };
 
 // ===============================
-//  FETCH MANUAL CON HEADERS + TIMEOUT + REINTENTOS
+// FETCH MANUAL CON HEADERS + TIMEOUT + REINTENTOS
 // ===============================
-
 async function fetchXML(url) {
   for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
     try {
@@ -73,14 +76,9 @@ async function fetchXML(url) {
 
       if (!res.ok) throw new Error("HTTP " + res.status);
 
-      // LEER COMO BINARIO
       const buffer = Buffer.from(await res.arrayBuffer());
-
-      // DETECTAR CODIFICACIÓN DEL XML
       const xmlDecl = buffer.toString("ascii", 0, 200).match(/encoding="([^"]+)"/i);
       const encoding = xmlDecl ? xmlDecl[1].toLowerCase() : "utf-8";
-
-      // DECODIFICAR CORRECTAMENTE
       const xml = iconv.decode(buffer, encoding);
 
       const feed = await parser.parseString(xml);
@@ -115,15 +113,12 @@ function cleanText(str) {
     .replace(/&ntilde;/g, "ñ");
 }
 
-// ===============================
-//  FETCH RSS (USA fetchXML, NO parseURL)
-// ===============================
 async function fetchRSS(url) {
   return await fetchXML(url);
 }
 
 // ===============================
-//  FUENTES POR IDIOMA
+// FUENTES POR IDIOMA
 // ===============================
 const SOURCES = {
   es: [
@@ -137,15 +132,23 @@ const SOURCES = {
     "https://www.gamekult.com/feed.xml",
     "https://www.actugaming.net/feed/"
   ],
+
+  // ===============================
+  // ITALIA — PRIMERO FUENTES FIABLES
+  // ===============================
   it: [
-    "https://www.everyeye.it/feed/feed_rss.asp",
-    "https://multiplayer.it/notizie.xml",
-    "https://www.spaziogames.it/feed/",
     "https://www.ilvideogioco.com/feed/",
+    "https://www.gamesource.it/feed/",
+    "https://www.gametimers.it/feed/",
+    "https://www.drcommodore.it/feed/",
+    "https://www.nintendoomed.it/feed/",
+    "https://www.pcgaming.it/feed/",
+
+    // Luego las que funcionan a veces
     "https://www.player.it/feed/",
-    "https://www.gamesvillage.it/feed/",
-    "https://www.tomshw.it/videogioco/feed/"
+    "https://www.game-experience.it/feed/"
   ],
+
   de: [
     "https://www.gamestar.de/news/rss/news.rss",
     "https://www.pcgames.de/rss/news.xml",
@@ -163,45 +166,31 @@ const SOURCES = {
 };
 
 // ===============================
-//  PALABRAS CLAVE GAMER
+// PALABRAS CLAVE
 // ===============================
 const GAMER_KEYWORDS = [
-  "game", "gaming", "videojuego", "video game", "juego",
-  "ps5", "playstation", "ps4", "ps3",
-  "xbox", "series x", "series s", "one",
-  "nintendo", "switch", "zelda", "mario", "pokemon",
-  "steam", "pc gaming", "pc",
-  "trailer", "review", "análisis", "avance",
-  "dlc", "expansión", "update", "actualización",
-  "esports", "torneo", "competitivo",
-  "launch", "release", "lanzamiento",
-  "fps", "rpg", "shooter", "battle royale",
-  "retro", "emulador", "emulación"
+  "game","gaming","videojuego","video game","juego",
+  "ps5","playstation","ps4","ps3",
+  "xbox","series x","series s","one",
+  "nintendo","switch","zelda","mario","pokemon",
+  "steam","pc gaming","pc",
+  "trailer","review","análisis","avance",
+  "dlc","expansión","update","actualización",
+  "esports","torneo","competitivo",
+  "launch","release","lanzamiento",
+  "fps","rpg","shooter","battle royale",
+  "retro","emulador","emulación"
 ];
 
-// ===============================
-//  PALABRAS CLAVE ANTI-CINE / ANIME / SERIES
-// ===============================
-const MOVIE_KEYWORDS = [
-  "película", "pelicula", "movie", "film", "cine",
-  "actor", "actriz", "director",
-  "taquilla", "box office"
-];
-
-const ANIME_KEYWORDS = [
-  "anime", "manga", "one piece", "dragon ball", "naruto",
-  "bleach", "haki", "luffy", "zoro", "gear 5"
-];
-
-const SERIES_KEYWORDS = [
-  "season", "episode", "serie", "series", "temporada",
-  "house of the dragon", "netflix", "hbo", "prime video"
-];
+const MOVIE_KEYWORDS = ["película","pelicula","movie","film","cine","actor","actriz","director","taquilla","box office"];
+const ANIME_KEYWORDS = ["anime","manga","one piece","dragon ball","naruto","bleach","haki","luffy","zoro","gear 5"];
+const SERIES_KEYWORDS = ["season","episode","serie","series","temporada","house of the dragon","netflix","hbo","prime video"];
+const POLITICS_KEYWORDS = ["politica","politics","elezioni","election","governo","government","parlamento","parliament","ministro","minister","presidente","president","partito","party","senato","senate"];
 
 // ===============================
-//  FILTRO GAMER REAL
+// FILTRO GAMER + ANTI‑POLÍTICA SOLO ITALIA
 // ===============================
-function isGamingNews(item) {
+function isGamingNews(item, lang) {
   const text = `${item.title} ${item.contentSnippet || ""}`.toLowerCase();
 
   const isGame = GAMER_KEYWORDS.some(k => text.includes(k));
@@ -209,11 +198,13 @@ function isGamingNews(item) {
   const isAnime = ANIME_KEYWORDS.some(k => text.includes(k));
   const isSeries = SERIES_KEYWORDS.some(k => text.includes(k));
 
-  return isGame && !isMovie && !isAnime && !isSeries;
+  const isPolitics = lang === "it" && POLITICS_KEYWORDS.some(k => text.includes(k));
+
+  return isGame && !isMovie && !isAnime && !isSeries && !isPolitics;
 }
 
 // ===============================
-//  RANGO TEMPORAL
+// RANGO TEMPORAL
 // ===============================
 function isRecent(item, days) {
   const diff = (Date.now() - new Date(item.pubDate)) / (1000 * 60 * 60 * 24);
@@ -221,7 +212,7 @@ function isRecent(item, days) {
 }
 
 // ===============================
-//  EXTRAER IMAGEN REAL
+// EXTRAER IMAGEN REAL
 // ===============================
 function extractImage(item) {
   const tryUrl = (v) => {
@@ -241,7 +232,7 @@ function extractImage(item) {
 }
 
 // ===============================
-//  ELIMINAR DUPLICADOS (VERSIÓN ORIGINAL)
+// ELIMINAR DUPLICADOS (TU VERSIÓN ORIGINAL)
 // ===============================
 function removeDuplicates(items) {
   const seen = new Set();
@@ -260,7 +251,7 @@ function removeDuplicates(items) {
 }
 
 // ===============================
-//  GENERAR NOTICIAS POR IDIOMA
+// GENERAR NOTICIAS POR IDIOMA
 // ===============================
 async function generateForLang(lang, log) {
   log.push(`\n=== ${lang.toUpperCase()} ===`);
@@ -277,7 +268,7 @@ async function generateForLang(lang, log) {
   }));
 
   all = all
-    .filter(isGamingNews)
+    .filter(n => isGamingNews(n, lang))
     .filter(n => typeof n.thumbnail === "string" && n.thumbnail.startsWith("http"));
 
   all = removeDuplicates(all);
@@ -313,7 +304,7 @@ async function generateForLang(lang, log) {
     }));
 
     alt = alt
-      .filter(isGamingNews)
+      .filter(n => isGamingNews(n, lang))
       .filter(n => typeof n.thumbnail === "string" && n.thumbnail.startsWith("http"));
 
     alt = removeDuplicates(alt);
@@ -336,7 +327,7 @@ async function generateForLang(lang, log) {
     }));
 
     fallback = fallback
-      .filter(isGamingNews)
+      .filter(n => isGamingNews(n, lang))
       .filter(n => typeof n.thumbnail === "string" && n.thumbnail.startsWith("http"));
 
     fallback = removeDuplicates(fallback);
@@ -357,7 +348,7 @@ async function generateForLang(lang, log) {
 }
 
 // ===============================
-//  MAIN + LOG FINAL
+// MAIN + LOG FINAL
 // ===============================
 async function main() {
   const log = [];
