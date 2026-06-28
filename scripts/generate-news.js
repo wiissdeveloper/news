@@ -85,8 +85,8 @@ async function fetchXML(url) {
       return (feed.items || []).slice(0, MAX_ITEMS_PER_FEED);
 
     } catch (err) {
-      console.log(`Error en ${url} (intento ${attempt})`);
-      if (attempt === MAX_RETRIES) return [];
+      // 🔥 NO mostrar errores de fuentes rotas
+      return [];
     }
   }
 }
@@ -118,7 +118,7 @@ async function fetchRSS(url) {
 }
 
 // ===============================
-// FUENTES POR IDIOMA
+// FUENTES POR IDIOMA (SOLO ITALIA MODIFICADA)
 // ===============================
 const SOURCES = {
   es: [
@@ -133,7 +133,7 @@ const SOURCES = {
     "https://www.actugaming.net/feed/"
   ],
   it: [
-    "https://multiplayer.it/feed/rss/news/",   // 🔥 PRINCIPAL
+    "https://multiplayer.it/feed/rss/news/",   // 🔥 TU URL PRINCIPAL
     "https://www.ilvideogioco.com/feed/",      // ✔ Funciona
     "https://www.gamesource.it/feed/",         // ✔ Funciona
     "https://www.spaziogames.it/feed/",        // ❌ Falla pero la mantienes
@@ -220,14 +220,6 @@ function isGamingNews(item, lang) {
 }
 
 // ===============================
-// RANGO TEMPORAL
-// ===============================
-function isRecent(item, days) {
-  const diff = (Date.now() - new Date(item.pubDate)) / (1000 * 60 * 60 * 24);
-  return diff <= days;
-}
-
-// ===============================
 // EXTRAER IMAGEN REAL
 // ===============================
 function extractImage(item) {
@@ -248,17 +240,20 @@ function extractImage(item) {
 }
 
 // ===============================
-// ELIMINAR DUPLICADOS (VERSIÓN ORIGINAL)
+// ELIMINAR DUPLICADOS (GUID + TÍTULO NORMALIZADO)
 // ===============================
 function removeDuplicates(items) {
   const seen = new Set();
+  const seenTitle = new Set();
   const result = [];
 
   for (const item of items) {
     const key = (item.guid || item.link || item.title).toLowerCase();
+    const titleKey = item.title.toLowerCase().replace(/\s+/g, "");
 
-    if (!seen.has(key)) {
+    if (!seen.has(key) && !seenTitle.has(titleKey)) {
       seen.add(key);
+      seenTitle.add(titleKey);
       result.push(item);
     }
   }
@@ -328,8 +323,6 @@ async function generateForLang(lang, log) {
     all.push(...alt);
     final.push(...alt);
   }
-
-  // ❗ ELIMINAMOS EL FALLBACK INGLÉS
 
   final.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
   final = final.slice(0, TOTAL);
