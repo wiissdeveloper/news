@@ -223,7 +223,7 @@ function isGamingNews(item, lang) {
 }
 
 // ===============================
-// RANGO TEMPORAL (FALTABA)
+// RANGO TEMPORAL
 // ===============================
 function isRecent(item, days) {
   const diff = (Date.now() - new Date(item.pubDate)) / (1000 * 60 * 60 * 24);
@@ -331,6 +331,9 @@ async function generateForLang(lang, log) {
     all.push(...alt);
     final.push(...alt);
   }
+
+  // 🔥 FIX FINAL: eliminar duplicados DESPUÉS del fallback
+  final = removeDuplicates(final);
 
   final.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
   final = final.slice(0, TOTAL);
