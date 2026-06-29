@@ -1,6 +1,30 @@
 {
-  "date": "2026-06-28",
+  "date": "2026-06-29",
   "notices": [
+    {
+      "guid": "https://mein-mmo.de/?p=1399172",
+      "title": "Ein Spiel macht mich gerade heißer auf GTA 6 als alles andere, dabei habe ich es als Kind bereits 400 Stunden gespielt",
+      "link": "https://mein-mmo.de/gta-5-nach-10-jahren-fuer-gta-6/",
+      "pubDate": "Mon, 29 Jun 2026 04:35:00 +0000",
+      "contentSnippet": "Nach 10 Jahren begibt sich MeinMMO-Redakteurin Caro zurück in ein Game, das besonders ausschlaggebend für ihre Vorfreude auf GTA 6 ist.\nDer Beitrag Ein Spiel macht mich gerade heißer auf GTA 6 als alles andere, dabei habe ich es als Kind bereits 400 Stunden gespielt erschien zuerst auf Mein-MMO.",
+      "thumbnail": "https://images.mein-mmo.de/medien/2026/06/Caro-und-GTA-Couple-1140x445.jpg"
+    },
+    {
+      "guid": "https://www.gamestar.de/artikel/neu-bei-steam,3455461.html",
+      "title": "Neu bei Steam - Ein neues Star-Wars-Spiel kommt von den Dead-by-Daylight-Machern – und es ist ganz anders, als ihr erwartet",
+      "link": "https://www.gamestar.de/artikel/neu-bei-steam,3455461.html",
+      "pubDate": "Mon, 29 Jun 2026 03:52:00 GMT",
+      "contentSnippet": "Wir zeigen euch alle wichtigen Neuerscheinungen der Woche bei Steam im Überblick.",
+      "thumbnail": "https://images.cgames.de/images/gamestar/112/neu-bei-steam_6426393.jpg"
+    },
+    {
+      "guid": "https://www.gamestar.de/videos/monopoly-star-wars-heroes-vs-villains-trailer-zum-brettspiel-der-dead-by-daylight-macher,141416.html",
+      "title": "Monopoly: Star Wars Heroes vs. Villains – Trailer zum Brettspiel der Dead-by-Daylight-Macher",
+      "link": "https://www.gamestar.de/videos/monopoly-star-wars-heroes-vs-villains-trailer-zum-brettspiel-der-dead-by-daylight-macher,141416.html",
+      "pubDate": "Mon, 29 Jun 2026 03:52:00 GMT",
+      "contentSnippet": "Brettspielabend im Star-Wars-Universum: Im Trailer zu Monopoly: Star Wars Heroes vs. Villains stellt ihr Teams aus Helden und Schurken zusammen, schickt Luke, Leia und Vader übers Spielfeld und liefert euch Würfel-Duelle in 2v2- und 3v3-Matches. Entwickelt wird das Ganze ausgerechnet von Behaviour Interactive, den Machern von Dead by Daylight.\r\n\r\nAb dem 30. Juni 2026 dürft ihr auf Steam selbst würfeln.",
+      "thumbnail": "https://images.cgames.de/images/gamestar/112/videoimage_6426394.jpg"
+    },
     {
       "guid": "https://www.gamestar.de/videos/quake-wird-30-jahre-alt-so-sah-damals-high-end-grafik-aus,141309.html",
       "title": "Quake wird 30 Jahre alt: So sah damals High-End-Grafik aus!",
@@ -42,14 +66,6 @@
       "thumbnail": "https://images.cgames.de/images/gamestar/112/videoimage_6426367.jpg"
     },
     {
-      "guid": "https://mein-mmo.de/?p=1399172",
-      "title": "Ein Spiel macht mich gerade heißer auf GTA 6 als alles andere, dabei habe ich es als Kind bereits 400 Stunden gespielt",
-      "link": "https://mein-mmo.de/gta-5-nach-10-jahren-fuer-gta-6/",
-      "pubDate": "Sun, 28 Jun 2026 08:00:00 +0000",
-      "contentSnippet": "Nach 10 Jahren begibt sich MeinMMO-Redakteurin Caro zurück in ein Game, das besonders ausschlaggebend für ihre Vorfreude auf GTA 6 ist.\nDer Beitrag Ein Spiel macht mich gerade heißer auf GTA 6 als alles andere, dabei habe ich es als Kind bereits 400 Stunden gespielt erschien zuerst auf Mein-MMO.",
-      "thumbnail": "https://images.mein-mmo.de/medien/2026/06/GTA-6-Caro-Titelbild-1140x445.jpg"
-    },
-    {
       "guid": "https://www.gamestar.de/videos/wo-bleiben-die-guten-game-of-thrones-spiele,141383.html",
       "title": "Wo bleiben die guten Game of Thrones Spiele?",
       "link": "https://www.gamestar.de/videos/wo-bleiben-die-guten-game-of-thrones-spiele,141383.html",
@@ -66,14 +82,6 @@
       "thumbnail": "https://images.cgames.de/images/gamestar/112/videoimage_6426367.jpg"
     },
     {
-      "guid": "https://mein-mmo.de/?p=1400316",
-      "title": "Boltgun 2 überzeugt selbst mich als Shooter-Muffel, weil es von absoluten Warhammer-Nerds gemacht wird",
-      "link": "https://mein-mmo.de/warhammer-40000-boltgun-2-shooter-muffel-interview/",
-      "pubDate": "Sun, 28 Jun 2026 06:00:00 +0000",
-      "contentSnippet": "Man merkt Boltgun 2 an, wie viel Ahnung die Entwickler von Warhammer 40.000 haben. Wir sprachen mit einem der Köpfe.\nDer Beitrag Boltgun 2 überzeugt selbst mich als Shooter-Muffel, weil es von absoluten Warhammer-Nerds gemacht wird erschien zuerst auf Mein-MMO.",
-      "thumbnail": "https://images.mein-mmo.de/medien/2026/06/Warhammer-40k-Boltgun-2-Nyra-und-Malum-Titel-2-1140x445.jpg"
-    },
-    {
       "guid": "https://www.gamestar.de/videos/ein-neuer-scuf-controller-soll-das-ultimative-ps5-gamepad-werden-er-verzichtet-aber-auf-einige-kernfunktionen,141386.html",
       "title": "Ein neuer Scuf-Controller soll das ultimative PS5-Gamepad werden – er verzichtet aber auf einige Kernfunktionen",
       "link": "https://www.gamestar.de/videos/ein-neuer-scuf-controller-soll-das-ultimative-ps5-gamepad-werden-er-verzichtet-aber-auf-einige-kernfunktionen,141386.html",
@@ -88,14 +96,6 @@
       "pubDate": "Sat, 27 Jun 2026 10:50:00 GMT",
       "contentSnippet": "Das gigantische Echtzeit-Strategie-Spiel BAR hat sich einen Publisher für den Steam-Release gesichert. Der Gratis-Titel bekommt auch eine neue Kampagne.",
       "thumbnail": "https://images.cgames.de/images/gamestar/112/gs-plus-beyond-all-reason_6426339.jpg"
-    },
-    {
-      "guid": "https://www.gamestar.de/artikel/indiana-jones-4-an-der-kontroversesten-entscheidung-war-george-lucas-schuld,3455327.html",
-      "title": "Indiana Jones - An der kontroversesten Entscheidung für Teil 4 war George Lucas schuld - nicht mal Steven Spielberg und Harrison Ford waren überzeugt",
-      "link": "https://www.gamestar.de/artikel/indiana-jones-4-an-der-kontroversesten-entscheidung-war-george-lucas-schuld,3455327.html",
-      "pubDate": "Sat, 27 Jun 2026 08:14:00 GMT",
-      "contentSnippet": "Obwohl Teil 4 der Reihe der finanziell erfolgreichste ist, kommt er für viele Fans nicht an die Vorgänger heran.",
-      "thumbnail": "https://images.cgames.de/images/gamestar/112/indy-4_6426027.jpg"
     }
   ]
 }

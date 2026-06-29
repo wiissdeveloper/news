@@ -1,6 +1,14 @@
 {
-  "date": "2026-06-28",
+  "date": "2026-06-29",
   "notices": [
+    {
+      "guid": "https://www.eurogamer.pt/precos-das-memorias-podem-subir-mais-50-ate-ao-final-de-2026",
+      "title": "Preços das memórias podem subir mais 50% até ao final de 2026",
+      "link": "https://www.eurogamer.pt/precos-das-memorias-podem-subir-mais-50-ate-ao-final-de-2026",
+      "pubDate": "Sun, 28 Jun 2026 23:08:38 +0000",
+      "contentSnippet": "Más notícias para quem está à procura de comprar ou melhorar o computador. Um novo relatório indica que os preços dos componentes de memória vão continuar a subir bastante até ao final deste ano, e só se espera um alívio para as carteiras em 2028.\n Ler mais",
+      "thumbnail": "https://assetsio.gnwcdn.com/Corsair_JuGvJe5.png?width=690&quality=85&format=jpg&auto=webp"
+    },
     {
       "guid": "https://www.eurogamer.pt/custo-de-fabrico-da-ps6-ja-vai-em-960-e-o-preco-final-pode-assustar",
       "title": "Custo de fabrico da PS6 já vai em $960 e o preço final pode assustar",
@@ -88,14 +96,6 @@
       "pubDate": "Fri, 26 Jun 2026 08:49:21 +0000",
       "contentSnippet": "A Capcom apresentou um novo olhar detalhado a Onimusha: Way of the Sword, que continua agendado para 25 de setembro.\n Ler mais",
       "thumbnail": "https://assetsio.gnwcdn.com/1d8c87b7a3739efaeae001ec21dc89c6a99a03c2.webp?width=690&quality=85&format=jpg&auto=webp"
-    },
-    {
-      "guid": "https://www.eurogamer.pt/monster-hunter-stories-3-recebe-dlc-pago-e-gratuito",
-      "title": "Monster Hunter Stories 3 recebe DLC pago e gratuito",
-      "link": "https://www.eurogamer.pt/monster-hunter-stories-3-recebe-dlc-pago-e-gratuito",
-      "pubDate": "Fri, 26 Jun 2026 07:46:06 +0000",
-      "contentSnippet": "A Capcom surpreendeu os fãs de Monster Hunter Stories 3 ao lançar conteúdos adicionais pagos e gratuitos.\n Ler mais",
-      "thumbnail": "https://assetsio.gnwcdn.com/Monster-Hunter-Stories-3-Twisted-Reflection_2026_06-25-26_019-1440x810.jpg?width=690&quality=85&format=jpg&auto=webp"
     }
   ]
 }
