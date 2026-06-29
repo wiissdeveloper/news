@@ -2,7 +2,7 @@ name: Update News
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # Ejecuta cada 12 horas (00:00 y 12:00 UTC)
+    - cron: "0 */12 * * *"  # Ejecuta cada 12 horas (00:00 y 12:00 UTC)
   workflow_dispatch:
 
 permissions:
@@ -11,6 +11,7 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10  # Red de seguridad: mata el proceso si supera los 10 min
 
     steps:
       - name: Checkout

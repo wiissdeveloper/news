@@ -108,18 +108,27 @@ const PRICECHARTING_URLS = {
 // ===============================
 //  FETCH HTML
 // ===============================
+// Ejemplo de mejora para fetchHTML
 async function fetchHTML(url) {
   for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
     try {
       const controller = new AbortController();
       const timeout = setTimeout(() => controller.abort(), TIMEOUT_MS);
-      const res = await fetch(url, { signal: controller.signal });
+      
+      const res = await fetch(url, { 
+        signal: controller.signal,
+        headers: {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+        }
+      });
+      
       clearTimeout(timeout);
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       return await res.text();
     } catch (err) {
+      console.error(`Intento ${attempt} fallido para ${url}: ${err.message}`);
       if (attempt === MAX_RETRIES) return null;
-      await sleep(5000 * attempt);
+      await sleep(3000 * attempt); // Aumentamos un poco el tiempo de espera entre reintentos
     }
   }
 }
