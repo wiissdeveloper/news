@@ -1,6 +1,30 @@
 {
-  "date": "2026-06-29",
+  "date": "2026-06-30",
   "notices": [
+    {
+      "guid": "https://mein-mmo.de/?p=1396201",
+      "title": "Mein liebstes MMORPG ist hier so schwierig zu spielen, ich brauchte 2 VPNs und 4 neue Mail-Adressen dazu",
+      "link": "https://mein-mmo.de/ragnarok-online-4-mails-2-vpns-opera/",
+      "pubDate": "Mon, 29 Jun 2026 18:00:00 +0000",
+      "contentSnippet": "MeinMMO-Redakteur Benedict Grothaus liebt Ragnarok Online, aber es zu spielen ist hier fast unmöglich.\nDer Beitrag Mein liebstes MMORPG ist hier so schwierig zu spielen, ich brauchte 2 VPNs und 4 neue Mail-Adressen dazu erschien zuerst auf Mein-MMO.",
+      "thumbnail": "https://images.mein-mmo.de/medien/2026/06/Ragnarok-Online-Grindfest-zu-viele-VPNs-Opera-GX-benedict-titel-1140x445.jpg"
+    },
+    {
+      "guid": "https://www.gamestar.de/artikel/steamos-windows-alternative-gaming-pc-erfahrungen-reddit,3455523.html",
+      "title": "Abkehr von Windows - Spieler teilen ihre Erfahrungen mit SteamOS auf Gaming-PCs – viele wollen nicht zurück",
+      "link": "https://www.gamestar.de/artikel/steamos-windows-alternative-gaming-pc-erfahrungen-reddit,3455523.html",
+      "pubDate": "Mon, 29 Jun 2026 17:01:00 GMT",
+      "contentSnippet": "Was passiert, wenn Spieler Windows gegen SteamOS tauschen? Reddit urteilt: vieles ist besser, doch ein Problem dominiert.",
+      "thumbnail": "https://images.cgames.de/images/gamestar/112/windows-zu-steamos-wechsel-teaser_6329124.jpg"
+    },
+    {
+      "guid": "https://www.gamestar.de/videos/in-cyberpunk-edgerunners-staffel-2-schlaegt-die-cyberpsychose-wieder-so-richtig-zu-ein-happy-end-wirds-wohl-auch-diesmal-nicht-geben,141418.html",
+      "title": "In Cyberpunk: Edgerunners Staffel 2 schlägt die Cyberpsychose wieder so richtig zu - ein Happy End wird's wohl auch diesmal nicht geben",
+      "link": "https://www.gamestar.de/videos/in-cyberpunk-edgerunners-staffel-2-schlaegt-die-cyberpsychose-wieder-so-richtig-zu-ein-happy-end-wirds-wohl-auch-diesmal-nicht-geben,141418.html",
+      "pubDate": "Mon, 29 Jun 2026 15:46:00 GMT",
+      "contentSnippet": "Willkommen zurück in Night City, Choomba! Vier Jahre haben Fans darauf gewartet, dass Cyberpunk: Edgerunners weitergeht. Staffel 2 erscheint im Herbst 2026, also irgendwann im Zeitraum von September bis November.\r\n\r\nDer neue Trailer gibt euch jetzt einen ersten Vorgeschmack auf die neue Reise. Dort begleiten wir Weak Kingsley, D, Roman Carax und Talia Yang durch die Straßen von Night City, wo die ungleiche Truppe wohl mit einigen Schwierigkeiten konfrontiert werden wird. Die Stadt ist in der Zukunft immerhin eine der gefährlichsten Metropole der USA.\r\n\r\nMehr Infos zu den Figuren, gibt's in unserer News.",
+      "thumbnail": "https://images.cgames.de/images/gamestar/112/videoimage_6426523.jpg"
+    },
     {
       "guid": "https://mein-mmo.de/?p=1398836",
       "title": "Das Grindfest 2026 ist gestartet! Hier findet ihr das Programm der großen MMORPG-Themenwoche von MeinMMO",
@@ -72,30 +96,6 @@
       "pubDate": "Mon, 29 Jun 2026 10:00:00 GMT",
       "contentSnippet": "Die Unterstützung für das Medium ist mittlerweile einfach kaum noch gefragt.",
       "thumbnail": "https://images.cgames.de/images/gamestar/112/ps3-vs-ps5_6426424.jpg"
-    },
-    {
-      "guid": "https://www.gamestar.de/artikel/android-erdbeben-warnungs-system,3455473.html",
-      "title": "Android - Erdbebenwarnung in Venezuela soll Millionen Menschen frühzeitig gewarnt haben",
-      "link": "https://www.gamestar.de/artikel/android-erdbeben-warnungs-system,3455473.html",
-      "pubDate": "Mon, 29 Jun 2026 08:20:00 GMT",
-      "contentSnippet": "Google soll Erdbeben-Warnungen an mehr als 11 Millionen Venezolaner kurz vor und während der zwei Erdbeben herausgeschickt haben.",
-      "thumbnail": "https://images.cgames.de/images/gamestar/112/android-erdbeben-gs-bildquelle-google_6426417.jpg"
-    },
-    {
-      "guid": "https://www.gamestar.de/artikel/bundesweite-mobilfunkmesswoche-deutschland,3455471.html",
-      "title": "Smartphones - Noch bis 01. Juli: Ihr könnt aktiv das Netz in Deutschland mitverbessern und müsst dafür nur eine App herunterladen",
-      "link": "https://www.gamestar.de/artikel/bundesweite-mobilfunkmesswoche-deutschland,3455471.html",
-      "pubDate": "Mon, 29 Jun 2026 08:10:00 GMT",
-      "contentSnippet": "Im Rahmen der bundesweiten Mobilfunk-Messwoche sollen Funklöcher und andere Probleme entdeckt werden.",
-      "thumbnail": "https://images.cgames.de/images/gamestar/112/check-dein-netz_6426416.jpg"
-    },
-    {
-      "guid": "https://www.gamestar.de/artikel/neu-bei-steam,3455461.html",
-      "title": "Neu bei Steam - Ein neues Star-Wars-Spiel kommt von den Dead-by-Daylight-Machern – und es ist ganz anders, als ihr erwartet",
-      "link": "https://www.gamestar.de/artikel/neu-bei-steam,3455461.html",
-      "pubDate": "Mon, 29 Jun 2026 03:52:00 GMT",
-      "contentSnippet": "Wir zeigen euch alle wichtigen Neuerscheinungen der Woche bei Steam im Überblick.",
-      "thumbnail": "https://images.cgames.de/images/gamestar/112/neu-bei-steam_6426393.jpg"
     }
   ]
 }
