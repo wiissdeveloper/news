@@ -2,20 +2,84 @@
   "date": "2026-07-02",
   "notices": [
     {
+      "guid": "https://gamerant.com/fallout-shutdown-xbox-obsidian/",
+      "title": "Xbox Might Shut Down Fallout: New Vegas Developer Obsidian",
+      "link": "https://gamerant.com/fallout-shutdown-xbox-obsidian/",
+      "pubDate": "Thu, 02 Jul 2026 14:11:54 GMT",
+      "contentSnippet": "A new report suggests that Fallout: New Vegas developer Obsidian Entertainment might be on Xbox's chopping block.",
+      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/02/fallout-new-vegas-courier-key-art.jpeg"
+    },
+    {
+      "guid": "https://gamerant.com/ps6-digital-games-dynamic-pricing-bad-expensive/",
+      "title": "PS6 to Be Digital Only, Plus Dynamic Pricing is Very Bad News",
+      "link": "https://gamerant.com/ps6-digital-games-dynamic-pricing-bad-expensive/",
+      "pubDate": "Thu, 02 Jul 2026 14:11:17 GMT",
+      "contentSnippet": "The PlayStation 6 is shaping up to be the most expensive console generation yet, across all facets of the next-gen hardware.",
+      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/07/ps6-logo-sony-game-rant.jpg"
+    },
+    {
+      "guid": "https://gamerant.com/pokemon-winds-waves-starter-types-leak/",
+      "title": "Rumor: Pokemon Winds and Waves' Final Starter Types Leaked",
+      "link": "https://gamerant.com/pokemon-winds-waves-starter-types-leak/",
+      "pubDate": "Thu, 02 Jul 2026 13:50:34 GMT",
+      "contentSnippet": "A new rumor details the final dual types of each of Pokemon Winds and Waves' starters: Pombon, Gecqua, and Browt.",
+      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/02/pokemon-winds-and-waves-starters-official.jpg"
+    },
+    {
+      "guid": "https://gamerant.com/free-pc-games-now-drive-me-to-hell/",
+      "title": "PS1-Style Horror Game on PC Is Free to Keep for a Limited Time",
+      "link": "https://gamerant.com/free-pc-games-now-drive-me-to-hell/",
+      "pubDate": "Thu, 02 Jul 2026 13:33:12 GMT",
+      "contentSnippet": "PC users have limited time to claim this free horror game, which features low-poly graphics similar to those found in PS1-era horror games.",
+      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/07/drive-to-hell-pc-game-horror-driving-sim-free-itch-io-gamerant.jpg"
+    },
+    {
+      "guid": "uUtmEycKXioEeh8BgfoCpF",
+      "title": " I'm learning to love autobattlers and it's because this Steam demo let me build a gnarly squad of combat freaks out of weird meat and goblin blood ",
+      "link": "https://www.pcgamer.com/games/roguelike/im-learning-to-love-autobattlers-and-its-because-this-steam-demo-let-me-build-a-gnarly-squad-of-combat-freaks-out-of-weird-meat-and-goblin-blood/",
+      "pubDate": "Thu, 02 Jul 2026 13:00:00 +0000",
+      "contentSnippet": "The goblins started it. I think.",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/ueze9vEKLTJDT6wMsxtsDh-1280-80.jpg"
+    },
+    {
+      "guid": "https://gamerant.com/ps5-dualsense-controller-icon-blue-special-edition-pre-orders/",
+      "title": "New PS5 Controller Revealed, Pre-Orders Available Now",
+      "link": "https://gamerant.com/ps5-dualsense-controller-icon-blue-special-edition-pre-orders/",
+      "pubDate": "Thu, 02 Jul 2026 12:57:17 GMT",
+      "contentSnippet": "PlayStation opens pre-orders for an upcoming special edition PS5 controller set to release in early August 2026.",
+      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/07/new-ps5-controller-game-rant.jpg"
+    },
+    {
+      "guid": "HWvPwFH9Tj6DhCrAZy5CR8",
+      "title": " 'A wild testament to the obscene bloat and waste of GenAI': Google's electricity consumption is exponentially increasing ",
+      "link": "https://www.pcgamer.com/software/ai/a-wild-testament-to-the-obscene-bloat-and-waste-of-genai-googles-electricity-consumption-is-exponentially-increasing/",
+      "pubDate": "Thu, 02 Jul 2026 12:15:12 +0000",
+      "contentSnippet": "A better, less cooked world is still possible.",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/UpFJiY4KRgZ6qBuVRSQLrD-1280-80.jpg"
+    },
+    {
+      "guid": "6yqJJagfMFwanTT4XTZX5U",
+      "title": " Data centers reportedly targeted by cargo thieves, with over $1 million worth of copper and equipment found in two trucks in Chicago ",
+      "link": "https://www.pcgamer.com/software/ai/data-centers-reportedly-targeted-by-cargo-thieves-with-over-usd1-million-worth-of-copper-and-equipment-found-in-two-trucks-in-chicago/",
+      "pubDate": "Thu, 02 Jul 2026 12:07:24 +0000",
+      "contentSnippet": "It seems almost everyone is making a lot of money from the AI boom.",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/e2yptrkzRVgkgVwvb4YyVi-1280-80.jpg"
+    },
+    {
+      "guid": "fY6yiQjoueK3DNuavVFtCB",
+      "title": " 'Meh': Ex-PlayStation president Shuhei Yoshida weighs in on Valve's Steam Machine after a few hours with it ",
+      "link": "https://www.pcgamer.com/hardware/gaming-pcs/meh-ex-playstation-president-shuhei-yoshida-weighs-in-on-valves-steam-machine-after-a-few-hours-with-it/",
+      "pubDate": "Thu, 02 Jul 2026 10:10:41 +0000",
+      "contentSnippet": "Suppose it does seem like a decent indie machine.",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/A6XLJq8pVfbW4j96YPVSi7-1280-80.jpg"
+    },
+    {
       "guid": "FvovRucoWXJoJy2B9WNULS",
       "title": " Blood Bowl's videogame rights have been acquired by Slitherine and at this point I'll take any change as a good sign ",
       "link": "https://www.pcgamer.com/games/sports/blood-bowls-videogame-rights-have-been-acquired-by-slitherine-and-at-this-point-ill-take-any-change-as-a-good-sign/",
       "pubDate": "Thu, 02 Jul 2026 02:49:05 +0000",
       "contentSnippet": "It's still being developed by Cyanide, but with a new hand at the tiller.",
       "thumbnail": "https://cdn.mos.cms.futurecdn.net/tAvyMg6bPG8jNdrCd98btL-1280-80.jpg"
-    },
-    {
-      "guid": "https://gamerant.com/destiny-2-vault-glass-armor-set-farm-good/",
-      "title": "One of Destiny 2's Best Monument of Triumph Armor Sets is Now Easily Farmable, With a Catch",
-      "link": "https://gamerant.com/destiny-2-vault-glass-armor-set-farm-good/",
-      "pubDate": "Thu, 02 Jul 2026 01:00:16 GMT",
-      "contentSnippet": "Destiny 2's Monument of Triumph update introduced multiple new armor sets, and one of the best can be farmed easily this week.",
-      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/07/d2_zeus_armor_arthurianlegend_composite_16x9_large.jpg"
     },
     {
       "guid": "a7udBUv4ZpDxMLQkmHBZzb",
@@ -26,76 +90,12 @@
       "thumbnail": "https://cdn.mos.cms.futurecdn.net/Rpk9b9p4h88XhJ7ZHCtW89-1280-80.jpg"
     },
     {
-      "guid": "https://gamerant.com/destiny-2-disable-armor-sets-grasp-avarice-duality/",
-      "title": "Destiny 2 is Officially Disabling Two Armor Sets Permanently",
-      "link": "https://gamerant.com/destiny-2-disable-armor-sets-grasp-avarice-duality/",
-      "pubDate": "Wed, 01 Jul 2026 23:48:10 GMT",
-      "contentSnippet": "With Destiny 2 entering end-of-service and the entire team being laid off, the upcoming hotfix will disable two new armor sets permanently.",
-      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/07/4112453-duality-armor-1.jpg"
-    },
-    {
-      "guid": "https://gamerant.com/demon-slayer-hinokami-chronicles-2-switch-2-2026/",
-      "title": "New Official Demon Slayer Release Confirmed for October 29",
-      "link": "https://gamerant.com/demon-slayer-hinokami-chronicles-2-switch-2-2026/",
-      "pubDate": "Wed, 01 Jul 2026 23:00:16 GMT",
-      "contentSnippet": "Demon Slayer fans are being treated to a brand-new release later this year, on October 29.",
-      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/07/demon_slayer_anime_3840x2160.jpg"
-    },
-    {
       "guid": "86BnNXEbPqfcxryW5rRgW5",
       "title": " 'They refuse to offer a meaningful alternative': Game preservation leader agrees that piracy is the only preservation option for a discless future ",
       "link": "https://www.pcgamer.com/gaming-industry/they-refuse-to-offer-a-meaningful-alternative-game-preservation-leader-agrees-that-piracy-is-the-only-preservation-option-for-a-discless-future/",
       "pubDate": "Wed, 01 Jul 2026 22:40:23 +0000",
       "contentSnippet": "The future of preservation is, as usual, on the PC.",
       "thumbnail": "https://cdn.mos.cms.futurecdn.net/ohSAhGVAWbaCvSu9v4La3a-1280-80.jpg"
-    },
-    {
-      "guid": "LcqrNcnT684zGjwUjtaEB4",
-      "title": " Consoles continue their trend of just becoming worse PCs ",
-      "link": "https://www.pcgamer.com/gaming-industry/consoles-continue-their-trend-of-just-becoming-worst-pcs/",
-      "pubDate": "Wed, 01 Jul 2026 21:42:33 +0000",
-      "contentSnippet": "As prices go up and exclusives dry up, the old \"plug-and-play\" argument has never been flimsier.",
-      "thumbnail": "https://cdn.mos.cms.futurecdn.net/tQRe9ECqf26uG3MjE5YYbb-1280-80.jpg"
-    },
-    {
-      "guid": "dfd6FGvY7YRZpc9cNw8YFi",
-      "title": " 'There’s something we’ve been dying to tell you': The best city builder of 2023 is getting a survival game set in the same world ",
-      "link": "https://www.pcgamer.com/games/survival-crafting/theres-something-weve-been-dying-to-tell-you-the-best-city-builder-of-2023-is-getting-a-survival-game-set-in-the-same-world/",
-      "pubDate": "Wed, 01 Jul 2026 18:58:29 +0000",
-      "contentSnippet": "And it looks like it'll be co-op.",
-      "thumbnail": "https://cdn.mos.cms.futurecdn.net/74Zt8bxi2MxkupGdnPootD-1280-80.jpg"
-    },
-    {
-      "guid": "LGMjpjgWbtFnDQe6GyS7dV",
-      "title": " Dragon Age setting creator says AI push is a delusion of the executive class that's a 'virulent plague' on games ",
-      "link": "https://www.pcgamer.com/software/ai/dragon-age-setting-creator-says-ai-push-is-a-delusion-of-the-executive-class-thats-a-virulent-plague-on-games/",
-      "pubDate": "Wed, 01 Jul 2026 16:14:21 +0000",
-      "contentSnippet": "\"Honestly, what does it help with?\"",
-      "thumbnail": "https://cdn.mos.cms.futurecdn.net/5MxYXtbdaY3pSFz8MfpnKW-1280-80.png"
-    },
-    {
-      "guid": "ZtUosGQxvNdAjNVmrnVo8G",
-      "title": " French retailer briefly offers the 'Stim Machine,' a Steam Machine competitor made of standard PC components for less than a grand ",
-      "link": "https://www.pcgamer.com/hardware/gaming-pcs/french-retailer-briefly-offers-the-stim-machine-a-steam-machine-competitor-made-of-standard-pc-components-for-less-than-a-grand/",
-      "pubDate": "Wed, 01 Jul 2026 15:54:25 +0000",
-      "contentSnippet": "Making Daft Punks of us all.",
-      "thumbnail": "https://cdn.mos.cms.futurecdn.net/QiBCKLgnJbum6x9VLdHNL6-1280-80.jpg"
-    },
-    {
-      "guid": "iSdPhg3mv5zjVFUUk4dATC",
-      "title": " \"You are the endgame\": Total War: Warhammer's new nightmarish Chaos invasion finally gives Archaon the apocalyptic event he's been waiting 10 years for ",
-      "link": "https://www.pcgamer.com/games/strategy/you-are-the-endgame-total-war-warhammers-new-nightmarish-chaos-invasion-finally-gives-archaon-the-apocalyptic-event-hes-been-waiting-10-years-for/",
-      "pubDate": "Wed, 01 Jul 2026 15:25:34 +0000",
-      "contentSnippet": "The Everchosen is back and means business.",
-      "thumbnail": "https://cdn.mos.cms.futurecdn.net/oWEQibTwrj65opHrFvdA7i-1280-80.jpg"
-    },
-    {
-      "guid": "i5nRZGvordFUA22FpNyVTE",
-      "title": " Xbox reportedly wants to put a stake in Blade and sell off Arkane, even though Todd Howard says development is going well ",
-      "link": "https://www.pcgamer.com/gaming-industry/xbox-reportedly-wants-to-put-a-stake-in-blade-and-sell-off-arkane-even-though-todd-howard-says-development-is-going-well/",
-      "pubDate": "Wed, 01 Jul 2026 15:16:53 +0000",
-      "contentSnippet": "Eventually we'll just be left with Halo and Call of Duty.",
-      "thumbnail": "https://cdn.mos.cms.futurecdn.net/9myP8AsVi8BsvzaJUUNaH4-1280-80.jpg"
     }
   ]
 }
