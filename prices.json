@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01",
+  "updated": "2026-07-02",
   "systems": {
     "3do": [
       {
@@ -53,16 +53,16 @@
       },
       {
         "rank": 8,
-        "name": "Panasonic 3DO FZ-1",
+        "name": "Panasonic FZ-10 Console [Gex Bundle]",
         "price_usd": 249.99,
         "price_eur": 229.99,
         "isHistory": false
       },
       {
         "rank": 9,
-        "name": "Panasonic FZ-10 Console [Gex Bundle]",
-        "price_usd": 249.99,
-        "price_eur": 229.99,
+        "name": "Panasonic 3DO FZ-1",
+        "price_usd": 238.75,
+        "price_eur": 219.65,
         "isHistory": false
       },
       {
@@ -88,44 +88,44 @@
       },
       {
         "rank": 13,
-        "name": "NeuroDancer: Journey Into The Neuronet",
-        "price_usd": 179.99,
-        "price_eur": 165.59,
-        "isHistory": false
-      },
-      {
-        "rank": 14,
         "name": "3DO FZ-10 Controller",
         "price_usd": 156.02,
         "price_eur": 143.54,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 14,
         "name": "Mind Teazzer",
         "price_usd": 141.29,
         "price_eur": 129.99,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 15,
         "name": "Battle Blues",
         "price_usd": 140.48,
         "price_eur": 129.24,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 16,
         "name": "Royal Pro Wrestling",
         "price_usd": 139.99,
         "price_eur": 128.79,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 17,
         "name": "American Laser Games Game Gun",
         "price_usd": 129.95,
         "price_eur": 119.55,
+        "isHistory": false
+      },
+      {
+        "rank": 18,
+        "name": "NeuroDancer: Journey Into The Neuronet",
+        "price_usd": 129.9,
+        "price_eur": 119.51,
         "isHistory": false
       },
       {
@@ -638,8 +638,8 @@
       {
         "rank": 10,
         "name": "Double Dragon",
-        "price_usd": 103.52,
-        "price_eur": 95.24,
+        "price_usd": 102.34,
+        "price_eur": 94.15,
         "isHistory": false
       },
       {
@@ -895,8 +895,8 @@
       {
         "rank": 6,
         "name": "Illbleed",
-        "price_usd": 197.74,
-        "price_eur": 181.92,
+        "price_usd": 198.87,
+        "price_eur": 182.96,
         "isHistory": false
       },
       {
@@ -916,8 +916,8 @@
       {
         "rank": 9,
         "name": "Cannon Spike",
-        "price_usd": 151.59,
-        "price_eur": 139.46,
+        "price_usd": 150.8,
+        "price_eur": 138.74,
         "isHistory": false
       },
       {
@@ -930,8 +930,8 @@
       {
         "rank": 11,
         "name": "Sega Dreamcast Console",
-        "price_usd": 135.94,
-        "price_eur": 125.06,
+        "price_usd": 134.89,
+        "price_eur": 124.1,
         "isHistory": false
       },
       {
@@ -1206,14 +1206,14 @@
       },
       {
         "rank": 10,
-        "name": "Bubble Bobble 2",
+        "name": "Makaimura [Box Cart]",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
       },
       {
         "rank": 11,
-        "name": "Makaimura [Box Cart]",
+        "name": "Bubble Bobble 2",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
@@ -1307,8 +1307,8 @@
       {
         "rank": 4,
         "name": "Gameboy Camera [Gold]",
-        "price_usd": 1008.92,
-        "price_eur": 928.21,
+        "price_usd": 1012.09,
+        "price_eur": 931.12,
         "isHistory": false
       },
       {
@@ -1383,14 +1383,14 @@
       },
       {
         "rank": 15,
-        "name": "Analogue Pocket [Grape]",
+        "name": "Analogue Pocket [Berry]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
       },
       {
         "rank": 16,
-        "name": "Analogue Pocket [Berry]",
+        "name": "Analogue Pocket [Grape]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
@@ -1518,14 +1518,14 @@
       },
       {
         "rank": 14,
-        "name": "Gameboy Advance SP [Kyogre Edition]",
+        "name": "Drill Dozer [Not for Resale]",
         "price_usd": 300,
         "price_eur": 276,
         "isHistory": false
       },
       {
         "rank": 15,
-        "name": "Drill Dozer [Not for Resale]",
+        "name": "Gameboy Advance SP [Kyogre Edition]",
         "price_usd": 300,
         "price_eur": 276,
         "isHistory": false
@@ -1546,23 +1546,23 @@
       },
       {
         "rank": 18,
-        "name": "Pokemon Center New York System",
-        "price_usd": 260.37,
-        "price_eur": 239.54,
-        "isHistory": false
-      },
-      {
-        "rank": 19,
         "name": "Car Battler Joe",
         "price_usd": 254.85,
         "price_eur": 234.46,
         "isHistory": false
       },
       {
-        "rank": 20,
+        "rank": 19,
         "name": "GBA Micro Silver",
         "price_usd": 236.98,
         "price_eur": 218.02,
+        "isHistory": false
+      },
+      {
+        "rank": 20,
+        "name": "iQue Gameboy Advance",
+        "price_usd": 226.1,
+        "price_eur": 208.01,
         "isHistory": false
       }
     ],
@@ -2117,8 +2117,8 @@
       {
         "rank": 18,
         "name": "Alf",
-        "price_usd": 54.31,
-        "price_eur": 49.97,
+        "price_usd": 54.25,
+        "price_eur": 49.91,
         "isHistory": false
       },
       {
@@ -2209,16 +2209,16 @@
       },
       {
         "rank": 11,
-        "name": "World of Illusion [Gold Collection]",
-        "price_usd": 177.36,
-        "price_eur": 163.17,
+        "name": "SEGA Mega Drive Mini 2",
+        "price_usd": 186.44,
+        "price_eur": 171.52,
         "isHistory": false
       },
       {
         "rank": 12,
-        "name": "SEGA Mega Drive Mini 2",
-        "price_usd": 176.22,
-        "price_eur": 162.12,
+        "name": "World of Illusion [Gold Collection]",
+        "price_usd": 177.36,
+        "price_eur": 163.17,
         "isHistory": false
       },
       {
@@ -2282,8 +2282,8 @@
       {
         "rank": 1,
         "name": "Zelda Majora's Mask [Adventure Set]",
-        "price_usd": 1742.63,
-        "price_eur": 1603.22,
+        "price_usd": 1742.58,
+        "price_eur": 1603.17,
         "isHistory": false
       },
       {
@@ -2330,16 +2330,16 @@
       },
       {
         "rank": 8,
-        "name": "Starcraft 64",
-        "price_usd": 372.95,
-        "price_eur": 343.11,
+        "name": "Nintendo 64 Smoke Black",
+        "price_usd": 360.81,
+        "price_eur": 331.95,
         "isHistory": false
       },
       {
         "rank": 9,
-        "name": "Nintendo 64 Smoke Black",
-        "price_usd": 360.81,
-        "price_eur": 331.95,
+        "name": "Starcraft 64",
+        "price_usd": 327.69,
+        "price_eur": 301.47,
         "isHistory": false
       },
       {
@@ -2401,8 +2401,8 @@
       {
         "rank": 18,
         "name": "Nintendo 64 Ice Blue Console",
-        "price_usd": 160.1,
-        "price_eur": 147.29,
+        "price_usd": 160.13,
+        "price_eur": 147.32,
         "isHistory": false
       },
       {
@@ -2523,8 +2523,8 @@
       {
         "rank": 15,
         "name": "Pokemon [Legendary Not For Resale Y90E]",
-        "price_usd": 614.49,
-        "price_eur": 565.33,
+        "price_usd": 615.43,
+        "price_eur": 566.2,
         "isHistory": false
       },
       {
@@ -2786,8 +2786,8 @@
       {
         "rank": 12,
         "name": "Peek-a-Boo Poker",
-        "price_usd": 1733.35,
-        "price_eur": 1594.68,
+        "price_usd": 1734.39,
+        "price_eur": 1595.64,
         "isHistory": false
       },
       {
@@ -2799,16 +2799,16 @@
       },
       {
         "rank": 14,
-        "name": "Power Pad Test Cartridge",
-        "price_usd": 1244.8,
-        "price_eur": 1145.22,
+        "name": "Analogue NT Mini Noir",
+        "price_usd": 1259.99,
+        "price_eur": 1159.19,
         "isHistory": false
       },
       {
         "rank": 15,
-        "name": "Analogue NT Mini Noir",
-        "price_usd": 1226.13,
-        "price_eur": 1128.04,
+        "name": "Power Pad Test Cartridge",
+        "price_usd": 1244.8,
+        "price_eur": 1145.22,
         "isHistory": false
       },
       {
@@ -2835,15 +2835,15 @@
       {
         "rank": 19,
         "name": "Panic Restaurant",
-        "price_usd": 1098.49,
-        "price_eur": 1010.61,
+        "price_usd": 1099.24,
+        "price_eur": 1011.3,
         "isHistory": false
       },
       {
         "rank": 20,
         "name": "Control Deck Test Cartridge",
-        "price_usd": 1081.26,
-        "price_eur": 994.76,
+        "price_usd": 1082.13,
+        "price_eur": 995.56,
         "isHistory": false
       }
     ],
@@ -2930,8 +2930,8 @@
       {
         "rank": 12,
         "name": "Metal Slug 2nd Mission",
-        "price_usd": 68.1,
-        "price_eur": 62.65,
+        "price_usd": 67.94,
+        "price_eur": 62.5,
         "isHistory": false
       },
       {
@@ -2986,8 +2986,8 @@
       {
         "rank": 20,
         "name": "Dive Alert Matt's Version",
-        "price_usd": 46.8,
-        "price_eur": 43.06,
+        "price_usd": 47.14,
+        "price_eur": 43.37,
         "isHistory": false
       }
     ],
@@ -3106,30 +3106,30 @@
       },
       {
         "rank": 17,
-        "name": "PC Engine Duo System",
-        "price_usd": 211.53,
-        "price_eur": 194.61,
-        "isHistory": false
-      },
-      {
-        "rank": 18,
         "name": "Terra Cresta II",
         "price_usd": 200,
         "price_eur": 184,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 18,
         "name": "PC Engine Core Grafx Mini",
         "price_usd": 198.1,
         "price_eur": 182.25,
         "isHistory": false
       },
       {
-        "rank": 20,
+        "rank": 19,
         "name": "Gekibo: Gekisha Boy",
         "price_usd": 190.9,
         "price_eur": 175.63,
+        "isHistory": false
+      },
+      {
+        "rank": 20,
+        "name": "PC Engine Duo System",
+        "price_usd": 188,
+        "price_eur": 172.96,
         "isHistory": false
       }
     ],
@@ -3477,8 +3477,8 @@
       {
         "rank": 9,
         "name": "Kuon",
-        "price_usd": 819.22,
-        "price_eur": 753.68,
+        "price_usd": 835.19,
+        "price_eur": 768.37,
         "isHistory": false
       },
       {
@@ -3553,9 +3553,9 @@
       },
       {
         "rank": 20,
-        "name": "Futurama",
-        "price_usd": 265.86,
-        "price_eur": 244.59,
+        "name": "Obscure",
+        "price_usd": 274.98,
+        "price_eur": 252.98,
         "isHistory": false
       }
     ],
@@ -3696,8 +3696,8 @@
       {
         "rank": 20,
         "name": "PSP 3000",
-        "price_usd": 134.95,
-        "price_eur": 124.15,
+        "price_usd": 132.44,
+        "price_eur": 121.84,
         "isHistory": false
       }
     ],
@@ -4189,8 +4189,8 @@
       {
         "rank": 9,
         "name": "Solar Quest",
-        "price_usd": 22.47,
-        "price_eur": 20.67,
+        "price_usd": 22.48,
+        "price_eur": 20.68,
         "isHistory": false
       },
       {
@@ -4275,8 +4275,8 @@
       {
         "rank": 1,
         "name": "Jack Bros.",
-        "price_usd": 900,
-        "price_eur": 828,
+        "price_usd": 870.35,
+        "price_eur": 800.72,
         "isHistory": false
       },
       {
@@ -4480,8 +4480,8 @@
       {
         "rank": 10,
         "name": "Pocket Fighter",
-        "price_usd": 79.27,
-        "price_eur": 72.93,
+        "price_usd": 79.05,
+        "price_eur": 72.73,
         "isHistory": false
       },
       {
