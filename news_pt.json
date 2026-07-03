@@ -1,13 +1,29 @@
 {
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "notices": [
     {
-      "guid": "https://www.eurogamer.pt/obsidian-tambem-luta-pela-sobrevivencia",
-      "title": "Obsidian também luta pela sobrevivência",
-      "link": "https://www.eurogamer.pt/obsidian-tambem-luta-pela-sobrevivencia",
-      "pubDate": "Thu, 02 Jul 2026 14:09:29 +0000",
-      "contentSnippet": "Ao longo das últimas semanas, escutamos vários relatos sobre iminentes despedimentos na Xbox, cancelamento de jogos e encerramento de estúdios. Uma das possibilidades para muitos estúdios sobreviverem passará pela venda a outras companhias ou pelo regresso à independência.\n Ler mais",
-      "thumbnail": "https://assetsio.gnwcdn.com/AVOWED-SITE_U3JQhgh.jpg?width=690&quality=85&format=jpg&auto=webp"
+      "guid": "https://www.eurogamer.pt/amazon-continua-a-oferecer-jogos",
+      "title": "Amazon continua a oferecer jogos",
+      "link": "https://www.eurogamer.pt/amazon-continua-a-oferecer-jogos",
+      "pubDate": "Thu, 02 Jul 2026 20:41:25 +0000",
+      "contentSnippet": "A Amazon continua a oferecer jogos aos subscritores Prime, através do Luna, o novo nome para o serviço anteriormente conhecido como Amazon Prime Gaming.\n Ler mais",
+      "thumbnail": "https://assetsio.gnwcdn.com/prime_Ros5e5j.jpg?width=690&quality=85&format=jpg&auto=webp"
+    },
+    {
+      "guid": "https://www.eurogamer.pt/produtora-japonesa-aumenta-salarios-a-quem-tiver-conhecimento-dos-seus-jogos",
+      "title": "Produtora japonesa aumenta salários a quem tiver conhecimento dos seus jogos",
+      "link": "https://www.eurogamer.pt/produtora-japonesa-aumenta-salarios-a-quem-tiver-conhecimento-dos-seus-jogos",
+      "pubDate": "Thu, 02 Jul 2026 16:33:03 +0000",
+      "contentSnippet": "Akihiro Hino, CEO da Level-5 que podes conhecer de Professor Layton ou Yo-Kai Watch, revelou que aumentam os salários dos funcionários de acordo com o seu conhecimento sobre os jogos da produtora.\n Ler mais",
+      "thumbnail": "https://assetsio.gnwcdn.com/Professor-Layton-New-World-Steam-PS5-PC_04-10-26-1440x810.jpg?width=690&quality=85&format=jpg&auto=webp"
+    },
+    {
+      "guid": "https://www.eurogamer.pt/quase-80-das-vendas-de-007-foram-digitais",
+      "title": "Quase 80% das vendas de 007 foram digitais",
+      "link": "https://www.eurogamer.pt/quase-80-das-vendas-de-007-foram-digitais",
+      "pubDate": "Thu, 02 Jul 2026 14:27:38 +0000",
+      "contentSnippet": "Há muito que o formato digital de tornou o preferido dos jogadores, as estatísticas reveladas trimestralmente pelas próprias companhias assim o mostram. Na PlayStation, mais de 80% dos jogos vendidos anualmente são versões digitais, mas ainda assim, quando a Sony colocou uma data para o fim do formato físico, milhões ficaram chocados.\n Ler mais",
+      "thumbnail": "https://assetsio.gnwcdn.com/first-light-bond-correct.jpg?width=690&quality=85&format=jpg&auto=webp"
     },
     {
       "guid": "https://www.eurogamer.pt/star-fox-lidera-no-japao",
@@ -80,22 +96,6 @@
       "pubDate": "Thu, 02 Jul 2026 07:18:49 +0000",
       "contentSnippet": "A Capcom vai mesmo lançar o novo Onimusha: Way of the Sword mais cedo do que anunciou anteriormente. Ao invés de chegar no final bastante preenchido de setembro, vai chegar no início desse mês.\n Ler mais",
       "thumbnail": "https://assetsio.gnwcdn.com/1d8c87b7a3739efaeae001ec21dc89c6a99a03c2.webp?width=690&quality=85&format=jpg&auto=webp"
-    },
-    {
-      "guid": "https://www.eurogamer.pt/xbox-podera-permitir-adquirir-licenca-digital-a-partir-de-disco-fisico",
-      "title": "Xbox poderá permitir adquirir licença digital a partir de disco físico",
-      "link": "https://www.eurogamer.pt/xbox-podera-permitir-adquirir-licenca-digital-a-partir-de-disco-fisico",
-      "pubDate": "Wed, 01 Jul 2026 19:20:41 +0000",
-      "contentSnippet": "Após a sombra de uma próxima geração totalmente digital, o anúncio efetuado hoje pela Sony deixou a maioria a pensar que a PS6 será um consola totalmente digital, sem leitor de discos. De igual forma, a maioria parece acreditar que a próxima Xbox também não terá leitor de discos e hoje essa possibilidade foi reforçada.\n Ler mais",
-      "thumbnail": "https://assetsio.gnwcdn.com/Xbox-Logo_dQiGQOS.jpg?width=690&quality=85&format=jpg&auto=webp"
-    },
-    {
-      "guid": "https://www.eurogamer.pt/metroid-ravenous-avistado-no-brasil",
-      "title": "Metroid Ravenous avistado no Brasil",
-      "link": "https://www.eurogamer.pt/metroid-ravenous-avistado-no-brasil",
-      "pubDate": "Wed, 01 Jul 2026 19:13:32 +0000",
-      "contentSnippet": "No passado mês de maio, várias fontes não oficiais falaram de vários projetos não revelados pela Nintendo na altura, incluindo os remakes de Star Fox e de Zelda: Ocarina of Time, e Nintendo Switch Sports Resort. Esses dois jogos foram revelados semanas depois pela Nintendo, o que despertou maior curiosidade pelas informações não oficiais.\n Ler mais",
-      "thumbnail": "https://assetsio.gnwcdn.com/metroid-dread-review-velha-formula-jogo-fantastico-1633511721259.jpg?width=690&quality=85&format=jpg&auto=webp"
     }
   ]
 }
