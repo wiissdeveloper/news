@@ -2,6 +2,30 @@
   "date": "2026-07-03",
   "notices": [
     {
+      "guid": "https://www.eurogamer.pt/a-ia-salvaria-destiny-2-diz-lider-da-epic",
+      "title": "A IA salvaria Destiny 2, diz líder da Epic",
+      "link": "https://www.eurogamer.pt/a-ia-salvaria-destiny-2-diz-lider-da-epic",
+      "pubDate": "Fri, 03 Jul 2026 13:25:13 +0000",
+      "contentSnippet": "Tim Sweeney, líder da Epic Games, sugeriu que a inteligência artificial poderia ter sido usada para salvar Destiny 2, uma vez que a tecnologia iria permitir criar rapidamente e com menor custo o conteúdo ao ritmo desejado pela Bungie.\n Ler mais",
+      "thumbnail": "https://assetsio.gnwcdn.com/IMG_3574.jpeg?width=690&quality=85&format=jpg&auto=webp"
+    },
+    {
+      "guid": "https://www.eurogamer.pt/steam-machine-ja-sofre-com-a-linha-vermelha-da-morte",
+      "title": "Steam Machine já sofre com a \"Linha Vermelha da Morte\"",
+      "link": "https://www.eurogamer.pt/steam-machine-ja-sofre-com-a-linha-vermelha-da-morte",
+      "pubDate": "Fri, 03 Jul 2026 10:46:16 +0000",
+      "contentSnippet": "A Steam Machine foi lançada oficialmente a 29 de junho de 2026, mas meros dias depois dessa data já temos o primeiro caso da Linha Vermelha da Morte, que indica uma falha na gráfica.\n Ler mais",
+      "thumbnail": "https://assetsio.gnwcdn.com/next-gen-steam-machine-images_u6df.600.webp?width=690&quality=85&format=jpg&auto=webp"
+    },
+    {
+      "guid": "https://www.eurogamer.pt/ps-plus-podera-ficar-mais-caro",
+      "title": "PS Plus poderá ficar mais caro",
+      "link": "https://www.eurogamer.pt/ps-plus-podera-ficar-mais-caro",
+      "pubDate": "Fri, 03 Jul 2026 10:31:47 +0000",
+      "contentSnippet": "No passado mês de junho, Hideaki Nishino, Hermen Hulst e Lynn Azar responderam a questões dos investidores sobre o atual momento da PlayStation e sobre os planos para o futuro. Algumas das questões focaram-se em como a Sony vai recuperar o dinheiro que está a efetuar com os investimentos para expandir as capacidades na nuvem e com os servidores da PlayStation Network e ainda sobre a gestão do PlayStation Plus.\n Ler mais",
+      "thumbnail": "https://assetsio.gnwcdn.com/ps_plus_2026.jpg?width=690&quality=85&format=jpg&auto=webp"
+    },
+    {
       "guid": "https://www.eurogamer.pt/amazon-continua-a-oferecer-jogos",
       "title": "Amazon continua a oferecer jogos",
       "link": "https://www.eurogamer.pt/amazon-continua-a-oferecer-jogos",
@@ -72,30 +96,6 @@
       "pubDate": "Thu, 02 Jul 2026 10:16:54 +0000",
       "contentSnippet": "Após comunicar o fim dos discos físicos nas consolas PlayStation, a Sony Interactive Entertainment decidiu afastar-se das redes sociais. Possivelmente tomou esta decisão para evitar a esperada chuva de críticas, mas parece que nem todas as divisões foram informadas.\n Ler mais",
       "thumbnail": "https://assetsio.gnwcdn.com/Captura-de-ecra%CC%83-2026-04-15%2C-a%CC%80s-13.14.39.png?width=690&quality=85&format=jpg&auto=webp"
-    },
-    {
-      "guid": "https://www.eurogamer.pt/sony-faz-pausa-nas-redes-sociais-apos-matar-jogos-fisicos",
-      "title": "Sony faz pausa nas redes sociais após matar jogos físicos",
-      "link": "https://www.eurogamer.pt/sony-faz-pausa-nas-redes-sociais-apos-matar-jogos-fisicos",
-      "pubDate": "Thu, 02 Jul 2026 07:36:24 +0000",
-      "contentSnippet": "A Sony Interactive Entertainment certamente já esperava uma chuva de críticas como reação ao anúncio que vai matar o formato físico para as consolas PlayStation, o que aparentemente a levou a dar um tempo fora das redes sociais. Até no Youtube a companhia passou longas horas sem publicar novos vídeos.\n Ler mais",
-      "thumbnail": "https://assetsio.gnwcdn.com/Captura-de-ecra%CC%83-2026-07-02%2C-a%CC%80s-08.36.47.png?width=690&quality=85&format=jpg&auto=webp"
-    },
-    {
-      "guid": "https://www.eurogamer.pt/primeiro-gameplay-de-attack-on-titan-3",
-      "title": "Gameplay de Attack on Titan 3",
-      "link": "https://www.eurogamer.pt/primeiro-gameplay-de-attack-on-titan-3",
-      "pubDate": "Thu, 02 Jul 2026 07:24:17 +0000",
-      "contentSnippet": "A Koei Tecmo e a produtora Omega Force revelaram que Attack on Titan 3 chegará no próximo inverno, anúncio que foi acompanhado pela primeira amostra de jogabilidade.\n Ler mais",
-      "thumbnail": "https://assetsio.gnwcdn.com/Attack-on-Titan-3-Window_07-01-26-1440x810.jpg?width=690&quality=85&format=jpg&auto=webp"
-    },
-    {
-      "guid": "https://www.eurogamer.pt/onimusha-way-of-the-sword-tem-nova-data-lancamento",
-      "title": "Onimusha vai mesmo chegar mais cedo",
-      "link": "https://www.eurogamer.pt/onimusha-way-of-the-sword-tem-nova-data-lancamento",
-      "pubDate": "Thu, 02 Jul 2026 07:18:49 +0000",
-      "contentSnippet": "A Capcom vai mesmo lançar o novo Onimusha: Way of the Sword mais cedo do que anunciou anteriormente. Ao invés de chegar no final bastante preenchido de setembro, vai chegar no início desse mês.\n Ler mais",
-      "thumbnail": "https://assetsio.gnwcdn.com/1d8c87b7a3739efaeae001ec21dc89c6a99a03c2.webp?width=690&quality=85&format=jpg&auto=webp"
     }
   ]
 }
