@@ -15,23 +15,21 @@ const parser = new Parser({
 const TOTAL = 12;
 const MAX_ITEMS_PER_FEED = 150;
 const MAX_RETRIES = 3;
-// 🔥 FIX 1: Aumentado el tiempo de espera a 10 segundos
+// 🔥 TIMEOUT subido a 10 segundos para dar margen a las fuentes europeas
 const TIMEOUT_MS = 10000; 
 
 // ===============================
-// RANGOS DINÁMICOS POR PAÍS
+// RANGOS DINÁMICOS POR PAÍS (Solo los 4 de Vortex Gamer)
 // ===============================
 const RANGES = {
   es: [30, 60, 120],
   fr: [30, 60, 120],
   it: [30, 60, 120, 180],
-  de: [30, 60, 120],
-  pt: [30, 60, 120],
   en: [30, 60, 120]
 };
 
 // ===============================
-// FUENTES ALTERNATIVAS POR PAÍS
+// FUENTES ALTERNATIVAS POR PAÍS (Limpiado)
 // ===============================
 const SOURCES_ALT = {
   it: [
@@ -48,8 +46,6 @@ const SOURCES_ALT = {
     "https://www.jeuxactu.com/rss/",
     "https://www.gameblog.fr/rss"
   ],
-  de: [],
-  pt: [],
   en: []
 };
 
@@ -119,7 +115,7 @@ async function fetchRSS(url) {
 }
 
 // ===============================
-// FUENTES POR IDIOMA 
+// FUENTES POR IDIOMA (Limpiado y corregido)
 // ===============================
 const SOURCES = {
   es: [
@@ -134,22 +130,12 @@ const SOURCES = {
     "https://www.actugaming.net/feed/"
   ],
   it: [
-    "https://multiplayer.it/feed/rss/news/",   // Tu URL principal
-    "https://www.ilvideogioco.com/feed/",      // URL estable
-    "https://www.gamesource.it/feed/",         // URL estable
-    // 🔥 FIX 2: Nuevas URLs italianas libres de bloqueos severos
+    "https://multiplayer.it/feed/rss/news/",   
+    "https://www.ilvideogioco.com/feed/",      
+    "https://www.gamesource.it/feed/",         
     "https://www.thegamesmachine.it/feed/",
     "https://it.ign.com/feed.xml",
     "https://www.game-experience.it/feed/"
-  ],
-  de: [
-    "https://www.gamestar.de/news/rss/news.rss",
-    "https://www.pcgames.de/rss/news.xml",
-    "https://mein-mmo.de/feed/"
-  ],
-  pt: [
-    "https://www.eurogamer.pt/?format=rss",
-    "https://meusjogos.pt/feed/"
   ],
   en: [
     "https://gamerant.com/feed/",
@@ -253,15 +239,21 @@ function extractImage(item) {
 }
 
 // ===============================
-// ELIMINAR DUPLICADOS (VERSIÓN CORREGIDA)
+// ELIMINAR DUPLICADOS (A PRUEBA DE BALAS)
 // ===============================
 function removeDuplicates(items) {
   const seen = new Set();
   const result = [];
 
   for (const item of items) {
-    // 🔥 FIX 3: Forzamos la conversión a String y manejamos nulls para evitar el TypeError
-    const key = String(item.guid || item.link || item.title || "").toLowerCase();
+    let rawKey = item.guid || item.link || item.title || "";
+
+    // 🔥 FIX 3: Si el RSS devuelve un objeto raro, extraemos su valor o lo forzamos a JSON
+    if (typeof rawKey === "object" && rawKey !== null) {
+      rawKey = rawKey._ || rawKey.url || rawKey.href || JSON.stringify(rawKey);
+    }
+
+    const key = String(rawKey).toLowerCase();
 
     if (!seen.has(key)) {
       seen.add(key);
@@ -273,50 +265,15 @@ function removeDuplicates(items) {
 }
 
 // ===============================
-// GENERAR NOTICIAS POR IDIOMA
+// GENERAR NOTICIAS POR IDIOMA (CON TRY/CATCH)
 // ===============================
 async function generateForLang(lang, log) {
   log.push(`\n=== ${lang.toUpperCase()} ===`);
 
-  const primaryFeeds = await Promise.all(SOURCES[lang].map(fetchRSS));
+  try {
+    const primaryFeeds = await Promise.all(SOURCES[lang].map(fetchRSS));
 
-  let all = primaryFeeds.flat().map(item => ({
-    guid: item.guid || item.link,
-    title: cleanText(item.title),
-    link: item.link,
-    pubDate: item.pubDate,
-    contentSnippet: cleanText(item.contentSnippet || item.content || ""),
-    thumbnail: extractImage(item)
-  }));
-
-  all = all
-    .filter(n => isGamingNews(n, lang))
-    .filter(n => typeof n.thumbnail === "string" && n.thumbnail.startsWith("http"));
-
-  all = removeDuplicates(all);
-
-  log.push(`Noticias locales encontradas: ${all.length}`);
-
-  let final = [];
-
-  for (const days of RANGES[lang]) {
-    const filtered = all.filter(n => isRecent(n, days));
-    if (filtered.length >= TOTAL) {
-      final = filtered;
-      log.push(`Rango aplicado: ${days} días`);
-      break;
-    }
-  }
-
-  if (final.length < TOTAL) {
-    final = [...final, ...all];
-  }
-
-  if (final.length < TOTAL && SOURCES_ALT[lang].length > 0) {
-    log.push("Usando fuentes alternativas…");
-
-    const altFeeds = await Promise.all(SOURCES_ALT[lang].map(fetchRSS));
-    let alt = altFeeds.flat().map(item => ({
+    let all = primaryFeeds.flat().map(item => ({
       guid: item.guid || item.link,
       title: cleanText(item.title),
       link: item.link,
@@ -325,28 +282,69 @@ async function generateForLang(lang, log) {
       thumbnail: extractImage(item)
     }));
 
-    alt = alt
+    all = all
       .filter(n => isGamingNews(n, lang))
       .filter(n => typeof n.thumbnail === "string" && n.thumbnail.startsWith("http"));
 
-    alt = removeDuplicates(alt);
+    all = removeDuplicates(all);
 
-    all.push(...alt);
-    final.push(...alt);
+    log.push(`Noticias locales encontradas: ${all.length}`);
+
+    let final = [];
+
+    for (const days of RANGES[lang]) {
+      const filtered = all.filter(n => isRecent(n, days));
+      if (filtered.length >= TOTAL) {
+        final = filtered;
+        log.push(`Rango aplicado: ${days} días`);
+        break;
+      }
+    }
+
+    if (final.length < TOTAL) {
+      final = [...final, ...all];
+    }
+
+    if (final.length < TOTAL && SOURCES_ALT[lang].length > 0) {
+      log.push("Usando fuentes alternativas…");
+
+      const altFeeds = await Promise.all(SOURCES_ALT[lang].map(fetchRSS));
+      let alt = altFeeds.flat().map(item => ({
+        guid: item.guid || item.link,
+        title: cleanText(item.title),
+        link: item.link,
+        pubDate: item.pubDate,
+        contentSnippet: cleanText(item.contentSnippet || item.content || ""),
+        thumbnail: extractImage(item)
+      }));
+
+      alt = alt
+        .filter(n => isGamingNews(n, lang))
+        .filter(n => typeof n.thumbnail === "string" && n.thumbnail.startsWith("http"));
+
+      alt = removeDuplicates(alt);
+
+      all.push(...alt);
+      final.push(...alt);
+    }
+
+    final = removeDuplicates(final);
+
+    final.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+    final = final.slice(0, TOTAL);
+
+    log.push(`Total final: ${final.length}`);
+
+    const today = new Date().toISOString().split("T")[0];
+    fs.writeFileSync(
+      `news_${lang}.json`,
+      JSON.stringify({ date: today, notices: final }, null, 2)
+    );
+  } catch (error) {
+    // 🔥 FIX 4: Si falla un idioma completo, dejamos constancia pero NO rompemos el resto
+    console.error(`🚨 Error crítico procesando el idioma ${lang}:`, error.message);
+    log.push(`Error crítico en este idioma: ${error.message}`);
   }
-
-  final = removeDuplicates(final);
-
-  final.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
-  final = final.slice(0, TOTAL);
-
-  log.push(`Total final: ${final.length}`);
-
-  const today = new Date().toISOString().split("T")[0];
-  fs.writeFileSync(
-    `news_${lang}.json`,
-    JSON.stringify({ date: today, notices: final }, null, 2)
-  );
 }
 
 // ===============================
