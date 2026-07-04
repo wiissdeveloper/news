@@ -173,10 +173,10 @@ const MOVIE_KEYWORDS = [
   "rodaje", "filming", "tournage", "riprese", "taquilla", "box office", "box-office", "botteghino",
   "marvel", "mcu", "hollywood", "cinta", "largometraje", "cartelera", "estreno en cines",
   "salles de cinéma", "sale cinematografiche", "pellicola", "oscar", "oscars", "taquillazo", "blockbuster",
-  // Actores propensos a colarse
+  // Actores propensos a colarse y otros términos
   "tom holland", "zendaya", "timothée chalamet", "timothee chalamet", 
   "tom cruise", "margot robbie", "ryan reynolds", "robert downey jr", 
-  "sydney sweeney", "dwayne johnson", "the rock"
+  "sydney sweeney", "dwayne johnson", "the rock", "live action", "live-action"
 ];
 
 const ANIME_KEYWORDS = [
