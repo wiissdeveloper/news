@@ -29,7 +29,7 @@ const RANGES = {
 };
 
 // ===============================
-// FUENTES ALTERNATIVAS POR PAÍS (Limpiado)
+// FUENTES ALTERNATIVAS POR PAÍS
 // ===============================
 const SOURCES_ALT = {
   it: [
@@ -115,7 +115,7 @@ async function fetchRSS(url) {
 }
 
 // ===============================
-// FUENTES POR IDIOMA (Limpiado y corregido)
+// FUENTES POR IDIOMA
 // ===============================
 const SOURCES = {
   es: [
@@ -158,40 +158,53 @@ const GAMER_KEYWORDS = [
   "esports", "torneo", "competitivo",
   "launch", "release", "lanzamiento",
   "fps", "rpg", "shooter", "battle royale",
-  "retro", "emulador", "emulación"
+  "retro", "emulador", "emulación", 
+  "gameplay", "consola", "console", "indie", "multijugador", "multiplayer"
 ];
 
 // ===============================
-// PALABRAS CLAVE ANTI‑CINE / ANIME / SERIES
+// PALABRAS CLAVE ANTI‑CINE / ANIME / SERIES (¡Muro Internacional!)
 // ===============================
 const MOVIE_KEYWORDS = [
-  "película", "pelicula", "movie", "film", "cine",
-  "actor", "actriz", "director",
-  "taquilla", "box office"
+  // Términos generales (Multi-idioma)
+  "película", "pelicula", "movie", "film", "cine", "cinéma", "cinema",
+  "actor", "actriz", "actress", "acteur", "attore", "attrice",
+  "director", "réalisateur", "regista", "reparto", "cast", "casting",
+  "rodaje", "filming", "tournage", "riprese", "taquilla", "box office", "box-office", "botteghino",
+  "marvel", "mcu", "hollywood", "cinta", "largometraje", "cartelera", "estreno en cines",
+  "salles de cinéma", "sale cinematografiche", "pellicola", "oscar", "oscars", "taquillazo", "blockbuster",
+  // Actores propensos a colarse
+  "tom holland", "zendaya", "timothée chalamet", "timothee chalamet", 
+  "tom cruise", "margot robbie", "ryan reynolds", "robert downey jr", 
+  "sydney sweeney", "dwayne johnson", "the rock"
 ];
 
 const ANIME_KEYWORDS = [
-  "anime", "manga", "one piece", "dragon ball", "naruto",
-  "bleach", "haki", "luffy", "zoro", "gear 5"
+  "anime", "manga", "one piece", "dragon ball", "naruto", "bleach", 
+  "haki", "luffy", "zoro", "gear 5", "crunchyroll", 
+  "jujutsu kaisen", "demon slayer", "my hero academia"
 ];
 
 const SERIES_KEYWORDS = [
-  "season", "episode", "serie", "series", "temporada",
-  "house of the dragon", "netflix", "hbo", "prime video"
+  // Multi-idioma
+  "season", "episode", "serie", "series", "temporada", "stagione", "saison", "episodio", "épisode",
+  // Plataformas y franquicias
+  "netflix", "hbo", "prime video", "disney+", "showrunner", "streaming", 
+  "house of the dragon", "the boys", "stranger things"
 ];
 
 // ===============================
-// PALABRAS CLAVE ANTI‑POLÍTICA
+// PALABRAS CLAVE ANTI‑POLÍTICA (Multi-idioma)
 // ===============================
 const POLITICS_KEYWORDS = [
-  " politica ", " politics ", " elezioni ", " election ",
-  " governo ", " government ", " parlamento ", " parliament ",
-  " ministro ", " minister ", " presidente ", " president ",
-  " partito ", " party ", " senato ", " senate "
+  " politica ", " politics ", " elezioni ", " election ", " politique ",
+  " governo ", " government ", " parlamento ", " parliament ", " gobierno ", " congreso ", " gouvernement ", " parlement ",
+  " ministro ", " minister ", " presidente ", " president ", " alcalde ", " maire ", " sindaco ", " président ", " ministre ",
+  " senato ", " senate ", " elecciones ", " diputados ", " sénat ", " élection "
 ];
 
 // ===============================
-// FILTRO GAMER + ANTI‑POLÍTICA SOLO ITALIA
+// FILTRO GAMER + ANTI‑POLÍTICA (Aplicado a todos los idiomas)
 // ===============================
 function isGamingNews(item, lang) {
   const text = ` ${item.title} ${item.contentSnippet || ""} `.toLowerCase();
@@ -200,16 +213,13 @@ function isGamingNews(item, lang) {
   const isMovie = MOVIE_KEYWORDS.some(k => text.includes(k));
   const isAnime = ANIME_KEYWORDS.some(k => text.includes(k));
   const isSeries = SERIES_KEYWORDS.some(k => text.includes(k));
-
-  const isPolitics =
-    lang === "it" &&
-    POLITICS_KEYWORDS.some(k => text.includes(k));
+  const isPolitics = POLITICS_KEYWORDS.some(k => text.includes(k));
 
   return isGame && !isMovie && !isAnime && !isSeries && !isPolitics;
 }
 
 // ===============================
-// RANGO TEMPORAL (ARREGLADO)
+// RANGO TEMPORAL
 // ===============================
 function isRecent(item, days) {
   const d = new Date(item.pubDate);
@@ -248,7 +258,6 @@ function removeDuplicates(items) {
   for (const item of items) {
     let rawKey = item.guid || item.link || item.title || "";
 
-    // 🔥 FIX 3: Si el RSS devuelve un objeto raro, extraemos su valor o lo forzamos a JSON
     if (typeof rawKey === "object" && rawKey !== null) {
       rawKey = rawKey._ || rawKey.url || rawKey.href || JSON.stringify(rawKey);
     }
@@ -341,7 +350,6 @@ async function generateForLang(lang, log) {
       JSON.stringify({ date: today, notices: final }, null, 2)
     );
   } catch (error) {
-    // 🔥 FIX 4: Si falla un idioma completo, dejamos constancia pero NO rompemos el resto
     console.error(`🚨 Error crítico procesando el idioma ${lang}:`, error.message);
     log.push(`Error crítico en este idioma: ${error.message}`);
   }
