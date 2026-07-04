@@ -15,7 +15,8 @@ const parser = new Parser({
 const TOTAL = 12;
 const MAX_ITEMS_PER_FEED = 150;
 const MAX_RETRIES = 3;
-const TIMEOUT_MS = 5000;
+// 🔥 FIX 1: Aumentado el tiempo de espera a 10 segundos
+const TIMEOUT_MS = 10000; 
 
 // ===============================
 // RANGOS DINÁMICOS POR PAÍS
@@ -118,7 +119,7 @@ async function fetchRSS(url) {
 }
 
 // ===============================
-// FUENTES POR IDIOMA (SOLO ITALIA MODIFICADA)
+// FUENTES POR IDIOMA 
 // ===============================
 const SOURCES = {
   es: [
@@ -133,13 +134,13 @@ const SOURCES = {
     "https://www.actugaming.net/feed/"
   ],
   it: [
-    "https://multiplayer.it/feed/rss/news/",   // 🔥 TU URL PRINCIPAL
-    "https://www.ilvideogioco.com/feed/",      // ✔ Funciona
-    "https://www.gamesource.it/feed/",         // ✔ Funciona
-    "https://www.spaziogames.it/feed/",
-    "https://www.player.it/feed/",
-    "https://www.gamesvillage.it/feed/",
-    "https://www.tomshw.it/videogioco/feed/"
+    "https://multiplayer.it/feed/rss/news/",   // Tu URL principal
+    "https://www.ilvideogioco.com/feed/",      // URL estable
+    "https://www.gamesource.it/feed/",         // URL estable
+    // 🔥 FIX 2: Nuevas URLs italianas libres de bloqueos severos
+    "https://www.thegamesmachine.it/feed/",
+    "https://it.ign.com/feed.xml",
+    "https://www.game-experience.it/feed/"
   ],
   de: [
     "https://www.gamestar.de/news/rss/news.rss",
@@ -226,7 +227,7 @@ function isGamingNews(item, lang) {
 // ===============================
 function isRecent(item, days) {
   const d = new Date(item.pubDate);
-  if (isNaN(d.getTime())) return true; // si falla la fecha, no descartamos
+  if (isNaN(d.getTime())) return true; 
   const diff = (Date.now() - d.getTime()) / (1000 * 60 * 60 * 24);
   return diff <= days;
 }
@@ -252,14 +253,15 @@ function extractImage(item) {
 }
 
 // ===============================
-// ELIMINAR DUPLICADOS (VERSIÓN ORIGINAL)
+// ELIMINAR DUPLICADOS (VERSIÓN CORREGIDA)
 // ===============================
 function removeDuplicates(items) {
   const seen = new Set();
   const result = [];
 
   for (const item of items) {
-    const key = (item.guid || item.link || item.title).toLowerCase();
+    // 🔥 FIX 3: Forzamos la conversión a String y manejamos nulls para evitar el TypeError
+    const key = String(item.guid || item.link || item.title || "").toLowerCase();
 
     if (!seen.has(key)) {
       seen.add(key);
@@ -333,7 +335,6 @@ async function generateForLang(lang, log) {
     final.push(...alt);
   }
 
-  // 🔥 FIX FINAL: eliminar duplicados DESPUÉS del fallback
   final = removeDuplicates(final);
 
   final.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
