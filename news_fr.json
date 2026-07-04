@@ -1,6 +1,94 @@
 {
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "notices": [
+    {
+      "guid": "https://www.jeuxvideo.com/news/2092305/playstation-la-pire-annonce-pour-beaucoup-de-joueurs-est-une-benediction-pour-certaines-personnes.htm",
+      "title": "PlayStation : la pire annonce pour beaucoup de joueurs est une bénédiction pour certaines personnes",
+      "link": "https://www.jeuxvideo.com/news/2092305/playstation-la-pire-annonce-pour-beaucoup-de-joueurs-est-une-benediction-pour-certaines-personnes.htm",
+      "pubDate": "Fri, 03 Jul 2026 22:20:09 +0200",
+      "contentSnippet": "Croyez-le ou non, mais l’annonce de la fin du format physique chez PlayStation fait plaisir à certaines personnes.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178308/1783079041-1257-card.jpg"
+    },
+    {
+      "guid": "https://www.gamekult.com/actualite/the-alters-le-dlc-last-variable-n-a-pas-froid-aux-yeux-avec-ses-nouveaux-clones-aventureux-3050871088.html",
+      "title": "The Alters : le DLC Last Variable n'a pas froid aux yeux avec ses nouveaux clones aventureux",
+      "link": "https://www.gamekult.com/actualite/the-alters-le-dlc-last-variable-n-a-pas-froid-aux-yeux-avec-ses-nouveaux-clones-aventureux-3050871088.html",
+      "pubDate": "Fri, 03 Jul 2026 20:31:00 +0200",
+      "contentSnippet": "C'est lors du Future Games Show de juin que nous avons appris l'existence du DLC Last Variable pour The Alters. Une extension importante proposant des heures de nouveau contenu et dont les ajouts se dévoilent aujourd'hui à travers une bande-annonce de gameplay.",
+      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050871088/the-alters-le-dlc-last-variable-n-a-pas-froid-aux-yeux-avec-ses-nouveaux-clones-aventureux-6947e536__930_300__0-210-1280-622.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2092231/2028-playstation-tue-le-disque-mais-la-vraie-menace-est-cachee-dans-la-section-21-2-du-psn.htm",
+      "title": "2028 : PlayStation tue le disque, mais la vraie menace est cachée dans la section 21.2 du PSN",
+      "link": "https://www.jeuxvideo.com/news/2092231/2028-playstation-tue-le-disque-mais-la-vraie-menace-est-cachee-dans-la-section-21-2-du-psn.htm",
+      "pubDate": "Fri, 03 Jul 2026 20:10:11 +0200",
+      "contentSnippet": "Vous avez plusieurs comptes PlayStation ? Alors vous devriez vous intéresser à la section 21.2 du PSN. On vous explique tout dans cet article.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178301/1783007208-3843-card.jpg"
+    },
+    {
+      "guid": "https://www.gamekult.com/actualite/ps6-et-xbox-helix-faut-il-vraiment-repousser-la-sortie-des-consoles-nouvelle-generation-3050871045.html",
+      "title": "Ultime bafouille - PS6 et Xbox Helix : faut-il vraiment repousser la sortie des consoles nouvelle génération ?",
+      "link": "https://www.gamekult.com/actualite/ps6-et-xbox-helix-faut-il-vraiment-repousser-la-sortie-des-consoles-nouvelle-generation-3050871045.html",
+      "pubDate": "Fri, 03 Jul 2026 20:00:00 +0200",
+      "contentSnippet": "Cela ne fait maintenant plus aucun doute : le passage de cette génération de consoles à la prochaine aura lieu dans des circonstances absolument exceptionnelles. La flambée des prix des composants essentiels à nos machines, à savoir la mémoire vive et le stockage SSD, causée en grande partie par la bulle de l'IA et la demande extravagante que ses centres de données génèrent, nous a fait entrer dans un nouveau paradigme économique qui fait vaciller tous nos repères et toutes nos certitudes. Nous nous dirigeons donc vers un scénario inédit où la prochaine génération de consoles ne sera plus un produit de masse, mais un objet technologique élitiste réservé à ceux qui pourront débourser une somme à quatre chiffres.",
+      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050871045/ps6-et-xbox-helix-faut-il-vraiment-repousser-la-sortie-des-consoles-nouvelle-generation-4fea55a7__930_300__0-294-1920-916.png"
+    },
+    {
+      "guid": "https://www.gamekult.com/actualite/oui-final-fantasy-vii-revelation-aura-des-dlcs-pour-prolonger-l-histoire-3050871083.html",
+      "title": "Oui, Final Fantasy VII Revelation aura des DLCs pour prolonger l'histoire",
+      "link": "https://www.gamekult.com/actualite/oui-final-fantasy-vii-revelation-aura-des-dlcs-pour-prolonger-l-histoire-3050871083.html",
+      "pubDate": "Fri, 03 Jul 2026 19:13:00 +0200",
+      "contentSnippet": "Si Final Fantasy VII Remake avait opté de publier l'extension Intermission afin d'introduire Yuffie, la suite Final Fantasy VII Rebirth avait plutôt fait l'impasse sur la formule pour se concentrer sur l'avenir. Mais la conclusion de la grande trilogie de Square Enix se paiera bien un DLC, elle. Au moins d'après l'Epic Games Store.",
+      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050871083/oui-final-fantasy-7-vii-revelation-aura-des-dlcs-pour-prolonger-l-histoire-7e89897f__930_300__0-356-3840-1596.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2092144/note-18-20-l-un-des-meilleurs-rpg-de-tous-les-temps-est-a-18-sur-nintendo-switch.htm",
+      "title": "Noté 18/20, l'un des meilleurs RPG de tous les temps est à 18€ sur Nintendo Switch",
+      "link": "https://www.jeuxvideo.com/news/2092144/note-18-20-l-un-des-meilleurs-rpg-de-tous-les-temps-est-a-18-sur-nintendo-switch.htm",
+      "pubDate": "Fri, 03 Jul 2026 18:45:07 +0200",
+      "contentSnippet": "Quatre ans après sa sortie sur Nintendo Switch, ce chef d'oeuvre du jeu vidéo japonais s'affiche en promotion sur le Nintendo eShop. L'occasion idéal de découvrir l'un des meilleurs J-RPG du XXIème siècle, parfait à faire cet été en nomade sur Switch 1... ou 2 !",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178300/1782997675-4460-card.jpg"
+    },
+    {
+      "guid": "https://www.gamekult.com/actualite/avec-looking-for-fael-venez-vous-perdre-dans-votre-propre-appartement-ce-mois-ci-3050871085.html",
+      "title": "Avec Looking for Fael, venez vous perdre dans votre propre appartement ce mois-ci",
+      "link": "https://www.gamekult.com/actualite/avec-looking-for-fael-venez-vous-perdre-dans-votre-propre-appartement-ce-mois-ci-3050871085.html",
+      "pubDate": "Fri, 03 Jul 2026 18:34:00 +0200",
+      "contentSnippet": "Le jeu français transformant un simple appartement en labyrinthe d'énigmes vient de se trouver une date de sortie. Les recherches pour retrouver votre colocataire Fael commenceront dans deux semaines.",
+      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050871085/avec-looking-for-fael-venez-vous-perdre-dans-votre-propre-appartement-ce-mois-ci-aa8ceae3__930_300__0-103-1915-719.jpg"
+    },
+    {
+      "guid": "https://www.actugaming.net/?p=809103",
+      "title": "« Peut-être qu’imprimer des disques est devenu trop coûteux » : Shawn Layden, ex-PlayStation, s’exprime sur l’arrêt des jeux physiques",
+      "link": "https://www.actugaming.net/shawn-layden-ex-playstation-sexprime-sur-larret-des-jeux-physiques-809103/",
+      "pubDate": "Fri, 03 Jul 2026 16:00:20 +0000",
+      "contentSnippet": "ActuGaming.net\n« Peut-être qu’imprimer des disques est devenu trop coûteux » : Shawn Layden, ex-PlayStation, s’exprime sur l’arrêt des jeux physiques\n\nLa nouvelle a fait réagir toute l’industrie. Quand Sony annonce qu’il arrêtera la production de […]\nL'article « Peut-être qu’imprimer des disques est devenu trop coûteux » : Shawn Layden, ex-PlayStation, s’exprime sur l’arrêt des jeux physiques est disponible sur ActuGaming.net",
+      "thumbnail": "https://static.actugaming.net/media/2019/10/shawn-layden.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2092148/la-fin-des-jeux-video-physiques-ce-n-est-pas-grave-sony-prouve-le-contraire-avec-la-ps3-et-la-ps-vita.htm",
+      "title": "La fin des jeux vidéo physiques, ce n'est pas grave ? Sony prouve le contraire avec la PS3 et la PS Vita",
+      "link": "https://www.jeuxvideo.com/news/2092148/la-fin-des-jeux-video-physiques-ce-n-est-pas-grave-sony-prouve-le-contraire-avec-la-ps3-et-la-ps-vita.htm",
+      "pubDate": "Fri, 03 Jul 2026 17:15:08 +0200",
+      "contentSnippet": "Vous pensiez que le tout-numérique était l’avenir idéal du jeu vidéo ? Réveillez-vous, car Sony vient de nous administrer une sacrée douche froide. La firme japonaise a officialisé la fermeture progressive du PlayStation Store pour sa PS3 et sa PS Vita, relançant de plus belle le débat sur la propriété...",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178300/1783002102-3155-card.png"
+    },
+    {
+      "guid": "https://www.actugaming.net/?p=809094",
+      "title": "InZOI prend un peu de retard sur PS5 et ne sortira pas avant 2027 sur la console",
+      "link": "https://www.actugaming.net/inzoi-prend-un-peu-de-retard-sur-ps5-et-ne-sortira-pas-avant-2027-sur-la-console-809094/",
+      "pubDate": "Fri, 03 Jul 2026 15:00:00 +0000",
+      "contentSnippet": "ActuGaming.net\nInZOI prend un peu de retard sur PS5 et ne sortira pas avant 2027 sur la console\n\nCelui qui devait concurrencer Les Sims est finalement loin de convaincre, mais c’est oublier qu’InZOI […]\nL'article InZOI prend un peu de retard sur PS5 et ne sortira pas avant 2027 sur la console est disponible sur ActuGaming.net",
+      "thumbnail": "https://static.actugaming.net/media/2025/11/inzoi-4.jpg"
+    },
+    {
+      "guid": "https://www.actugaming.net/?p=809091",
+      "title": "L’échec de Suicide Squad: Kill the Justice League a presque poussé ses cadres à quitter le monde du jeu vidéo",
+      "link": "https://www.actugaming.net/lechec-de-suicide-squad-kill-the-justice-league-a-presque-pousse-ses-cadres-a-quitter-le-monde-du-jeu-video-809091/",
+      "pubDate": "Fri, 03 Jul 2026 14:30:55 +0000",
+      "contentSnippet": "ActuGaming.net\nL’échec de Suicide Squad: Kill the Justice League a presque poussé ses cadres à quitter le monde du jeu vidéo\n\nVoir Suicide Squad: Kill the Justice League se planter n’était une surprise pour personne. Dès […]\nL'article L’échec de Suicide Squad: Kill the Justice League a presque poussé ses cadres à quitter le monde du jeu vidéo est disponible sur ActuGaming.net",
+      "thumbnail": "https://static.actugaming.net/media/2025/12/suicide-squad-kill-the-justice-league-1.jpg"
+    },
     {
       "guid": "https://www.actugaming.net/?p=809088",
       "title": "CD Projekt Red annonce que Cyberpunk 2077 s’est vendu à plus de 40 millions d’exemplaires",
@@ -8,94 +96,6 @@
       "pubDate": "Fri, 03 Jul 2026 14:00:59 +0000",
       "contentSnippet": "ActuGaming.net\nCD Projekt Red annonce que Cyberpunk 2077 s’est vendu à plus de 40 millions d’exemplaires\n\nÀ sa sortie, on ne pariait pas beaucoup sur le fait que Cyberpunk 2077 pourrait […]\nL'article CD Projekt Red annonce que Cyberpunk 2077 s’est vendu à plus de 40 millions d’exemplaires est disponible sur ActuGaming.net",
       "thumbnail": "https://static.actugaming.net/media/2023/09/cyberpunk-2077-2-0-avis-03.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=809084",
-      "title": "Malgré la liquidation du studio, l’équipe de Supamonk derrière Absolum est sauvée",
-      "link": "https://www.actugaming.net/malgre-la-liquidation-du-studio-lequipe-de-supamonk-derriere-absolum-est-sauvee-809084/",
-      "pubDate": "Fri, 03 Jul 2026 13:37:43 +0000",
-      "contentSnippet": "ActuGaming.net\nMalgré la liquidation du studio, l’équipe de Supamonk derrière Absolum est sauvée\n\nOn l’a vu ce matin avec la liquidation judiciaire chez Midgar Studio, l’industrie française souffre […]\nL'article Malgré la liquidation du studio, l’équipe de Supamonk derrière Absolum est sauvée est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2025/12/absolum-1.jpg"
-    },
-    {
-      "guid": "https://www.gamekult.com/actualite/cronos-lazarus-est-une-extension-qui-mise-sur-l-action-3050871080.html",
-      "title": "Cronos : Lazarus est une extension qui mise sur l'action",
-      "link": "https://www.gamekult.com/actualite/cronos-lazarus-est-une-extension-qui-mise-sur-l-action-3050871080.html",
-      "pubDate": "Fri, 03 Jul 2026 15:25:00 +0200",
-      "contentSnippet": "Alors que Cronos : The New Dawn vient d'atteindre le seuil de rentabilité, c'est avec satisfaction que Bloober Team dévoile aujourd'hui les premiers extraits de gameplay de Cronos : Lazarus, une extension payante destinée aux possesseurs du jeu d'action et d'horreur.",
-      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050871080/cronos-lazarus-est-une-extension-qui-mise-sur-l-action-f8eee76f__930_300__0-338-1920-960.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=809059",
-      "title": "Honkai Star Rail : Tout ce qu’il faut savoir sur la version 4.4 (Himeko Nova, collab Fate Stay Night…)",
-      "link": "https://www.actugaming.net/honkai-star-rail-tout-savoir-version-4-4-809059/",
-      "pubDate": "Fri, 03 Jul 2026 12:47:46 +0000",
-      "contentSnippet": "ActuGaming.net\nHonkai Star Rail : Tout ce qu’il faut savoir sur la version 4.4 (Himeko Nova, collab Fate Stay Night…)\n\nAprès une mise à jour 4.3 un peu calme, Honkai Star Rail reprend un peu […]\nL'article Honkai Star Rail : Tout ce qu’il faut savoir sur la version 4.4 (Himeko Nova, collab Fate Stay Night…) est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/07/honkai-star-rail-2.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=809018",
-      "title": "Mieux comprendre les ruptures de Pandémonium dans la Saison 14 – Diablo 4",
-      "link": "https://www.actugaming.net/mieux-comprendre-les-ruptures-de-pandemonium-dans-la-saison-14-diablo-4-809018/",
-      "pubDate": "Fri, 03 Jul 2026 12:27:20 +0000",
-      "contentSnippet": "ActuGaming.net\nMieux comprendre les ruptures de Pandémonium dans la Saison 14 – Diablo 4\n\nFraîchement disponible depuis quelques jours, la Saison 14 de Diablo 4 introduit les Ruptures de […]\nL'article Mieux comprendre les ruptures de Pandémonium dans la Saison 14 – Diablo 4 est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/07/diablo-4-mieux-comprendre-les-ruptures-de-pandemonium-dans-la-saison-14-00.jpg"
-    },
-    {
-      "guid": "https://www.gamekult.com/actualite/ontos-le-thriller-de-science-fiction-de-frictional-games-amnesia-soma-ne-sortira-pas-cette-annee-3050871076.html",
-      "title": "Ontos : le thriller de science-fiction de Frictional Games (Amnesia, Soma) ne sortira pas cette année",
-      "link": "https://www.gamekult.com/actualite/ontos-le-thriller-de-science-fiction-de-frictional-games-amnesia-soma-ne-sortira-pas-cette-annee-3050871076.html",
-      "pubDate": "Fri, 03 Jul 2026 13:40:00 +0200",
-      "contentSnippet": "Bien connu pour avoir réalisé les franchises Penumbra, Amnesia et Soma, le studio suédois Frictional Games pensait pouvoir nous servir de nouveaux cauchemars cette année grâce au perturbant Ontos. Ce jeu de science-fiction vient toutefois d'être retardé à 2027.",
-      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050871076/ontos-le-thriller-de-science-fiction-de-frictional-games-amnesia-soma-ne-sortira-pas-cette-annee-de42c8dc__930_300__0-333-3840-1567.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=809052",
-      "title": "Final Fantasy VII Revelation : La trace de nombreux DLC a été trouvée sur l’Epic Games Store",
-      "link": "https://www.actugaming.net/final-fantasy-vii-revelation-la-trace-de-nombreux-dlc-a-ete-trouvee-sur-lepic-games-store-809052/",
-      "pubDate": "Fri, 03 Jul 2026 09:34:37 +0000",
-      "contentSnippet": "ActuGaming.net\nFinal Fantasy VII Revelation : La trace de nombreux DLC a été trouvée sur l’Epic Games Store\n\nFinal Fantasy VII Revelation viendra boucler la trilogie de remake initiée en 2020 en couvrant […]\nL'article Final Fantasy VII Revelation : La trace de nombreux DLC a été trouvée sur l’Epic Games Store est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/06/final-fantasy-vii-revelation-8.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=809047",
-      "title": "Dune Awakening prépare sa sortie sur consoles et promet une édition physique sur PlayStation 5",
-      "link": "https://www.actugaming.net/dune-awakening-prepare-sa-sortie-sur-consoles-et-promet-une-edition-physique-sur-playstation-5-809047/",
-      "pubDate": "Fri, 03 Jul 2026 09:16:08 +0000",
-      "contentSnippet": "ActuGaming.net\nDune Awakening prépare sa sortie sur consoles et promet une édition physique sur PlayStation 5\n\nOui, en lisant le titre, vous noterez toute l’ironie du timing de cette annonce. La […]\nL'article Dune Awakening prépare sa sortie sur consoles et promet une édition physique sur PlayStation 5 est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2025/08/dune-awakening.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=809044",
-      "title": "L’usine principale de fabrication de disque PlayStation a déjà été réaffectée à une autre tâche",
-      "link": "https://www.actugaming.net/lusine-principale-de-fabrication-de-disque-playstation-a-deja-ete-reaffectee-a-une-autre-tache-809044/",
-      "pubDate": "Fri, 03 Jul 2026 08:51:37 +0000",
-      "contentSnippet": "ActuGaming.net\nL’usine principale de fabrication de disque PlayStation a déjà été réaffectée à une autre tâche\n\nL’annonce de l’arrêt de production de jeux sur disque chez PlayStation a été brutale pour […]\nL'article L’usine principale de fabrication de disque PlayStation a déjà été réaffectée à une autre tâche est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2019/10/playstation.jpg"
-    },
-    {
-      "guid": "https://www.gamekult.com/actualite/dune-awakening-un-second-lancement-en-septembre-sur-console-et-une-version-physique-ps5-annoncee-3050871074.html",
-      "title": "Dune Awakening : un \"second lancement\" en septembre sur console et une version physique PS5 annoncée",
-      "link": "https://www.gamekult.com/actualite/dune-awakening-un-second-lancement-en-septembre-sur-console-et-une-version-physique-ps5-annoncee-3050871074.html",
-      "pubDate": "Fri, 03 Jul 2026 10:36:00 +0200",
-      "contentSnippet": "Funcom a dévoilé une présentation détaillée du mode solo pour son jeu de survie en monde ouvert Dune : Awakening pour accompagner son arrivée sur consoles en septembre 2026. Pour l'occasion, l'éditeur s'associe à Bandai Namco pour proposer une édition physique sur PlayStation 5 (ne pas faire de blague, ne pas faire de blague, ne pas...).",
-      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050871074/dune-awakening-un-relaunch-en-septembre-sur-console-et-une-version-physique-ps5-annoncee-b7b938dd__930_300__0-337-1600-854.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=809040",
-      "title": "Midgar Studio (Nacon) devrait être placé en liquidation judiciaire, sans que l’on sache ce qu’il adviendra d’Edge of Memories",
-      "link": "https://www.actugaming.net/midgar-studio-nacon-devrait-etre-place-en-liquidation-judiciaire-sans-que-lon-sache-ce-quil-adviendra-dedge-of-memories-809040/",
-      "pubDate": "Fri, 03 Jul 2026 08:25:29 +0000",
-      "contentSnippet": "ActuGaming.net\nMidgar Studio (Nacon) devrait être placé en liquidation judiciaire, sans que l’on sache ce qu’il adviendra d’Edge of Memories\n\nC’est encore une triste journée pour l’industrie française (l’industrie tout court a vécu une terrible […]\nL'article Midgar Studio (Nacon) devrait être placé en liquidation judiciaire, sans que l’on sache ce qu’il adviendra d’Edge of Memories est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2025/02/Edge-of-Memories-7.jpg"
-    },
-    {
-      "guid": "https://www.gamekult.com/actualite/on-ecoute-trop-twitter-asha-sharma-et-xbox-un-management-qui-divise-deja-en-interne-3050871073.html",
-      "title": "« On écoute trop Twitter » : Asha Sharma et Xbox, un management qui divise déjà en interne ?",
-      "link": "https://www.gamekult.com/actualite/on-ecoute-trop-twitter-asha-sharma-et-xbox-un-management-qui-divise-deja-en-interne-3050871073.html",
-      "pubDate": "Fri, 03 Jul 2026 09:40:00 +0200",
-      "contentSnippet": "Après quelques gestes plus ou moins significatifs, allant du plus cosmétique (Xbox qui devient XBOX) au plus concret (la baisse du prix de l'abonnement Xbox Game Pass Ultimate assorti du retrait de Call of Duty), Asha Sharma pilote désormais ce qui est attendu comme une des restructurations les plus radicales de l'histoire de l'industrie du jeu vidéo. En attendant d'être fixé sur le sort qui attend les studios Xbox, ce qui devrait être le cas lundi 6 juillet, le journaliste Christopher Dring a recueilli des impressions intéressantes venues de l'intérieur sur les premiers mois du mandat d'Asha Sharma.",
-      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050871073/on-ecoute-trop-twitter-asha-sharma-et-xbox-un-management-qui-divise-deja-en-interne-cb8d7aaa__930_300__0-218-1920-839.jpg"
     }
   ]
 }
