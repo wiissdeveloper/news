@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03",
+  "updated": "2026-07-04",
   "systems": {
     "3do": [
       {
@@ -176,16 +176,16 @@
       },
       {
         "rank": 5,
-        "name": "Lochjaw",
-        "price_usd": 1425.44,
-        "price_eur": 1311.4,
+        "name": "Star Wars Ewok Adventure Prototype",
+        "price_usd": 1245.28,
+        "price_eur": 1145.66,
         "isHistory": false
       },
       {
         "rank": 6,
-        "name": "Star Wars Ewok Adventure Prototype",
-        "price_usd": 1245.28,
-        "price_eur": 1145.66,
+        "name": "Lochjaw",
+        "price_usd": 1003.5,
+        "price_eur": 923.22,
         "isHistory": false
       },
       {
@@ -724,8 +724,8 @@
       {
         "rank": 2,
         "name": "Atari Jaguar System",
-        "price_usd": 497.43,
-        "price_eur": 457.64,
+        "price_usd": 497.59,
+        "price_eur": 457.78,
         "isHistory": false
       },
       {
@@ -1206,14 +1206,14 @@
       },
       {
         "rank": 10,
-        "name": "Makaimura [Box Cart]",
+        "name": "Bubble Bobble 2",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
       },
       {
         "rank": 11,
-        "name": "Bubble Bobble 2",
+        "name": "Makaimura [Box Cart]",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
@@ -1263,8 +1263,8 @@
       {
         "rank": 18,
         "name": "Bio Miracle Bokutte Upa",
-        "price_usd": 230.95,
-        "price_eur": 212.47,
+        "price_usd": 231.06,
+        "price_eur": 212.58,
         "isHistory": false
       },
       {
@@ -1383,14 +1383,14 @@
       },
       {
         "rank": 15,
-        "name": "Analogue Pocket [Berry]",
+        "name": "Analogue Pocket [Grape]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
       },
       {
         "rank": 16,
-        "name": "Analogue Pocket [Grape]",
+        "name": "Analogue Pocket [Berry]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
@@ -1411,14 +1411,14 @@
       },
       {
         "rank": 19,
-        "name": "Nintendo Gameboy System [Special Offer Killer Instinct]",
+        "name": "Analogue Pocket [White]",
         "price_usd": 345,
         "price_eur": 317.4,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "Analogue Pocket [White]",
+        "name": "Nintendo Gameboy System [Special Offer Killer Instinct]",
         "price_usd": 345,
         "price_eur": 317.4,
         "isHistory": false
@@ -1612,8 +1612,8 @@
       {
         "rank": 7,
         "name": "Resident Evil Gaiden",
-        "price_usd": 350.15,
-        "price_eur": 322.14,
+        "price_usd": 350,
+        "price_eur": 322,
         "isHistory": false
       },
       {
@@ -1732,16 +1732,16 @@
       },
       {
         "rank": 4,
-        "name": "Pete Sampras Tennis",
-        "price_usd": 160.62,
-        "price_eur": 147.77,
+        "name": "CJ Elephant Fugitive",
+        "price_usd": 150,
+        "price_eur": 138,
         "isHistory": false
       },
       {
         "rank": 5,
-        "name": "CJ Elephant Fugitive",
-        "price_usd": 150,
-        "price_eur": 138,
+        "name": "Pete Sampras Tennis",
+        "price_usd": 140.72,
+        "price_eur": 129.46,
         "isHistory": false
       },
       {
@@ -1775,8 +1775,8 @@
       {
         "rank": 10,
         "name": "Tails' Adventure",
-        "price_usd": 83.88,
-        "price_eur": 77.17,
+        "price_usd": 84.97,
+        "price_eur": 78.17,
         "isHistory": false
       },
       {
@@ -1944,14 +1944,14 @@
       },
       {
         "rank": 14,
-        "name": "Sega Nomad",
-        "price_usd": 302.14,
-        "price_eur": 277.97,
+        "name": "Sega Genesis Speakers",
+        "price_usd": 300,
+        "price_eur": 276,
         "isHistory": false
       },
       {
         "rank": 15,
-        "name": "Sega Genesis Speakers",
+        "name": "Sega Nomad",
         "price_usd": 300,
         "price_eur": 276,
         "isHistory": false
@@ -2019,8 +2019,8 @@
       {
         "rank": 4,
         "name": "Sega Master System II Console",
-        "price_usd": 150.63,
-        "price_eur": 138.58,
+        "price_usd": 149.96,
+        "price_eur": 137.96,
         "isHistory": false
       },
       {
@@ -2323,30 +2323,30 @@
       },
       {
         "rank": 7,
-        "name": "San Francisco Rush 2049",
-        "price_usd": 377.09,
-        "price_eur": 346.92,
-        "isHistory": false
-      },
-      {
-        "rank": 8,
         "name": "Nintendo 64 Smoke Black",
         "price_usd": 360.81,
         "price_eur": 331.95,
         "isHistory": false
       },
       {
-        "rank": 9,
+        "rank": 8,
         "name": "Starcraft 64",
         "price_usd": 327.69,
         "price_eur": 301.47,
         "isHistory": false
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "Nintendo 64 System [Pokemon Stadium Battle Set]",
         "price_usd": 315.3,
         "price_eur": 290.08,
+        "isHistory": false
+      },
+      {
+        "rank": 10,
+        "name": "San Francisco Rush 2049",
+        "price_usd": 256.37,
+        "price_eur": 235.86,
         "isHistory": false
       },
       {
@@ -2425,8 +2425,8 @@
       {
         "rank": 1,
         "name": "Pokemon [Not for Resale Arceus]",
-        "price_usd": 2888.6,
-        "price_eur": 2657.51,
+        "price_usd": 2739.48,
+        "price_eur": 2520.32,
         "isHistory": false
       },
       {
@@ -2495,8 +2495,8 @@
       {
         "rank": 11,
         "name": "Pokemon [Not for Resale Diamond & Pearl]",
-        "price_usd": 902.76,
-        "price_eur": 830.54,
+        "price_usd": 901.68,
+        "price_eur": 829.55,
         "isHistory": false
       },
       {
@@ -2595,8 +2595,8 @@
       {
         "rank": 5,
         "name": "Metal Slug",
-        "price_usd": 3197.43,
-        "price_eur": 2941.64,
+        "price_usd": 3195.72,
+        "price_eur": 2940.06,
         "isHistory": false
       },
       {
@@ -2757,30 +2757,30 @@
       },
       {
         "rank": 8,
-        "name": "Hot Slots",
-        "price_usd": 2454.33,
-        "price_eur": 2257.98,
-        "isHistory": false
-      },
-      {
-        "rank": 9,
         "name": "Little Samson",
         "price_usd": 2328.32,
         "price_eur": 2142.05,
         "isHistory": false
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "Bubble Bath Babes",
         "price_usd": 2274.26,
         "price_eur": 2092.32,
         "isHistory": false
       },
       {
-        "rank": 11,
+        "rank": 10,
         "name": "Cheetahmen II",
         "price_usd": 1926.47,
         "price_eur": 1772.35,
+        "isHistory": false
+      },
+      {
+        "rank": 11,
+        "name": "Hot Slots",
+        "price_usd": 1882.57,
+        "price_eur": 1731.96,
         "isHistory": false
       },
       {
@@ -3114,8 +3114,8 @@
       {
         "rank": 18,
         "name": "PC Engine Core Grafx Mini",
-        "price_usd": 198.1,
-        "price_eur": 182.25,
+        "price_usd": 198.06,
+        "price_eur": 182.22,
         "isHistory": false
       },
       {
@@ -3307,8 +3307,8 @@
       {
         "rank": 5,
         "name": "The Misadventures of Tron Bonne",
-        "price_usd": 275,
-        "price_eur": 253,
+        "price_usd": 272.5,
+        "price_eur": 250.7,
         "isHistory": false
       },
       {
@@ -3342,8 +3342,8 @@
       {
         "rank": 10,
         "name": "Clock Tower 2",
-        "price_usd": 204.93,
-        "price_eur": 188.54,
+        "price_usd": 204.96,
+        "price_eur": 188.56,
         "isHistory": false
       },
       {
@@ -3355,44 +3355,44 @@
       },
       {
         "rank": 12,
+        "name": "ISS Pro Evolution",
+        "price_usd": 189.22,
+        "price_eur": 174.08,
+        "isHistory": false
+      },
+      {
+        "rank": 13,
         "name": "Shadow Tower",
         "price_usd": 187.59,
         "price_eur": 172.58,
         "isHistory": false
       },
       {
-        "rank": 13,
-        "name": "ISS Pro Evolution",
-        "price_usd": 187.56,
-        "price_eur": 172.56,
+        "rank": 14,
+        "name": "Valkyrie Profile",
+        "price_usd": 170.3,
+        "price_eur": 156.68,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 15,
         "name": "Klonoa Door to Phantomile",
         "price_usd": 165,
         "price_eur": 151.8,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 16,
         "name": "REDANT 5 LCD Monitor",
         "price_usd": 162.37,
         "price_eur": 149.38,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 17,
         "name": "Batman Forever Arcade",
         "price_usd": 160.28,
         "price_eur": 147.46,
-        "isHistory": false
-      },
-      {
-        "rank": 17,
-        "name": "Valkyrie Profile",
-        "price_usd": 160,
-        "price_eur": 147.2,
         "isHistory": false
       },
       {
@@ -3404,14 +3404,14 @@
       },
       {
         "rank": 19,
-        "name": "Silent Hill",
+        "name": "Pink Panther Pinkadelic Pursuit",
         "price_usd": 149.99,
         "price_eur": 137.99,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "Pink Panther Pinkadelic Pursuit",
+        "name": "Silent Hill",
         "price_usd": 149.99,
         "price_eur": 137.99,
         "isHistory": false
@@ -3477,8 +3477,8 @@
       {
         "rank": 9,
         "name": "Kuon",
-        "price_usd": 835.19,
-        "price_eur": 768.37,
+        "price_usd": 834.85,
+        "price_eur": 768.06,
         "isHistory": false
       },
       {
@@ -3518,16 +3518,16 @@
       },
       {
         "rank": 15,
-        "name": "PlayStation 2 System [Silver Automotive Edition]",
-        "price_usd": 399.56,
-        "price_eur": 367.6,
+        "name": "Haunting Ground",
+        "price_usd": 390.75,
+        "price_eur": 359.49,
         "isHistory": false
       },
       {
         "rank": 16,
-        "name": "Haunting Ground",
-        "price_usd": 391.17,
-        "price_eur": 359.88,
+        "name": "PlayStation 2 System [Silver Automotive Edition]",
+        "price_usd": 376.58,
+        "price_eur": 346.45,
         "isHistory": false
       },
       {
@@ -3868,8 +3868,8 @@
       {
         "rank": 4,
         "name": "Rendering Ranger",
-        "price_usd": 499.44,
-        "price_eur": 459.48,
+        "price_usd": 499.58,
+        "price_eur": 459.61,
         "isHistory": false
       },
       {
@@ -3903,8 +3903,8 @@
       {
         "rank": 9,
         "name": "Ganpuru",
-        "price_usd": 308.52,
-        "price_eur": 283.84,
+        "price_usd": 307.74,
+        "price_eur": 283.12,
         "isHistory": false
       },
       {
@@ -3973,8 +3973,8 @@
       {
         "rank": 19,
         "name": "Super Star Wars: Return of the Jedi",
-        "price_usd": 198.92,
-        "price_eur": 183.01,
+        "price_usd": 198.93,
+        "price_eur": 183.02,
         "isHistory": false
       },
       {
@@ -4182,8 +4182,8 @@
       {
         "rank": 8,
         "name": "Bedlam",
-        "price_usd": 23.94,
-        "price_eur": 22.02,
+        "price_usd": 23.79,
+        "price_eur": 21.89,
         "isHistory": false
       },
       {
