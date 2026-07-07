@@ -1,6 +1,14 @@
 {
-  "date": "2026-07-06",
+  "date": "2026-07-07",
   "notices": [
+    {
+      "guid": "https://it.ign.com/no-rest-for-the-wicked/226513/no-rest-for-the-wicked-intervista-a-thomas-mahler",
+      "title": "No Rest for the Wicked: intervista a Thomas Mahler",
+      "link": "https://it.ign.com/no-rest-for-the-wicked/226513/no-rest-for-the-wicked-intervista-a-thomas-mahler",
+      "pubDate": "Mon, 06 Jul 2026 15:44:51 +0000",
+      "contentSnippet": "Alla scoperta del progetto più ambizioso di Moon Studios.\nIn occasione dell'arrivo della versione 1.0 di No Rest for the Wicked abbiamo fatto una chiacchierata con Thomas Mahler, uno dei co-fondatori di Moon Studios.",
+      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/2_5vaq.jpg"
+    },
     {
       "guid": "https://it.ign.com/xbox-series-x/226614/xbox-licenzia-3200-dipendenti-e-si-separa-da-cinque-studi-e-la-piu-grande-ristrutturazione-della-sua",
       "title": "Xbox licenzia 3.200 dipendenti e si separa da cinque studi: è la più grande ristrutturazione della sua storia",
@@ -88,14 +96,6 @@
       "pubDate": "Mon, 06 Jul 2026 08:01:35 +0000",
       "contentSnippet": "Smentiti invece i rumor riguardanti Obsidian: la casa di The Outer Worlds e Avowed è salva.\nNuove indiscrezioni parlano di oltre 1.000 posti di lavoro coinvolti nella riorganizzazione di Xbox, e anche il team di Sea of Thieves potrebbe essere colpito.",
       "thumbnail": "https://sm.ign.com/ign_it/shot/b/bsea-of-th/bsea-of-thievesbbrbr2020-rarebrbr_ggmv.jpg"
-    },
-    {
-      "guid": "https://it.ign.com/margo-ha-problemi-di-soldi/226588/margo-ha-problemi-di-soldi-il-trailer",
-      "title": "Margo ha problemi di soldi - Il trailer",
-      "link": "https://it.ign.com/margo-ha-problemi-di-soldi/226588/margo-ha-problemi-di-soldi-il-trailer",
-      "pubDate": "Sun, 05 Jul 2026 14:18:03 +0000",
-      "contentSnippet": "Alla scoperta di Margo ha problemi di soldi.",
-      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/blob_qcy4.jpg"
     }
   ]
 }
