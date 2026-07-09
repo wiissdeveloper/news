@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08",
+  "updated": "2026-07-09",
   "systems": {
     "3do": [
       {
@@ -354,8 +354,8 @@
       {
         "rank": 10,
         "name": "K.C. Munchkin [Homebrew]",
-        "price_usd": 158.19,
-        "price_eur": 145.53,
+        "price_usd": 158.48,
+        "price_eur": 145.8,
         "isHistory": false
       },
       {
@@ -482,8 +482,8 @@
       {
         "rank": 8,
         "name": "Atari 410 Program Recorder",
-        "price_usd": 145.5,
-        "price_eur": 133.86,
+        "price_usd": 144.45,
+        "price_eur": 132.89,
         "isHistory": false
       },
       {
@@ -745,8 +745,8 @@
       {
         "rank": 5,
         "name": "Another World",
-        "price_usd": 257.07,
-        "price_eur": 236.5,
+        "price_usd": 257.01,
+        "price_eur": 236.45,
         "isHistory": false
       },
       {
@@ -978,16 +978,16 @@
       },
       {
         "rank": 18,
-        "name": "Sonic Adventure 2",
-        "price_usd": 94.95,
-        "price_eur": 87.35,
+        "name": "Dream Point Bank VMU",
+        "price_usd": 91.74,
+        "price_eur": 84.4,
         "isHistory": false
       },
       {
         "rank": 19,
-        "name": "Dream Point Bank VMU",
-        "price_usd": 91.74,
-        "price_eur": 84.4,
+        "name": "Sonic Adventure 2",
+        "price_usd": 90.61,
+        "price_eur": 83.36,
         "isHistory": false
       },
       {
@@ -1092,51 +1092,51 @@
       },
       {
         "rank": 14,
+        "name": "Kick Challenger: Air Foot",
+        "price_usd": 41.65,
+        "price_eur": 38.32,
+        "isHistory": false
+      },
+      {
+        "rank": 15,
         "name": "Time Twist: Rekishi no Katasumi de [Kouhen]",
         "price_usd": 41.06,
         "price_eur": 37.78,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 16,
         "name": "BurgerTime",
         "price_usd": 40.53,
         "price_eur": 37.29,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 17,
         "name": "Akumajou Dracula",
         "price_usd": 39.99,
         "price_eur": 36.79,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 18,
         "name": "Otocky",
         "price_usd": 39.39,
         "price_eur": 36.24,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 19,
         "name": "Fairytale",
         "price_usd": 39,
         "price_eur": 35.88,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 20,
         "name": "Metroid",
         "price_usd": 38.99,
         "price_eur": 35.87,
-        "isHistory": false
-      },
-      {
-        "rank": 20,
-        "name": "Legend of Zelda",
-        "price_usd": 38.51,
-        "price_eur": 35.43,
         "isHistory": false
       }
     ],
@@ -1327,65 +1327,65 @@
       },
       {
         "rank": 7,
+        "name": "Analogue Pocket [Black Anodized]",
+        "price_usd": 700,
+        "price_eur": 644,
+        "isHistory": false
+      },
+      {
+        "rank": 8,
         "name": "Analogue Pocket [Indigo Anodized]",
         "price_usd": 699,
         "price_eur": 643.08,
         "isHistory": false
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "Analogue Pocket [Noir Anodized]",
         "price_usd": 650,
         "price_eur": 598,
         "isHistory": false
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "Analogue Pocket [Transparent Green]",
         "price_usd": 574.99,
         "price_eur": 528.99,
         "isHistory": false
       },
       {
-        "rank": 10,
+        "rank": 11,
         "name": "Analogue Pocket [Glow in the Dark]",
         "price_usd": 533.68,
         "price_eur": 490.99,
         "isHistory": false
       },
       {
-        "rank": 11,
+        "rank": 12,
         "name": "Analogue Pocket [Transparent Purple]",
         "price_usd": 529.99,
         "price_eur": 487.59,
         "isHistory": false
       },
       {
-        "rank": 12,
+        "rank": 13,
         "name": "Spud's Adventure",
         "price_usd": 524.84,
         "price_eur": 482.85,
         "isHistory": false
       },
       {
-        "rank": 13,
+        "rank": 14,
         "name": "Analogue Pocket [Transparent Clear]",
         "price_usd": 512.5,
         "price_eur": 471.5,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 15,
         "name": "Analogue Pocket Transparent Blue",
         "price_usd": 510,
         "price_eur": 469.2,
-        "isHistory": false
-      },
-      {
-        "rank": 15,
-        "name": "Analogue Pocket [Grape]",
-        "price_usd": 500,
-        "price_eur": 460,
         "isHistory": false
       },
       {
@@ -1397,28 +1397,28 @@
       },
       {
         "rank": 17,
+        "name": "Analogue Pocket [Grape]",
+        "price_usd": 500,
+        "price_eur": 460,
+        "isHistory": false
+      },
+      {
+        "rank": 18,
         "name": "Gameboy Light [Yellow]",
         "price_usd": 382.28,
         "price_eur": 351.7,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 19,
         "name": "Analogue Pocket [Pink]",
         "price_usd": 380,
         "price_eur": 349.6,
         "isHistory": false
       },
       {
-        "rank": 19,
-        "name": "Nintendo Gameboy System [Special Offer Killer Instinct]",
-        "price_usd": 345,
-        "price_eur": 317.4,
-        "isHistory": false
-      },
-      {
         "rank": 20,
-        "name": "Analogue Pocket [White]",
+        "name": "Nintendo Gameboy System [Special Offer Killer Instinct]",
         "price_usd": 345,
         "price_eur": 317.4,
         "isHistory": false
@@ -1512,8 +1512,8 @@
       {
         "rank": 13,
         "name": "Ninja Five O",
-        "price_usd": 323.44,
-        "price_eur": 297.56,
+        "price_usd": 313.03,
+        "price_eur": 287.99,
         "isHistory": false
       },
       {
@@ -1660,30 +1660,30 @@
       },
       {
         "rank": 14,
-        "name": "Pokemon Special Edition Gameboy Color System",
-        "price_usd": 164.05,
-        "price_eur": 150.93,
-        "isHistory": false
-      },
-      {
-        "rank": 15,
-        "name": "Pokemon Crystal",
-        "price_usd": 162.45,
-        "price_eur": 149.45,
-        "isHistory": false
-      },
-      {
-        "rank": 16,
         "name": "Zelda Oracle of Seasons [Not for Resale]",
         "price_usd": 161.25,
         "price_eur": 148.35,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 15,
+        "name": "Pokemon Crystal",
+        "price_usd": 159.99,
+        "price_eur": 147.19,
+        "isHistory": false
+      },
+      {
+        "rank": 16,
         "name": "Gameshark [Special Edition for Pokemon Crystal]",
         "price_usd": 150,
         "price_eur": 138,
+        "isHistory": false
+      },
+      {
+        "rank": 17,
+        "name": "Pokemon Special Edition Gameboy Color System",
+        "price_usd": 137.48,
+        "price_eur": 126.48,
         "isHistory": false
       },
       {
@@ -1695,16 +1695,16 @@
       },
       {
         "rank": 19,
-        "name": "Metal Gear Solid",
-        "price_usd": 136.5,
-        "price_eur": 125.58,
+        "name": "Pokemon Gold and Silver Special Edition Gameboy Color",
+        "price_usd": 137.11,
+        "price_eur": 126.14,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "Pokemon Gold and Silver Special Edition Gameboy Color",
-        "price_usd": 129.99,
-        "price_eur": 119.59,
+        "name": "Metal Gear Solid",
+        "price_usd": 136.5,
+        "price_eur": 125.58,
         "isHistory": false
       }
     ],
@@ -1775,8 +1775,8 @@
       {
         "rank": 10,
         "name": "Tails' Adventure",
-        "price_usd": 84.97,
-        "price_eur": 78.17,
+        "price_usd": 84.98,
+        "price_eur": 78.18,
         "isHistory": false
       },
       {
@@ -2005,8 +2005,8 @@
       {
         "rank": 2,
         "name": "Golden Axe Warrior",
-        "price_usd": 174.96,
-        "price_eur": 160.96,
+        "price_usd": 175.28,
+        "price_eur": 161.26,
         "isHistory": false
       },
       {
@@ -2026,8 +2026,8 @@
       {
         "rank": 5,
         "name": "Sega Master System Console",
-        "price_usd": 147.63,
-        "price_eur": 135.82,
+        "price_usd": 148.27,
+        "price_eur": 136.41,
         "isHistory": false
       },
       {
@@ -2124,8 +2124,8 @@
       {
         "rank": 19,
         "name": "OutRun [Blue Label]",
-        "price_usd": 51.14,
-        "price_eur": 47.05,
+        "price_usd": 51.32,
+        "price_eur": 47.21,
         "isHistory": false
       },
       {
@@ -2387,8 +2387,8 @@
       {
         "rank": 16,
         "name": "Nintendo 64 System [Super Mario 64 Bundle]",
-        "price_usd": 161.89,
-        "price_eur": 148.94,
+        "price_usd": 161.82,
+        "price_eur": 148.87,
         "isHistory": false
       },
       {
@@ -2407,16 +2407,16 @@
       },
       {
         "rank": 19,
-        "name": "Blues Brothers 2000",
-        "price_usd": 153.73,
-        "price_eur": 141.43,
+        "name": "Paper Mario",
+        "price_usd": 158.52,
+        "price_eur": 145.84,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "Conker's Bad Fur Day",
-        "price_usd": 150.81,
-        "price_eur": 138.75,
+        "name": "Blues Brothers 2000",
+        "price_usd": 153.73,
+        "price_eur": 141.43,
         "isHistory": false
       }
     ],
@@ -2481,8 +2481,8 @@
       {
         "rank": 9,
         "name": "Pokemon [Not For Resale Pikachu]",
-        "price_usd": 1050,
-        "price_eur": 966,
+        "price_usd": 1024.5,
+        "price_eur": 942.54,
         "isHistory": false
       },
       {
@@ -3106,30 +3106,30 @@
       },
       {
         "rank": 17,
+        "name": "PC Engine Duo System",
+        "price_usd": 210.65,
+        "price_eur": 193.8,
+        "isHistory": false
+      },
+      {
+        "rank": 18,
         "name": "PC Engine Core Grafx Mini",
         "price_usd": 198.06,
         "price_eur": 182.22,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 19,
         "name": "Gekibo: Gekisha Boy",
         "price_usd": 190.9,
         "price_eur": 175.63,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 20,
         "name": "Terra Cresta II",
         "price_usd": 189.99,
         "price_eur": 174.79,
-        "isHistory": false
-      },
-      {
-        "rank": 20,
-        "name": "PC Engine Duo System",
-        "price_usd": 188,
-        "price_eur": 172.96,
         "isHistory": false
       }
     ],
@@ -3300,8 +3300,8 @@
       {
         "rank": 4,
         "name": "Tail Concerto",
-        "price_usd": 290.71,
-        "price_eur": 267.45,
+        "price_usd": 292.85,
+        "price_eur": 269.42,
         "isHistory": false
       },
       {
@@ -3320,30 +3320,30 @@
       },
       {
         "rank": 7,
+        "name": "Clock Tower 2",
+        "price_usd": 220.93,
+        "price_eur": 203.26,
+        "isHistory": false
+      },
+      {
+        "rank": 8,
         "name": "Koudelka",
         "price_usd": 219.99,
         "price_eur": 202.39,
         "isHistory": false
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "Persona Revelations Series",
         "price_usd": 219.75,
         "price_eur": 202.17,
         "isHistory": false
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "PSOne Slim Console with LCD Screen Combo",
         "price_usd": 217.5,
         "price_eur": 200.1,
-        "isHistory": false
-      },
-      {
-        "rank": 10,
-        "name": "Clock Tower 2",
-        "price_usd": 204.98,
-        "price_eur": 188.58,
         "isHistory": false
       },
       {
@@ -3370,8 +3370,8 @@
       {
         "rank": 14,
         "name": "Valkyrie Profile",
-        "price_usd": 171.4,
-        "price_eur": 157.69,
+        "price_usd": 171.95,
+        "price_eur": 158.19,
         "isHistory": false
       },
       {
@@ -3397,16 +3397,16 @@
       },
       {
         "rank": 18,
-        "name": "Silent Hill",
-        "price_usd": 150,
-        "price_eur": 138,
+        "name": "Pink Panther Pinkadelic Pursuit",
+        "price_usd": 149.99,
+        "price_eur": 137.99,
         "isHistory": false
       },
       {
         "rank": 19,
-        "name": "Pink Panther Pinkadelic Pursuit",
-        "price_usd": 149.99,
-        "price_eur": 137.99,
+        "name": "Silent Hill",
+        "price_usd": 148.66,
+        "price_eur": 136.77,
         "isHistory": false
       },
       {
@@ -3519,8 +3519,8 @@
       {
         "rank": 15,
         "name": "Haunting Ground",
-        "price_usd": 392.5,
-        "price_eur": 361.1,
+        "price_usd": 426.22,
+        "price_eur": 392.12,
         "isHistory": false
       },
       {
@@ -3577,8 +3577,8 @@
       {
         "rank": 3,
         "name": "PSP 2000 Limited Edition God of War [Red]",
-        "price_usd": 243.24,
-        "price_eur": 223.78,
+        "price_usd": 225.4,
+        "price_eur": 207.37,
         "isHistory": false
       },
       {
@@ -3660,14 +3660,14 @@
       },
       {
         "rank": 15,
-        "name": "My Chemical Romance: Life On The Murder Scene [UMD]",
+        "name": "Legend of Heroes: Trails in the Sky [Premium Edition]",
         "price_usd": 150,
         "price_eur": 138,
         "isHistory": false
       },
       {
         "rank": 16,
-        "name": "Legend of Heroes: Trails in the Sky [Premium Edition]",
+        "name": "My Chemical Romance: Life On The Murder Scene [UMD]",
         "price_usd": 150,
         "price_eur": 138,
         "isHistory": false
@@ -3695,9 +3695,9 @@
       },
       {
         "rank": 20,
-        "name": "PSP Go Dock",
-        "price_usd": 131.65,
-        "price_eur": 121.12,
+        "name": "PSP-3001 Bundle",
+        "price_usd": 132.24,
+        "price_eur": 121.66,
         "isHistory": false
       }
     ],
@@ -3711,16 +3711,16 @@
       },
       {
         "rank": 2,
-        "name": "T-Mek",
-        "price_usd": 274.17,
-        "price_eur": 252.24,
+        "name": "Motherbase",
+        "price_usd": 224.82,
+        "price_eur": 206.83,
         "isHistory": false
       },
       {
         "rank": 3,
-        "name": "Motherbase",
-        "price_usd": 224.82,
-        "price_eur": 206.83,
+        "name": "T-Mek",
+        "price_usd": 223.86,
+        "price_eur": 205.95,
         "isHistory": false
       },
       {
@@ -3824,8 +3824,8 @@
       {
         "rank": 18,
         "name": "Cosmic Carnage",
-        "price_usd": 55.35,
-        "price_eur": 50.92,
+        "price_usd": 55.95,
+        "price_eur": 51.47,
         "isHistory": false
       },
       {
@@ -3945,8 +3945,8 @@
       {
         "rank": 15,
         "name": "Sutte Hakkun",
-        "price_usd": 225.69,
-        "price_eur": 207.63,
+        "price_usd": 225.77,
+        "price_eur": 207.71,
         "isHistory": false
       },
       {
@@ -4210,8 +4210,8 @@
       {
         "rank": 12,
         "name": "Starhawk",
-        "price_usd": 20.71,
-        "price_eur": 19.05,
+        "price_usd": 20.86,
+        "price_eur": 19.19,
         "isHistory": false
       },
       {
@@ -4296,8 +4296,8 @@
       {
         "rank": 4,
         "name": "Virtual Boy System",
-        "price_usd": 327.45,
-        "price_eur": 301.25,
+        "price_usd": 326.97,
+        "price_eur": 300.81,
         "isHistory": false
       },
       {
@@ -4310,8 +4310,8 @@
       {
         "rank": 6,
         "name": "Waterworld",
-        "price_usd": 235.32,
-        "price_eur": 216.49,
+        "price_usd": 236.52,
+        "price_eur": 217.6,
         "isHistory": false
       },
       {
@@ -4394,8 +4394,8 @@
       {
         "rank": 18,
         "name": "Wario Land",
-        "price_usd": 69.02,
-        "price_eur": 63.5,
+        "price_usd": 74.98,
+        "price_eur": 68.98,
         "isHistory": false
       },
       {
