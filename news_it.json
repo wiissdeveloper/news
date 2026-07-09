@@ -1,6 +1,22 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "notices": [
+    {
+      "guid": "https://it.ign.com/palworld/226652/palworld-supera-quota-40-milioni-di-giocatori-in-vista-del-lancio-della-versione-10",
+      "title": "Palworld supera quota 40 milioni di giocatori in vista del lancio della versione 1.0",
+      "link": "https://it.ign.com/palworld/226652/palworld-supera-quota-40-milioni-di-giocatori-in-vista-del-lancio-della-versione-10",
+      "pubDate": "Wed, 08 Jul 2026 15:45:44 +0000",
+      "contentSnippet": "Sono 8 milioni in più rispetto all'ultimo aggiornamento di febbraio 2025.\nPalworld ha attirato altri 8 milioni di giocatori nell'ultimo anno e mezzo, per un totale di 40 milioni. E non è ancora uscita la versione 1.0.",
+      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/af_jagd.jpg"
+    },
+    {
+      "guid": "https://it.ign.com/final-fantasy-vii-ever-crisis/226651/final-fantasy-vii-ever-crisis-chiudera-i-server-a-ottobre-square-enix-annuncia-la-fine-del-supporto",
+      "title": "Final Fantasy VII: Ever Crisis chiuderà i server a ottobre, Square Enix annuncia la fine del supporto",
+      "link": "https://it.ign.com/final-fantasy-vii-ever-crisis/226651/final-fantasy-vii-ever-crisis-chiudera-i-server-a-ottobre-square-enix-annuncia-la-fine-del-supporto",
+      "pubDate": "Wed, 08 Jul 2026 14:33:35 +0000",
+      "contentSnippet": "Il gioco è ancora disponibile su mobile e PC.\nIl gioco mobile e PC dedicato alla saga di Final Fantasy VII terminerà i servizi il 6 ottobre. Nel frattempo proseguiranno gli eventi programmati.",
+      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/ff7-ever-crisis_5den.jpg"
+    },
     {
       "guid": "https://it.ign.com/assassins-creed-black-flag-resynced/226650/assassins-creed-black-flag-resynced-starebbe-registrando-preordini-cinque-volte-superiori-a-shadows",
       "title": "Assassin's Creed Black Flag Resynced starebbe registrando preordini cinque volte superiori a Shadows",
@@ -80,22 +96,6 @@
       "pubDate": "Wed, 08 Jul 2026 05:40:21 +0000",
       "contentSnippet": "L'universo open-world di Crimson Desert, una delle esperienze videoludiche più imponenti del 2026, si appresta ad approdare anche su Nintendo Switch 2. La conferma ufficiale è arrivata direttamente dall'amministratore delegato di Pearl Abyss, Huh Jin-young, nel corso di una recente assemblea con gli azionisti. Il CEO ha dichiarato che lo studio ritiene fondamentale portare il titolo su quante più piattaforme possibile, rivelando che i lavori sulla nuova console Nintendo sono già avviati e hanno raggiunto un livello tale da consentire le sessioni di gameplay base.\nNonostante l'ottima notizia per la community, lo studio ha voluto mantenere i piedi per terra riguardo alle tempistiche e alle difficoltà del progetto. Trattandosi di un titolo graficamente e tecnicamente monumentale, la sfida principale per gli sviluppatori non risiede nel semplice porting, ma nella capacità di mantenere intatti l'azione, il comparto visivo e la vastità del mondo di Pywel sulla natura ibrida della console.\nHuh Jin-young ha infatti specificato che la versione per Nintendo Switch 2 richiede ancora una profonda fase di ottimizzazione e di verifiche tecniche, oltre a una valutazione interna per capire se il prodotto finale rispetterà gli elevati standard qualitativi della compagnia. Per questo motivo, Pearl Abyss non ha ancora fissato una data di uscita concreta. Nel prossimo futuro, la priorità del team rimarrà focalizzata sul supporto post-lancio e sui DLC pianificati per PlayStation 5 e per le altre piattaforme attuali, lasciando intendere che i giocatori Nintendo dovranno armarsi di pazienza prima di poter testare con mano il titolo.\nL'articolo Ufficiale: Crimson Desert arriverà su Nintendo Switch 2, ma ci sarà da aspettare proviene da GameSource.",
       "thumbnail": "https://www.gamesource.it/wp-content/uploads/2026/07/crimson-desert-su-switch-2-ufficiale.webp"
-    },
-    {
-      "guid": "https://it.ign.com/dawnwalker/226602/la-sorprendente-narrazione-di-the-blood-of-dawnwalker",
-      "title": "La sorprendente narrazione di The Blood of Dawnwalker",
-      "link": "https://it.ign.com/dawnwalker/226602/la-sorprendente-narrazione-di-the-blood-of-dawnwalker",
-      "pubDate": "Tue, 07 Jul 2026 16:01:10 +0000",
-      "contentSnippet": "Abbiamo provato in anteprima il GdR di Rebel Wolves.\nAbbiamo potuto provare per ben quattro ore il primo GdR di Rebel Wolves, comprendendo meglio il sistema legato al passaggio del tempo e le ampie possibilità narrative offerte dal gioco.",
-      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/titolo_dd3w.jpg"
-    },
-    {
-      "guid": "https://it.ign.com/xbox-game-pass/226630/xbox-game-pass-presenta-i-giochi-di-luglio-in-arrivo-10-titoli-tra-cui-tony-hawks-pro-skater-1-2",
-      "title": "Xbox Game Pass presenta i giochi di luglio: in arrivo 10 titoli tra cui Tony Hawk’s Pro Skater 1+ 2",
-      "link": "https://it.ign.com/xbox-game-pass/226630/xbox-game-pass-presenta-i-giochi-di-luglio-in-arrivo-10-titoli-tra-cui-tony-hawks-pro-skater-1-2",
-      "pubDate": "Tue, 07 Jul 2026 15:48:41 +0000",
-      "contentSnippet": "C'è anche Palworld 1.0, disponibile dal 10 luglio.\nMicrosoft ha svelato i giochi in arrivo nel catalogo di Game Pass nel corso del mese: scopriamoli insieme.",
-      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/xbox-gamepass-announcement-july6-10t-16x9-en-58093110f4d819a_18gz.jpg"
     }
   ]
 }
