@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09",
+  "updated": "2026-07-10",
   "systems": {
     "3do": [
       {
@@ -240,8 +240,8 @@
       {
         "rank": 14,
         "name": "Halloween",
-        "price_usd": 539,
-        "price_eur": 495.88,
+        "price_usd": 544.1,
+        "price_eur": 500.57,
         "isHistory": false
       },
       {
@@ -524,8 +524,8 @@
       {
         "rank": 14,
         "name": "Super Zaxxon",
-        "price_usd": 97.43,
-        "price_eur": 89.64,
+        "price_usd": 98.3,
+        "price_eur": 90.44,
         "isHistory": false
       },
       {
@@ -659,8 +659,8 @@
       {
         "rank": 13,
         "name": "Lemmings",
-        "price_usd": 95.56,
-        "price_eur": 87.92,
+        "price_usd": 95.54,
+        "price_eur": 87.9,
         "isHistory": false
       },
       {
@@ -828,16 +828,16 @@
       },
       {
         "rank": 17,
-        "name": "Jag Zombies",
-        "price_usd": 136.89,
-        "price_eur": 125.94,
+        "name": "NBA Jam: Tournament Edition",
+        "price_usd": 141,
+        "price_eur": 129.72,
         "isHistory": false
       },
       {
         "rank": 18,
-        "name": "NBA Jam: Tournament Edition",
-        "price_usd": 131.97,
-        "price_eur": 121.41,
+        "name": "Jag Zombies",
+        "price_usd": 136.89,
+        "price_eur": 125.94,
         "isHistory": false
       },
       {
@@ -1483,16 +1483,16 @@
       },
       {
         "rank": 9,
-        "name": "Gameboy Advance SP [Groudon Edition]",
-        "price_usd": 562.5,
-        "price_eur": 517.5,
+        "name": "Gameboy Advance SP [Charizard Edition]",
+        "price_usd": 550,
+        "price_eur": 506,
         "isHistory": false
       },
       {
         "rank": 10,
-        "name": "Gameboy Advance SP [Charizard Edition]",
-        "price_usd": 550,
-        "price_eur": 506,
+        "name": "Gameboy Advance SP [Groudon Edition]",
+        "price_usd": 475.29,
+        "price_eur": 437.27,
         "isHistory": false
       },
       {
@@ -1553,16 +1553,16 @@
       },
       {
         "rank": 19,
-        "name": "iQue Gameboy Advance",
-        "price_usd": 225.86,
-        "price_eur": 207.79,
+        "name": "Pokemon Emerald",
+        "price_usd": 226.21,
+        "price_eur": 208.11,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "Gameboy Advance SP [Kyogre Edition]",
-        "price_usd": 225,
-        "price_eur": 207,
+        "name": "iQue Gameboy Advance",
+        "price_usd": 225.86,
+        "price_eur": 207.79,
         "isHistory": false
       }
     ],
@@ -1619,8 +1619,8 @@
       {
         "rank": 8,
         "name": "Pine Creek [Collector's Edition]",
-        "price_usd": 318.59,
-        "price_eur": 293.1,
+        "price_usd": 318.64,
+        "price_eur": 293.15,
         "isHistory": false
       },
       {
@@ -1647,8 +1647,8 @@
       {
         "rank": 12,
         "name": "Survival Kids",
-        "price_usd": 167.5,
-        "price_eur": 154.1,
+        "price_usd": 170.46,
+        "price_eur": 156.82,
         "isHistory": false
       },
       {
@@ -1789,8 +1789,8 @@
       {
         "rank": 12,
         "name": "Cosmic Spacehead",
-        "price_usd": 60,
-        "price_eur": 55.2,
+        "price_usd": 69.74,
+        "price_eur": 64.16,
         "isHistory": false
       },
       {
@@ -1810,8 +1810,8 @@
       {
         "rank": 15,
         "name": "Sega Game Gear Handheld",
-        "price_usd": 49.87,
-        "price_eur": 45.88,
+        "price_usd": 50.19,
+        "price_eur": 46.17,
         "isHistory": false
       },
       {
@@ -2245,8 +2245,8 @@
       {
         "rank": 16,
         "name": "FX Unit Yuki The Henshin Engine",
-        "price_usd": 146.36,
-        "price_eur": 134.65,
+        "price_usd": 147.22,
+        "price_eur": 135.44,
         "isHistory": false
       },
       {
@@ -2296,8 +2296,8 @@
       {
         "rank": 3,
         "name": "Nintendo 64 007 Goldeneye Value Pack",
-        "price_usd": 817.01,
-        "price_eur": 751.65,
+        "price_usd": 817.42,
+        "price_eur": 752.03,
         "isHistory": false
       },
       {
@@ -2359,8 +2359,8 @@
       {
         "rank": 12,
         "name": "Nintendo 64 Fire Orange",
-        "price_usd": 230.15,
-        "price_eur": 211.74,
+        "price_usd": 229.75,
+        "price_eur": 211.37,
         "isHistory": false
       },
       {
@@ -2439,8 +2439,8 @@
       {
         "rank": 3,
         "name": "Pokemon [Not for Resale Regigigas and Shaymin]",
-        "price_usd": 2686.18,
-        "price_eur": 2471.29,
+        "price_usd": 2686.55,
+        "price_eur": 2471.63,
         "isHistory": false
       },
       {
@@ -2699,9 +2699,9 @@
       },
       {
         "rank": 20,
-        "name": "Neo Geo System",
-        "price_usd": 905.3,
-        "price_eur": 832.88,
+        "name": "Last Hope: Pink Bullets",
+        "price_usd": 900,
+        "price_eur": 828,
         "isHistory": false
       }
     ],
@@ -2751,8 +2751,8 @@
       {
         "rank": 7,
         "name": "Little Samson",
-        "price_usd": 2328.32,
-        "price_eur": 2142.05,
+        "price_usd": 2358.16,
+        "price_eur": 2169.51,
         "isHistory": false
       },
       {
@@ -2813,23 +2813,23 @@
       },
       {
         "rank": 16,
+        "name": "Panic Restaurant",
+        "price_usd": 1183.74,
+        "price_eur": 1089.04,
+        "isHistory": false
+      },
+      {
+        "rank": 17,
         "name": "Power Blade 2",
         "price_usd": 1177.17,
         "price_eur": 1083,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 18,
         "name": "Joystick Test Cartridge",
         "price_usd": 1108.33,
         "price_eur": 1019.66,
-        "isHistory": false
-      },
-      {
-        "rank": 18,
-        "name": "Panic Restaurant",
-        "price_usd": 1099.24,
-        "price_eur": 1011.3,
         "isHistory": false
       },
       {
@@ -2888,8 +2888,8 @@
       {
         "rank": 6,
         "name": "The Last Blade",
-        "price_usd": 125.81,
-        "price_eur": 115.75,
+        "price_usd": 126.8,
+        "price_eur": 116.66,
         "isHistory": false
       },
       {
@@ -2950,37 +2950,37 @@
       },
       {
         "rank": 15,
-        "name": "Picture Puzzle",
-        "price_usd": 59.99,
-        "price_eur": 55.19,
-        "isHistory": false
-      },
-      {
-        "rank": 16,
         "name": "Neo Dragon's Wild",
         "price_usd": 59.95,
         "price_eur": 55.15,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 16,
         "name": "Puzzle Link 2",
         "price_usd": 57.44,
         "price_eur": 52.84,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 17,
         "name": "Metal Slug 1st Mission",
         "price_usd": 57.03,
         "price_eur": 52.47,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 18,
         "name": "SNK Vs Capcom: The Match of the Millennium",
         "price_usd": 55.89,
         "price_eur": 51.42,
+        "isHistory": false
+      },
+      {
+        "rank": 19,
+        "name": "Picture Puzzle",
+        "price_usd": 54.99,
+        "price_eur": 50.59,
         "isHistory": false
       },
       {
@@ -2995,8 +2995,8 @@
       {
         "rank": 1,
         "name": "PC Engine LT",
-        "price_usd": 1990,
-        "price_eur": 1830.8,
+        "price_usd": 3153.94,
+        "price_eur": 2901.62,
         "isHistory": false
       },
       {
@@ -3151,8 +3151,8 @@
       {
         "rank": 3,
         "name": "NEC PC-FX Console",
-        "price_usd": 258.75,
-        "price_eur": 238.05,
+        "price_usd": 260,
+        "price_eur": 239.2,
         "isHistory": false
       },
       {
@@ -3200,8 +3200,8 @@
       {
         "rank": 10,
         "name": "Pia Carrot & Can Can Bunny Extra DX",
-        "price_usd": 107.81,
-        "price_eur": 99.19,
+        "price_usd": 107.8,
+        "price_eur": 99.18,
         "isHistory": false
       },
       {
@@ -3335,8 +3335,8 @@
       {
         "rank": 9,
         "name": "Persona Revelations Series",
-        "price_usd": 219.75,
-        "price_eur": 202.17,
+        "price_usd": 219.87,
+        "price_eur": 202.28,
         "isHistory": false
       },
       {
@@ -3391,8 +3391,8 @@
       {
         "rank": 17,
         "name": "Batman Forever Arcade",
-        "price_usd": 160.14,
-        "price_eur": 147.33,
+        "price_usd": 159,
+        "price_eur": 146.28,
         "isHistory": false
       },
       {
@@ -3583,14 +3583,14 @@
       },
       {
         "rank": 4,
-        "name": "PSP 3000 Limited Edition God of War Version [Black & Red]",
+        "name": "PSP Go Pearl White",
         "price_usd": 199.99,
         "price_eur": 183.99,
         "isHistory": false
       },
       {
         "rank": 5,
-        "name": "PSP Go Pearl White",
+        "name": "PSP 3000 Limited Edition God of War Version [Black & Red]",
         "price_usd": 199.99,
         "price_eur": 183.99,
         "isHistory": false
@@ -3660,37 +3660,37 @@
       },
       {
         "rank": 15,
-        "name": "Legend of Heroes: Trails in the Sky [Premium Edition]",
-        "price_usd": 150,
-        "price_eur": 138,
-        "isHistory": false
-      },
-      {
-        "rank": 16,
         "name": "My Chemical Romance: Life On The Murder Scene [UMD]",
         "price_usd": 150,
         "price_eur": 138,
         "isHistory": false
       },
       {
+        "rank": 16,
+        "name": "Legend of Heroes: Trails in the Sky [Premium Edition]",
+        "price_usd": 150,
+        "price_eur": 138,
+        "isHistory": false
+      },
+      {
         "rank": 17,
+        "name": "PSP 2000 Limited Edition Star Wars Battlefront Version [White]",
+        "price_usd": 150,
+        "price_eur": 138,
+        "isHistory": false
+      },
+      {
+        "rank": 18,
         "name": "PSP System Kiosk Disc 4",
         "price_usd": 149,
         "price_eur": 137.08,
         "isHistory": false
       },
       {
-        "rank": 18,
-        "name": "PSP 2000 Limited Edition Star Wars Battlefront Version [White]",
-        "price_usd": 148,
-        "price_eur": 136.16,
-        "isHistory": false
-      },
-      {
         "rank": 19,
         "name": "Shin Megami Tensei: Persona 2: Innocent Sin",
-        "price_usd": 147.27,
-        "price_eur": 135.49,
+        "price_usd": 147.11,
+        "price_eur": 135.34,
         "isHistory": false
       },
       {
@@ -4080,16 +4080,16 @@
       },
       {
         "rank": 14,
-        "name": "Demon's Crest",
-        "price_usd": 214.2,
-        "price_eur": 197.06,
+        "name": "Wild Guns",
+        "price_usd": 214.46,
+        "price_eur": 197.3,
         "isHistory": false
       },
       {
         "rank": 15,
-        "name": "Wild Guns",
-        "price_usd": 211.42,
-        "price_eur": 194.51,
+        "name": "Demon's Crest",
+        "price_usd": 214.2,
+        "price_eur": 197.06,
         "isHistory": false
       },
       {
@@ -4122,9 +4122,9 @@
       },
       {
         "rank": 20,
-        "name": "Hagane The Final Conflict",
-        "price_usd": 177.57,
-        "price_eur": 163.36,
+        "name": "Mega Man 7",
+        "price_usd": 179.13,
+        "price_eur": 164.8,
         "isHistory": false
       }
     ],
@@ -4217,8 +4217,8 @@
       {
         "rank": 13,
         "name": "WebWarp",
-        "price_usd": 19.99,
-        "price_eur": 18.39,
+        "price_usd": 20,
+        "price_eur": 18.4,
         "isHistory": false
       },
       {
@@ -4238,8 +4238,8 @@
       {
         "rank": 16,
         "name": "Starship",
-        "price_usd": 17.45,
-        "price_eur": 16.05,
+        "price_usd": 17.48,
+        "price_eur": 16.08,
         "isHistory": false
       },
       {
@@ -4543,8 +4543,8 @@
       {
         "rank": 19,
         "name": "Ganso Jajamaru-kun",
-        "price_usd": 55.72,
-        "price_eur": 51.26,
+        "price_usd": 52.1,
+        "price_eur": 47.93,
         "isHistory": false
       },
       {
