@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10",
+  "updated": "2026-07-11",
   "systems": {
     "3do": [
       {
@@ -12,8 +12,8 @@
       {
         "rank": 2,
         "name": "Lucienne's Quest",
-        "price_usd": 322.27,
-        "price_eur": 296.49,
+        "price_usd": 323.65,
+        "price_eur": 297.76,
         "isHistory": false
       },
       {
@@ -219,8 +219,8 @@
       {
         "rank": 11,
         "name": "Color Bar Generator",
-        "price_usd": 596.01,
-        "price_eur": 548.33,
+        "price_usd": 591.89,
+        "price_eur": 544.54,
         "isHistory": false
       },
       {
@@ -836,8 +836,8 @@
       {
         "rank": 18,
         "name": "Jag Zombies",
-        "price_usd": 136.89,
-        "price_eur": 125.94,
+        "price_usd": 137.64,
+        "price_eur": 126.63,
         "isHistory": false
       },
       {
@@ -850,8 +850,8 @@
       {
         "rank": 20,
         "name": "Worms",
-        "price_usd": 121.99,
-        "price_eur": 112.23,
+        "price_usd": 122,
+        "price_eur": 112.24,
         "isHistory": false
       }
     ],
@@ -901,23 +901,23 @@
       },
       {
         "rank": 7,
-        "name": "Illbleed",
-        "price_usd": 199.44,
-        "price_eur": 183.48,
-        "isHistory": false
-      },
-      {
-        "rank": 8,
         "name": "Speed Devils [Clean Cover]",
         "price_usd": 185,
         "price_eur": 170.2,
         "isHistory": false
       },
       {
+        "rank": 8,
+        "name": "Illbleed",
+        "price_usd": 176.86,
+        "price_eur": 162.71,
+        "isHistory": false
+      },
+      {
         "rank": 9,
         "name": "Cannon Spike",
-        "price_usd": 174.99,
-        "price_eur": 160.99,
+        "price_usd": 175,
+        "price_eur": 161,
         "isHistory": false
       },
       {
@@ -951,8 +951,8 @@
       {
         "rank": 14,
         "name": "JoJo's Bizarre Adventure",
-        "price_usd": 105.72,
-        "price_eur": 97.26,
+        "price_usd": 105.57,
+        "price_eur": 97.12,
         "isHistory": false
       },
       {
@@ -1099,44 +1099,44 @@
       },
       {
         "rank": 15,
+        "name": "Super Mario Bros.",
+        "price_usd": 41.49,
+        "price_eur": 38.17,
+        "isHistory": false
+      },
+      {
+        "rank": 16,
         "name": "Time Twist: Rekishi no Katasumi de [Kouhen]",
         "price_usd": 41.06,
         "price_eur": 37.78,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 17,
         "name": "BurgerTime",
         "price_usd": 40.53,
         "price_eur": 37.29,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 18,
         "name": "Akumajou Dracula",
         "price_usd": 39.99,
         "price_eur": 36.79,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 19,
         "name": "Otocky",
         "price_usd": 39.39,
         "price_eur": 36.24,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 20,
         "name": "Fairytale",
         "price_usd": 39,
         "price_eur": 35.88,
-        "isHistory": false
-      },
-      {
-        "rank": 20,
-        "name": "Metroid",
-        "price_usd": 38.99,
-        "price_eur": 35.87,
         "isHistory": false
       }
     ],
@@ -1228,8 +1228,8 @@
       {
         "rank": 13,
         "name": "Jetsons: Cogswell's Caper",
-        "price_usd": 250,
-        "price_eur": 230,
+        "price_usd": 249.98,
+        "price_eur": 229.98,
         "isHistory": false
       },
       {
@@ -1526,8 +1526,8 @@
       {
         "rank": 15,
         "name": "Car Battler Joe",
-        "price_usd": 272.71,
-        "price_eur": 250.89,
+        "price_usd": 298.57,
+        "price_eur": 274.68,
         "isHistory": false
       },
       {
@@ -1874,23 +1874,23 @@
       },
       {
         "rank": 4,
+        "name": "Analogue Mega SG",
+        "price_usd": 630,
+        "price_eur": 579.6,
+        "isHistory": false
+      },
+      {
+        "rank": 5,
         "name": "Analogue Mega SG [Hyperdub]",
         "price_usd": 610,
         "price_eur": 561.2,
         "isHistory": false
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "Sega Genesis JVC X'Eye",
         "price_usd": 609.24,
         "price_eur": 560.5,
-        "isHistory": false
-      },
-      {
-        "rank": 6,
-        "name": "Analogue Mega SG",
-        "price_usd": 590,
-        "price_eur": 542.8,
         "isHistory": false
       },
       {
@@ -1902,16 +1902,16 @@
       },
       {
         "rank": 8,
-        "name": "Crusader of Centy",
-        "price_usd": 487.39,
-        "price_eur": 448.4,
+        "name": "Sega Genesis CDx Console",
+        "price_usd": 530.93,
+        "price_eur": 488.46,
         "isHistory": false
       },
       {
         "rank": 9,
-        "name": "Sega Genesis CDx Console",
-        "price_usd": 456.59,
-        "price_eur": 420.06,
+        "name": "Crusader of Centy",
+        "price_usd": 487.39,
+        "price_eur": 448.4,
         "isHistory": false
       },
       {
@@ -1944,14 +1944,14 @@
       },
       {
         "rank": 14,
-        "name": "Sega Nomad",
+        "name": "Sega Genesis Speakers",
         "price_usd": 300,
         "price_eur": 276,
         "isHistory": false
       },
       {
         "rank": 15,
-        "name": "Sega Genesis Speakers",
+        "name": "Sega Nomad",
         "price_usd": 300,
         "price_eur": 276,
         "isHistory": false
@@ -2026,8 +2026,8 @@
       {
         "rank": 5,
         "name": "Sega Master System Console",
-        "price_usd": 148.27,
-        "price_eur": 136.41,
+        "price_usd": 146.59,
+        "price_eur": 134.86,
         "isHistory": false
       },
       {
@@ -2074,14 +2074,14 @@
       },
       {
         "rank": 12,
-        "name": "Chapolim x Dracula: Um Duelo Assustador",
+        "name": "Alex Kidd in Shinobi World [Blue Label]",
         "price_usd": 79.99,
         "price_eur": 73.59,
         "isHistory": false
       },
       {
         "rank": 13,
-        "name": "Alex Kidd in Shinobi World [Blue Label]",
+        "name": "Chapolim x Dracula: Um Duelo Assustador",
         "price_usd": 79.99,
         "price_eur": 73.59,
         "isHistory": false
@@ -2372,16 +2372,16 @@
       },
       {
         "rank": 14,
-        "name": "Nintendo 64 Pikachu",
-        "price_usd": 194.91,
-        "price_eur": 179.32,
+        "name": "Nintendo 64 Watermelon Red",
+        "price_usd": 188.74,
+        "price_eur": 173.64,
         "isHistory": false
       },
       {
         "rank": 15,
-        "name": "Nintendo 64 Watermelon Red",
-        "price_usd": 188.74,
-        "price_eur": 173.64,
+        "name": "Nintendo 64 Pikachu",
+        "price_usd": 181.27,
+        "price_eur": 166.77,
         "isHistory": false
       },
       {
@@ -2757,30 +2757,30 @@
       },
       {
         "rank": 8,
-        "name": "Bubble Bath Babes",
-        "price_usd": 2274.26,
-        "price_eur": 2092.32,
-        "isHistory": false
-      },
-      {
-        "rank": 9,
         "name": "Cheetahmen II",
         "price_usd": 1926.47,
         "price_eur": 1772.35,
         "isHistory": false
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "Hot Slots",
         "price_usd": 1882.57,
         "price_eur": 1731.96,
         "isHistory": false
       },
       {
-        "rank": 11,
+        "rank": 10,
         "name": "Peek-a-Boo Poker",
         "price_usd": 1734.39,
         "price_eur": 1595.64,
+        "isHistory": false
+      },
+      {
+        "rank": 11,
+        "name": "Bubble Bath Babes",
+        "price_usd": 1718.07,
+        "price_eur": 1580.62,
         "isHistory": false
       },
       {
@@ -2793,8 +2793,8 @@
       {
         "rank": 13,
         "name": "Analogue NT Mini Noir",
-        "price_usd": 1311.84,
-        "price_eur": 1206.89,
+        "price_usd": 1317.47,
+        "price_eur": 1212.07,
         "isHistory": false
       },
       {
@@ -3421,8 +3421,8 @@
       {
         "rank": 1,
         "name": "PlayStation 2 System [Yellow Automotive Edition]",
-        "price_usd": 2006.23,
-        "price_eur": 1845.73,
+        "price_usd": 1999.99,
+        "price_eur": 1839.99,
         "isHistory": false
       },
       {
@@ -3477,8 +3477,8 @@
       {
         "rank": 9,
         "name": "Kuon",
-        "price_usd": 834.68,
-        "price_eur": 767.91,
+        "price_usd": 829,
+        "price_eur": 762.68,
         "isHistory": false
       },
       {
@@ -3505,8 +3505,8 @@
       {
         "rank": 13,
         "name": "Sony PlayStation 2 Combo Pack",
-        "price_usd": 462.98,
-        "price_eur": 425.94,
+        "price_usd": 449.99,
+        "price_eur": 413.99,
         "isHistory": false
       },
       {
@@ -3583,14 +3583,14 @@
       },
       {
         "rank": 4,
-        "name": "PSP Go Pearl White",
+        "name": "PSP 3000 Limited Edition God of War Version [Black & Red]",
         "price_usd": 199.99,
         "price_eur": 183.99,
         "isHistory": false
       },
       {
         "rank": 5,
-        "name": "PSP 3000 Limited Edition God of War Version [Black & Red]",
+        "name": "PSP Go Pearl White",
         "price_usd": 199.99,
         "price_eur": 183.99,
         "isHistory": false
@@ -4147,8 +4147,8 @@
       {
         "rank": 3,
         "name": "Berzerk",
-        "price_usd": 34.49,
-        "price_eur": 31.73,
+        "price_usd": 34.51,
+        "price_eur": 31.75,
         "isHistory": false
       },
       {
@@ -4168,8 +4168,8 @@
       {
         "rank": 6,
         "name": "Spike",
-        "price_usd": 31.62,
-        "price_eur": 29.09,
+        "price_usd": 31.3,
+        "price_eur": 28.8,
         "isHistory": false
       },
       {
@@ -4330,16 +4330,16 @@
       },
       {
         "rank": 9,
-        "name": "3D Tetris",
-        "price_usd": 178.95,
-        "price_eur": 164.63,
+        "name": "Virtual Lab [Homebrew]",
+        "price_usd": 178.48,
+        "price_eur": 164.2,
         "isHistory": false
       },
       {
         "rank": 10,
-        "name": "Virtual Lab [Homebrew]",
-        "price_usd": 178.41,
-        "price_eur": 164.14,
+        "name": "3D Tetris",
+        "price_usd": 170.41,
+        "price_eur": 156.78,
         "isHistory": false
       },
       {
@@ -4408,8 +4408,8 @@
       {
         "rank": 20,
         "name": "Panic Bomber",
-        "price_usd": 63.92,
-        "price_eur": 58.81,
+        "price_usd": 60.26,
+        "price_eur": 55.44,
         "isHistory": false
       }
     ],
@@ -4608,8 +4608,8 @@
       {
         "rank": 8,
         "name": "WonderSwan Color [Final Fantasy Edition]",
-        "price_usd": 134.99,
-        "price_eur": 124.19,
+        "price_usd": 134.95,
+        "price_eur": 124.15,
         "isHistory": false
       },
       {
