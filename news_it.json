@@ -2,6 +2,14 @@
   "date": "2026-07-12",
   "notices": [
     {
+      "guid": "https://it.ign.com/open-space/226485/open-space-lattesa-del-piacere",
+      "title": "Open Space: l'attesa del piacere",
+      "link": "https://it.ign.com/open-space/226485/open-space-lattesa-del-piacere",
+      "pubDate": "Sun, 12 Jul 2026 08:09:15 +0000",
+      "contentSnippet": "Di poesie studiate a scuola e vecchi spot.\nCosa succede quando due dei videogiochi che hai atteso di più, e per anni, non riescono a conquistarti pur avendo tutti gli ingredienti per farlo? Che forse tocca dare ragione a un certo Giacomo Leopardi.",
+      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/blob_urm1.jpg"
+    },
+    {
       "guid": "https://www.gamesource.it/?post_type=notizie&p=1128460",
       "title": "Gli hackerano l’account Xbox e si sente dire di ricomprare i giochi: il tribunale costringe Microsoft a rimborsarlo",
       "link": "https://www.gamesource.it/notizie/hackerano-account-xbox-rimborso/",
@@ -88,14 +96,6 @@
       "pubDate": "Fri, 10 Jul 2026 10:30:36 +0000",
       "contentSnippet": "Praticamente regalato.\nHogwarts Legacy vi costa meno di un panino del fast food su Instant Gaming: meno di 10 euro per le edizioni Standard e Deluxe!",
       "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/hw_81q5.jpg"
-    },
-    {
-      "guid": "https://it.ign.com/assassins-creed-black-flag-resynced/226684/assassins-creed-black-flag-resynced-parte-forte-su-steam-ma-i-giocatori-criticano-le-microtransazion",
-      "title": "Assassin's Creed Black Flag Resynced parte forte su Steam, ma i giocatori criticano le microtransazioni",
-      "link": "https://it.ign.com/assassins-creed-black-flag-resynced/226684/assassins-creed-black-flag-resynced-parte-forte-su-steam-ma-i-giocatori-criticano-le-microtransazion",
-      "pubDate": "Fri, 10 Jul 2026 07:30:34 +0000",
-      "contentSnippet": "Superato Shadows, ma l'accoglienza non è positiva.\nIl remake di Black Flag ha superato il picco d'utenza di Assassin's Creed Shadows nelle prime ore dal lancio, ma le recensioni degli utenti su Steam non sono troppo positive.",
-      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/assassins-creedtm-black-flag-resynced-20260627020843_kwvm.jpg"
     }
   ]
 }
