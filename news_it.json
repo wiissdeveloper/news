@@ -1,6 +1,14 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "notices": [
+    {
+      "guid": "https://it.ign.com/mouse/226757/mouse-pi-for-hire-supera-un-milione-di-copie-vendute",
+      "title": "Mouse: P.I. for Hire supera un milione di copie vendute",
+      "link": "https://it.ign.com/mouse/226757/mouse-pi-for-hire-supera-un-milione-di-copie-vendute",
+      "pubDate": "Tue, 14 Jul 2026 15:00:13 +0000",
+      "contentSnippet": "Ottimi risultati a meno di tre mesi dal lancio.\nLo sparatutto ispirato ai cartoni animati degli anni '30 ha raggiunto il traguardo di un milione di copie vendute a pochi mesi dal lancio, con vendite equamente divise tra PC e console.",
+      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/sfe_wdjh.jpg"
+    },
     {
       "guid": "https://it.ign.com/future-games-show/226747/future-games-show-torna-alla-gamescom-2026-con-tre-eventi-speciali-ecco-i-dettagli",
       "title": "Future Games Show torna alla Gamescom 2026 con tre eventi speciali: ecco i dettagli",
@@ -88,14 +96,6 @@
       "pubDate": "Mon, 13 Jul 2026 17:00:15 +0000",
       "contentSnippet": "Vi è piaciuto The Alters? Questa maxi espansione potrebbe piacervi ancora di più.\nA tredici mesi dall’uscita di The Alters, 11 bit Studios amplia e cambia il mondo del suo apprezzato survival gestionale con uno dei DLC più corposi e longevi degli ultimi anni.",
       "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/the-alters-2026-06-06-26-009-jpg-1600x900-crop-q85_7xsq.jpg"
-    },
-    {
-      "guid": "https://it.ign.com/ryse-170102/226726/ryse-avrebbe-potuto-diventare-una-saga-storica-svelati-i-piani-per-i-sequel-mai-realizzati",
-      "title": "Ryse avrebbe potuto diventare una saga storica: svelati i piani per i sequel mai realizzati",
-      "link": "https://it.ign.com/ryse-170102/226726/ryse-avrebbe-potuto-diventare-una-saga-storica-svelati-i-piani-per-i-sequel-mai-realizzati",
-      "pubDate": "Mon, 13 Jul 2026 14:00:43 +0000",
-      "contentSnippet": "Avrebbe dovuto diventare \"l'Assassin's Creed di Xbox\".\nUn nuovo report rivela i progetti di Crytek per trasformare Ryse in un franchise ambientato in diverse epoche storiche, tra vichinghi, Giappone feudale e Impero Ottomano.",
-      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/ryse1118131280jpg-3edf4a_271120_trnj.jpg"
     }
   ]
 }
