@@ -2,44 +2,84 @@
   "date": "2026-07-15",
   "notices": [
     {
+      "guid": "https://gamerant.com/xbox-game-pass-losing-10-games-today-but-still-2-fewer-than-expected/",
+      "title": "Xbox Game Pass Loses 10 Games Today, But It's Not All Bad News",
+      "link": "https://gamerant.com/xbox-game-pass-losing-10-games-today-but-still-2-fewer-than-expected/",
+      "pubDate": "Wed, 15 Jul 2026 14:00:14 GMT",
+      "contentSnippet": "Today marks one of the largest Xbox Game Pass departure waves of 2026, but there is still some good news for Microsoft's subscribers.",
+      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/07/xbox-game-pass-glowing-green-emblem-over-red-tinted-background.jpg"
+    },
+    {
+      "guid": "h7qkby36E28ckbixA26Zd",
+      "title": " 'Yes, that's Counter-Strike on a PSP!': Modder gets favorite PC FPS working on Sony's 22-year-old handheld console ",
+      "link": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/yes-thats-counter-strike-on-a-psp-modder-gets-favorite-pc-fps-working-on-sonys-22-year-old-handheld-console/",
+      "pubDate": "Wed, 15 Jul 2026 13:59:25 +0000",
+      "contentSnippet": "That's one way to introduce a new lease on life to original hardware.",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/gbX6i4hABwLcLktDRguADL-1280-80.jpg"
+    },
+    {
+      "guid": "T3DVJSpo4LjAMifjrJvXtk",
+      "title": " Monster Hunter Wilds is getting a permanent price cut less than 18 months after launch ",
+      "link": "https://www.pcgamer.com/games/action/monster-hunter-wilds-is-getting-a-permanent-price-cut-less-than-18-months-after-launch/",
+      "pubDate": "Wed, 15 Jul 2026 13:35:40 +0000",
+      "contentSnippet": "As well as stuffing its ridiculous amount of DLC into new bundles.",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/K9PBvyHGkjbgU8fedP4Z9b-1280-80.jpg"
+    },
+    {
+      "guid": "https://gamerant.com/microsoft-xbox-account-25-years-game-library-deleted/",
+      "title": "Microsoft Deletes User's 25-Year-Old Account With Thousands of Dollars in Games",
+      "link": "https://gamerant.com/microsoft-xbox-account-25-years-game-library-deleted/",
+      "pubDate": "Wed, 15 Jul 2026 13:30:14 GMT",
+      "contentSnippet": "A user loses 25 years of data and all the games they purchased after Microsoft permanently suspends their account and calls the action 'irreversible.'",
+      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/07/microsoft-deletes-users-25-year-old-account-with-thousands-of-dollars-in-games-gamerant-feature.jpg"
+    },
+    {
+      "guid": "https://gamerant.com/pokemon-go-starmie-mega-evolution-august-event/",
+      "title": "Pokemon GO Adding Fan-Favorite Mega Evolution In August Event",
+      "link": "https://gamerant.com/pokemon-go-starmie-mega-evolution-august-event/",
+      "pubDate": "Wed, 15 Jul 2026 13:00:15 GMT",
+      "contentSnippet": "Pokemon GO confirms the long-requested debut of a popular Mega Evolution as part of an upcoming Super Mega Raid limited event.",
+      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/07/starmie-pokemon-anime.jpg"
+    },
+    {
+      "guid": "https://gamerant.com/games-like-stardew-valley-farming-camp-ps5-release-date/",
+      "title": "PS5 is Getting a Brand-New Stardew Valley-Like Farming Sim Game on September 24",
+      "link": "https://gamerant.com/games-like-stardew-valley-farming-camp-ps5-release-date/",
+      "pubDate": "Wed, 15 Jul 2026 12:30:14 GMT",
+      "contentSnippet": "PS5 owners will be able to enjoy a brand new farming simulator that's similar to Stardew Valley when it releases on September 24.",
+      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/07/farming_camp_screenshot_1920x1080.jpg"
+    },
+    {
+      "guid": "PhDAnqJFDaVc4LEGodPXaV",
+      "title": " GTA 6 isn't on PC at launch because it's 'always better to start with the constraints', suggests former Rockstar producer ",
+      "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-isnt-on-pc-at-launch-because-its-always-better-to-start-with-the-constraints-suggests-former-rockstar-producer/",
+      "pubDate": "Wed, 15 Jul 2026 11:29:54 +0000",
+      "contentSnippet": "\"It's not that we don't care about PC.\"",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/csHd3LAqcjtFkUocmzkuME-1280-80.png"
+    },
+    {
+      "guid": "saJmh5zvJYmPVShS7R9GKA",
+      "title": " That annoying day one DLC in Assassin's Creed Black Flag Resynced was less than 3% of its initial Steam sales, but hey, $1 million is $1 million ",
+      "link": "https://www.pcgamer.com/games/action/that-annoying-day-one-dlc-in-assassins-creed-black-flag-resynced-was-less-than-3-percent-of-its-initial-steam-sales-but-hey-usd1-million-is-usd1-million/",
+      "pubDate": "Wed, 15 Jul 2026 10:52:19 +0000",
+      "contentSnippet": "Still a decent haul of dubloons.",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/vGGmgYj7uGH3BvCuxdkLej-1280-80.jpg"
+    },
+    {
+      "guid": "vuVbdvHz3dA2uBNmdfxrhG",
+      "title": " Latest Microsoft Patch Tuesday updates stamp out a record 622 security vulnerabilities, as the company's AI-enhanced bug hunt looks to bear fruit ",
+      "link": "https://www.pcgamer.com/software/windows/latest-microsoft-patch-tuesday-updates-stamp-out-a-record-622-security-vulnerabilities-as-the-companys-ai-enhanced-bug-hunt-looks-to-bear-fruit/",
+      "pubDate": "Wed, 15 Jul 2026 10:30:52 +0000",
+      "contentSnippet": "Squish, squish, squish.",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/yEMK6QNhtXcquwrZJYVkoB-1280-80.jpg"
+    },
+    {
       "guid": "VQJRLLgNdRp7qAuy2XSoXK",
       "title": " Fighting game developer previously accused of sexual harassment confirmed to be working on Avatar Legends a week before release ",
       "link": "https://www.pcgamer.com/games/fighting/fighting-game-developer-previously-accused-of-sexual-harassment-confirmed-to-be-working-on-avatar-legends-a-week-before-release/",
       "pubDate": "Wed, 15 Jul 2026 00:55:04 +0000",
       "contentSnippet": "Mike Zaimont was the subject of a 2021 lawsuit at former Skullgirls developer Lab Zero.",
       "thumbnail": "https://cdn.mos.cms.futurecdn.net/kwaD2wXBQYKgDGLaTFbHvM-1280-80.jpg"
-    },
-    {
-      "guid": "https://gamerant.com/disney-dreamlight-valley-ddv-honey-glazed-plush-fish-recipe/",
-      "title": "Honey Glazed Plush Fish Recipe in Disney Dreamlight Valley (DDV)",
-      "link": "https://gamerant.com/disney-dreamlight-valley-ddv-honey-glazed-plush-fish-recipe/",
-      "pubDate": "Wed, 15 Jul 2026 00:22:58 GMT",
-      "contentSnippet": "Honey Glazed Plush Fish is a delicious recipe introduced in Honeyglow Woods Adventure Pack in Disney Dreamlight Valley. Here's how to make it.",
-      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/07/ddv-honey-glazed-plush-fish-disney-dreamlight-valley.jpg"
-    },
-    {
-      "guid": "https://gamerant.com/the-alters-last-variable-best-alters-early-game/",
-      "title": "Best Early Game Alters in The Alters Last Variable",
-      "link": "https://gamerant.com/the-alters-last-variable-best-alters-early-game/",
-      "pubDate": "Wed, 15 Jul 2026 00:17:09 GMT",
-      "contentSnippet": "You can create up to four alters for the Scientist Jan, but which one is the best to have at your base first? Find out here with this DLC guide!",
-      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/07/which-alter-to-unlock-first-the-alters-last-variable.jpg"
-    },
-    {
-      "guid": "https://gamerant.com/the-alters-last-variable-organics-location/",
-      "title": "The Alters DLC: How to Get Organics",
-      "link": "https://gamerant.com/the-alters-last-variable-organics-location/",
-      "pubDate": "Wed, 15 Jul 2026 00:08:47 GMT",
-      "contentSnippet": "To survive the Sunrise, you need to use the Cryosleep Chamber, and that will require massive amounts of Organics. Here's how to get them!",
-      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/07/how-to-get-organics-in-the-alters-last-variable.jpg"
-    },
-    {
-      "guid": "https://gamerant.com/ubisoft-2026-game-release-plans/",
-      "title": "Ubisoft Says 2026 Will Be Light on Major Releases Outside Assassin's Creed",
-      "link": "https://gamerant.com/ubisoft-2026-game-release-plans/",
-      "pubDate": "Tue, 14 Jul 2026 23:44:18 GMT",
-      "contentSnippet": "Ubisoft confirms a quieter 2026 release schedule after Black Flag Resynced, while teasing that several major franchises are still on the way.",
-      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/07/ubisoft-says-2026-will-be-light-on-major-releases-outside-assassins-creed-gamerant-feature.jpg"
     },
     {
       "guid": "HRHEQPUMHAxUax5EW392LG",
@@ -56,46 +96,6 @@
       "pubDate": "Tue, 14 Jul 2026 22:25:25 +0000",
       "contentSnippet": "Steve Allison launched Epic's storefront in 2018 and held the reins until earlier this month.",
       "thumbnail": "https://cdn.mos.cms.futurecdn.net/75gQ4Gm8PeVR3nQSWHgXYf-1280-80.jpg"
-    },
-    {
-      "guid": "MG36Equc4TKCFHZeJ395TH",
-      "title": " The best Palworld 1.0 base locations for early game builds, resource-rich farms, or raid safe havens ",
-      "link": "https://www.pcgamer.com/games/survival-crafting/palworld-best-base-locations/",
-      "pubDate": "Tue, 14 Jul 2026 21:35:17 +0000",
-      "contentSnippet": "Real estate for new saves, hardwood farming, or a little bit of everything.",
-      "thumbnail": "https://cdn.mos.cms.futurecdn.net/wQFMzuogCvTeCWWXMcE4PW-1280-80.jpg"
-    },
-    {
-      "guid": "B5R6Pw3Vv7Z7FVMDLe66sW",
-      "title": " Dragon's Dogma 2: Dark Arisen's new region and dungeons sound great, but I'm more excited to finally high-five my Pawn on command ",
-      "link": "https://www.pcgamer.com/games/rpg/dragons-dogma-2-dark-arisens-new-region-and-dungeons-sound-great-but-im-more-excited-to-finally-high-five-my-pawn-on-command/",
-      "pubDate": "Tue, 14 Jul 2026 20:45:37 +0000",
-      "contentSnippet": "'Tis one of a servant's many privileges.",
-      "thumbnail": "https://cdn.mos.cms.futurecdn.net/EJuFzisfafiwPpKihPxL4Q-1280-80.jpg"
-    },
-    {
-      "guid": "127115",
-      "title": "Techland Cancels PlayStation 4 And Xbox One Versions Of Dying Light: The Beast\n",
-      "link": "https://gameinformer.com/2026/07/14/techland-cancels-playstation-4-and-xbox-one-versions-of-dying-light-the-beast",
-      "pubDate": "Tue, 14 Jul 2026 13:31:00 CDT",
-      "contentSnippet": "Techland launched Dying Light: The Beast last September for current consoles and PC, but had planned to bring the game to PlayStation 4 and Xbox One at a later date. Unfortunately for players on those platforms, those plans have been axed.\nThe developer/publisher posted on X stating that it will no longer bring Dying Light: The Beast to last-gen consoles due to technical issues getting the game to run well on older hardware.\n“Dying Light: The Beast was built from the ground up to take full advantage of current-generation hardware,\" Techland writes. \"Its open world, advanced visuals, and fluid combat and traversal all depend on processing power and memory that previous-generation consoles simply cannot provide. As development progressed, it became clear that bringing the game to those platforms would require compromises that would prevent us from delivering the experience we set out to create.\nThis was not a matter of choosing to leave those platforms behind. Rather, it reflected the technical realities of development and our commitment to delivering the best possible experience.\"\n\nAfter careful consideration, we have made the difficult decision that Dying Light: The Beast will no longer be released on PlayStation 4 and Xbox One.\nDying Light: The Beast was built from the ground up to take full advantage of current-generation hardware. Its open world,…\n— Dying Light (@DyingLightGame) July 14, 2026\n Techland states that any players who had planned to play Dying Light: The Beast on PS4 or Xbox One are eligible for a refund.\nDying Light: The Beast was released on September 19, 2025, and sees the protagonist of the first game, Kyle Crane, return as the playable character after suffering genetic mutations granting him special powers. We scored the game an 8.5 out of 10 in our review. Techland recently released a new edition of the game called Restored Land that adds a new persistent survival mode alongside every piece of available content.",
-      "thumbnail": "https://www.gameinformer.com/sites/default/files/styles/body_default/public/2025/09/19/3c4dc7ba/screenshot_6_-_gameplay.jpg.webp"
-    },
-    {
-      "guid": "aYSNT3Myux2yd2TwYq2T4T",
-      "title": " A forgotten dungeon crawler from the Baldur's Gate era is coming to Steam and GOG for the first time ever ",
-      "link": "https://www.pcgamer.com/games/rpg/a-forgotten-dungeon-crawler-from-the-baldurs-gate-era-is-coming-to-steam-and-gog-for-the-first-time-ever/",
-      "pubDate": "Tue, 14 Jul 2026 18:30:15 +0000",
-      "contentSnippet": "Pool of Radiance: Ruins of Myth Drannor floundered when it was new, but I have to admit that I'm very interested in this re-release.",
-      "thumbnail": "https://cdn.mos.cms.futurecdn.net/9JQ65PSc5gdgVbkT6DvzSV-1280-80.jpg"
-    },
-    {
-      "guid": "h2UKUnMLx2TUyQNMgzhsJd",
-      "title": " The PC Gaming Show Tokyo Direct returns September 20 ",
-      "link": "https://www.pcgamer.com/gaming-industry/events-conferences/the-pc-gaming-show-tokyo-direct-returns-september-20/",
-      "pubDate": "Tue, 14 Jul 2026 17:19:56 +0000",
-      "contentSnippet": "We had such a good time last year we decided this should be an annual trip.",
-      "thumbnail": "https://cdn.mos.cms.futurecdn.net/VYKMPtZ9vinnQ8UUMhZXVR-1280-80.jpg"
     }
   ]
 }
