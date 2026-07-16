@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15",
+  "updated": "2026-07-16",
   "systems": {
     "3do": [
       {
@@ -731,8 +731,8 @@
       {
         "rank": 3,
         "name": "BattleSphere",
-        "price_usd": 412.49,
-        "price_eur": 379.49,
+        "price_usd": 413.44,
+        "price_eur": 380.36,
         "isHistory": false
       },
       {
@@ -901,100 +901,100 @@
       },
       {
         "rank": 7,
+        "name": "SCART Cable",
+        "price_usd": 187.5,
+        "price_eur": 172.5,
+        "isHistory": false
+      },
+      {
+        "rank": 8,
         "name": "Speed Devils [Clean Cover]",
         "price_usd": 185,
         "price_eur": 170.2,
         "isHistory": false
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "Illbleed",
-        "price_usd": 176.56,
-        "price_eur": 162.44,
+        "price_usd": 177.35,
+        "price_eur": 163.16,
         "isHistory": false
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "Cannon Spike",
         "price_usd": 176.25,
         "price_eur": 162.15,
         "isHistory": false
       },
       {
-        "rank": 10,
+        "rank": 11,
+        "name": "Sega Dreamcast Console",
+        "price_usd": 143.89,
+        "price_eur": 132.38,
+        "isHistory": false
+      },
+      {
+        "rank": 12,
         "name": "Sega Dreamcast Broadband Adapter",
         "price_usd": 139.48,
         "price_eur": 128.32,
         "isHistory": false
       },
       {
-        "rank": 11,
-        "name": "Sega Dreamcast Console",
-        "price_usd": 135,
-        "price_eur": 124.2,
-        "isHistory": false
-      },
-      {
-        "rank": 12,
+        "rank": 13,
         "name": "Giga Wing 2",
         "price_usd": 129.04,
         "price_eur": 118.72,
         "isHistory": false
       },
       {
-        "rank": 13,
+        "rank": 14,
         "name": "NEO XYX",
         "price_usd": 127,
         "price_eur": 116.84,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 15,
         "name": "JoJo's Bizarre Adventure",
-        "price_usd": 105.57,
-        "price_eur": 97.12,
+        "price_usd": 119,
+        "price_eur": 109.48,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 16,
         "name": "The House of the Dead 2 [Gun Bundle]",
         "price_usd": 100,
         "price_eur": 92,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 17,
         "name": "Giga Wing",
         "price_usd": 99.01,
         "price_eur": 91.09,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 18,
         "name": "Sega Dreamcast Arcade Stick",
         "price_usd": 98.46,
         "price_eur": 90.58,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 19,
         "name": "Dream Point Bank VMU",
         "price_usd": 91.74,
         "price_eur": 84.4,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 20,
         "name": "The Typing of the Dead",
         "price_usd": 89.98,
         "price_eur": 82.78,
-        "isHistory": false
-      },
-      {
-        "rank": 20,
-        "name": "Project Justice",
-        "price_usd": 89.97,
-        "price_eur": 82.77,
         "isHistory": false
       }
     ],
@@ -1114,8 +1114,8 @@
       {
         "rank": 17,
         "name": "BurgerTime",
-        "price_usd": 40.53,
-        "price_eur": 37.29,
+        "price_usd": 40.49,
+        "price_eur": 37.25,
         "isHistory": false
       },
       {
@@ -1390,14 +1390,14 @@
       },
       {
         "rank": 16,
-        "name": "Analogue Pocket [Grape]",
+        "name": "Analogue Pocket [Berry]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
       },
       {
         "rank": 17,
-        "name": "Analogue Pocket [Berry]",
+        "name": "Analogue Pocket [Grape]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
@@ -1405,8 +1405,8 @@
       {
         "rank": 18,
         "name": "Gameboy Light [Yellow]",
-        "price_usd": 382.28,
-        "price_eur": 351.7,
+        "price_usd": 381.97,
+        "price_eur": 351.41,
         "isHistory": false
       },
       {
@@ -1455,14 +1455,14 @@
       },
       {
         "rank": 5,
-        "name": "Disney Channel Gameboy Advance SP",
+        "name": "Pokemon Emerald [Not for Resale]",
         "price_usd": 800,
         "price_eur": 736,
         "isHistory": false
       },
       {
         "rank": 6,
-        "name": "Pokemon Emerald [Not for Resale]",
+        "name": "Disney Channel Gameboy Advance SP",
         "price_usd": 800,
         "price_eur": 736,
         "isHistory": false
@@ -1512,8 +1512,8 @@
       {
         "rank": 13,
         "name": "Ninja Five O",
-        "price_usd": 313.03,
-        "price_eur": 287.99,
+        "price_usd": 310,
+        "price_eur": 285.2,
         "isHistory": false
       },
       {
@@ -1554,8 +1554,8 @@
       {
         "rank": 19,
         "name": "iQue Gameboy Advance",
-        "price_usd": 225.86,
-        "price_eur": 207.79,
+        "price_usd": 225.63,
+        "price_eur": 207.58,
         "isHistory": false
       },
       {
@@ -1640,8 +1640,8 @@
       {
         "rank": 11,
         "name": "Hamtaro Ham-Hams Unite! [Not For Resale]",
-        "price_usd": 181.31,
-        "price_eur": 166.81,
+        "price_usd": 181.91,
+        "price_eur": 167.36,
         "isHistory": false
       },
       {
@@ -1681,16 +1681,16 @@
       },
       {
         "rank": 17,
-        "name": "Tommy Hilfiger Gameboy Color",
-        "price_usd": 137.26,
-        "price_eur": 126.28,
+        "name": "Pokemon Gold and Silver Special Edition Gameboy Color",
+        "price_usd": 137.11,
+        "price_eur": 126.14,
         "isHistory": false
       },
       {
         "rank": 18,
-        "name": "Pokemon Gold and Silver Special Edition Gameboy Color",
-        "price_usd": 137.11,
-        "price_eur": 126.14,
+        "name": "Tommy Hilfiger Gameboy Color",
+        "price_usd": 136.88,
+        "price_eur": 125.93,
         "isHistory": false
       },
       {
@@ -1795,23 +1795,23 @@
       },
       {
         "rank": 13,
+        "name": "Sega Game Gear Handheld",
+        "price_usd": 65.82,
+        "price_eur": 60.55,
+        "isHistory": false
+      },
+      {
+        "rank": 14,
         "name": "Urban Strike",
         "price_usd": 59.71,
         "price_eur": 54.93,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 15,
         "name": "Defenders of Oasis",
         "price_usd": 56.36,
         "price_eur": 51.85,
-        "isHistory": false
-      },
-      {
-        "rank": 15,
-        "name": "Sega Game Gear Handheld",
-        "price_usd": 54.07,
-        "price_eur": 49.74,
         "isHistory": false
       },
       {
@@ -1867,16 +1867,16 @@
       },
       {
         "rank": 3,
-        "name": "Analogue Mega Sg [Japan Version]",
-        "price_usd": 650,
-        "price_eur": 598,
+        "name": "Analogue Mega SG",
+        "price_usd": 650.39,
+        "price_eur": 598.36,
         "isHistory": false
       },
       {
         "rank": 4,
-        "name": "Analogue Mega SG",
-        "price_usd": 630,
-        "price_eur": 579.6,
+        "name": "Analogue Mega Sg [Japan Version]",
+        "price_usd": 650,
+        "price_eur": 598,
         "isHistory": false
       },
       {
@@ -1895,23 +1895,23 @@
       },
       {
         "rank": 7,
+        "name": "Crusader of Centy",
+        "price_usd": 564.98,
+        "price_eur": 519.78,
+        "isHistory": false
+      },
+      {
+        "rank": 8,
         "name": "New Leaf",
         "price_usd": 549.97,
         "price_eur": 505.97,
         "isHistory": false
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "Sega Genesis CDx Console",
         "price_usd": 531.23,
         "price_eur": 488.73,
-        "isHistory": false
-      },
-      {
-        "rank": 9,
-        "name": "Crusader of Centy",
-        "price_usd": 487.39,
-        "price_eur": 448.4,
         "isHistory": false
       },
       {
@@ -1966,8 +1966,8 @@
       {
         "rank": 17,
         "name": "Star Odyssey",
-        "price_usd": 260.6,
-        "price_eur": 239.75,
+        "price_usd": 260.59,
+        "price_eur": 239.74,
         "isHistory": false
       },
       {
@@ -2067,14 +2067,14 @@
       },
       {
         "rank": 11,
-        "name": "Alex Kidd in Shinobi World [Blue Label]",
+        "name": "Chapolim x Dracula: Um Duelo Assustador",
         "price_usd": 79.99,
         "price_eur": 73.59,
         "isHistory": false
       },
       {
         "rank": 12,
-        "name": "Chapolim x Dracula: Um Duelo Assustador",
+        "name": "Alex Kidd in Shinobi World [Blue Label]",
         "price_usd": 79.99,
         "price_eur": 73.59,
         "isHistory": false
@@ -2096,8 +2096,8 @@
       {
         "rank": 15,
         "name": "Power Supply",
-        "price_usd": 71.88,
-        "price_eur": 66.13,
+        "price_usd": 72.19,
+        "price_eur": 66.41,
         "isHistory": false
       },
       {
@@ -2109,16 +2109,16 @@
       },
       {
         "rank": 17,
-        "name": "Montezuma's Revenge",
-        "price_usd": 56.85,
-        "price_eur": 52.3,
+        "name": "Alf",
+        "price_usd": 62.1,
+        "price_eur": 57.13,
         "isHistory": false
       },
       {
         "rank": 18,
-        "name": "Alf",
-        "price_usd": 54.25,
-        "price_eur": 49.91,
+        "name": "Montezuma's Revenge",
+        "price_usd": 56.85,
+        "price_eur": 52.3,
         "isHistory": false
       },
       {
@@ -2188,16 +2188,16 @@
       },
       {
         "rank": 8,
-        "name": "Alien Soldier",
-        "price_usd": 226.08,
-        "price_eur": 207.99,
+        "name": "Fatal Fury 2",
+        "price_usd": 226.38,
+        "price_eur": 208.27,
         "isHistory": false
       },
       {
         "rank": 9,
-        "name": "Fatal Fury 2",
-        "price_usd": 217.82,
-        "price_eur": 200.39,
+        "name": "Alien Soldier",
+        "price_usd": 226.08,
+        "price_eur": 207.99,
         "isHistory": false
       },
       {
@@ -2488,8 +2488,8 @@
       {
         "rank": 10,
         "name": "Pokemon [Not for Resale Zoroark]",
-        "price_usd": 916.1,
-        "price_eur": 842.81,
+        "price_usd": 924.65,
+        "price_eur": 850.68,
         "isHistory": false
       },
       {
@@ -2515,16 +2515,16 @@
       },
       {
         "rank": 14,
-        "name": "Pokemon Legendary Distribution",
-        "price_usd": 649.99,
-        "price_eur": 597.99,
+        "name": "Pokemon [Legendary Not For Resale Y90E]",
+        "price_usd": 615.43,
+        "price_eur": 566.2,
         "isHistory": false
       },
       {
         "rank": 15,
-        "name": "Pokemon [Legendary Not For Resale Y90E]",
-        "price_usd": 615.43,
-        "price_eur": 566.2,
+        "name": "Pokemon Legendary Distribution",
+        "price_usd": 601.85,
+        "price_eur": 553.7,
         "isHistory": false
       },
       {
@@ -2881,8 +2881,8 @@
       {
         "rank": 5,
         "name": "Neo Geo Pocket Color [Platinum Silver]",
-        "price_usd": 169.58,
-        "price_eur": 156.01,
+        "price_usd": 169.57,
+        "price_eur": 156,
         "isHistory": false
       },
       {
@@ -2909,8 +2909,8 @@
       {
         "rank": 9,
         "name": "Pocket Reversi",
-        "price_usd": 88.97,
-        "price_eur": 81.85,
+        "price_usd": 88.3,
+        "price_eur": 81.24,
         "isHistory": false
       },
       {
@@ -2936,16 +2936,16 @@
       },
       {
         "rank": 13,
-        "name": "Biomotor Unitron",
-        "price_usd": 63.83,
-        "price_eur": 58.72,
+        "name": "Metal Slug 2nd Mission",
+        "price_usd": 63.65,
+        "price_eur": 58.56,
         "isHistory": false
       },
       {
         "rank": 14,
-        "name": "Metal Slug 2nd Mission",
-        "price_usd": 63.65,
-        "price_eur": 58.56,
+        "name": "Biomotor Unitron",
+        "price_usd": 60.25,
+        "price_eur": 55.43,
         "isHistory": false
       },
       {
@@ -2965,8 +2965,8 @@
       {
         "rank": 17,
         "name": "Metal Slug 1st Mission",
-        "price_usd": 57.03,
-        "price_eur": 52.47,
+        "price_usd": 56.61,
+        "price_eur": 52.08,
         "isHistory": false
       },
       {
@@ -3300,8 +3300,8 @@
       {
         "rank": 4,
         "name": "Tail Concerto",
-        "price_usd": 293.92,
-        "price_eur": 270.41,
+        "price_usd": 294.45,
+        "price_eur": 270.89,
         "isHistory": false
       },
       {
@@ -3321,8 +3321,8 @@
       {
         "rank": 7,
         "name": "Clock Tower 2",
-        "price_usd": 222.15,
-        "price_eur": 204.38,
+        "price_usd": 226.07,
+        "price_eur": 207.98,
         "isHistory": false
       },
       {
@@ -3334,16 +3334,16 @@
       },
       {
         "rank": 9,
-        "name": "Persona Revelations Series",
-        "price_usd": 219.87,
-        "price_eur": 202.28,
+        "name": "PSOne Slim Console with LCD Screen Combo",
+        "price_usd": 217.5,
+        "price_eur": 200.1,
         "isHistory": false
       },
       {
         "rank": 10,
-        "name": "PSOne Slim Console with LCD Screen Combo",
-        "price_usd": 217.5,
-        "price_eur": 200.1,
+        "name": "Persona Revelations Series",
+        "price_usd": 209.63,
+        "price_eur": 192.86,
         "isHistory": false
       },
       {
@@ -3404,16 +3404,16 @@
       },
       {
         "rank": 19,
-        "name": "Silent Hill [Greatest Hits]",
-        "price_usd": 142.71,
-        "price_eur": 131.29,
+        "name": "Silent Hill",
+        "price_usd": 144.68,
+        "price_eur": 133.11,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "Tales of Destiny 2",
-        "price_usd": 141.58,
-        "price_eur": 130.25,
+        "name": "Silent Hill [Greatest Hits]",
+        "price_usd": 142.71,
+        "price_eur": 131.29,
         "isHistory": false
       }
     ],
@@ -3570,8 +3570,8 @@
       {
         "rank": 2,
         "name": "PSP 3010 Metal Gear Solid: Peace Walker",
-        "price_usd": 472.76,
-        "price_eur": 434.94,
+        "price_usd": 476.66,
+        "price_eur": 438.53,
         "isHistory": false
       },
       {
@@ -3590,44 +3590,44 @@
       },
       {
         "rank": 5,
+        "name": "PSP Go Piano Black",
+        "price_usd": 194.43,
+        "price_eur": 178.88,
+        "isHistory": false
+      },
+      {
+        "rank": 6,
         "name": "PSP Go Pearl White",
         "price_usd": 193.83,
         "price_eur": 178.32,
         "isHistory": false
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "PSP 3000 Gran Turismo Limited Edition Pack [Mystic Silver]",
         "price_usd": 189.33,
         "price_eur": 174.18,
         "isHistory": false
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "PSP 3000 Console Purple",
         "price_usd": 184.97,
         "price_eur": 170.17,
         "isHistory": false
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "PSP 3000 Limited Edition Metal Gear Big Boss Bundle",
         "price_usd": 182.5,
         "price_eur": 167.9,
         "isHistory": false
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "PSP 3000 Limited Edition Rock Band Version",
         "price_usd": 177.61,
         "price_eur": 163.4,
-        "isHistory": false
-      },
-      {
-        "rank": 10,
-        "name": "PSP Go Piano Black",
-        "price_usd": 174.6,
-        "price_eur": 160.63,
         "isHistory": false
       },
       {
@@ -3681,16 +3681,16 @@
       },
       {
         "rank": 18,
-        "name": "PSP 2000 Limited Edition Star Wars Battlefront Version [White]",
-        "price_usd": 150,
-        "price_eur": 138,
+        "name": "PSP System Kiosk Disc 4",
+        "price_usd": 149,
+        "price_eur": 137.08,
         "isHistory": false
       },
       {
         "rank": 19,
-        "name": "PSP System Kiosk Disc 4",
-        "price_usd": 149,
-        "price_eur": 137.08,
+        "name": "PSP 2000 Limited Edition Star Wars Battlefront Version [White]",
+        "price_usd": 147.46,
+        "price_eur": 135.66,
         "isHistory": false
       },
       {
@@ -3705,8 +3705,8 @@
       {
         "rank": 1,
         "name": "Sega 32X Unit",
-        "price_usd": 404.6,
-        "price_eur": 372.23,
+        "price_usd": 402.66,
+        "price_eur": 370.45,
         "isHistory": false
       },
       {
@@ -3726,8 +3726,8 @@
       {
         "rank": 4,
         "name": "Knuckles Chaotix",
-        "price_usd": 201.75,
-        "price_eur": 185.61,
+        "price_usd": 163.03,
+        "price_eur": 149.99,
         "isHistory": false
       },
       {
@@ -4161,8 +4161,8 @@
       {
         "rank": 5,
         "name": "Blitz",
-        "price_usd": 32.77,
-        "price_eur": 30.15,
+        "price_usd": 32.78,
+        "price_eur": 30.16,
         "isHistory": false
       },
       {
@@ -4202,37 +4202,37 @@
       },
       {
         "rank": 11,
+        "name": "Rip Off",
+        "price_usd": 20.91,
+        "price_eur": 19.24,
+        "isHistory": false
+      },
+      {
+        "rank": 12,
         "name": "Soccer Football",
         "price_usd": 20.9,
         "price_eur": 19.23,
         "isHistory": false
       },
       {
-        "rank": 12,
+        "rank": 13,
         "name": "Starhawk",
         "price_usd": 20.86,
         "price_eur": 19.19,
         "isHistory": false
       },
       {
-        "rank": 13,
+        "rank": 14,
         "name": "WebWarp",
         "price_usd": 20,
         "price_eur": 18.4,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 15,
         "name": "Armor Attack",
         "price_usd": 19.49,
         "price_eur": 17.93,
-        "isHistory": false
-      },
-      {
-        "rank": 15,
-        "name": "Rip Off",
-        "price_usd": 18.61,
-        "price_eur": 17.12,
         "isHistory": false
       },
       {
@@ -4784,30 +4784,30 @@
       },
       {
         "rank": 13,
+        "name": "Pit-Fighter",
+        "price_usd": 85.78,
+        "price_eur": 78.92,
+        "isHistory": false
+      },
+      {
+        "rank": 14,
         "name": "Sinclair ZX Spectrum 128K +2 Computer",
         "price_usd": 85,
         "price_eur": 78.2,
         "isHistory": false
       },
       {
-        "rank": 14,
-        "name": "Spellbound Dizzy",
-        "price_usd": 83.98,
-        "price_eur": 77.26,
-        "isHistory": false
-      },
-      {
         "rank": 15,
-        "name": "Backgammon [ROM Cartridge]",
-        "price_usd": 81.51,
-        "price_eur": 74.99,
+        "name": "Spellbound Dizzy",
+        "price_usd": 83.97,
+        "price_eur": 77.25,
         "isHistory": false
       },
       {
         "rank": 16,
-        "name": "Pit-Fighter",
-        "price_usd": 67.22,
-        "price_eur": 61.84,
+        "name": "Backgammon [ROM Cartridge]",
+        "price_usd": 81.51,
+        "price_eur": 74.99,
         "isHistory": false
       },
       {
@@ -4827,8 +4827,8 @@
       {
         "rank": 19,
         "name": "Batty",
-        "price_usd": 63.63,
-        "price_eur": 58.54,
+        "price_usd": 63.42,
+        "price_eur": 58.35,
         "isHistory": false
       },
       {
