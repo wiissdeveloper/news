@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16",
+  "updated": "2026-07-17",
   "systems": {
     "3do": [
       {
@@ -211,79 +211,79 @@
       },
       {
         "rank": 10,
+        "name": "Cakewalk",
+        "price_usd": 705.56,
+        "price_eur": 649.12,
+        "isHistory": false
+      },
+      {
+        "rank": 11,
         "name": "Out of Control",
         "price_usd": 599.99,
         "price_eur": 551.99,
         "isHistory": false
       },
       {
-        "rank": 11,
+        "rank": 12,
         "name": "Color Bar Generator",
         "price_usd": 591.89,
         "price_eur": 544.54,
         "isHistory": false
       },
       {
-        "rank": 12,
+        "rank": 13,
         "name": "Malagai",
         "price_usd": 575,
         "price_eur": 529,
         "isHistory": false
       },
       {
-        "rank": 13,
+        "rank": 14,
         "name": "Stunt Cycle",
         "price_usd": 550,
         "price_eur": 506,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 15,
         "name": "Halloween",
         "price_usd": 544.1,
         "price_eur": 500.57,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 16,
         "name": "Copy Cart",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 17,
         "name": "Pursuit Of The Pink Panther [Homebrew]",
         "price_usd": 405,
         "price_eur": 372.6,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 18,
         "name": "The Music Machine",
         "price_usd": 391.83,
         "price_eur": 360.48,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 19,
         "name": "Desert Bus 2600 [Homebrew]",
         "price_usd": 350,
         "price_eur": 322,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 20,
         "name": "Dukes Of Hazzard: Stunt Cycle [Homewbrew]",
         "price_usd": 323.95,
         "price_eur": 298.03,
-        "isHistory": false
-      },
-      {
-        "rank": 20,
-        "name": "Cakewalk",
-        "price_usd": 300,
-        "price_eur": 276,
         "isHistory": false
       }
     ],
@@ -319,8 +319,8 @@
       {
         "rank": 5,
         "name": "Tank Command",
-        "price_usd": 299.77,
-        "price_eur": 275.79,
+        "price_usd": 299.99,
+        "price_eur": 275.99,
         "isHistory": false
       },
       {
@@ -517,8 +517,8 @@
       {
         "rank": 13,
         "name": "Atari 400 Console",
-        "price_usd": 105.69,
-        "price_eur": 97.23,
+        "price_usd": 105.84,
+        "price_eur": 97.37,
         "isHistory": false
       },
       {
@@ -566,8 +566,8 @@
       {
         "rank": 20,
         "name": "Captain Beeble",
-        "price_usd": 86.39,
-        "price_eur": 79.48,
+        "price_usd": 86.22,
+        "price_eur": 79.32,
         "isHistory": false
       }
     ],
@@ -793,16 +793,16 @@
       },
       {
         "rank": 12,
-        "name": "Bubble Bobble",
-        "price_usd": 169.99,
-        "price_eur": 156.39,
+        "name": "BattleSphere Gold",
+        "price_usd": 169.95,
+        "price_eur": 156.35,
         "isHistory": false
       },
       {
         "rank": 13,
-        "name": "BattleSphere Gold",
-        "price_usd": 169.95,
-        "price_eur": 156.35,
+        "name": "Bubble Bobble",
+        "price_usd": 164.99,
+        "price_eur": 151.79,
         "isHistory": false
       },
       {
@@ -1206,14 +1206,14 @@
       },
       {
         "rank": 10,
-        "name": "Bubble Bobble 2",
+        "name": "Makaimura [Box Cart]",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
       },
       {
         "rank": 11,
-        "name": "Makaimura [Box Cart]",
+        "name": "Bubble Bobble 2",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
@@ -1313,16 +1313,16 @@
       },
       {
         "rank": 5,
-        "name": "Amazing Tater",
-        "price_usd": 800,
-        "price_eur": 736,
+        "name": "Analogue Pocket [Natural Anodized]",
+        "price_usd": 833.33,
+        "price_eur": 766.66,
         "isHistory": false
       },
       {
         "rank": 6,
-        "name": "Analogue Pocket [Natural Anodized]",
-        "price_usd": 799.99,
-        "price_eur": 735.99,
+        "name": "Amazing Tater",
+        "price_usd": 800,
+        "price_eur": 736,
         "isHistory": false
       },
       {
@@ -1560,9 +1560,9 @@
       },
       {
         "rank": 20,
-        "name": "Pokemon Emerald",
-        "price_usd": 222.5,
-        "price_eur": 204.7,
+        "name": "Everdrive GBA Pro",
+        "price_usd": 221.66,
+        "price_eur": 203.93,
         "isHistory": false
       }
     ],
@@ -1577,8 +1577,8 @@
       {
         "rank": 2,
         "name": "Shantae",
-        "price_usd": 692,
-        "price_eur": 636.64,
+        "price_usd": 696,
+        "price_eur": 640.32,
         "isHistory": false
       },
       {
@@ -1647,22 +1647,22 @@
       {
         "rank": 12,
         "name": "Survival Kids",
-        "price_usd": 170.46,
-        "price_eur": 156.82,
+        "price_usd": 174.56,
+        "price_eur": 160.6,
         "isHistory": false
       },
       {
         "rank": 13,
-        "name": "Pokemon Crystal",
-        "price_usd": 166.39,
-        "price_eur": 153.08,
+        "name": "Modretro Chromatic [GameStop]",
+        "price_usd": 165.25,
+        "price_eur": 152.03,
         "isHistory": false
       },
       {
         "rank": 14,
-        "name": "Modretro Chromatic [GameStop]",
-        "price_usd": 165.25,
-        "price_eur": 152.03,
+        "name": "Pokemon Crystal",
+        "price_usd": 162.77,
+        "price_eur": 149.75,
         "isHistory": false
       },
       {
@@ -1767,16 +1767,16 @@
       },
       {
         "rank": 9,
-        "name": "EverDrive GG X7",
-        "price_usd": 87.5,
-        "price_eur": 80.5,
+        "name": "Tails' Adventure",
+        "price_usd": 84.99,
+        "price_eur": 78.19,
         "isHistory": false
       },
       {
         "rank": 10,
-        "name": "Tails' Adventure",
-        "price_usd": 84.98,
-        "price_eur": 78.18,
+        "name": "EverDrive GG X7",
+        "price_usd": 83.31,
+        "price_eur": 76.65,
         "isHistory": false
       },
       {
@@ -1945,8 +1945,8 @@
       {
         "rank": 14,
         "name": "Sega Nomad",
-        "price_usd": 333.87,
-        "price_eur": 307.16,
+        "price_usd": 333.94,
+        "price_eur": 307.22,
         "isHistory": false
       },
       {
@@ -2116,23 +2116,23 @@
       },
       {
         "rank": 18,
-        "name": "Montezuma's Revenge",
-        "price_usd": 56.85,
-        "price_eur": 52.3,
-        "isHistory": false
-      },
-      {
-        "rank": 19,
         "name": "OutRun [Blue Label]",
         "price_usd": 51.32,
         "price_eur": 47.21,
         "isHistory": false
       },
       {
-        "rank": 20,
+        "rank": 19,
         "name": "3D Glasses",
         "price_usd": 47.81,
         "price_eur": 43.99,
+        "isHistory": false
+      },
+      {
+        "rank": 20,
+        "name": "Montezuma's Revenge",
+        "price_usd": 47.5,
+        "price_eur": 43.7,
         "isHistory": false
       }
     ],
@@ -2460,8 +2460,8 @@
       {
         "rank": 6,
         "name": "Pokemon [Not for Resale Deoxys]",
-        "price_usd": 1620.75,
-        "price_eur": 1491.09,
+        "price_usd": 1619.95,
+        "price_eur": 1490.35,
         "isHistory": false
       },
       {
@@ -2509,8 +2509,8 @@
       {
         "rank": 13,
         "name": "Nintendo DSi Development Kit [Panda]",
-        "price_usd": 663.66,
-        "price_eur": 610.57,
+        "price_usd": 662.72,
+        "price_eur": 609.7,
         "isHistory": false
       },
       {
@@ -2551,8 +2551,8 @@
       {
         "rank": 19,
         "name": "Pokemon Meloetta Distribution Cartridge",
-        "price_usd": 299.85,
-        "price_eur": 275.86,
+        "price_usd": 299.95,
+        "price_eur": 275.95,
         "isHistory": false
       },
       {
@@ -2765,8 +2765,8 @@
       {
         "rank": 9,
         "name": "Little Samson",
-        "price_usd": 2358.16,
-        "price_eur": 2169.51,
+        "price_usd": 2366.9,
+        "price_eur": 2177.55,
         "isHistory": false
       },
       {
@@ -2800,8 +2800,8 @@
       {
         "rank": 14,
         "name": "Analogue NT Mini Noir",
-        "price_usd": 1317.47,
-        "price_eur": 1212.07,
+        "price_usd": 1318.76,
+        "price_eur": 1213.26,
         "isHistory": false
       },
       {
@@ -3009,36 +3009,36 @@
       {
         "rank": 3,
         "name": "PC Engine GT",
-        "price_usd": 573.85,
-        "price_eur": 527.94,
+        "price_usd": 527.22,
+        "price_eur": 485.04,
         "isHistory": false
       },
       {
         "rank": 4,
+        "name": "Magical Chase",
+        "price_usd": 465.49,
+        "price_eur": 428.25,
+        "isHistory": false
+      },
+      {
+        "rank": 5,
         "name": "Illust Booster",
         "price_usd": 449.99,
         "price_eur": 413.99,
         "isHistory": false
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "PC Engine Duo-RX",
         "price_usd": 446.92,
         "price_eur": 411.17,
         "isHistory": false
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "SuperGrafx Console",
         "price_usd": 444.6,
         "price_eur": 409.03,
-        "isHistory": false
-      },
-      {
-        "rank": 7,
-        "name": "Magical Chase",
-        "price_usd": 435.87,
-        "price_eur": 401,
         "isHistory": false
       },
       {
@@ -3100,8 +3100,8 @@
       {
         "rank": 16,
         "name": "PC Engine Duo System",
-        "price_usd": 210.65,
-        "price_eur": 193.8,
+        "price_usd": 227.62,
+        "price_eur": 209.41,
         "isHistory": false
       },
       {
@@ -3207,8 +3207,8 @@
       {
         "rank": 11,
         "name": "PC-FX controller",
-        "price_usd": 106.52,
-        "price_eur": 98,
+        "price_usd": 106.5,
+        "price_eur": 97.98,
         "isHistory": false
       },
       {
@@ -3519,8 +3519,8 @@
       {
         "rank": 15,
         "name": "Haunting Ground",
-        "price_usd": 429.34,
-        "price_eur": 394.99,
+        "price_usd": 395,
+        "price_eur": 363.4,
         "isHistory": false
       },
       {
@@ -3533,8 +3533,8 @@
       {
         "rank": 17,
         "name": "Obscure",
-        "price_usd": 338.54,
-        "price_eur": 311.46,
+        "price_usd": 346.05,
+        "price_eur": 318.37,
         "isHistory": false
       },
       {
@@ -3553,7 +3553,7 @@
       },
       {
         "rank": 20,
-        "name": "Futurama",
+        "name": "Onimusha 3 Soul Katana Controller",
         "price_usd": 250,
         "price_eur": 230,
         "isHistory": false
@@ -4025,8 +4025,8 @@
       {
         "rank": 6,
         "name": "Super Nintendo System [Mario All-Stars Set]",
-        "price_usd": 291.84,
-        "price_eur": 268.49,
+        "price_usd": 293.36,
+        "price_eur": 269.89,
         "isHistory": false
       },
       {
@@ -4039,8 +4039,8 @@
       {
         "rank": 8,
         "name": "Final Fight 3",
-        "price_usd": 241.79,
-        "price_eur": 222.45,
+        "price_usd": 242.11,
+        "price_eur": 222.74,
         "isHistory": false
       },
       {
@@ -4245,8 +4245,8 @@
       {
         "rank": 17,
         "name": "Clean Sweep",
-        "price_usd": 16.31,
-        "price_eur": 15.01,
+        "price_usd": 16.12,
+        "price_eur": 14.83,
         "isHistory": false
       },
       {
@@ -4387,8 +4387,8 @@
       {
         "rank": 17,
         "name": "Nester's Funky Bowling",
-        "price_usd": 91.2,
-        "price_eur": 83.9,
+        "price_usd": 87.12,
+        "price_eur": 80.15,
         "isHistory": false
       },
       {
@@ -4407,9 +4407,9 @@
       },
       {
         "rank": 20,
-        "name": "Panic Bomber",
-        "price_usd": 60.26,
-        "price_eur": 55.44,
+        "name": "Mario Clash",
+        "price_usd": 59.99,
+        "price_eur": 55.19,
         "isHistory": false
       }
     ],
