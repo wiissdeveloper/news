@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17",
+  "updated": "2026-07-18",
   "systems": {
     "3do": [
       {
@@ -291,8 +291,8 @@
       {
         "rank": 1,
         "name": "Scramble [Homebrew]",
-        "price_usd": 463.33,
-        "price_eur": 426.26,
+        "price_usd": 461.73,
+        "price_eur": 424.79,
         "isHistory": false
       },
       {
@@ -340,8 +340,8 @@
       {
         "rank": 8,
         "name": "Pac-Man Double Feature [Gold Edition]",
-        "price_usd": 169.5,
-        "price_eur": 155.94,
+        "price_usd": 169.48,
+        "price_eur": 155.92,
         "isHistory": false
       },
       {
@@ -559,8 +559,8 @@
       {
         "rank": 19,
         "name": "Ultima IV: Quest of the Avatar",
-        "price_usd": 87.07,
-        "price_eur": 80.1,
+        "price_usd": 87.09,
+        "price_eur": 80.12,
         "isHistory": false
       },
       {
@@ -659,8 +659,8 @@
       {
         "rank": 13,
         "name": "Lemmings",
-        "price_usd": 95.54,
-        "price_eur": 87.9,
+        "price_usd": 95.52,
+        "price_eur": 87.88,
         "isHistory": false
       },
       {
@@ -745,8 +745,8 @@
       {
         "rank": 5,
         "name": "Another World",
-        "price_usd": 257.01,
-        "price_eur": 236.45,
+        "price_usd": 256.98,
+        "price_eur": 236.42,
         "isHistory": false
       },
       {
@@ -923,8 +923,8 @@
       {
         "rank": 10,
         "name": "Cannon Spike",
-        "price_usd": 176.25,
-        "price_eur": 162.15,
+        "price_usd": 175.91,
+        "price_eur": 161.84,
         "isHistory": false
       },
       {
@@ -992,9 +992,9 @@
       },
       {
         "rank": 20,
-        "name": "The Typing of the Dead",
-        "price_usd": 89.98,
-        "price_eur": 82.78,
+        "name": "Sonic Adventure 2",
+        "price_usd": 89.99,
+        "price_eur": 82.79,
         "isHistory": false
       }
     ],
@@ -1030,8 +1030,8 @@
       {
         "rank": 5,
         "name": "Famicom Disk System Console",
-        "price_usd": 80.32,
-        "price_eur": 73.89,
+        "price_usd": 81.1,
+        "price_eur": 74.61,
         "isHistory": false
       },
       {
@@ -1206,44 +1206,44 @@
       },
       {
         "rank": 10,
-        "name": "Makaimura [Box Cart]",
-        "price_usd": 275,
-        "price_eur": 253,
-        "isHistory": false
-      },
-      {
-        "rank": 11,
         "name": "Bubble Bobble 2",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
       },
       {
-        "rank": 12,
-        "name": "Twin Famicom AN-505",
-        "price_usd": 257.79,
-        "price_eur": 237.17,
+        "rank": 11,
+        "name": "Makaimura [Box Cart]",
+        "price_usd": 275,
+        "price_eur": 253,
         "isHistory": false
       },
       {
-        "rank": 13,
+        "rank": 12,
         "name": "Bio Miracle Bokutte Upa",
         "price_usd": 253.03,
         "price_eur": 232.79,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 13,
         "name": "Jetsons: Cogswell's Caper",
         "price_usd": 249.98,
         "price_eur": 229.98,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 14,
         "name": "Akumajou Dracula",
         "price_usd": 247.79,
         "price_eur": 227.97,
+        "isHistory": false
+      },
+      {
+        "rank": 15,
+        "name": "Twin Famicom AN-505",
+        "price_usd": 244.41,
+        "price_eur": 224.86,
         "isHistory": false
       },
       {
@@ -1712,8 +1712,8 @@
       {
         "rank": 1,
         "name": "Sega Game Gear [Super Sonic Sports Pack]",
-        "price_usd": 279.59,
-        "price_eur": 257.22,
+        "price_usd": 279.26,
+        "price_eur": 256.92,
         "isHistory": false
       },
       {
@@ -1725,16 +1725,16 @@
       },
       {
         "rank": 3,
-        "name": "CJ Elephant Fugitive",
-        "price_usd": 150,
-        "price_eur": 138,
+        "name": "Blue Sega Game Gear",
+        "price_usd": 151.7,
+        "price_eur": 139.56,
         "isHistory": false
       },
       {
         "rank": 4,
-        "name": "Blue Sega Game Gear",
-        "price_usd": 149.88,
-        "price_eur": 137.89,
+        "name": "CJ Elephant Fugitive",
+        "price_usd": 150,
+        "price_eur": 138,
         "isHistory": false
       },
       {
@@ -2033,8 +2033,8 @@
       {
         "rank": 6,
         "name": "Master Everdrive",
-        "price_usd": 112.12,
-        "price_eur": 103.15,
+        "price_usd": 112.18,
+        "price_eur": 103.21,
         "isHistory": false
       },
       {
@@ -2089,8 +2089,8 @@
       {
         "rank": 14,
         "name": "Phantasy Star",
-        "price_usd": 75.93,
-        "price_eur": 69.86,
+        "price_usd": 75.65,
+        "price_eur": 69.6,
         "isHistory": false
       },
       {
@@ -2224,8 +2224,8 @@
       {
         "rank": 13,
         "name": "Ecco Jr.",
-        "price_usd": 170.84,
-        "price_eur": 157.17,
+        "price_usd": 170.79,
+        "price_eur": 157.13,
         "isHistory": false
       },
       {
@@ -2272,9 +2272,9 @@
       },
       {
         "rank": 20,
-        "name": "Aero the Acro-Bat 2",
-        "price_usd": 113.17,
-        "price_eur": 104.12,
+        "name": "Flink",
+        "price_usd": 119.95,
+        "price_eur": 110.35,
         "isHistory": false
       }
     ],
@@ -2393,23 +2393,23 @@
       },
       {
         "rank": 17,
-        "name": "Nintendo 64 Grape Purple",
-        "price_usd": 160.57,
-        "price_eur": 147.72,
+        "name": "Paper Mario",
+        "price_usd": 161.31,
+        "price_eur": 148.41,
         "isHistory": false
       },
       {
         "rank": 18,
-        "name": "Nintendo 64 Ice Blue Console",
-        "price_usd": 160.17,
-        "price_eur": 147.36,
+        "name": "Nintendo 64 Grape Purple",
+        "price_usd": 160.25,
+        "price_eur": 147.43,
         "isHistory": false
       },
       {
         "rank": 19,
-        "name": "Paper Mario",
-        "price_usd": 158.52,
-        "price_eur": 145.84,
+        "name": "Nintendo 64 Ice Blue Console",
+        "price_usd": 160.17,
+        "price_eur": 147.36,
         "isHistory": false
       },
       {
@@ -2609,8 +2609,8 @@
       {
         "rank": 7,
         "name": "Kizuna Encounter",
-        "price_usd": 2301.19,
-        "price_eur": 2117.09,
+        "price_usd": 2301.2,
+        "price_eur": 2117.1,
         "isHistory": false
       },
       {
@@ -2793,8 +2793,8 @@
       {
         "rank": 13,
         "name": "Flintstones Surprise at Dinosaur Peak",
-        "price_usd": 1501.87,
-        "price_eur": 1381.72,
+        "price_usd": 1517.46,
+        "price_eur": 1396.06,
         "isHistory": false
       },
       {
@@ -3405,8 +3405,8 @@
       {
         "rank": 19,
         "name": "Silent Hill",
-        "price_usd": 144.68,
-        "price_eur": 133.11,
+        "price_usd": 149.17,
+        "price_eur": 137.24,
         "isHistory": false
       },
       {
@@ -3420,14 +3420,14 @@
     "ps2": [
       {
         "rank": 1,
-        "name": "PlayStation 2 System [Blue Automotive Edition]",
+        "name": "PlayStation 2 System [Yellow Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
       },
       {
         "rank": 2,
-        "name": "PlayStation 2 System [Yellow Automotive Edition]",
+        "name": "PlayStation 2 System [Blue Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
@@ -3477,8 +3477,8 @@
       {
         "rank": 9,
         "name": "Kuon",
-        "price_usd": 840,
-        "price_eur": 772.8,
+        "price_usd": 879.99,
+        "price_eur": 809.59,
         "isHistory": false
       },
       {
@@ -3540,8 +3540,8 @@
       {
         "rank": 18,
         "name": "Silent Hill: Shattered Memories",
-        "price_usd": 300,
-        "price_eur": 276,
+        "price_usd": 294.19,
+        "price_eur": 270.65,
         "isHistory": false
       },
       {
@@ -3626,15 +3626,15 @@
       {
         "rank": 10,
         "name": "PSP 3000 Limited Edition Rock Band Version",
-        "price_usd": 177.61,
-        "price_eur": 163.4,
+        "price_usd": 177.68,
+        "price_eur": 163.47,
         "isHistory": false
       },
       {
         "rank": 11,
         "name": "PSP 3000",
-        "price_usd": 164.69,
-        "price_eur": 151.51,
+        "price_usd": 162.45,
+        "price_eur": 149.45,
         "isHistory": false
       },
       {
@@ -3674,23 +3674,23 @@
       },
       {
         "rank": 17,
-        "name": "Legend of Heroes: Trails in the Sky [Premium Edition]",
-        "price_usd": 150.12,
-        "price_eur": 138.11,
-        "isHistory": false
-      },
-      {
-        "rank": 18,
         "name": "PSP System Kiosk Disc 4",
         "price_usd": 149,
         "price_eur": 137.08,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 18,
         "name": "PSP 2000 Limited Edition Star Wars Battlefront Version [White]",
         "price_usd": 147.46,
         "price_eur": 135.66,
+        "isHistory": false
+      },
+      {
+        "rank": 19,
+        "name": "Legend of Heroes: Trails in the Sky [Premium Edition]",
+        "price_usd": 146.2,
+        "price_eur": 134.5,
         "isHistory": false
       },
       {
@@ -3810,8 +3810,8 @@
       {
         "rank": 16,
         "name": "WWF Raw",
-        "price_usd": 61.2,
-        "price_eur": 56.3,
+        "price_usd": 60.4,
+        "price_eur": 55.57,
         "isHistory": false
       },
       {
@@ -3997,8 +3997,8 @@
       {
         "rank": 2,
         "name": "Mega Man X3",
-        "price_usd": 702.55,
-        "price_eur": 646.35,
+        "price_usd": 606.92,
+        "price_eur": 558.37,
         "isHistory": false
       },
       {
@@ -4102,8 +4102,8 @@
       {
         "rank": 17,
         "name": "Aero the Acro-Bat 2",
-        "price_usd": 199.71,
-        "price_eur": 183.73,
+        "price_usd": 198.82,
+        "price_eur": 182.91,
         "isHistory": false
       },
       {
@@ -4122,9 +4122,9 @@
       },
       {
         "rank": 20,
-        "name": "Mega Man 7",
-        "price_usd": 179.13,
-        "price_eur": 164.8,
+        "name": "Hagane The Final Conflict",
+        "price_usd": 177.57,
+        "price_eur": 163.36,
         "isHistory": false
       }
     ],
@@ -4296,8 +4296,8 @@
       {
         "rank": 4,
         "name": "Space Invaders [Homebrew]",
-        "price_usd": 429.65,
-        "price_eur": 395.28,
+        "price_usd": 429.83,
+        "price_eur": 395.44,
         "isHistory": false
       },
       {
