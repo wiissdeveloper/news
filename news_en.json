@@ -1,6 +1,70 @@
 {
-  "date": "2026-07-18",
+  "date": "2026-07-19",
   "notices": [
+    {
+      "guid": "https://gamerant.com/elder-scrolls-6-timeline-development-bethesda-layoffs-tes6-impact/",
+      "title": "Insider Clarifies Elder Scrolls 6 Timeline After Bethesda Layoffs",
+      "link": "https://gamerant.com/elder-scrolls-6-timeline-development-bethesda-layoffs-tes6-impact/",
+      "pubDate": "Sun, 19 Jul 2026 01:57:39 GMT",
+      "contentSnippet": "An established Xbox insider clarifies how recent layoffs at Bethesda affect the development timeline for The Elder Scrolls 6.",
+      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/07/the-elder-scrolls-6-dev-laid-off-illustration-tes-6-custom-logo-with-layoffs-orange-and-blue-color-palette-composite.jpg"
+    },
+    {
+      "guid": "https://gamerant.com/solo-leveling-new-final-arc-release/",
+      "title": "Solo Leveling Officially Confirms New Final Arc Release",
+      "link": "https://gamerant.com/solo-leveling-new-final-arc-release/",
+      "pubDate": "Sun, 19 Jul 2026 00:30:14 GMT",
+      "contentSnippet": "Solo Leveling's final war was glossed over, but a new arc is here to rectify that.",
+      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/07/solo-leveling-karma-new-final-arc-release.jpeg"
+    },
+    {
+      "guid": "https://gamerant.com/call-duty-black-ops-2-player-count/",
+      "title": "Call of Duty: Black Ops 2 on PS5 is Officially More Popular Than BO7 and Warzone Combined",
+      "link": "https://gamerant.com/call-duty-black-ops-2-player-count/",
+      "pubDate": "Sun, 19 Jul 2026 00:00:13 GMT",
+      "contentSnippet": "Black Ops 2 is reportedly outperforming Black Ops 7 and Warzone combined on PS5, proving the 2012 classic still has remarkable staying power.",
+      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/07/call-of-duty-black-ops-2-on-ps5-is-officially-more-popular-than-bo7-and-warzone-combined.jpg"
+    },
+    {
+      "guid": "https://gamerant.com/pokemon-odyssey-2-release/",
+      "title": "New Pokemon Release Has Difficulty Settings and 300 Regional Variants ",
+      "link": "https://gamerant.com/pokemon-odyssey-2-release/",
+      "pubDate": "Sat, 18 Jul 2026 23:00:13 GMT",
+      "contentSnippet": "A recent Pokemon release gives players access to 300 Regional Variants and much more challenging gameplay in a brand-new region.",
+      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/07/pokemon-mega-lucario-z-anime.jpg"
+    },
+    {
+      "guid": "z4DP5NmyhMj3cASEyhBxnU",
+      "title": " The toughest choices in PC games ",
+      "link": "https://www.pcgamer.com/games/the-toughest-choices-in-pc-games/",
+      "pubDate": "Sat, 18 Jul 2026 15:00:00 +0000",
+      "contentSnippet": "And what happens when you make them.",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/xiSfxyGx4borjkRqxq6esm-1280-80.jpg"
+    },
+    {
+      "guid": "NTeoUgdyEP5ZA6aDnzgpXG",
+      "title": " Question time: How long have you been playing MMOs? ",
+      "link": "https://www.pcgamer.com/games/mmo/question-time-how-long-have-you-been-playing-mmos/",
+      "pubDate": "Sat, 18 Jul 2026 15:00:00 +0000",
+      "contentSnippet": "A new age. Or an old one, depending.",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/tKd4VdRTEq5qyjHg4NoWpX-1280-80.png"
+    },
+    {
+      "guid": "cBkV7GRrEnV98xRTtnNPyS",
+      "title": " For years, survival games have convinced us that chopping down 400 trees is somehow part of the fantasy—Palworld proves them wrong ",
+      "link": "https://www.pcgamer.com/games/survival-crafting/for-years-survival-games-have-convinced-us-that-chopping-down-400-trees-is-somehow-part-of-the-fantasy-palworld-proves-them-wrong/",
+      "pubDate": "Sat, 18 Jul 2026 14:00:00 +0000",
+      "contentSnippet": "With a little help from my Pals.",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/yFJmXCdDGdoUGZ28jS9yuE-1280-80.png"
+    },
+    {
+      "guid": "sBdiVtbKRe5M34zXqFbT56",
+      "title": " Valve reassures Team Fortress 2 players that it's still working on the Mann vs Machine update it announced last year: 'We promise we're making progress' ",
+      "link": "https://www.pcgamer.com/games/fps/valve-reassures-team-fortress-2-players-that-its-still-working-on-the-mann-vs-machine-update-it-announced-last-year-we-promise-were-making-progress/",
+      "pubDate": "Sat, 18 Jul 2026 13:36:10 +0000",
+      "contentSnippet": "\"It's taking a lot longer to sort through the new content and changes than we'd originally anticipated.\"",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/ttKafj5nxqZWKL4iegk3ZQ-1280-80.jpg"
+    },
     {
       "guid": "efVfAQG5FErz3JPS4aFznU",
       "title": " Glass mouse pads haven't won me over but gamer sleeves are a different story ",
@@ -10,60 +74,12 @@
       "thumbnail": "https://cdn.mos.cms.futurecdn.net/k4kuxNkQYkPsQHjmVL5eq6-1280-80.jpg"
     },
     {
-      "guid": "https://gamerant.com/roblox-ai-game-creation-text-prompts/",
-      "title": "Roblox Players Will Soon Be Able to Build Games Using AI Text Prompts",
-      "link": "https://gamerant.com/roblox-ai-game-creation-text-prompts/",
-      "pubDate": "Sat, 18 Jul 2026 12:58:27 GMT",
-      "contentSnippet": "Roblox introduces a new feature that lets users aged nine or older create video games using a prompt-based artificial intelligence model.",
-      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/07/roblox-players-soon-able-to-build-games-using-ai-text-prompts-game-rant.jpg"
-    },
-    {
-      "guid": "https://gamerant.com/marathon-pve-limited-time/",
-      "title": "Marathon is Getting New PVE Game Mode, But There's a Catch",
-      "link": "https://gamerant.com/marathon-pve-limited-time/",
-      "pubDate": "Sat, 18 Jul 2026 12:30:13 GMT",
-      "contentSnippet": "Marathon is officially getting a brand-new PvE mode called 'Vault Breaker', but there's a big catch involved.",
-      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/07/marathon-is-getting-new-pve-game-mode-but-theres-a-catch-gamerant-feature.jpg"
-    },
-    {
-      "guid": "https://gamerant.com/fallout-new-vegas-remaster-must-keep-bugs/",
-      "title": "Bugs The Fallout New Vegas Remaster Must Keep",
-      "link": "https://gamerant.com/fallout-new-vegas-remaster-must-keep-bugs/",
-      "pubDate": "Sat, 18 Jul 2026 12:01:13 GMT",
-      "contentSnippet": "With Bethesda announcing a remaster of Obsidian's Fallout: New Vegas, the new game must preserve the original's best bugs.",
-      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/07/new-vegas-feature.jpg"
-    },
-    {
       "guid": "BQSFWo9V7JqoTyW2XBpzBB",
       "title": " Get 15 games for $15 in Humble's 2K Megahits bundle, including Bioshock Infinite, Risk of Rain 2, and one of my favourite shooters of all time ",
       "link": "https://www.pcgamer.com/games/get-15-games-for-usd15-in-humbles-2k-megahits-bundle-including-bioshock-infinite-risk-of-rain-2-and-one-of-my-favourite-shooters-of-all-time/",
       "pubDate": "Sat, 18 Jul 2026 11:57:14 +0000",
-      "contentSnippet": "Also includes XCOM: Enemy Unknown, Borderlands 3 and Bulletstorm: Full Clip Edition.",
+      "contentSnippet": "Also includes XCOM: Enemy Unknown, Borderlands 3, and Bulletstorm: Full Clip Edition.",
       "thumbnail": "https://cdn.mos.cms.futurecdn.net/btnktaA7j5yRkHP8yrwxFE-1280-80.jpg"
-    },
-    {
-      "guid": "https://gamerant.com/fallout-5-elder-scrolls-6-tes6-exclusivity-comments-bethesda/",
-      "title": "Bethesda Issues New Official Statement on Fallout 5, The Elder Scrolls 6 Exclusivity",
-      "link": "https://gamerant.com/fallout-5-elder-scrolls-6-tes6-exclusivity-comments-bethesda/",
-      "pubDate": "Sat, 18 Jul 2026 11:07:13 GMT",
-      "contentSnippet": "Following a bevy of news released by Bethesda, the company fields a question regarding exclusivity for Fallout 5 and The Elder Scrolls 6.",
-      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/06/elder-scrolls-oblivion-screenshot.jpg"
-    },
-    {
-      "guid": "https://gamerant.com/chainsaw-man-denjis-most-op-moments/",
-      "title": "Chainsaw Man: Denji’s Most OP Moments, Ranked",
-      "link": "https://gamerant.com/chainsaw-man-denjis-most-op-moments/",
-      "pubDate": "Sat, 18 Jul 2026 10:30:13 GMT",
-      "contentSnippet": "Denji is one of Chainsaw Man's most powerful characters, and these amazing moments are proof of why fans love rooting for this energetic fighter.",
-      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/07/denji-launches-into-battle.jpg"
-    },
-    {
-      "guid": "https://gamerant.com/moonlight-peaks-beehive-honey-guide/",
-      "title": "How to Make Honey in Moonlight Peaks",
-      "link": "https://gamerant.com/moonlight-peaks-beehive-honey-guide/",
-      "pubDate": "Sat, 18 Jul 2026 10:27:46 GMT",
-      "contentSnippet": "You can use and sell honey from your Moonlight Peaks farm when you build the beehive! Here's everything you need to know.",
-      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/07/moonlight-peaks-beehive.png"
     },
     {
       "guid": "gdhre24BKDPSxKbhfTEznG",
@@ -80,22 +96,6 @@
       "pubDate": "Sat, 18 Jul 2026 09:00:00 +0000",
       "contentSnippet": "Bethesda is finally returning to the irradiated wastes.",
       "thumbnail": "https://cdn.mos.cms.futurecdn.net/6dnPywHYY3GQuNP9mqWswg-1280-80.jpg"
-    },
-    {
-      "guid": "2kGtiRYoHeTDxzTQchqGqd",
-      "title": " We just awarded $500 to the PC gamer who sent us this wild Crimson Desert video, and next month it could be you ",
-      "link": "https://www.pcgamer.com/games/we-just-awarded-usd500-to-the-pc-gamer-who-sent-us-this-wild-crimson-desert-video-next-month-it-could-be-you/",
-      "pubDate": "Fri, 17 Jul 2026 22:58:36 +0000",
-      "contentSnippet": "We're giving away $500 in Amazon gift cards every month, so send in your best gaming clips for a chance to win.",
-      "thumbnail": "https://cdn.mos.cms.futurecdn.net/EtHkSt4P6kg3r8Nr8uTjVU-1280-80.jpg"
-    },
-    {
-      "guid": "KMiDDJE4bBCtFqG3LmxaVm",
-      "title": " Does anyone know how to drive this thing? ",
-      "link": "https://www.pcgamer.com/gaming-industry/does-anyone-know-how-to-drive-this-thing/",
-      "pubDate": "Fri, 17 Jul 2026 22:23:03 +0000",
-      "contentSnippet": "It's increasingly looking like nobody remembers how videogames work—or cares to.",
-      "thumbnail": "https://cdn.mos.cms.futurecdn.net/6iHamTUUaWjTgEMz6FAg8h-1280-80.jpg"
     }
   ]
 }

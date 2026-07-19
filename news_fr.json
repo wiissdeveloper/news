@@ -1,12 +1,36 @@
 {
-  "date": "2026-07-18",
+  "date": "2026-07-19",
   "notices": [
+    {
+      "guid": "https://www.jeuxvideo.com/news/2093584/il-a-installe-windows-95-sur-cette-playstation-et-a-vu-de-ses-propres-yeux-pourquoi-c-est-l-une-des-consoles-les-plus-complexes-de-sony.htm",
+      "title": "Il a installé Windows 95 sur cette PlayStation et a vu de ses propres yeux pourquoi c'est l'une des consoles les plus complexes de Sony !",
+      "link": "https://www.jeuxvideo.com/news/2093584/il-a-installe-windows-95-sur-cette-playstation-et-a-vu-de-ses-propres-yeux-pourquoi-c-est-l-une-des-consoles-les-plus-complexes-de-sony.htm",
+      "pubDate": "Sat, 18 Jul 2026 22:20:09 +0200",
+      "contentSnippet": "Un moddeur a relevé un défi improbable : faire tourner Windows 95 sur une PlayStation 2. Après des heures de travail, il a atteint son objectif, révélant à quel point la machine de Sony reste un bijou technique aussi fascinant que capricieux.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178411/1784107714-4926-card.jpeg"
+    },
+    {
+      "guid": "https://www.gamekult.com/actualite/yoshi-and-the-mysterious-book-une-demo-toute-douce-pour-decouvrir-le-jeu-3050871266.html",
+      "title": "Rien que démo - Yoshi and the Mysterious Book : une démo toute douce pour découvrir le jeu",
+      "link": "https://www.gamekult.com/actualite/yoshi-and-the-mysterious-book-une-demo-toute-douce-pour-decouvrir-le-jeu-3050871266.html",
+      "pubDate": "Sat, 18 Jul 2026 19:02:00 +0200",
+      "contentSnippet": "Même si Yoshi and the Mysterious Book est disponible depuis le mois de mai dernier, Nintendo a fait la belle surprise de permettre aux joueurs de découvrir le titre, et ce, de manière totalement gratuite grâce à une démo jouable. Disponible exclusivement sur Nintendo Switch 2, c'est l'occasion de se familiariser avec ce petit dinosaure vert qui est certainement l'un des plus célèbres dans le milieu vidéoludique.",
+      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050871266/yoshi-and-the-mysterious-book-une-demo-toute-douce-pour-decouvrir-le-jeu-b64fc854__930_300__136-380-1191-720.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2094258/note-17-20-c-est-un-des-meilleurs-jeu-multijoueur-de-sa-generation-et-il-est-a-moins-de-18-sur-ps5.htm",
+      "title": "Noté 17/20, c'est un des meilleurs jeu multijoueur de sa génération, et il est à moins de 18€ sur PS5 !",
+      "link": "https://www.jeuxvideo.com/news/2094258/note-17-20-c-est-un-des-meilleurs-jeu-multijoueur-de-sa-generation-et-il-est-a-moins-de-18-sur-ps5.htm",
+      "pubDate": "Sat, 18 Jul 2026 18:45:10 +0200",
+      "contentSnippet": "Deux ans après sa sortie sur PS5, l'un des meilleurs jeux multijoueur est proposé à petit prix sur le PlayStation Store. L'occasion parfaite de découvrir cette expérience unique en son genre noté 17/20 avec des amis sans se ruiner.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178428/1784282297-6278-card.jpg"
+    },
     {
       "guid": "https://www.gamekult.com/actualite/le-grand-rayman-origins-revient-encore-plus-muscle-et-sera-offert-avec-legends-retold-3050871300.html",
       "title": "Le grand Rayman Origins revient encore plus musclé et sera offert avec Legends Retold",
       "link": "https://www.gamekult.com/actualite/le-grand-rayman-origins-revient-encore-plus-muscle-et-sera-offert-avec-legends-retold-3050871300.html",
       "pubDate": "Sat, 18 Jul 2026 13:12:00 +0200",
-      "contentSnippet": "Il y a quinze ans - une demi-trentaine d'années, rendez-vous compte ! - Ubisoft faisait enfin un détour des Lapins Crétins pour mieux faire revenir Rayman dans Origins sur PS3, Xbox 360 et Wii. On s'en souvient comme si c'était hier : pas de 3D, certes, et pas de Rayman 4, on sait, mais une aventure quasi-parfaite sublimée par le moteur Ubart Framework et une level-design maîtrisé de bout en bout. Et la musique, la musique de Christophe Herald, bon sang !",
+      "contentSnippet": "Il y a quinze ans - une demi-trentaine d'années, rendez-vous compte ! - Ubisoft faisait enfin un détour des Lapins Crétins pour mieux faire revenir Rayman dans Origins sur PS3, Xbox 360 et Wii. On s'en souvient comme si c'était hier : pas de 3D, certes, et pas de Rayman 4, on sait, mais une aventure quasi-parfaite sublimée par le moteur Ubart Framework et un level-design maîtrisé de bout en bout. Et la musique, la musique de Christophe Heral, bon sang !",
       "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050871300/le-grand-rayman-origins-revient-encore-plus-muscle-et-sera-offert-avec-legends-retold-e35c1547__930_300__0-449-1874-1053.png"
     },
     {
@@ -72,30 +96,6 @@
       "pubDate": "Sat, 18 Jul 2026 08:40:08 +0200",
       "contentSnippet": "Le support physique n'a pas encore dit son dernier mot. Alors que l'industrie accélère sa transition vers le tout numérique, plusieurs voix dans le monde s'élèvent pour contrer cet arrêt progressif.",
       "thumbnail": "https://image.jeuxvideo.com/medias-lg/178430/1784296075-8056-card.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=811347",
-      "title": "Gunnar x Tomb Raider : La marque de lunettes contre la fatigue visuelle liée aux écrans sort une collection exclusive, on les a testé pour vous",
-      "link": "https://www.actugaming.net/gunnar-x-tomb-raider-la-marque-de-lunettes-contre-la-fatigue-visuelle-liee-aux-ecrans-sort-une-collection-exclusive-on-les-a-teste-pour-vous-811347/",
-      "pubDate": "Sat, 18 Jul 2026 06:30:44 +0000",
-      "contentSnippet": "ActuGaming.net\nGunnar x Tomb Raider : La marque de lunettes contre la fatigue visuelle liée aux écrans sort une collection exclusive, on les a testé pour vous\n\nQuand on passe des heures devant son écran, pour jouer, écrire, travailler ou surfer, l’inconfort […]\nL'article Gunnar x Tomb Raider : La marque de lunettes contre la fatigue visuelle liée aux écrans sort une collection exclusive, on les a testé pour vous est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/07/gunner-tomb-raider-lunettes-screenshots-10.jpg"
-    },
-    {
-      "guid": "https://www.gamekult.com/actualite/playstation-plus-place-aux-mondes-ouverts-en-juillet-avec-avatar-frontiers-of-pandora-et-rise-of-the-ronin-3050871299.html",
-      "title": "Agenda - PlayStation Plus : place aux mondes ouverts en juillet avec Avatar Frontiers of Pandora et Rise of the Ronin",
-      "link": "https://www.gamekult.com/actualite/playstation-plus-place-aux-mondes-ouverts-en-juillet-avec-avatar-frontiers-of-pandora-et-rise-of-the-ronin-3050871299.html",
-      "pubDate": "Sat, 18 Jul 2026 06:30:00 +0200",
-      "contentSnippet": "Sony Interactive Entertainment a annoncé la liste des titres qui rejoindront le catalogue des jeux PlayStation Plus et qui seront donc à disposition des abonnés Extra et Premium à partir du 21 juillet.",
-      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050871299/playstation-plus-place-aux-mondes-ouverts-en-juillet-avec-avatar-frontiers-of-pandora-et-rise-of-the-ronin-7316a2a2__930_300__0-310-1632-837.png"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=811704",
-      "title": "EA Sports FC 26 dévoile l’évènement Summer Stars",
-      "link": "https://www.actugaming.net/ea-sports-fc-26-devoile-levenement-summer-stars-811704/",
-      "pubDate": "Fri, 17 Jul 2026 18:02:05 +0000",
-      "contentSnippet": "ActuGaming.net\nEA Sports FC 26 dévoile l’évènement Summer Stars\n\nEA Sports FC 26 nous propose l’évènement Summer Stars. Les cartes sont disponibles dans les […]\nL'article EA Sports FC 26 dévoile l’évènement Summer Stars est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/07/ea-sports-fc-26-summer-stars-affiche.jpg"
     }
   ]
 }
