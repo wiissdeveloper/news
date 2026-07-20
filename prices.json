@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19",
+  "updated": "2026-07-20",
   "systems": {
     "3do": [
       {
@@ -148,16 +148,16 @@
     "atari2600": [
       {
         "rank": 1,
-        "name": "Red Sea Crossing",
-        "price_usd": 10400,
-        "price_eur": 9568,
+        "name": "Air Raid",
+        "price_usd": 8499.99,
+        "price_eur": 7819.99,
         "isHistory": false
       },
       {
         "rank": 2,
-        "name": "Air Raid",
-        "price_usd": 8499.99,
-        "price_eur": 7819.99,
+        "name": "Red Sea Crossing",
+        "price_usd": 7031,
+        "price_eur": 6468.52,
         "isHistory": false
       },
       {
@@ -219,8 +219,8 @@
       {
         "rank": 11,
         "name": "Out of Control",
-        "price_usd": 599.99,
-        "price_eur": 551.99,
+        "price_usd": 610.68,
+        "price_eur": 561.83,
         "isHistory": false
       },
       {
@@ -482,8 +482,8 @@
       {
         "rank": 8,
         "name": "Atari 410 Program Recorder",
-        "price_usd": 144.45,
-        "price_eur": 132.89,
+        "price_usd": 147.63,
+        "price_eur": 135.82,
         "isHistory": false
       },
       {
@@ -1134,9 +1134,9 @@
       },
       {
         "rank": 20,
-        "name": "Fairytale",
-        "price_usd": 39,
-        "price_eur": 35.88,
+        "name": "Falsion",
+        "price_usd": 38.75,
+        "price_eur": 35.65,
         "isHistory": false
       }
     ],
@@ -1491,8 +1491,8 @@
       {
         "rank": 10,
         "name": "Gameboy Advance SP [Groudon Edition]",
-        "price_usd": 475.29,
-        "price_eur": 437.27,
+        "price_usd": 463.71,
+        "price_eur": 426.61,
         "isHistory": false
       },
       {
@@ -1518,16 +1518,16 @@
       },
       {
         "rank": 14,
-        "name": "Ninja Five O",
-        "price_usd": 310,
-        "price_eur": 285.2,
+        "name": "Drill Dozer [Not for Resale]",
+        "price_usd": 300,
+        "price_eur": 276,
         "isHistory": false
       },
       {
         "rank": 15,
-        "name": "Drill Dozer [Not for Resale]",
-        "price_usd": 300,
-        "price_eur": 276,
+        "name": "Ninja Five O",
+        "price_usd": 299.99,
+        "price_eur": 275.99,
         "isHistory": false
       },
       {
@@ -1619,8 +1619,8 @@
       {
         "rank": 8,
         "name": "Pine Creek [Collector's Edition]",
-        "price_usd": 318.64,
-        "price_eur": 293.15,
+        "price_usd": 318.69,
+        "price_eur": 293.19,
         "isHistory": false
       },
       {
@@ -1719,8 +1719,8 @@
       {
         "rank": 2,
         "name": "Mega Man",
-        "price_usd": 271.94,
-        "price_eur": 250.18,
+        "price_usd": 272.48,
+        "price_eur": 250.68,
         "isHistory": false
       },
       {
@@ -1837,16 +1837,16 @@
       },
       {
         "rank": 19,
-        "name": "Fatal Fury Special",
-        "price_usd": 42.99,
-        "price_eur": 39.55,
+        "name": "TV Tuner",
+        "price_usd": 45.96,
+        "price_eur": 42.28,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "Gear Master Converter",
-        "price_usd": 40.69,
-        "price_eur": 37.43,
+        "name": "Fatal Fury Special",
+        "price_usd": 42.99,
+        "price_eur": 39.55,
         "isHistory": false
       }
     ],
@@ -2026,8 +2026,8 @@
       {
         "rank": 5,
         "name": "Sega Master System Console",
-        "price_usd": 148.57,
-        "price_eur": 136.68,
+        "price_usd": 145.2,
+        "price_eur": 133.58,
         "isHistory": false
       },
       {
@@ -2082,8 +2082,8 @@
       {
         "rank": 13,
         "name": "Power Strike",
-        "price_usd": 78.25,
-        "price_eur": 71.99,
+        "price_usd": 78.33,
+        "price_eur": 72.06,
         "isHistory": false
       },
       {
@@ -2245,8 +2245,8 @@
       {
         "rank": 16,
         "name": "FX Unit Yuki The Henshin Engine",
-        "price_usd": 147.22,
-        "price_eur": 135.44,
+        "price_usd": 148.06,
+        "price_eur": 136.22,
         "isHistory": false
       },
       {
@@ -2296,8 +2296,8 @@
       {
         "rank": 3,
         "name": "Nintendo 64 007 Goldeneye Value Pack",
-        "price_usd": 817.42,
-        "price_eur": 752.03,
+        "price_usd": 817.89,
+        "price_eur": 752.46,
         "isHistory": false
       },
       {
@@ -2317,8 +2317,8 @@
       {
         "rank": 6,
         "name": "Snowboard Kids 2",
-        "price_usd": 460,
-        "price_eur": 423.2,
+        "price_usd": 471.43,
+        "price_eur": 433.72,
         "isHistory": false
       },
       {
@@ -2358,16 +2358,16 @@
       },
       {
         "rank": 12,
-        "name": "Nintendo 64 Fire Orange",
-        "price_usd": 229.75,
-        "price_eur": 211.37,
+        "name": "Doctor V64",
+        "price_usd": 235.32,
+        "price_eur": 216.49,
         "isHistory": false
       },
       {
         "rank": 13,
-        "name": "Doctor V64",
-        "price_usd": 213.9,
-        "price_eur": 196.79,
+        "name": "Nintendo 64 Fire Orange",
+        "price_usd": 229.19,
+        "price_eur": 210.85,
         "isHistory": false
       },
       {
@@ -2888,8 +2888,8 @@
       {
         "rank": 6,
         "name": "The Last Blade",
-        "price_usd": 126.8,
-        "price_eur": 116.66,
+        "price_usd": 127.29,
+        "price_eur": 117.11,
         "isHistory": false
       },
       {
@@ -2995,8 +2995,8 @@
       {
         "rank": 1,
         "name": "PC Engine LT",
-        "price_usd": 3153.94,
-        "price_eur": 2901.62,
+        "price_usd": 3196.27,
+        "price_eur": 2940.57,
         "isHistory": false
       },
       {
@@ -3086,8 +3086,8 @@
       {
         "rank": 14,
         "name": "Tatsujin",
-        "price_usd": 252.89,
-        "price_eur": 232.66,
+        "price_usd": 253.24,
+        "price_eur": 232.98,
         "isHistory": false
       },
       {
@@ -3349,8 +3349,8 @@
       {
         "rank": 11,
         "name": "Shadow Tower",
-        "price_usd": 204.98,
-        "price_eur": 188.58,
+        "price_usd": 206.72,
+        "price_eur": 190.18,
         "isHistory": false
       },
       {
@@ -3442,8 +3442,8 @@
       {
         "rank": 4,
         "name": "PlayStation 2 System [White Automotive Edition]",
-        "price_usd": 1846.94,
-        "price_eur": 1699.18,
+        "price_usd": 1836.76,
+        "price_eur": 1689.82,
         "isHistory": false
       },
       {
@@ -3490,16 +3490,16 @@
       },
       {
         "rank": 11,
-        "name": "Resident Evil 4 Chainsaw Controller",
-        "price_usd": 649.47,
-        "price_eur": 597.51,
+        "name": "Rule of Rose",
+        "price_usd": 552.36,
+        "price_eur": 508.17,
         "isHistory": false
       },
       {
         "rank": 12,
-        "name": "Rule of Rose",
-        "price_usd": 552.36,
-        "price_eur": 508.17,
+        "name": "Resident Evil 4 Chainsaw Controller",
+        "price_usd": 503.43,
+        "price_eur": 463.16,
         "isHistory": false
       },
       {
@@ -3519,8 +3519,8 @@
       {
         "rank": 15,
         "name": "Haunting Ground",
-        "price_usd": 395,
-        "price_eur": 363.4,
+        "price_usd": 396.25,
+        "price_eur": 364.55,
         "isHistory": false
       },
       {
@@ -3540,8 +3540,8 @@
       {
         "rank": 18,
         "name": "Silent Hill: Shattered Memories",
-        "price_usd": 294.19,
-        "price_eur": 270.65,
+        "price_usd": 300,
+        "price_eur": 276,
         "isHistory": false
       },
       {
@@ -3553,9 +3553,9 @@
       },
       {
         "rank": 20,
-        "name": "Onimusha 3 Soul Katana Controller",
-        "price_usd": 250,
-        "price_eur": 230,
+        "name": "Blood Will Tell",
+        "price_usd": 273.18,
+        "price_eur": 251.33,
         "isHistory": false
       }
     ],
@@ -3598,8 +3598,8 @@
       {
         "rank": 6,
         "name": "PSP Go Pearl White",
-        "price_usd": 193.83,
-        "price_eur": 178.32,
+        "price_usd": 193.92,
+        "price_eur": 178.41,
         "isHistory": false
       },
       {
@@ -4032,8 +4032,8 @@
       {
         "rank": 7,
         "name": "X-Zone",
-        "price_usd": 263.14,
-        "price_eur": 242.09,
+        "price_usd": 263.1,
+        "price_eur": 242.05,
         "isHistory": false
       },
       {
@@ -4224,8 +4224,8 @@
       {
         "rank": 14,
         "name": "WebWarp",
-        "price_usd": 20,
-        "price_eur": 18.4,
+        "price_usd": 20.01,
+        "price_eur": 18.41,
         "isHistory": false
       },
       {
@@ -4245,8 +4245,8 @@
       {
         "rank": 17,
         "name": "Starship",
-        "price_usd": 17.48,
-        "price_eur": 16.08,
+        "price_usd": 17.5,
+        "price_eur": 16.1,
         "isHistory": false
       },
       {
@@ -4487,8 +4487,8 @@
       {
         "rank": 11,
         "name": "Rockman & Forte",
-        "price_usd": 75.7,
-        "price_eur": 69.64,
+        "price_usd": 75.02,
+        "price_eur": 69.02,
         "isHistory": false
       },
       {
@@ -4580,8 +4580,8 @@
       {
         "rank": 4,
         "name": "Super Robot Taisen Compact 3",
-        "price_usd": 153.09,
-        "price_eur": 140.84,
+        "price_usd": 153.07,
+        "price_eur": 140.82,
         "isHistory": false
       },
       {
@@ -4708,8 +4708,8 @@
       {
         "rank": 2,
         "name": "Sinclair ZX Spectrum +2 James Bond 007 Action Pack",
-        "price_usd": 173.41,
-        "price_eur": 159.54,
+        "price_usd": 174.08,
+        "price_eur": 160.15,
         "isHistory": false
       },
       {
