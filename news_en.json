@@ -2,52 +2,92 @@
   "date": "2026-07-20",
   "notices": [
     {
+      "guid": "YSHWH3T8kyR5fpd4UT5kPE",
+      "title": " One of Nvidia CEO Jensen Huang's leather jackets has fetched an auction price of $960,000: 'It has become a symbol for the vision at the forefront of the AI revolution' ",
+      "link": "https://www.pcgamer.com/hardware/one-of-nvidia-ceo-jensen-huangs-leather-jackets-has-fetched-an-auction-price-of-usd960-000-it-has-become-a-symbol-for-the-vision-at-the-forefront-of-the-ai-revolution/",
+      "pubDate": "Mon, 20 Jul 2026 14:08:48 +0000",
+      "contentSnippet": "And now I have it I'm going to frame it and stick it up on my wall.",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/6xW3ucQoEZYyTScKwHvWDF-1280-80.jpg"
+    },
+    {
+      "guid": "https://gamerant.com/resident-evil-arena-breakout-collab-leon-ada-wong/",
+      "title": "It's Official: Resident Evil's Ada Wong Returns \"Soon\"",
+      "link": "https://gamerant.com/resident-evil-arena-breakout-collab-leon-ada-wong/",
+      "pubDate": "Mon, 20 Jul 2026 13:58:38 GMT",
+      "contentSnippet": "Ada Wong is headlining a new Resident Evil release that's set to arrive \"soon,\" although further specifics have yet to be officially revealed.",
+      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/07/resident_evil_text_removed_3840x2160.jpg"
+    },
+    {
+      "guid": "pX6mCG3uwrcVcSjdHRpuWi",
+      "title": " Final Fantasy 14's attempt to take the MMO mobile is over before the world even gets the chance to see it ",
+      "link": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-14s-attempt-to-take-the-mmo-mobile-is-over-before-the-world-even-gets-the-chance-to-see-it/",
+      "pubDate": "Mon, 20 Jul 2026 13:28:26 +0000",
+      "contentSnippet": "A Realm Re-gone.",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/qL6jgHUKB8FGuPCtqi5Fke-1280-80.jpg"
+    },
+    {
+      "guid": "https://gamerant.com/playstation-6-ps6-better-cooling-system-ps5/",
+      "title": "New PS6 Patent Reveals First Major Improvement Over the PS5",
+      "link": "https://gamerant.com/playstation-6-ps6-better-cooling-system-ps5/",
+      "pubDate": "Mon, 20 Jul 2026 13:07:43 GMT",
+      "contentSnippet": "A newly discovered patent for the PlayStation 6 reveals a probable key hardware improvement over both the PS5 and PS5 Pro.",
+      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/07/ps6_upscaled_3840x2160.jpg"
+    },
+    {
+      "guid": "https://gamerant.com/ps-plus-july-2026-free-games-ranked-most-value/",
+      "title": "PS Plus July 2026: Every Free Game Ranked by Value",
+      "link": "https://gamerant.com/ps-plus-july-2026-free-games-ranked-most-value/",
+      "pubDate": "Mon, 20 Jul 2026 12:35:13 GMT",
+      "contentSnippet": "PS Plus's July 2026 games include Ubisoft, Call of Duty, and Team Ninja, but some games simply hold more value than others.",
+      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/07/ps-plus-july-2026-games-ranked-value-call-of-duty-mw3-avatar-rise-of-the-ronin.jpg"
+    },
+    {
+      "guid": "https://gamerant.com/best-turn-based-games-steam-dead-weight-reviews/",
+      "title": "Brand-New Turn-Based Pirate Game Launches to Strong, 85% Very Positive Reviews",
+      "link": "https://gamerant.com/best-turn-based-games-steam-dead-weight-reviews/",
+      "pubDate": "Mon, 20 Jul 2026 12:34:07 GMT",
+      "contentSnippet": "A new turn-based game recently released on Steam, and the reviews paint a pretty picture of a strong turn-based pirate game.",
+      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/07/dead_weight_kraken_upscaled_3840x2160-1.jpg"
+    },
+    {
+      "guid": "h5k7NWMomGenCTVw2UYY46",
+      "title": " Meet GigaWiper, a tricksy new malware that can wipe your PC's storage drives squeaky clean and spy on your desktop all at once ",
+      "link": "https://www.pcgamer.com/software/security/meet-gigawiper-a-tricksy-new-malware-that-can-wipe-your-pcs-storage-drives-squeaky-clean-and-spy-on-your-desktop-all-at-once/",
+      "pubDate": "Mon, 20 Jul 2026 10:42:51 +0000",
+      "contentSnippet": "I guess I could do with the free space...",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/kp8WNzkz7PpxjFvhKppv5X-1280-80.jpg"
+    },
+    {
+      "guid": "tnZenDsPct3399uVqvkpJT",
+      "title": " The FMV game where you're a hamster being doted on by three Japanese sisters was inspired by its creator's job as an animal mascot, and Grand Theft Auto 5 ",
+      "link": "https://www.pcgamer.com/games/visual-novel/the-fmv-game-where-youre-a-hamster-being-doted-on-by-three-japanese-sisters-was-inspired-by-its-creators-job-as-an-animal-mascot-and-grand-theft-auto-5/",
+      "pubDate": "Mon, 20 Jul 2026 04:28:22 +0000",
+      "contentSnippet": "They're calling Sweet Hamster Days a \"being-taken-care-of adventure game.\"",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/ZeeiVar8zZzqZwHdbDzGyn-1280-80.jpg"
+    },
+    {
+      "guid": "wNayPxL2wSJeRj8UX5rhMh",
+      "title": " Sonic & All-Stars Racing Transformed review (2018) ",
+      "link": "https://www.pcgamer.com/games/racing/sonic-and-all-stars-racing-transformed-review-2018/",
+      "pubDate": "Mon, 20 Jul 2026 04:02:48 +0000",
+      "contentSnippet": "Sonic & All-Stars Racing Transformed review: 'I can’t express how happy I am that somebody decided to make this'",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/rxW77dZhKWN2A7fxpmUSwR-1280-80.jpg"
+    },
+    {
+      "guid": "QpZcrNiKYVh4jaWnwPfKM4",
+      "title": " There's an unofficial PC port of Gears of War 2 based on a leaked build from 2008 ",
+      "link": "https://www.pcgamer.com/games/third-person-shooter/theres-an-unofficial-pc-port-of-gears-of-war-2-based-on-a-leaked-build-from-2008/",
+      "pubDate": "Mon, 20 Jul 2026 04:00:12 +0000",
+      "contentSnippet": "It's a rad world.",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/9dYvwPohNatQQmx42zKHYj-1280-80.jpg"
+    },
+    {
       "guid": "cYPPN5nY8EWznM6WLoDMb5",
-      "title": " Steam Week in Review: Take cover, because it looks like more than half of Steam games will have an AI-disclosure by 2027-2028 ",
+      "title": " Steam Week in Review: Take cover, because it looks like more than half of new Steam games will have an AI-disclosure by 2027-2028 ",
       "link": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-take-cover-because-it-looks-like-more-than-half-of-steam-games-will-have-an-ai-disclosure-by-2027-2028/",
       "pubDate": "Mon, 20 Jul 2026 03:35:52 +0000",
       "contentSnippet": "All the interesting Steam facts for the week ending July 19.",
       "thumbnail": "https://cdn.mos.cms.futurecdn.net/AWsSzZBSvPQVFFuS2oKTcL-1280-80.png"
-    },
-    {
-      "guid": "https://gamerant.com/xbox-game-pass-games-leaving-july-2026-wave-2-full-list-ck3/",
-      "title": "Xbox Game Pass Losing 2 Of its Highest-Rated Games and 6 More Titles on July 31",
-      "link": "https://gamerant.com/xbox-game-pass-games-leaving-july-2026-wave-2-full-list-ck3/",
-      "pubDate": "Mon, 20 Jul 2026 02:00:24 GMT",
-      "contentSnippet": "The second wave of Xbox Game Pass departures in July 2026 consists of 7 titles, including two beloved games with 90+ critic scores.",
-      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/07/xbox-game-pass-toxic-green-and-red-logo-fumes-celeste-cave-composite.jpg"
-    },
-    {
-      "guid": "https://gamerant.com/ps5-astro-bot-exclusive-emulator-pc/",
-      "title": "PS5 Exclusive Astro Bot Now Runs on PC",
-      "link": "https://gamerant.com/ps5-astro-bot-exclusive-emulator-pc/",
-      "pubDate": "Sun, 19 Jul 2026 23:00:14 GMT",
-      "contentSnippet": "Though Astro Bot is a PS5 exclusive platformer, some tech-savvy gamers have already managed to boot up the 2024 game of the year on PC.",
-      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/07/ps5-exclusive-astro-bot-now-boots-up-on-pc-emulator.jpg"
-    },
-    {
-      "guid": "https://gamerant.com/masterpiece-open-world-rpg-games-second-play-twice/",
-      "title": "Masterpiece Open-World RPGs Explicitly Built To Be Played Twice",
-      "link": "https://gamerant.com/masterpiece-open-world-rpg-games-second-play-twice/",
-      "pubDate": "Sun, 19 Jul 2026 22:45:13 GMT",
-      "contentSnippet": "It's fine to finish these games once and move on, but you will appreciate them a thousand times more if you stick with them for a second playthrough.",
-      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/07/masterpiece-open-world-rpgs-explicitly-built-to-be-played-twice.jpg"
-    },
-    {
-      "guid": "https://gamerant.com/pokemon-scarlet-violet-white-stripe-basculin-feebas-mark-event/",
-      "title": "Pokemon Scarlet and Violet Players Can Now Easily Get 2 Super Rare Pokemon, But There's a Catch",
-      "link": "https://gamerant.com/pokemon-scarlet-violet-white-stripe-basculin-feebas-mark-event/",
-      "pubDate": "Sun, 19 Jul 2026 22:00:14 GMT",
-      "contentSnippet": "Pokemon Scarlet and Violet players have a one-of-a-kind chance of getting two of the rarest Pokemon in the game, but it's not exactly for everyone.",
-      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/07/pokemon-scarlet-violet-kieran-1.jpg"
-    },
-    {
-      "guid": "https://gamerant.com/humble-bundle-deal-15-dollars-2k-borderlands-bioshock/",
-      "title": "New Deal Gives PC Players $465 of Games for Just $15",
-      "link": "https://gamerant.com/humble-bundle-deal-15-dollars-2k-borderlands-bioshock/",
-      "pubDate": "Sun, 19 Jul 2026 21:30:14 GMT",
-      "contentSnippet": "PC gamers have a limited time to take advantage of a bundle deal that includes several highly-rated titles for a fraction of the original cost.",
-      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/07/15-dollar-2k-megahits-2026-humble-bundle-nets-pc-players-15-games-worth-465-dollars.jpg"
     },
     {
       "guid": "NR5yBLqWxRHEyXtevNW4RJ",
@@ -56,46 +96,6 @@
       "pubDate": "Sun, 19 Jul 2026 17:23:49 +0000",
       "contentSnippet": "\"I wanted it to be my show, and that was the first step of my ego creeping in right there.\"",
       "thumbnail": "https://cdn.mos.cms.futurecdn.net/R6VaNbzRMKLoUKayVScrmX-1280-80.jpg"
-    },
-    {
-      "guid": "P5yBoaeFWwDyXYcXSduren",
-      "title": " What's the best summer-themed videogame track? ",
-      "link": "https://www.pcgamer.com/games/whats-the-best-summer-themed-videogame-track/",
-      "pubDate": "Sun, 19 Jul 2026 17:00:00 +0000",
-      "contentSnippet": "Get your ukuleles and steel pan drums at the ready.",
-      "thumbnail": "https://cdn.mos.cms.futurecdn.net/ALk9WG4iPtTo2dHLawiaMZ-1280-80.jpg"
-    },
-    {
-      "guid": "NWMW6tbNLDpQbiTSMKK6T7",
-      "title": " 'The mid-2000s was the golden era of first-person shooters': David Szymanski, creator of Dusk and Iron Lung, discusses the games on his PC ",
-      "link": "https://www.pcgamer.com/gaming-industry/the-mid-2000s-was-the-golden-era-of-first-person-shooters-david-syzmankski-creator-of-dusk-and-iron-lung-discusses-the-games-on-his-pc/",
-      "pubDate": "Sun, 19 Jul 2026 15:00:00 +0000",
-      "contentSnippet": "The New Blood dev guides us through the games in his Steam library.",
-      "thumbnail": "https://cdn.mos.cms.futurecdn.net/KzayFZLQGnGjmh7mCJYSSm-1280-80.jpg"
-    },
-    {
-      "guid": "XzHkv7MhjYSrg9v4iUfPXK",
-      "title": " Gears of War's creator is considering returning to game development, but whatever he makes won't be PvP like his last efforts: 'Good luck to anyone in that space' ",
-      "link": "https://www.pcgamer.com/gaming-industry/gears-of-wars-creator-is-considering-returning-to-game-development-but-whatever-he-makes-wont-be-pvp-like-his-last-efforts-good-look-to-anyone-in-that-space/",
-      "pubDate": "Sun, 19 Jul 2026 11:43:50 +0000",
-      "contentSnippet": "\"Players just want to hop online with friends and shoot some stuff.\"",
-      "thumbnail": "https://cdn.mos.cms.futurecdn.net/AcaTqBp5D96SjRaanZDZaB-1280-80.jpg"
-    },
-    {
-      "guid": "mvpWAAe3DfjFbjwtUdkp5b",
-      "title": " 'GTA 6 needs this': This GTA 5 prison mod turns one of roleplay's most enduring staples into a game within a game ",
-      "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-needs-this-this-gta-5-prison-mod-turns-one-of-roleplays-most-enduring-staples-into-a-game-within-a-game/",
-      "pubDate": "Sun, 19 Jul 2026 11:00:00 +0000",
-      "contentSnippet": "With flavours of Shawshank , this player-made masterstroke is a world unto itself.",
-      "thumbnail": "https://cdn.mos.cms.futurecdn.net/ruiSvPtYyNtTHT7GHJhhdh-1280-80.jpg"
-    },
-    {
-      "guid": "Ysuoaa3X4RWguPw9KZLJA",
-      "title": " Grab a free Steam game full of misery and decision-making for a limited time ",
-      "link": "https://www.pcgamer.com/games/visual-novel/grab-a-free-steam-game-full-of-misery-and-decision-making-for-a-limited-time/",
-      "pubDate": "Sun, 19 Jul 2026 03:38:15 +0000",
-      "contentSnippet": "The Life and Suffering of Sir Brante seems like it lives up to its name.",
-      "thumbnail": "https://cdn.mos.cms.futurecdn.net/FPX4MSpNAwwyDYJpxercgU-1280-80.jpg"
     }
   ]
 }
