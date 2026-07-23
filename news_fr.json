@@ -1,6 +1,78 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "notices": [
+    {
+      "guid": "https://www.jeuxvideo.com/news/2093613/valve-a-remue-le-couteau-dans-la-plaie-la-plateforme-a-envoye-le-meme-mail-a-ce-createur-pendant-7-ans-pour-lui-rappeler-que-son-jeu-ne-lui-rapportait-rien.htm",
+      "title": "Valve a remué le couteau dans la plaie : la plateforme a envoyé le même mail à ce créateur pendant 7 ans pour lui rappeler que son jeu ne lui rapportait rien…",
+      "link": "https://www.jeuxvideo.com/news/2093613/valve-a-remue-le-couteau-dans-la-plaie-la-plateforme-a-envoye-le-meme-mail-a-ce-createur-pendant-7-ans-pour-lui-rappeler-que-son-jeu-ne-lui-rapportait-rien.htm",
+      "pubDate": "Wed, 22 Jul 2026 22:20:11 +0200",
+      "contentSnippet": "Un développeur a reçu pendant 7 ans le même courriel de Steam : « Aucun revenu cette période ». Valve perpétue ce rappel mensuel malgré tout, ravivant une frustration chez celui qui attend toujours ses gains… qui n’arriveront jamais.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178411/1784113186-1543-card.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2095247/ce-jeu-mythique-note-19-20-etait-si-secret-que-presqu-aucun-employe-de-nintendo-n-etait-au-courant.htm",
+      "title": "Ce jeu mythique noté 19/20 était si secret que presqu'aucun employé de Nintendo n'était au courant",
+      "link": "https://www.jeuxvideo.com/news/2095247/ce-jeu-mythique-note-19-20-etait-si-secret-que-presqu-aucun-employe-de-nintendo-n-etait-au-courant.htm",
+      "pubDate": "Wed, 22 Jul 2026 21:40:12 +0200",
+      "contentSnippet": "Imaginez la scène : vous bossez chez Nintendo, dans les bureaux ultra branchés, et vous apprenez la sortie d’un gros jeu en même temps que le reste du monde, vautré sur votre canapé. Absurde ? C’est pourtant la folle anecdote qui entoure l'un des jeux les plus marquants de la décennie.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178473/1784729260-604-card.png"
+    },
+    {
+      "guid": "https://www.gamekult.com/actualite/jeu-d-arcade-loufoque-de-namco-armadillo-racing-debarque-sur-consoles-pour-la-premiere-fois-3050871359.html",
+      "title": "Jeu d'arcade loufoque de Namco, Armadillo Racing débarque sur consoles pour la première fois",
+      "link": "https://www.gamekult.com/actualite/jeu-d-arcade-loufoque-de-namco-armadillo-racing-debarque-sur-consoles-pour-la-premiere-fois-3050871359.html",
+      "pubDate": "Wed, 22 Jul 2026 20:10:00 +0200",
+      "contentSnippet": "Le partenariat entre Hamster Corporation et Bandai Namco continue de plus belle, pour le plus grand bonheur de la gamme Arcade Archives et des joueurs curieux de découvrir des titres plus ou moins obscurs, qu'ils n'ont pour la plupart jamais eu la chance de croiser dans les salles d'arcade. Le nouvel élu a pour titre Armadillo Racing et il débarque ce jeudi 23 juillet 2026 sur nos machines de salon pour la toute première fois.",
+      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050871359/obscur-jeu-d-arcade-de-namco-armadillo-racing-debarque-sur-consoles-pour-la-premiere-fois-c9a09fc9__930_300__0-295-2048-956.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2095248/mods-assassin-s-creed-black-flag-resynced-lesquels-utiliser.htm",
+      "title": "Mods Assassin's Creed Black Flag Resynced : Lesquels utiliser ?",
+      "link": "https://www.jeuxvideo.com/news/2095248/mods-assassin-s-creed-black-flag-resynced-lesquels-utiliser.htm",
+      "pubDate": "Wed, 22 Jul 2026 19:15:12 +0200",
+      "contentSnippet": "Si vous jouez à AC Black Flag sur PC, il est toujours tentant d'améliorer le jeu via le modding. Découvrez une petite sélection des meilleurs mods disponibles, pour améliorer votre expérience de jeu.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178471/1784711354-7271-card.jpg"
+    },
+    {
+      "guid": "https://www.gamekult.com/actualite/xbox-le-vice-president-jared-palmer-fait-ses-valises-trois-mois-apres-son-arrivee-3050871356.html",
+      "title": "Xbox : le vice-président Jared Palmer fait ses valises trois mois après son arrivée",
+      "link": "https://www.gamekult.com/actualite/xbox-le-vice-president-jared-palmer-fait-ses-valises-trois-mois-apres-son-arrivee-3050871356.html",
+      "pubDate": "Wed, 22 Jul 2026 19:05:00 +0200",
+      "contentSnippet": "Trois mois après avoir constitué une équipe de dirigeants issus, comme elle, du milieu de l'intelligence artificielle, Asha Sharma voit l'une de ses recrues quitter la direction de Xbox. Pour la postérité, rendons donc hommage à Jared Palmer, petit ange parti trop tôt.",
+      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050871356/xbox-le-vice-president-jared-palmer-fait-ses-valises-trois-mois-apres-son-arrivee-86ad0a50__930_300__0-257-1920-879.png"
+    },
+    {
+      "guid": "https://www.actugaming.net/?p=812328",
+      "title": "Xbox se lance dans le retro avec quatre jeux de la première Xbox désormais accessibles sur PC, dont Blinx et Conker",
+      "link": "https://www.actugaming.net/xbox-se-lance-dans-le-retro-avec-quatre-jeux-de-la-premiere-xbox-desormais-accessibles-sur-pc-dont-blinx-et-conker-812328/",
+      "pubDate": "Wed, 22 Jul 2026 15:31:26 +0000",
+      "contentSnippet": "ActuGaming.net\nXbox se lance dans le retro avec quatre jeux de la première Xbox désormais accessibles sur PC, dont Blinx et Conker\n\nQuitte à dire au revoir au marché du physique, le public aimerait d’abord s’assurer que […]\nL'article Xbox se lance dans le retro avec quatre jeux de la première Xbox désormais accessibles sur PC, dont Blinx et Conker est disponible sur ActuGaming.net",
+      "thumbnail": "https://static.actugaming.net/media/2026/07/blinx.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2095136/ils-ont-cree-l-un-des-meilleurs-rpg-de-tous-les-temps-note-19-20-pourtant-leur-dernier-jeu-est-un-bide.htm",
+      "title": "Ils ont créé l’un des meilleurs RPG de tous les temps noté 19/20, pourtant leur dernier jeu est un bide",
+      "link": "https://www.jeuxvideo.com/news/2095136/ils-ont-cree-l-un-des-meilleurs-rpg-de-tous-les-temps-note-19-20-pourtant-leur-dernier-jeu-est-un-bide.htm",
+      "pubDate": "Wed, 22 Jul 2026 17:15:13 +0200",
+      "contentSnippet": "7 ans après avoir créé un chef d'oeuvre du RPG noté 19/20, ce studio a sorti un nouveau jeu cette année... qui n'a pas rencontré le succès espéré. L'échec est tel que l'entreprise doit se séparer de nombreux employés. Une situation vraiment regrettable pour une équipe qui avait pourtant livré un titre...",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178464/1784644114-7843-card.jpg"
+    },
+    {
+      "guid": "https://www.actugaming.net/?p=812295",
+      "title": "La saga de RPG tactique Langrisser s’invite sur mobiles (et sur PC), avec une pointe d’Unicorn Overlord à peine cachée",
+      "link": "https://www.actugaming.net/la-saga-de-rpg-tactique-langrisser-sinvite-sur-mobiles-et-sur-pc-avec-une-pointe-dunicorn-overlord-a-peine-cachee-812295/",
+      "pubDate": "Wed, 22 Jul 2026 14:53:44 +0000",
+      "contentSnippet": "ActuGaming.net\nLa saga de RPG tactique Langrisser s’invite sur mobiles (et sur PC), avec une pointe d’Unicorn Overlord à peine cachée\n\nJamais aussi populaire qu’un Fire Emblem ou qu’un Advance Wars, la licence Langrisser comptait tout […]\nL'article La saga de RPG tactique Langrisser s’invite sur mobiles (et sur PC), avec une pointe d’Unicorn Overlord à peine cachée est disponible sur ActuGaming.net",
+      "thumbnail": "https://static.actugaming.net/media/2026/07/langrisser.webp"
+    },
+    {
+      "guid": "https://www.actugaming.net/?p=812253",
+      "title": "Les inscriptions pour la bêta de The Duskbloods sont désormais ouvertes sur Switch 2",
+      "link": "https://www.actugaming.net/les-inscriptions-pour-la-beta-de-the-duskbloods-sont-desormais-ouvertes-sur-switch-2-812253/",
+      "pubDate": "Wed, 22 Jul 2026 14:29:58 +0000",
+      "contentSnippet": "ActuGaming.net\nLes inscriptions pour la bêta de The Duskbloods sont désormais ouvertes sur Switch 2\n\nToujours un peu secret lorsqu’il s’agit d’aborder le cas The Duskbloods, From Software a cependant […]\nL'article Les inscriptions pour la bêta de The Duskbloods sont désormais ouvertes sur Switch 2 est disponible sur ActuGaming.net",
+      "thumbnail": "https://static.actugaming.net/media/2026/07/the-duskbloods.jpg"
+    },
     {
       "guid": "https://www.gamekult.com/actualite/darkest-dungeon-dix-ans-apres-le-premier-jeu-s-offre-un-nouveau-dlc-avec-une-sortie-en-aout-3050871354.html",
       "title": "Darkest Dungeon : dix ans après, le premier jeu s'offre un nouveau DLC, avec une sortie en août",
@@ -24,78 +96,6 @@
       "pubDate": "Wed, 22 Jul 2026 10:54:28 +0200",
       "contentSnippet": "Les droits de douane imposés par Donald Trump n'en finissent pas de faire parler d'eux, et ce, même après leur disparition en février dernier. L’un des bénéficiaires de leur remboursement est aujourd’hui au cœur d’un nouveau conflit : dans la famille des géants du jeu vidéo, je demande Nintendo. Une...",
       "thumbnail": "https://image.jeuxvideo.com/medias-lg/178471/1784705540-4817-card.jpg"
-    },
-    {
-      "guid": "https://www.gamekult.com/actualite/langrisser-sea-of-sword-les-premieres-images-de-gameplay-revelent-une-ressemblance-troublante-avec-unicorn-overlord-3050871351.html",
-      "title": "Langrisser Sea of Sword : les premières images de gameplay révèlent une ressemblance troublante avec Unicorn Overlord",
-      "link": "https://www.gamekult.com/actualite/langrisser-sea-of-sword-les-premieres-images-de-gameplay-revelent-une-ressemblance-troublante-avec-unicorn-overlord-3050871351.html",
-      "pubDate": "Wed, 22 Jul 2026 10:46:00 +0200",
-      "contentSnippet": "Quelques jours après la révélation du projet, BlackJack Studio a publié le tout premier trailer de gameplay pour Langrisser : Sea of Sword, accompagné d'une présentation détaillée de ses mécaniques. Le titre, prévu pour PC, iOS et Android, semble avoir tiré une grosse inspiration du dernier jeu en date de Vanillaware : Unicorn Overlord.",
-      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050871351/langrisser-sea-of-sword-les-premieres-images-de-gameplay-revelent-une-ressemblance-troublante-avec-unicorn-overlord-8780e3c5__930_300__0-92-2558-916.png"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=812172",
-      "title": "Hasbro réduit ses ambitions et annule plusieurs jeux non annoncés, mais Exodus et Warlock sont saufs",
-      "link": "https://www.actugaming.net/hasbro-reduit-ses-ambitions-et-annule-plusieurs-jeux-non-annonces-mais-exodus-et-warlock-sont-saufs-812172/",
-      "pubDate": "Wed, 22 Jul 2026 08:39:26 +0000",
-      "contentSnippet": "ActuGaming.net\nHasbro réduit ses ambitions et annule plusieurs jeux non annoncés, mais Exodus et Warlock sont saufs\n\nAvec Baldur’s Gate 3, Hasbro a compris qu’il y avait là un paquet d’argent à […]\nL'article Hasbro réduit ses ambitions et annule plusieurs jeux non annoncés, mais Exodus et Warlock sont saufs est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2025/12/warlock-game.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=812169",
-      "title": "Le DLC de Cairn demandera un peu plus de patience et ne sortira pas à la date prévue",
-      "link": "https://www.actugaming.net/le-dlc-de-cairn-demandera-un-peu-plus-de-patience-et-ne-sortira-pas-a-la-date-prevue-812169/",
-      "pubDate": "Wed, 22 Jul 2026 08:15:14 +0000",
-      "contentSnippet": "ActuGaming.net\nLe DLC de Cairn demandera un peu plus de patience et ne sortira pas à la date prévue\n\nMême si le jeu se suffisait à lui-même, on ne boudera certainement pas notre plaisir […]\nL'article Le DLC de Cairn demandera un peu plus de patience et ne sortira pas à la date prévue est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/01/test-cairn-4K-screenshot-49.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=812074",
-      "title": "Kylian Mbappé sera la star de la jaquette d’EA Sports FC 27, une première vidéo attendue pour cette semaine",
-      "link": "https://www.actugaming.net/kylian-mbappe-sera-la-star-de-la-jaquette-dea-sports-fc-27-une-premiere-video-attendue-pour-cette-semaine-812074/",
-      "pubDate": "Wed, 22 Jul 2026 08:02:22 +0000",
-      "contentSnippet": "ActuGaming.net\nKylian Mbappé sera la star de la jaquette d’EA Sports FC 27, une première vidéo attendue pour cette semaine\n\nElectronic Arts s’apprête à lever le voile sur le prochain EA Sports FC, mais comme […]\nL'article Kylian Mbappé sera la star de la jaquette d’EA Sports FC 27, une première vidéo attendue pour cette semaine est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/07/ea-sports-fc-27.jpg"
-    },
-    {
-      "guid": "https://www.gamekult.com/actualite/xbox-game-pass-l-ex-directeur-de-forza-horizon-5-explique-pourquoi-le-modele-a-echoue-3050871348.html",
-      "title": "Xbox Game Pass : l'ex-directeur de Forza Horizon 5 explique pourquoi le modèle a échoué",
-      "link": "https://www.gamekult.com/actualite/xbox-game-pass-l-ex-directeur-de-forza-horizon-5-explique-pourquoi-le-modele-a-echoue-3050871348.html",
-      "pubDate": "Wed, 22 Jul 2026 08:41:00 +0200",
-      "contentSnippet": "Alors que la branche gaming de Microsoft est toujours secouée par une vague d'annulations, de fermetures de studios et de ventes d'actifs à la chaîne, les langues se délient sur les causes de ce séisme. Interrogé par l'émission MinnMax, Mike Brown (ancien directeur créatif de Forza Horizon 5 chez Playground Games et désormais à la tête du studio Maverick Games (Clutch)) livre une analyse lucide mais amère sur le rôle central de l'échec commercial du Game Pass dans la crise actuelle d'Xbox.",
-      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050871348/xbox-game-pass-l-ex-directeur-de-forza-horizon-5-explique-pourquoi-le-modele-a-echoue-60dc51b4__930_300__0-318-1920-939.jpg"
-    },
-    {
-      "guid": "https://www.jeuxvideo.com/news/2095179/fin-du-format-physique-playstation-utilise-t-il-de-faux-joueurs-pour-justifier-la-mort-des-jeux-en-boite.htm",
-      "title": "Fin du format physique : PlayStation utilise-t-il de faux joueurs pour justifier la mort des jeux en boîte ?",
-      "link": "https://www.jeuxvideo.com/news/2095179/fin-du-format-physique-playstation-utilise-t-il-de-faux-joueurs-pour-justifier-la-mort-des-jeux-en-boite.htm",
-      "pubDate": "Wed, 22 Jul 2026 08:40:09 +0200",
-      "contentSnippet": "Des bots se seraient invités sur X pour défendre PlayStation et la fin des jeux physiques en 2028. Faut-il y croire ?",
-      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178465/1784648768-7350-card.jpg"
-    },
-    {
-      "guid": "https://www.jeuxvideo.com/news/2095081/un-des-jeux-les-mieux-notes-de-steam-97-vient-enfin-de-debarquer-sur-ps5.htm",
-      "title": "Un des jeux les mieux notés de Steam (97%) vient enfin de débarquer sur PS5 ",
-      "link": "https://www.jeuxvideo.com/news/2095081/un-des-jeux-les-mieux-notes-de-steam-97-vient-enfin-de-debarquer-sur-ps5.htm",
-      "pubDate": "Wed, 22 Jul 2026 07:05:10 +0200",
-      "contentSnippet": "Sorti il y a plus de 3 ans, ce jeu est devenu l'un des mieux notés sur Steam avec 98% d'avis français positifs. Si vous voulez découvrir le jeu, sachez que ce dernier vient d'arriver sur vos consoles, pour un prix plus qu'abordable au vu du contenu du titre, selon les évaluations Steam.",
-      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178464/1784638362-5668-card.jpg"
-    },
-    {
-      "guid": "https://www.jeuxvideo.com/news/2095074/pres-de-5000-la-console-portable-la-plus-chere-au-monde-est-en-precommande-c-est-le-prix-de-cinq-ps5-pro.htm",
-      "title": "Près de 5000€ : la console portable la plus chère au monde est en précommande, c'est le prix de cinq PS5 Pro",
-      "link": "https://www.jeuxvideo.com/news/2095074/pres-de-5000-la-console-portable-la-plus-chere-au-monde-est-en-precommande-c-est-le-prix-de-cinq-ps5-pro.htm",
-      "pubDate": "Wed, 22 Jul 2026 06:05:11 +0200",
-      "contentSnippet": "Alors que les joueurs se sont plaints de l'augmentation du prix des PS5, de la Nintendo Switch 2 ou de l'annonce du tarif du Steam Machine, un constructeur vient mettre tout le monde d'accord. Pour environ 5000€, vous pouvez mettre la main sur la console portable la plus puissante du monde. À ce prix-là,...",
-      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178464/1784637972-7377-card.jpg"
-    },
-    {
-      "guid": "https://www.gamekult.com/actualite/pokemon-go-a-10-ans-quand-une-simple-blague-devient-un-phenomene-mondial-3050871350.html",
-      "title": "Mémoire cash - Pokémon GO a 10 ans : quand une simple blague devient un phénomène mondial",
-      "link": "https://www.gamekult.com/actualite/pokemon-go-a-10-ans-quand-une-simple-blague-devient-un-phenomene-mondial-3050871350.html",
-      "pubDate": "Wed, 22 Jul 2026 06:02:00 +0200",
-      "contentSnippet": "Il y a 10 ans, jour pour jour, les Japonais pouvaient profiter de l'air pur, téléphone à la main, pour faire ce qu'ils ont toujours rêvé : devenir un véritable dresseur. C'est en effet le 22 juillet 2016 que Pokémon Go est sorti au Japon. L'occasion pour nous de revenir sur ce phénomène qui tire ses origines d'un simple poisson d'avril... Qui l'eut cru !",
-      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050871350/pokemon-go-a-10-ans-quand-une-simple-blague-devient-un-phenomene-mondial-20ff5e8e__930_300__167-340-1097-639.jpg"
     }
   ]
 }
