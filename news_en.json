@@ -1,6 +1,70 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "notices": [
+    {
+      "guid": "https://gamerant.com/new-co-op-games-steam-shift-midnight-reviews/",
+      "title": "New Co-Op Horror Game Launches to Strong, 90% Very Positive Reviews",
+      "link": "https://gamerant.com/new-co-op-games-steam-shift-midnight-reviews/",
+      "pubDate": "Fri, 24 Jul 2026 02:00:24 GMT",
+      "contentSnippet": "A co-op horror game receives rave reviews from fans of the genre shortly after its highly anticipated release, and it's already going viral.",
+      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/07/steam-co-op-horror-game-shift-at-midnight-blowing-up-reviews-gamerant.jpg"
+    },
+    {
+      "guid": "https://gamerant.com/ac4-black-flag-resynced-captain-morgans-redingote-outfit-location/",
+      "title": "Captain Morgan's Redingote Outfit Location - AC Black Flag Resynced",
+      "link": "https://gamerant.com/ac4-black-flag-resynced-captain-morgans-redingote-outfit-location/",
+      "pubDate": "Fri, 24 Jul 2026 01:20:30 GMT",
+      "contentSnippet": "Captain Morgan's Redingote is one of the legendary outfits in Assassin's Creed Black Flag Resynced that players can get early on, here's how.",
+      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/07/how-to-get-captain-morgan-s-redingote-outfit-ac-black-flag-resynced.jpg"
+    },
+    {
+      "guid": "GteNUtknjXoKgTfePcxPPo",
+      "title": " Blizzard fires World of Warcraft game master who insta-killed bosses for friends ",
+      "link": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-fires-world-of-warcraft-game-master-who-insta-killed-bosses-for-friends/",
+      "pubDate": "Thu, 23 Jul 2026 22:49:11 +0000",
+      "contentSnippet": "It will also be \"taking action\" against the players who were involved.",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/8H7rPo6erK8nddLV4bvYPL-1280-80.jpg"
+    },
+    {
+      "guid": "wALZKDT7e4sNnqGSSX77Ae",
+      "title": " A new expansion and the ability to be a crow wizard has me enjoying a 10-year-old action RPG for the first time ",
+      "link": "https://www.pcgamer.com/games/rpg/a-new-expansion-and-the-ability-to-be-a-crow-wizard-has-me-enjoying-a-10-year-old-action-rpg-for-the-first-time/",
+      "pubDate": "Thu, 23 Jul 2026 21:31:52 +0000",
+      "contentSnippet": "Grim Dawn's Fangs of Asterkarn expansion pulled me in despite its old age.",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/ehRhp3o9AMXKwXn47sYiM3-1280-80.jpg"
+    },
+    {
+      "guid": "5yBXLkLLFc3sccZyHmAbLU",
+      "title": " Ubisoft chief says Sony's decision to kill game discs isn't going to be a big deal ",
+      "link": "https://www.pcgamer.com/gaming-industry/ubisoft-chief-says-sonys-decision-to-kill-game-discs-isnt-going-to-be-a-big-deal/",
+      "pubDate": "Thu, 23 Jul 2026 19:58:06 +0000",
+      "contentSnippet": "Yves Guillemot reckons the lack of physical discs might even be a good thing.",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/jKMkftXLqQ9GvaiqWYB9hD-1280-80.jpg"
+    },
+    {
+      "guid": "qaqrRSfps4ENrsmA8nJwJ9",
+      "title": " Crisol studio lays off all employees less than 6 months after launch, warns that full closure is a 'feasible possibility' ",
+      "link": "https://www.pcgamer.com/gaming-industry/crisol-studio-lays-off-all-employees-less-than-6-months-after-launch-warns-that-full-closure-is-a-feasible-possibility/",
+      "pubDate": "Thu, 23 Jul 2026 17:20:13 +0000",
+      "contentSnippet": "Initial reports that Vermila Studios had shut down were premature, but it's definitely in trouble.",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/5DZVfLwtwftsj84UFqaHDV-1280-80.jpg"
+    },
+    {
+      "guid": "HDiVTVERHM8hU8CTJvPtfa",
+      "title": " FromSoftware reveals final stats of new Elden Ring classes, and one of them already got a tiny nerf ",
+      "link": "https://www.pcgamer.com/games/rpg/fromsoftware-reveals-final-stats-of-new-elden-ring-classes-and-one-of-them-already-got-a-tiny-nerf/",
+      "pubDate": "Thu, 23 Jul 2026 17:13:18 +0000",
+      "contentSnippet": "The Heavy Knight's been tweaked since we last saw them.",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/Mk8emc5ND22oMG4GnqsS75-1280-80.jpg"
+    },
+    {
+      "guid": "XYJEt57KGtY6GeFxYbT9CC",
+      "title": " Halo: Campaign Evolved review ",
+      "link": "https://www.pcgamer.com/games/halo/halo-campaign-evolved-review/",
+      "pubDate": "Thu, 23 Jul 2026 15:00:00 +0000",
+      "contentSnippet": "A neat, but fundamentally flawed remake that doesn't always understand the appeal of Halo.",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/wFUsrjzEshTQMzybGJ6b5S-1280-80.jpg"
+    },
     {
       "guid": "127184",
       "title": "Carveout 2160 Is An Upcoming Sci-Fi Snowboarding Game That Is Giving Serious SSX Tricky Vibes\n",
@@ -8,38 +72,6 @@
       "pubDate": "Thu, 23 Jul 2026 08:49:00 CDT",
       "contentSnippet": "There has been a giant SSX Tricky-sized hole in my life for many, many years now, which is why I became immediately interested in developer byteparrot's Carveout 2160, which I saw a post about on Bluesky this morning. It's an extreme-action snowboarding game set in Space and is \"inspired by SSX, with tricks, combos, and boost.\" \nAfter watching the trailer, I'd take it a step further and say it must be specifically inspired by 2001's SSX Tricky. From the fantastical tracks filled with exuberant neon, half pipes, rails to grind, ramps, and more, to the way each snowboarder performs tricks, Carveout 2160 might be the snowboarding game that finally fills the aforementioned SSX Tricky void. There's no release date for it yet, but you can wishlist the game on Steam right now. \nCheck out the Carveout 2160 trailer below to see what I'm talking about: \n \n\"Carveout 2160 is a snowboarding game centered around the most dangerous competition in the universe, because this tournament is not on Earth,\" the game's description on Steam reads. \"Land risky stunts to earn boost, use it to burst into shortcuts or wipeout the competition and rocket yourself around the planets and onto the podium.\" \nThe game's Steam page highlights arcade snowboarding mechanics, including tricks, combo systems, and rail sliding. Plus, you can utilize earned boosts to take down opponents and break barriers. Players can also use gadgets like a grappling hook or rocket thrusters to get first place. \nWhen Carveout 2160 launches, it will feature splitscreen multiplayer for up to four players and online multiplayer for up to eight. \nWhat's your favorite snowboarding game? Let us know in the comments below!",
       "thumbnail": "https://www.gameinformer.com/sites/default/files/styles/body_default/public/2026/07/23/b25a454e/CarveOut2160.jpg.webp"
-    },
-    {
-      "guid": "https://gamerant.com/call-of-duty-matchmaking-overhaul-modern-warfare-4-black-ops-7/",
-      "title": "Call of Duty Announces Major Matchmaking Overhaul to Black Ops 7 and Modern Warfare 4",
-      "link": "https://gamerant.com/call-of-duty-matchmaking-overhaul-modern-warfare-4-black-ops-7/",
-      "pubDate": "Thu, 23 Jul 2026 13:29:05 GMT",
-      "contentSnippet": "Call of Duty has just announced some major changes coming to matchmaking in both Black Ops 7 and the upcoming Modern Warfare 4.",
-      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/05/call-of-duty-modern-warfare-4-campaign-length-interview.jpg"
-    },
-    {
-      "guid": "https://gamerant.com/assassins-creed-black-flag-resynced-hood-toggle-removed/",
-      "title": "Assassin’s Creed Black Flag Resynced Quietly Removed Fan Favorite Feature",
-      "link": "https://gamerant.com/assassins-creed-black-flag-resynced-hood-toggle-removed/",
-      "pubDate": "Thu, 23 Jul 2026 13:28:31 GMT",
-      "contentSnippet": "A fan favorite feature of Assassin’s Creed Black Flag Resynced has since been removed following a recent update, disappointing many players.",
-      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/07/assassins-creed-black-flag-resynced-hood-toggle.jpg"
-    },
-    {
-      "guid": "https://gamerant.com/dice-dreams-free-rolls-links/",
-      "title": "Free Dice Dreams Rolls (Updated Regularly)",
-      "link": "https://gamerant.com/dice-dreams-free-rolls-links/",
-      "pubDate": "Thu, 23 Jul 2026 12:41:05 GMT",
-      "contentSnippet": "Dice Dreams players can enhance their gaming experience and get free rolls with the help of these links.",
-      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/08/dice-dreams-free-roll-codes1.jpg"
-    },
-    {
-      "guid": "https://gamerant.com/palworld-how-get-find-nightstar-sand-farm-location-guide/",
-      "title": "Palworld 1.0 Nightstar Sand Location",
-      "link": "https://gamerant.com/palworld-how-get-find-nightstar-sand-farm-location-guide/",
-      "pubDate": "Thu, 23 Jul 2026 12:39:22 GMT",
-      "contentSnippet": "Here’s how you can efficiently farm Nightstar Sand, a late-game material in Palworld 1.0.",
-      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/07/how-to-get-nightstar-sand-in-palworld-1-0.jpg"
     },
     {
       "guid": "yKSEWvzoqtL69XXVgpbDeM",
@@ -64,38 +96,6 @@
       "pubDate": "Thu, 23 Jul 2026 11:22:46 +0000",
       "contentSnippet": "Gotta admire a man who knows what he likes.",
       "thumbnail": "https://cdn.mos.cms.futurecdn.net/zLnpnMmf4pdofA9b9XpieZ-1280-80.png"
-    },
-    {
-      "guid": "c5sEkvePDQFMtj3VfXzu8V",
-      "title": " Fresh evidence from independent researchers confirms the first drop in PC shipments in over a year... and it's only going to get worse ",
-      "link": "https://www.pcgamer.com/hardware/fresh-evidence-from-independent-researchers-confirms-the-first-drop-in-pc-shipments-in-over-a-year-and-its-only-going-to-get-worse/",
-      "pubDate": "Thu, 23 Jul 2026 11:02:50 +0000",
-      "contentSnippet": "This, despite Asus and Apple actually having increased shipments.",
-      "thumbnail": "https://cdn.mos.cms.futurecdn.net/aXhXovgBHWHTCVQ96aMbpX-1280-80.jpg"
-    },
-    {
-      "guid": "fq3aLq4oztWqheimNoJkF",
-      "title": " Indie game contest tasks devs with fitting their entire game on to a 1.44 MB floppy disk ",
-      "link": "https://www.pcgamer.com/hardware/storage/indie-game-contest-tasks-devs-with-fitting-their-entire-game-on-to-a-1-44-mb-floppy-disk/",
-      "pubDate": "Thu, 23 Jul 2026 10:33:54 +0000",
-      "contentSnippet": "Creativity out of some pretty strict confines.",
-      "thumbnail": "https://cdn.mos.cms.futurecdn.net/Bq8r4F3bvJtL8XGA9sE2Kk-1280-80.jpg"
-    },
-    {
-      "guid": "rAEfyqXGDAQM3Q3KJs2WmF",
-      "title": " The challenges of developing the colony sim, from Dungeon Keeper to Dwarf Fortress and beyond ",
-      "link": "https://www.pcgamer.com/games/strategy/the-challenges-of-developing-the-colony-sim-from-dungeon-keeper-to-dwarf-fortress-and-beyond/",
-      "pubDate": "Thu, 23 Jul 2026 00:33:31 +0000",
-      "contentSnippet": "PC Gamer interviews the genre's founding fathers.",
-      "thumbnail": "https://cdn.mos.cms.futurecdn.net/wWnEbLR3zpiEZxqDqV6L7Z-1280-80.jpg"
-    },
-    {
-      "guid": "p9J6oJSuJFfyiDcEASihS3",
-      "title": " The new Warhammer Blood Bowl published by Slitherine will be out in fall, and I'm looking forward to it because I enjoy pain I guess ",
-      "link": "https://www.pcgamer.com/games/sports/the-new-warhammer-blood-bowl-published-by-slitherine-will-be-out-in-fall-and-im-looking-forward-to-it-because-i-enjoy-pain-i-guess/",
-      "pubDate": "Wed, 22 Jul 2026 23:40:07 +0000",
-      "contentSnippet": "Blood Bowl is a board game where the dice punish you, and the videogames have stayed true to that.",
-      "thumbnail": "https://cdn.mos.cms.futurecdn.net/L446TgkzkvhPQ3QhXH87Sc-1280-80.jpg"
     }
   ]
 }
