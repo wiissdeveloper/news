@@ -1,6 +1,14 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-25",
   "notices": [
+    {
+      "guid": "https://it.ign.com/steam-deck/226937/steam-deck-crolla-nelle-classifiche-di-vendita-dopo-laumento-di-prezzo",
+      "title": "Steam Deck crolla nelle classifiche di vendita dopo l'aumento di prezzo",
+      "link": "https://it.ign.com/steam-deck/226937/steam-deck-crolla-nelle-classifiche-di-vendita-dopo-laumento-di-prezzo",
+      "pubDate": "Fri, 24 Jul 2026 15:33:30 +0000",
+      "contentSnippet": "Si stimano cali fino all'82%.\nSecondo gli ultimi report, il PC portatile di Valve starebbe vendendo molto meno rispetto allo scorso anno, complice un prezzo ormai meno competitivo rispetto alla concorrenza.",
+      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/75104-gng9_zj9r.jpg"
+    },
     {
       "guid": "https://it.ign.com/mindseye/226948/mindseye-cambia-il-finale-con-lultimo-aggiornamento-la-storia-prosegue-con-nuovi-misteri",
       "title": "MindsEye cambia il finale con l'ultimo aggiornamento: la storia prosegue con nuovi misteri",
@@ -88,14 +96,6 @@
       "pubDate": "Thu, 23 Jul 2026 07:03:35 +0000",
       "contentSnippet": "Alla scoperta di A New Dawn.",
       "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/sub10-ay-b-0356-t2mov00-00-01-12_znap.jpg"
-    },
-    {
-      "guid": "https://it.ign.com/ea-sports-fc-27/226900/ea-sports-fc-27-sceglie-mbappe-anche-per-la-copertina-delledizione-standard",
-      "title": "EA Sports FC 27 sceglie Mbappé anche per la copertina dell'edizione Standard",
-      "link": "https://it.ign.com/ea-sports-fc-27/226900/ea-sports-fc-27-sceglie-mbappe-anche-per-la-copertina-delledizione-standard",
-      "pubDate": "Wed, 22 Jul 2026 15:54:16 +0000",
-      "contentSnippet": "Accélération, virgule, petit-pont, frappe.\nKylian Mbappé sarà sulla copertina di entrambe le edizioni di EA Sports FC 27: Standard e Ultimate. A breve il trailer del gameplay.",
-      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/efw_v2wk.jpg"
     }
   ]
 }
