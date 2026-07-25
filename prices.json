@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24",
+  "updated": "2026-07-25",
   "systems": {
     "3do": [
       {
@@ -972,8 +972,8 @@
       {
         "rank": 17,
         "name": "Sega Dreamcast Arcade Stick",
-        "price_usd": 98.46,
-        "price_eur": 90.58,
+        "price_usd": 100,
+        "price_eur": 92,
         "isHistory": false
       },
       {
@@ -1186,8 +1186,8 @@
       {
         "rank": 7,
         "name": "Punch-Out Gold",
-        "price_usd": 281,
-        "price_eur": 258.52,
+        "price_usd": 280.5,
+        "price_eur": 258.06,
         "isHistory": false
       },
       {
@@ -1390,14 +1390,14 @@
       },
       {
         "rank": 16,
-        "name": "Analogue Pocket [Berry]",
+        "name": "Analogue Pocket [Grape]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
       },
       {
         "rank": 17,
-        "name": "Analogue Pocket [Grape]",
+        "name": "Analogue Pocket [Berry]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
@@ -1761,8 +1761,8 @@
       {
         "rank": 8,
         "name": "Fantastic Dizzy",
-        "price_usd": 105.02,
-        "price_eur": 96.62,
+        "price_usd": 105.01,
+        "price_eur": 96.61,
         "isHistory": false
       },
       {
@@ -1788,30 +1788,30 @@
       },
       {
         "rank": 12,
-        "name": "Sega Game Gear Handheld",
-        "price_usd": 72.53,
-        "price_eur": 66.73,
-        "isHistory": false
-      },
-      {
-        "rank": 13,
         "name": "Cosmic Spacehead",
         "price_usd": 71.57,
         "price_eur": 65.84,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 13,
         "name": "Urban Strike",
         "price_usd": 64.5,
         "price_eur": 59.34,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 14,
         "name": "Defenders of Oasis",
         "price_usd": 59.99,
         "price_eur": 55.19,
+        "isHistory": false
+      },
+      {
+        "rank": 15,
+        "name": "Sega Game Gear Handheld",
+        "price_usd": 50.5,
+        "price_eur": 46.46,
         "isHistory": false
       },
       {
@@ -2089,8 +2089,8 @@
       {
         "rank": 14,
         "name": "Phantasy Star",
-        "price_usd": 75.64,
-        "price_eur": 69.59,
+        "price_usd": 75.71,
+        "price_eur": 69.65,
         "isHistory": false
       },
       {
@@ -2181,100 +2181,100 @@
       },
       {
         "rank": 7,
-        "name": "Paprium",
-        "price_usd": 268.41,
-        "price_eur": 246.94,
-        "isHistory": false
-      },
-      {
-        "rank": 8,
         "name": "Fatal Fury 2",
         "price_usd": 226.38,
         "price_eur": 208.27,
         "isHistory": false
       },
       {
-        "rank": 9,
+        "rank": 8,
         "name": "Alien Soldier",
-        "price_usd": 226.08,
-        "price_eur": 207.99,
+        "price_usd": 225,
+        "price_eur": 207,
         "isHistory": false
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "Miracle Piano Teaching System",
         "price_usd": 197.49,
         "price_eur": 181.69,
         "isHistory": false
       },
       {
-        "rank": 11,
+        "rank": 10,
         "name": "SEGA Mega Drive Mini 2",
         "price_usd": 186.44,
         "price_eur": 171.52,
         "isHistory": false
       },
       {
-        "rank": 12,
+        "rank": 11,
         "name": "World of Illusion [Gold Collection]",
         "price_usd": 177.36,
         "price_eur": 163.17,
         "isHistory": false
       },
       {
-        "rank": 13,
+        "rank": 12,
         "name": "Ecco Jr.",
         "price_usd": 170.79,
         "price_eur": 157.13,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 13,
         "name": "McDonald's Treasure Land Adventure",
         "price_usd": 166.7,
         "price_eur": 153.36,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 14,
         "name": "Lock-On X2",
         "price_usd": 160.15,
         "price_eur": 147.34,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 15,
         "name": "Pier Solar",
         "price_usd": 158.71,
         "price_eur": 146.01,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 16,
         "name": "FX Unit Yuki The Henshin Engine",
         "price_usd": 148.06,
         "price_eur": 136.22,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 17,
         "name": "Zero the Kamikaze Squirrel",
-        "price_usd": 140.87,
-        "price_eur": 129.6,
+        "price_usd": 138.45,
+        "price_eur": 127.37,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 18,
         "name": "Mega Man: The Wily Wars",
         "price_usd": 136.98,
         "price_eur": 126.02,
         "isHistory": false
       },
       {
-        "rank": 20,
+        "rank": 19,
         "name": "Separation Anxiety",
         "price_usd": 123.41,
         "price_eur": 113.54,
+        "isHistory": false
+      },
+      {
+        "rank": 20,
+        "name": "Flink",
+        "price_usd": 119.95,
+        "price_eur": 110.35,
         "isHistory": false
       }
     ],
@@ -2800,8 +2800,8 @@
       {
         "rank": 14,
         "name": "Power Pad Test Cartridge",
-        "price_usd": 1251.82,
-        "price_eur": 1151.67,
+        "price_usd": 1255.28,
+        "price_eur": 1154.86,
         "isHistory": false
       },
       {
@@ -3071,16 +3071,16 @@
       },
       {
         "rank": 12,
-        "name": "PC Engine Shuttle",
-        "price_usd": 279.55,
-        "price_eur": 257.19,
+        "name": "PC Engine Duo-R",
+        "price_usd": 284.02,
+        "price_eur": 261.3,
         "isHistory": false
       },
       {
         "rank": 13,
-        "name": "PC Engine Duo-R",
-        "price_usd": 259.18,
-        "price_eur": 238.45,
+        "name": "PC Engine Shuttle",
+        "price_usd": 283.84,
+        "price_eur": 261.13,
         "isHistory": false
       },
       {
@@ -3300,8 +3300,8 @@
       {
         "rank": 4,
         "name": "Tail Concerto",
-        "price_usd": 331.86,
-        "price_eur": 305.31,
+        "price_usd": 308.74,
+        "price_eur": 284.04,
         "isHistory": false
       },
       {
@@ -3320,16 +3320,16 @@
       },
       {
         "rank": 7,
-        "name": "Clock Tower 2",
-        "price_usd": 226.07,
-        "price_eur": 207.98,
+        "name": "Koudelka",
+        "price_usd": 255.71,
+        "price_eur": 235.25,
         "isHistory": false
       },
       {
         "rank": 8,
-        "name": "Koudelka",
-        "price_usd": 219.99,
-        "price_eur": 202.39,
+        "name": "Clock Tower 2",
+        "price_usd": 226.07,
+        "price_eur": 207.98,
         "isHistory": false
       },
       {
@@ -3591,15 +3591,15 @@
       {
         "rank": 5,
         "name": "PSP Go Pearl White",
-        "price_usd": 193.92,
-        "price_eur": 178.41,
+        "price_usd": 194.5,
+        "price_eur": 178.94,
         "isHistory": false
       },
       {
         "rank": 6,
         "name": "PSP 3000 Gran Turismo Limited Edition Pack [Mystic Silver]",
-        "price_usd": 189.33,
-        "price_eur": 174.18,
+        "price_usd": 189.32,
+        "price_eur": 174.17,
         "isHistory": false
       },
       {
@@ -3831,8 +3831,8 @@
       {
         "rank": 19,
         "name": "Metal Head",
-        "price_usd": 51.26,
-        "price_eur": 47.16,
+        "price_usd": 50.86,
+        "price_eur": 46.79,
         "isHistory": false
       },
       {
@@ -3903,8 +3903,8 @@
       {
         "rank": 9,
         "name": "Ganpuru",
-        "price_usd": 306.97,
-        "price_eur": 282.41,
+        "price_usd": 306.21,
+        "price_eur": 281.71,
         "isHistory": false
       },
       {
@@ -4189,8 +4189,8 @@
       {
         "rank": 9,
         "name": "Bedlam",
-        "price_usd": 23.72,
-        "price_eur": 21.82,
+        "price_usd": 23.68,
+        "price_eur": 21.79,
         "isHistory": false
       },
       {
@@ -4473,8 +4473,8 @@
       {
         "rank": 9,
         "name": "WonderSwan Skeleton Pink",
-        "price_usd": 87.33,
-        "price_eur": 80.34,
+        "price_usd": 87.2,
+        "price_eur": 80.22,
         "isHistory": false
       },
       {
