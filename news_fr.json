@@ -1,6 +1,22 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "notices": [
+    {
+      "guid": "https://www.jeuxvideo.com/news/2095734/le-bureau-des-brevets-trolle-nintendo-en-pleine-affaire-palworld.htm",
+      "title": "Le bureau des brevets TROLLE Nintendo en pleine affaire Palworld !",
+      "link": "https://www.jeuxvideo.com/news/2095734/le-bureau-des-brevets-trolle-nintendo-en-pleine-affaire-palworld.htm",
+      "pubDate": "Sat, 25 Jul 2026 20:10:06 +0200",
+      "contentSnippet": "Alors que Nintendo poursuit sa croisade judiciaire contre Palworld, le Bureau japonais des brevets vient de lui opposer une fin de recevoir cinglante. En s'appuyant sur un fan-game vieux de 13 ans et en usant d'une ironie mordante, l'administration rappelait à la firme de Kyoto qu'on ne brevette pas...",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178490/1784897024-9974-card.jpg"
+    },
+    {
+      "guid": "https://www.gamekult.com/actualite/redonner-vie-aux-jeux-physiques-sur-pc-le-defi-genial-d-un-joueur-passionne-3050871317.html",
+      "title": "Redonner vie aux jeux physiques sur PC : le défi génial d'un joueur passionné",
+      "link": "https://www.gamekult.com/actualite/redonner-vie-aux-jeux-physiques-sur-pc-le-defi-genial-d-un-joueur-passionne-3050871317.html",
+      "pubDate": "Sat, 25 Jul 2026 17:22:00 +0200",
+      "contentSnippet": "Le jeu vidéo physique, ce n'est plus trop ça, en ce moment. Avec l'arrêt des Blu-Ray dès 2028 du côté de Sony, un dématérialisé quasiment déjà total du côté de Xbox et des cartouches (parfois) dans les boîtes Nintendo Switch 2, les collectionneurs de boîte l'ont progressivement dans l'os. Demeurent toutefois quelques irréductibles férus, bien décidés à proposer des alternatives…",
+      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050871317/redonner-vie-aux-jeux-physiques-sur-pc-le-defi-genial-d-un-joueur-passionne-44f86d22__930_300__0-37-1200-424.jpg"
+    },
     {
       "guid": "https://www.gamekult.com/actualite/silent-hill-downpour-n-est-jamais-sorti-sur-pc-mais-ca-va-changer-3050871263.html",
       "title": "Silent Hill Downpour n'est jamais sorti sur PC, mais ça va changer ",
@@ -80,22 +96,6 @@
       "pubDate": "Fri, 24 Jul 2026 21:40:08 +0200",
       "contentSnippet": "Il y a quelques semaines, tous les constructeurs de consoles se sont mis à augmenter les prix de leurs produits soudainement. Cependant, si la majorité d'entre eux ont l'air de plutôt bien s'en sortir, une entreprise est en train de voir sa console couler.",
       "thumbnail": "https://image.jeuxvideo.com/medias-lg/178488/1784884987-8394-card.jpg"
-    },
-    {
-      "guid": "https://www.jeuxvideo.com/news/2095628/membrane-anti-miasme-palworld-1-0-ou-trouver-cette-ressource-a-quoi-sert-elle.htm",
-      "title": "Membrane anti-miasme Palworld 1.0 : Où trouver cette ressource, à quoi sert-elle ?",
-      "link": "https://www.jeuxvideo.com/news/2095628/membrane-anti-miasme-palworld-1-0-ou-trouver-cette-ressource-a-quoi-sert-elle.htm",
-      "pubDate": "Fri, 24 Jul 2026 21:05:11 +0200",
-      "contentSnippet": "Découvrez l'emplacement des membranes anti-miasme de Palworld, une ressource précieuse dont vous aurez besoin pour avancer dans l'exploration dans la zone finale de l'Arbre-Monde. Préparez-vous, parce qu'il va falloir affronter un boss de la carte pour en obtenir.",
-      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178488/1784881412-3612-card.jpg"
-    },
-    {
-      "guid": "https://www.jeuxvideo.com/news/2095746/apres-mbappe-un-autre-sportif-francais-va-faire-la-couverture-d-un-jeu-video.htm",
-      "title": "Après Mbappé, un autre sportif français va faire la couverture d'un jeu vidéo ",
-      "link": "https://www.jeuxvideo.com/news/2095746/apres-mbappe-un-autre-sportif-francais-va-faire-la-couverture-d-un-jeu-video.htm",
-      "pubDate": "Fri, 24 Jul 2026 19:15:08 +0200",
-      "contentSnippet": "Si Mbappé vient de décrocher sa quatrième couverture d'un titre FIFA/FC, il est assez rare que des Français soient le visage d'un jeu de sport. Pourtant, un autre athlète francophone vient de marquer l'histoire pour une discipline aussi connue que le foot.",
-      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178490/1784899190-9663-card.jpg"
     }
   ]
 }

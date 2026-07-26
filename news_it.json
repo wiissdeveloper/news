@@ -1,6 +1,14 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "notices": [
+    {
+      "guid": "https://it.ign.com/ign-retro/226954/ign-retro-i-have-no-mouth-and-i-must-scream",
+      "title": "IGN Retro: I Have No Mouth, and I Must Scream",
+      "link": "https://it.ign.com/ign-retro/226954/ign-retro-i-have-no-mouth-and-i-must-scream",
+      "pubDate": "Sat, 25 Jul 2026 14:02:18 +0000",
+      "contentSnippet": "Un'avventura allegra e leggera.\nBasato su un racconto di fantascienza degli anni '70, I Have No Mouth, and I Must Scream è un classico che merita di essere provato.",
+      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/3ee170549266f5e368686c4161792864a1ff8521fcf4a01d_dvpu.jpg"
+    },
     {
       "guid": "https://www.gamesource.it/?post_type=notizie&p=1129608",
       "title": "Cory Barlog conferma: un nuovo God of War con Kratos è in sviluppo. Annunciata anche la data per Laufey",
@@ -88,14 +96,6 @@
       "pubDate": "Thu, 23 Jul 2026 10:33:42 +0000",
       "contentSnippet": "Approfittatene ora.\nL'ottimo Sea of Stars, GdR a turni in pixel art pubblicato tre anni fa su console e PC, è ora acquistabile su Steam al miglior prezzo. Ecco l'offerta.",
       "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/r0tywiu6h26h1_218f.jpg"
-    },
-    {
-      "guid": "https://it.ign.com/gears-6/226904/gears-of-war-e-day-mostrera-il-multiplayer-il-30-luglio-confermata-la-data-della-presentazione",
-      "title": "Gears of War: E-Day mostrerà il multiplayer il 30 luglio: confermata la data della presentazione",
-      "link": "https://it.ign.com/gears-6/226904/gears-of-war-e-day-mostrera-il-multiplayer-il-30-luglio-confermata-la-data-della-presentazione",
-      "pubDate": "Thu, 23 Jul 2026 07:33:35 +0000",
-      "contentSnippet": "Appuntamento alle 15:00 italiane sul canale YouTube di Xbox.\nThe Coalition ha annunciato quando verrà mostrato per la prima volta il comparto multiplayer di Gears of War: E-Day, che includerà una nuova modalità Orda cooperativa per 12 giocatori e il ritorno del PvP competitivo.",
-      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/dh_f39w.jpg"
     }
   ]
 }
