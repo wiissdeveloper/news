@@ -2,20 +2,76 @@
   "date": "2026-07-28",
   "notices": [
     {
-      "guid": "https://www.gamesource.it/?post_type=notizie&p=1129688",
-      "title": "Meccha Chameleon sotto attacco: alcune mappe dello Steam Workshop contenevano malware",
-      "link": "https://www.gamesource.it/notizie/meccha-chameleon-attacco-mappe-malware/",
-      "pubDate": "Mon, 27 Jul 2026 15:08:52 +0000",
-      "contentSnippet": "Il successo di Meccha Chameleon, uno dei fenomeni indie degli ultimi mesi, è stato frenato da un grave incidente di sicurezza. Alcune mappe create dalla community e condivise tramite Steam Workshop contenevano infatti un malware in grado di compromettere i PC dei giocatori, sfruttando una vulnerabilità del gioco per eseguire dei virus all'avvio della partita.\nA scoprire l'attacco è stato il ricercatore indipendente Feint, secondo cui alcune mappe della community, tra cui Laser Tag Neon, eseguivano di nascosto uno script che installava un Remote Access Trojan (RAT). Questo malware consentiva agli hacker di prendere il controllo remoto del computer della vittima. Il ricercatore ha invitato gli utenti coinvolti a eseguire immediatamente una scansione antivirus.\n\n \nDopo la rimozione di Laser Tag Neon, sono però comparse altre mappe infette, come Chroma Grid Arena. Gli sviluppatori hanno quindi risolto il problema pubblicando la versione 3.1.0 di Meccha Chameleon, correggendo la vulnerabilità sfruttata dagli hacker. Mentre lavoravano per correggerla, tuttavia, anche il PC di uno degli sviluppatori è stato compromesso dal malware.\nL'attacco ha permesso ai responsabili di impossessarsi temporaneamente del server Discord ufficiale di Meccha Chameleon, che conta oltre 100.000 membri. Dopo aver ripreso il controllo del server con il supporto di Discord, il team ha bannato gli account degli hacker e pubblicato l'aggiornamento 3.3.1, che rafforza ulteriormente le misure di sicurezza.\nNon è ancora chiaro quanti giocatori siano stati colpiti dal malware, ma gli sviluppatori hanno confermato che il problema riguardava esclusivamente alcune mappe dello Steam Workshop ed è stato risolto. Chiunque abbia scaricato contenuti della community nelle ultime settimane è comunque invitato a controllare il proprio sistema e a prestare attenzione a eventuali file o collegamenti sospetti.\nL'articolo Meccha Chameleon sotto attacco: alcune mappe dello Steam Workshop contenevano malware proviene da GameSource.",
-      "thumbnail": "https://www.gamesource.it/wp-content/uploads/2026/07/Meccha-Chameleon-sotto-attacco-alcune-mappe-dello-Steam-Workshop-contenevano-malware-e1785164366196.webp"
+      "guid": "https://it.ign.com/final-fantasy-xiv-online-evercold/226996/final-fantasy-xiv-evercold-arriva-nel-2027-il-nuovo-trailer-esteso-introduce-lespansione",
+      "title": "Final Fantasy XIV Evercold arriva nel 2027, il nuovo trailer esteso introduce l'espansione",
+      "link": "https://it.ign.com/final-fantasy-xiv-online-evercold/226996/final-fantasy-xiv-evercold-arriva-nel-2027-il-nuovo-trailer-esteso-introduce-lespansione",
+      "pubDate": "Tue, 28 Jul 2026 14:03:34 +0000",
+      "contentSnippet": "L'MMO è in arrivo anche su Switch 2.\nSquare Enix ha svelato nuovi dettagli sulla patch 8.0 di Final Fantasy XIV, tra cui il nuovo job, una struttura narrativa più flessibile e la versione per Nintendo Switch 2 dell'MMO.",
+      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/1301902-final-fantasy-xiv-evercold-nouvelle-bande-annonce-po_xqyj.jpg"
     },
     {
-      "guid": "https://it.ign.com/ea-sports-college-football-27/226958/ea-sports-college-football-27-una-galleria-di-immagini-e-gif",
-      "title": "EA Sports College Football 27 - Una galleria di immagini e GIF",
-      "link": "https://it.ign.com/ea-sports-college-football-27/226958/ea-sports-college-football-27-una-galleria-di-immagini-e-gif",
-      "pubDate": "Mon, 27 Jul 2026 14:37:14 +0000",
-      "contentSnippet": "<img src=\"https://sm.ign.com/t/ign_it/gallery/e/ea-sports-/ea-sports-college-football-27-gameplay-screenshots-and-gifs_sz2r.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />",
-      "thumbnail": "https://sm.ign.com/ign_it/gallery/e/ea-sports-/ea-sports-college-football-27-gameplay-screenshots-and-gifs_sz2r.jpg"
+      "guid": "https://it.ign.com/pragmata/226994/il-successo-dei-remake-di-resident-evil-permette-a-capcom-di-finanziare-giochi-sperimentali-come-pra",
+      "title": "Il successo dei remake di Resident Evil permette a Capcom di finanziare giochi \"sperimentali\" come Pragmata",
+      "link": "https://it.ign.com/pragmata/226994/il-successo-dei-remake-di-resident-evil-permette-a-capcom-di-finanziare-giochi-sperimentali-come-pra",
+      "pubDate": "Tue, 28 Jul 2026 13:20:31 +0000",
+      "contentSnippet": "Lo studio giapponese può permettersi di rischiare.\nIl producer Masachika Kawata ha spiegato come il successo dei remake di Resident Evil stia permettendo a Capcom di assumersi qualche rischio in più.",
+      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/nintendoswitch2-pragmata-screenshot-3-1771360017548-jcvr_fk8p.png"
+    },
+    {
+      "guid": "https://it.ign.com/fable-2025/226992/fable-avrebbe-superato-ampiamente-il-budget-previsto-dovra-vendere-bene",
+      "title": "Fable avrebbe superato \"ampiamente\" il budget previsto, dovrà vendere bene",
+      "link": "https://it.ign.com/fable-2025/226992/fable-avrebbe-superato-ampiamente-il-budget-previsto-dovra-vendere-bene",
+      "pubDate": "Tue, 28 Jul 2026 12:33:35 +0000",
+      "contentSnippet": "E al lancio si scontrerà con God of War Laufey, Tomb Raider: Legacy of Atlantis, Metro 2039 e Persona 4 Revival.\nSecondo alcune fonti il nuovo GdR di Playground Games sarebbe andato oltre i costi inizialmente stimati, e potrebbe avere bisogno di vendere molto.",
+      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/fable_u27h.jpg"
+    },
+    {
+      "guid": "https://it.ign.com/offerte-amazon-videogiochi-sconti/226979/directive-8020-sconti-fino-al-43-per-le-edizioni-pc",
+      "title": "Directive 8020: sconti fino al 43% per le edizioni PC",
+      "link": "https://it.ign.com/offerte-amazon-videogiochi-sconti/226979/directive-8020-sconti-fino-al-43-per-le-edizioni-pc",
+      "pubDate": "Tue, 28 Jul 2026 11:47:01 +0000",
+      "contentSnippet": "Buon prezzo per l'avventura horror di Supermassive Games.\nDirective 8020, l'avventura horror di Supermassive Games, è ora disponibile su Instant Gaming a un prezzo davvero conveniente.",
+      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/titolo_89bt.jpg"
+    },
+    {
+      "guid": "https://it.ign.com/far-cry-7-rumor/226984/ubisoft-avrebbe-avviato-lo-sviluppo-di-un-nuovo-far-cry-open-world",
+      "title": "Ubisoft avrebbe avviato lo sviluppo di un nuovo Far Cry open world",
+      "link": "https://it.ign.com/far-cry-7-rumor/226984/ubisoft-avrebbe-avviato-lo-sviluppo-di-un-nuovo-far-cry-open-world",
+      "pubDate": "Tue, 28 Jul 2026 11:03:34 +0000",
+      "contentSnippet": "Nome in codice \"Kodiak\".\nCambiamenti dietro le quinte: Ubisoft avrebbe cancellato il vociferato sparatutto a estrazione di Far Cry a favore di un nuovo titolo open world \"molto ambizioso\".",
+      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/1674791099-1-guhr_vc3d.jpg"
+    },
+    {
+      "guid": "https://it.ign.com/silent-hill-f/226988/silent-hill-f-scende-ancora-di-prezzo-su-pc-ora-e-davvero-imperdibile",
+      "title": "Silent Hill f scende ancora di prezzo su PC, ora è davvero imperdibile",
+      "link": "https://it.ign.com/silent-hill-f/226988/silent-hill-f-scende-ancora-di-prezzo-su-pc-ora-e-davvero-imperdibile",
+      "pubDate": "Tue, 28 Jul 2026 10:30:37 +0000",
+      "contentSnippet": "Vi costa meno di 25 euro.\nSilent Hill f, gioco horror da oltre 2 milioni di copie vendute, è ora disponibile al miglior prezzo su Instant Gaming.",
+      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/silent-hill-f-1_n52p.jpg"
+    },
+    {
+      "guid": "https://it.ign.com/resident-evil-requiem/226987/resident-evil-requiem-e-veronica-remake-potrebbero-ricevere-dei-corposi-dlc-della-storia",
+      "title": "Resident Evil Requiem e Veronica Remake potrebbero ricevere dei corposi DLC della storia",
+      "link": "https://it.ign.com/resident-evil-requiem/226987/resident-evil-requiem-e-veronica-remake-potrebbero-ricevere-dei-corposi-dlc-della-storia",
+      "pubDate": "Tue, 28 Jul 2026 10:00:38 +0000",
+      "contentSnippet": "Le espansioni dureranno \"diverse ore\".\nSecondo un noto insider, Capcom starebbe lavorando su delle espansioni narrative piuttosto massicce per gli ultimi due capitoli di Resident Evil.",
+      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/3878ff92261c1fda7ce03772ac149514ce6f6bf5c715e64b_c2dz.jpg"
+    },
+    {
+      "guid": "https://www.gamesource.it/?post_type=notizie&p=1129789",
+      "title": "Il co-fondatore di Rockstar Games sul formato fisico: “Se c’è domanda, le aziende dovrebbero soddisfarla”",
+      "link": "https://www.gamesource.it/notizie/rockstar-games-sul-formato-fisico-se/",
+      "pubDate": "Tue, 28 Jul 2026 09:33:13 +0000",
+      "contentSnippet": "Intervenuti ai microfoni di IGN durante il Comic-Con di San Diego, il co-fondatore di Rockstar Games Dan Houser e l’ex autore Rockstar Lazlow Jones sono tornati a parlare del dibattito che sta animando la community in queste settimane: il progressivo abbandono del formato fisico, una questione tornata al centro dell’attenzione dopo le recenti decisioni che coinvolgono GTA 6 e i piani di Sony a partire dal 2028.\n[caption id=\"attachment_1129791\" align=\"aligncenter\" width=\"1024\"] Il co-fondatore di Rockstar Games sul formato fisico | Le aziende devono ascoltare i giocatori?[/caption]\nIl co-fondatore di Rockstar Games sul formato fisico: pregi e difetti\nI due creativi, oggi impegnati nello sviluppo di nuovi progetti presso Absurd Ventures, hanno espresso il loro punto di vista, schierandosi dalla parte dei giocatori pur riconoscendo i vantaggi offerti dalla distribuzione digitale.\n\"Personalmente non è una cosa che mi interessa particolarmente, ma se i giocatori lo vogliono, le aziende dovrebbero offrirlo\", ha dichiarato Houser. \"Per quanto le uscite digitali vengano spesso criticate, la possibilità di aggiornare i giochi e correggere rapidamente eventuali problemi si è rivelata estremamente utile per migliorare la qualità complessiva dei titoli\".\nLazlow Jones ha poi aggiunto il suo punto di vista, evidenziando come entrambe le soluzioni abbiano aspetti positivi: \"Tutti amiamo quella sensazione di prendere una copia fisica e inserire il disco nella console. Allo stesso tempo, però, devo ammettere che adoro essere in aeroporto, pensare «perfetto, posso scaricare qualche gioco sul mio Steam Deck prima di affrontare questo volo di 12 ore» e averli subito a disposizione\".\nSuccessivamente, Lazlow ha collegato il tema del fisico e del digitale al lavoro che lui e Houser stanno svolgendo oggi con un mezzo completamente diverso, quello dei fumetti.\n\"Abbiamo lavorato insieme per molti anni nel digitale, ma realizzare un prodotto fisico come un fumetto è un processo creativo completamente diverso. Allo stesso tempo, è davvero gratificante avere qualcosa di tangibile e poter dire: L’ho creato io\".\nUn pensiero condiviso anche da Houser, che ha concluso ribadendo il proprio apprezzamento per il supporto fisico, affermando di amare i prodotti in formato materiale.\nI grandi nomi dell’industria videoludica sembrano dunque schierarsi dalla parte dei giocatori nel dibattito sul futuro del formato fisico. Solo pochi giorni fa anche Hideo Kojima aveva definito la situazione come “triste”, mentre Suji Utsumi aveva ribadito come il mercato fisico rappresenti ancora una parte importante dell’identità dell’industria videoludica.\nL'articolo Il co-fondatore di Rockstar Games sul formato fisico: “Se c’è domanda, le aziende dovrebbero soddisfarla” proviene da GameSource.",
+      "thumbnail": "https://www.gamesource.it/wp-content/uploads/2026/07/Immagine-Dan-Houser-news-copie-fisiche.webp"
+    },
+    {
+      "guid": "https://it.ign.com/red-dead-redemption-2/226985/dan-houser-co-fondatore-di-rockstar-games-difende-i-giochi-fisici-e-invita-le-aziende-a-supportarli",
+      "title": "Dan Houser, co-fondatore di Rockstar Games, difende i giochi fisici e invita le aziende a supportarli",
+      "link": "https://it.ign.com/red-dead-redemption-2/226985/dan-houser-co-fondatore-di-rockstar-games-difende-i-giochi-fisici-e-invita-le-aziende-a-supportarli",
+      "pubDate": "Tue, 28 Jul 2026 09:00:39 +0000",
+      "contentSnippet": "\"Se i giocatori li vogliono, le aziende dovrebbero continuare a offrirli\".\nIl co-fondatore di Rockstar Games apprezza la comodità del digitale, ma ritiene che il mercato debba continuare a lasciare spazio alle edizioni su supporto fisico.",
+      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/grand-theft-autos-dan-houser-to-make-his-first-on-camera-int_ttq2.jpg"
     },
     {
       "guid": "https://it.ign.com/ea-sports-college-football-27/226957/ea-sports-college-football-27-la-recensione",
@@ -26,76 +82,20 @@
       "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/2_rsr5.jpg"
     },
     {
+      "guid": "https://it.ign.com/ea-sports-college-football-27/226958/ea-sports-college-football-27-una-galleria-di-immagini-e-gif",
+      "title": "EA Sports College Football 27 - Una galleria di immagini e GIF",
+      "link": "https://it.ign.com/ea-sports-college-football-27/226958/ea-sports-college-football-27-una-galleria-di-immagini-e-gif",
+      "pubDate": "Mon, 27 Jul 2026 14:37:14 +0000",
+      "contentSnippet": "<img src=\"https://sm.ign.com/t/ign_it/gallery/e/ea-sports-/ea-sports-college-football-27-gameplay-screenshots-and-gifs_sz2r.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />",
+      "thumbnail": "https://sm.ign.com/ign_it/gallery/e/ea-sports-/ea-sports-college-football-27-gameplay-screenshots-and-gifs_sz2r.jpg"
+    },
+    {
       "guid": "https://it.ign.com/dragons-dogma-ii-dark-arisen/226971/dragons-dogma-ii-dark-arisen-elimina-lo-scaling-dei-livelli-confermata-lintroduzione-del-transmog",
       "title": "Dragon's Dogma II: Dark Arisen elimina lo scaling dei livelli, confermata l'introduzione del transmog",
       "link": "https://it.ign.com/dragons-dogma-ii-dark-arisen/226971/dragons-dogma-ii-dark-arisen-elimina-lo-scaling-dei-livelli-confermata-lintroduzione-del-transmog",
       "pubDate": "Mon, 27 Jul 2026 14:33:35 +0000",
       "contentSnippet": "Capcom valuta anche una modalità \"Difficile\" per chi cerca maggiore sfida.\nGli sviluppatori di Dragon's Dogma II spiegano di aver ascoltato i feedback della community: niente scaling dei livelli, confermato il sistema di transmog, mentre la difficoltà aggiuntiva è ancora in fase di valutazione.",
       "thumbnail": "https://sm.ign.com/ign_it/photo/d/dragons-do/dragons-dogma-ii-prince-of-persia-and-ac-mirage-plummet-to-n_fehx.jpg"
-    },
-    {
-      "guid": "https://it.ign.com/offerte-amazon-videogiochi-sconti/226978/granblue-fantasy-relink-endless-ragnarok-e-in-offerta-su-instant-gaming",
-      "title": "Granblue Fantasy: Relink - Endless Ragnarok è in offerta su Instant Gaming",
-      "link": "https://it.ign.com/offerte-amazon-videogiochi-sconti/226978/granblue-fantasy-relink-endless-ragnarok-e-in-offerta-su-instant-gaming",
-      "pubDate": "Mon, 27 Jul 2026 14:12:37 +0000",
-      "contentSnippet": "Sconto del 22% per la recente espansione.\nSu Instant Gaming è possibile acquistare Granblue Fantasy: Relink - Endless Ragnarok con uno sconto del 22%.",
-      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/titolo_658p.jpg"
-    },
-    {
-      "guid": "https://it.ign.com/wuchang-fallen-feathers/226973/wuchang-fallen-feathers-raggiunge-5-milioni-di-giocatori-505-games-celebra-il-traguardo",
-      "title": "Wuchang: Fallen Feathers raggiunge 5 milioni di giocatori, 505 Games celebra il traguardo",
-      "link": "https://it.ign.com/wuchang-fallen-feathers/226973/wuchang-fallen-feathers-raggiunge-5-milioni-di-giocatori-505-games-celebra-il-traguardo",
-      "pubDate": "Mon, 27 Jul 2026 14:03:35 +0000",
-      "contentSnippet": "Il publisher ha acquisito la licenzia del gioco lo scorso aprile.\nGli italiani di 505 Games, che lo scorso aprile hanno acquisito la licenza di Wuchang: Fallen Feathers salvando il gioco dalla cancellazione, festeggiano un grande traguardo raggiunto.",
-      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/sfa_m5pk.jpg"
-    },
-    {
-      "guid": "https://it.ign.com/crimson-desert/226972/lultimo-aggiornamento-di-crimson-desert-risolve-numerosi-bug-crash-e-problemi-di-gameplay",
-      "title": "L'ultimo aggiornamento di Crimson Desert risolve numerosi bug, crash e problemi di gameplay",
-      "link": "https://it.ign.com/crimson-desert/226972/lultimo-aggiornamento-di-crimson-desert-risolve-numerosi-bug-crash-e-problemi-di-gameplay",
-      "pubDate": "Mon, 27 Jul 2026 13:33:42 +0000",
-      "contentSnippet": "Pearl Abyss continua a rifinire il suo action RPG.\nPearl Abyss ultima le rifiniture al suo colossale action RPG, preparando il terreno per l'uscita di un massiccio DLC.",
-      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/unnamed_xerg.jpg"
-    },
-    {
-      "guid": "https://www.gamesource.it/?post_type=notizie&p=1129673",
-      "title": "Final Fantasy XIV sarà il gioco più pesante di Switch 2",
-      "link": "https://www.gamesource.it/notizie/final-fantasy-xiv-sara-il-gioco-piu-pesante-di-switch-2/",
-      "pubDate": "Mon, 27 Jul 2026 13:14:40 +0000",
-      "contentSnippet": "Final Fantasy XIV non è mai stato un gioco leggero, perlomeno a livello di spazio di archiviazione. Nei periodi bui, in cui la versione console comportava scaricare un launcher a parte per poi scaricare il gioco all'interno di tale launcher, il gioco arrivava ben oltre i 100 Gigabyte, al fronte di molti meno contenuti di quelli attuali.\nDopo un estensivo rework dei contenuti di gioco, eravamo arrivati a una quarantina di Gigabyte, per poi tornare sui 90 dopo l'uscita di Dawntrail. Su Nintendo Switch 2 però, qualcosa deve essere diverso, in quanto Final Fantasy XIV peserà molto più.\nFinal Fantasy XIV sarà il gioco più pesante di Switch 2\nIl peso di partenza di Final Fantasy XIV su Nintendo Switch 2 sarà di 117 GB, andando a posizionarsi come il gioco più pesante disponibile sulla console, con 27 GB in più rispetto alla versione Playstation 5. Il gioco avrà una prova gratuita che includerà fino a Shadowbringers, quindi non posso che consigliare a chiunque abbia tempo (e spazio sulla console) di recuperare la miglior storia della saga, perlomeno la migliore dal 2000 ad oggi.\nDetto questo, bisogna tenere in considerazione due cose. La prima è l'aumento di dimensione del software nel futuro prossimo. A Gennaio è prevista l'espansione Evercold e con essa è decisamente scontato vedere una crescita dello spazio d'archiviazione necessario ad avviare Final Fantasy XIV.\nLa seconda è il discorso dell'abbonamento. Per la prova gratuita, non c'è abbonamento ovviamente. Tuttavia, nel caso vogliate il titolo completo (o vogliate accedere alle funzionalità bloccate nel free trial, tipo la possibilità di invitare persone in party)servirà un abbonamento esclusivo per la versione Nintendo Switch 2.\nL'abbonamento è separato da quello già disponibile che comprende le versioni PC, Steam e Playstation 5. Tenetelo a mente nel caso abbiate intenzione di usare la versione Nintendo Switch 2 come \"account secondario\", idea che per esempio ho avuto io, prima di sapere di dover pagare due abbonamenti se voglio continuare a giocarlo su PC e Playstation.\nSe invece volete utilizzare solo la versione Switch 2 di Final Fantasy XIV, preparate almeno 117 GB!\n \nL'articolo Final Fantasy XIV sarà il gioco più pesante di Switch 2 proviene da GameSource.",
-      "thumbnail": "https://www.gamesource.it/wp-content/uploads/2026/07/final-fantasy-xiv-switch-2.webp"
-    },
-    {
-      "guid": "https://it.ign.com/stalker-2/226974/stalker-2-cost-of-hope-ha-una-data-duscita-annunciata-anche-la-maxi-patch-20",
-      "title": "S.T.A.L.K.E.R. 2: Cost of Hope ha una data d'uscita, annunciata anche la maxi patch 2.0",
-      "link": "https://it.ign.com/stalker-2/226974/stalker-2-cost-of-hope-ha-una-data-duscita-annunciata-anche-la-maxi-patch-20",
-      "pubDate": "Mon, 27 Jul 2026 13:03:53 +0000",
-      "contentSnippet": "La prima grande espansione di Heart of Chornobyl arriverà il mese prossimo.\nLa prima grande espansione di S.T.A.L.K.E.R. 2: Heart of Chornobyl arriverà il mese prossimo insieme a un aggiornamento gratuito che porterà il gioco a una nuova versione di Unreal Engine 5.",
-      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/unnamed_mxfa.jpg"
-    },
-    {
-      "guid": "https://it.ign.com/offerte-amazon-videogiochi-sconti/226968/borderlands-4-costa-sempre-meno-su-instant-gaming-versione-pc-e-a-meno-di-30-euro",
-      "title": "Borderlands 4 costa sempre meno su Instant Gaming: la versione PC è a meno di 30 euro",
-      "link": "https://it.ign.com/offerte-amazon-videogiochi-sconti/226968/borderlands-4-costa-sempre-meno-su-instant-gaming-versione-pc-e-a-meno-di-30-euro",
-      "pubDate": "Mon, 27 Jul 2026 10:16:00 +0000",
-      "contentSnippet": "Sconto anche per l'edizione Super Deluxe.\nBorderlands 4 è in super sconto su Instant Gaming, anche in edizione Super Deluxe con diversi DLC inclusi.",
-      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/214ca4b5cdbf9198e587396e71714b9147e669bbdaf07b0d-copia_6wfk.jpg"
-    },
-    {
-      "guid": "https://it.ign.com/tomb-raider-catalyst/226967/tomb-raider-catalyst-sarebbe-stato-rinviato-al-2028",
-      "title": "Tomb Raider: Catalyst sarebbe stato rinviato al 2028",
-      "link": "https://it.ign.com/tomb-raider-catalyst/226967/tomb-raider-catalyst-sarebbe-stato-rinviato-al-2028",
-      "pubDate": "Mon, 27 Jul 2026 10:03:36 +0000",
-      "contentSnippet": "Si attende la conferma di Crystal Dynamics.\nIl responsabile della divisione gaming di Amazon ha confermato il rinvio del nuovo capitolo di Tomb Raider, anche se Crystal Dynamics non ha ancora rilasciato un annuncio ufficiale.",
-      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/tombraider-legacyofatlantis-laracroft-vilcabamba-vistareveal_ywfw.jpg"
-    },
-    {
-      "guid": "https://it.ign.com/project-007/226966/amazon-apre-a-un-sequel-di-007-first-light-e-considera-il-ritorno-di-io-interactive-allo-sviluppo",
-      "title": "Amazon apre a un sequel di 007 First Light, e considera il ritorno di IO Interactive allo sviluppo",
-      "link": "https://it.ign.com/project-007/226966/amazon-apre-a-un-sequel-di-007-first-light-e-considera-il-ritorno-di-io-interactive-allo-sviluppo",
-      "pubDate": "Mon, 27 Jul 2026 09:33:35 +0000",
-      "contentSnippet": "Al momento, però, non esistono certezze.\nIl responsabile di Amazon Game Studios conferma che non ci sono ancora state discussioni sul sequel di 007 First Light, ma lascia intendere che sarebbe naturale affidarlo di nuovo allo studio danese.",
-      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/007-first-light-infiltrazione_n7jg.png"
     }
   ]
 }
