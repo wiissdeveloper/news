@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30",
+  "updated": "2026-07-31",
   "systems": {
     "3do": [
       {
@@ -219,8 +219,8 @@
       {
         "rank": 11,
         "name": "Color Bar Generator",
-        "price_usd": 589.18,
-        "price_eur": 542.05,
+        "price_usd": 587.21,
+        "price_eur": 540.23,
         "isHistory": false
       },
       {
@@ -360,16 +360,16 @@
       },
       {
         "rank": 11,
-        "name": "Astro Fighter [Homebrew]",
-        "price_usd": 147.3,
-        "price_eur": 135.52,
+        "name": "Space Invaders [Homebrew]",
+        "price_usd": 149.99,
+        "price_eur": 137.99,
         "isHistory": false
       },
       {
         "rank": 12,
-        "name": "Space Invaders [Homebrew]",
-        "price_usd": 143.75,
-        "price_eur": 132.25,
+        "name": "Astro Fighter [Homebrew]",
+        "price_usd": 147.3,
+        "price_eur": 135.52,
         "isHistory": false
       },
       {
@@ -382,8 +382,8 @@
       {
         "rank": 14,
         "name": "Commando",
-        "price_usd": 127.56,
-        "price_eur": 117.36,
+        "price_usd": 127.21,
+        "price_eur": 117.03,
         "isHistory": false
       },
       {
@@ -758,23 +758,23 @@
       },
       {
         "rank": 7,
+        "name": "AirCars",
+        "price_usd": 191.17,
+        "price_eur": 175.88,
+        "isHistory": false
+      },
+      {
+        "rank": 8,
         "name": "Teenage Mutant Hero Turtles",
         "price_usd": 189.99,
         "price_eur": 174.79,
         "isHistory": false
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "R-Type",
         "price_usd": 189,
         "price_eur": 173.88,
-        "isHistory": false
-      },
-      {
-        "rank": 9,
-        "name": "AirCars",
-        "price_usd": 187.95,
-        "price_eur": 172.91,
         "isHistory": false
       },
       {
@@ -836,8 +836,8 @@
       {
         "rank": 18,
         "name": "Jag Zombies",
-        "price_usd": 138.24,
-        "price_eur": 127.18,
+        "price_usd": 138.75,
+        "price_eur": 127.65,
         "isHistory": false
       },
       {
@@ -916,8 +916,8 @@
       {
         "rank": 9,
         "name": "Cannon Spike",
-        "price_usd": 180.41,
-        "price_eur": 165.98,
+        "price_usd": 180.59,
+        "price_eur": 166.14,
         "isHistory": false
       },
       {
@@ -964,14 +964,14 @@
       },
       {
         "rank": 16,
-        "name": "The House of the Dead 2 [Gun Bundle]",
+        "name": "Sega Dreamcast Arcade Stick",
         "price_usd": 100,
         "price_eur": 92,
         "isHistory": false
       },
       {
         "rank": 17,
-        "name": "Sega Dreamcast Arcade Stick",
+        "name": "The House of the Dead 2 [Gun Bundle]",
         "price_usd": 100,
         "price_eur": 92,
         "isHistory": false
@@ -985,16 +985,16 @@
       },
       {
         "rank": 19,
-        "name": "Dream Point Bank VMU",
-        "price_usd": 91.74,
-        "price_eur": 84.4,
+        "name": "Project Justice",
+        "price_usd": 94.23,
+        "price_eur": 86.69,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "Sonic Adventure 2",
-        "price_usd": 90,
-        "price_eur": 82.8,
+        "name": "Dream Point Bank VMU",
+        "price_usd": 91.74,
+        "price_eur": 84.4,
         "isHistory": false
       }
     ],
@@ -1022,16 +1022,16 @@
       },
       {
         "rank": 4,
-        "name": "Janken Disk Jo",
-        "price_usd": 84.99,
-        "price_eur": 78.19,
+        "name": "Famicom Disk System Console",
+        "price_usd": 90.36,
+        "price_eur": 83.13,
         "isHistory": false
       },
       {
         "rank": 5,
-        "name": "Famicom Disk System Console",
-        "price_usd": 84.9,
-        "price_eur": 78.11,
+        "name": "Janken Disk Jo",
+        "price_usd": 84.99,
+        "price_eur": 78.19,
         "isHistory": false
       },
       {
@@ -1085,44 +1085,44 @@
       },
       {
         "rank": 13,
-        "name": "Metroid",
-        "price_usd": 42.44,
-        "price_eur": 39.04,
-        "isHistory": false
-      },
-      {
-        "rank": 14,
         "name": "Panic Space",
         "price_usd": 42.33,
         "price_eur": 38.94,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 14,
         "name": "Kick Challenger: Air Foot",
         "price_usd": 41.47,
         "price_eur": 38.15,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 15,
         "name": "Time Twist: Rekishi no Katasumi de [Kouhen]",
         "price_usd": 41.06,
         "price_eur": 37.78,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 16,
         "name": "BurgerTime",
         "price_usd": 40.45,
         "price_eur": 37.21,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 17,
         "name": "Akumajou Dracula",
         "price_usd": 39.99,
         "price_eur": 36.79,
+        "isHistory": false
+      },
+      {
+        "rank": 18,
+        "name": "Metroid",
+        "price_usd": 39.88,
+        "price_eur": 36.69,
         "isHistory": false
       },
       {
@@ -1206,14 +1206,14 @@
       },
       {
         "rank": 10,
-        "name": "Bubble Bobble 2",
+        "name": "Makaimura [Box Cart]",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
       },
       {
         "rank": 11,
-        "name": "Makaimura [Box Cart]",
+        "name": "Bubble Bobble 2",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
@@ -1455,14 +1455,14 @@
       },
       {
         "rank": 5,
-        "name": "Disney Channel Gameboy Advance SP",
+        "name": "Pokemon Emerald [Not for Resale]",
         "price_usd": 800,
         "price_eur": 736,
         "isHistory": false
       },
       {
         "rank": 6,
-        "name": "Pokemon Emerald [Not for Resale]",
+        "name": "Disney Channel Gameboy Advance SP",
         "price_usd": 800,
         "price_eur": 736,
         "isHistory": false
@@ -1526,8 +1526,8 @@
       {
         "rank": 15,
         "name": "Ninja Five O",
-        "price_usd": 299,
-        "price_eur": 275.08,
+        "price_usd": 292.5,
+        "price_eur": 269.1,
         "isHistory": false
       },
       {
@@ -1554,8 +1554,8 @@
       {
         "rank": 19,
         "name": "Pokemon Emerald",
-        "price_usd": 227.47,
-        "price_eur": 209.27,
+        "price_usd": 232.96,
+        "price_eur": 214.32,
         "isHistory": false
       },
       {
@@ -1577,8 +1577,8 @@
       {
         "rank": 2,
         "name": "Shantae",
-        "price_usd": 698,
-        "price_eur": 642.16,
+        "price_usd": 699,
+        "price_eur": 643.08,
         "isHistory": false
       },
       {
@@ -1689,8 +1689,8 @@
       {
         "rank": 18,
         "name": "Metal Gear Solid",
-        "price_usd": 135.25,
-        "price_eur": 124.43,
+        "price_usd": 136.19,
+        "price_eur": 125.29,
         "isHistory": false
       },
       {
@@ -1789,8 +1789,8 @@
       {
         "rank": 12,
         "name": "Cosmic Spacehead",
-        "price_usd": 71.57,
-        "price_eur": 65.84,
+        "price_usd": 69.21,
+        "price_eur": 63.67,
         "isHistory": false
       },
       {
@@ -1802,16 +1802,16 @@
       },
       {
         "rank": 14,
-        "name": "Defenders of Oasis",
-        "price_usd": 59.99,
-        "price_eur": 55.19,
+        "name": "Sega Game Gear Handheld",
+        "price_usd": 60.34,
+        "price_eur": 55.51,
         "isHistory": false
       },
       {
         "rank": 15,
-        "name": "Sega Game Gear Handheld",
-        "price_usd": 52,
-        "price_eur": 47.84,
+        "name": "Defenders of Oasis",
+        "price_usd": 54.97,
+        "price_eur": 50.57,
         "isHistory": false
       },
       {
@@ -2387,8 +2387,8 @@
       {
         "rank": 16,
         "name": "Conker's Bad Fur Day",
-        "price_usd": 170.75,
-        "price_eur": 157.09,
+        "price_usd": 171.58,
+        "price_eur": 157.85,
         "isHistory": false
       },
       {
@@ -2508,30 +2508,30 @@
       },
       {
         "rank": 13,
+        "name": "Seattle Mariners Nintendo DS Lite",
+        "price_usd": 727.12,
+        "price_eur": 668.95,
+        "isHistory": false
+      },
+      {
+        "rank": 14,
         "name": "Nintendo DSi Development Kit [Panda]",
         "price_usd": 661.78,
         "price_eur": 608.84,
         "isHistory": false
       },
       {
-        "rank": 14,
-        "name": "Pokemon [Legendary Not For Resale Y90E]",
-        "price_usd": 615.43,
-        "price_eur": 566.2,
-        "isHistory": false
-      },
-      {
         "rank": 15,
-        "name": "Pokemon Legendary Distribution",
-        "price_usd": 604.95,
-        "price_eur": 556.55,
+        "name": "Pokemon [Legendary Not For Resale Y90E]",
+        "price_usd": 614.49,
+        "price_eur": 565.33,
         "isHistory": false
       },
       {
         "rank": 16,
-        "name": "Seattle Mariners Nintendo DS Lite",
-        "price_usd": 599.97,
-        "price_eur": 551.97,
+        "name": "Pokemon Legendary Distribution",
+        "price_usd": 604.95,
+        "price_eur": 556.55,
         "isHistory": false
       },
       {
@@ -2786,8 +2786,8 @@
       {
         "rank": 12,
         "name": "Bubble Bath Babes",
-        "price_usd": 1706.73,
-        "price_eur": 1570.19,
+        "price_usd": 1701.06,
+        "price_eur": 1564.98,
         "isHistory": false
       },
       {
@@ -3151,8 +3151,8 @@
       {
         "rank": 3,
         "name": "NEC PC-FX Console",
-        "price_usd": 260,
-        "price_eur": 239.2,
+        "price_usd": 261.17,
+        "price_eur": 240.28,
         "isHistory": false
       },
       {
@@ -3200,8 +3200,8 @@
       {
         "rank": 10,
         "name": "Pia Carrot & Can Can Bunny Extra DX",
-        "price_usd": 107.78,
-        "price_eur": 99.16,
+        "price_usd": 107.76,
+        "price_eur": 99.14,
         "isHistory": false
       },
       {
@@ -3286,8 +3286,8 @@
       {
         "rank": 2,
         "name": "Elemental Gearbolt Assassin Case",
-        "price_usd": 9320.74,
-        "price_eur": 8575.08,
+        "price_usd": 9317.4,
+        "price_eur": 8572.01,
         "isHistory": false
       },
       {
@@ -3300,8 +3300,8 @@
       {
         "rank": 4,
         "name": "Tail Concerto",
-        "price_usd": 308.74,
-        "price_eur": 284.04,
+        "price_usd": 322.13,
+        "price_eur": 296.36,
         "isHistory": false
       },
       {
@@ -3420,14 +3420,14 @@
     "ps2": [
       {
         "rank": 1,
-        "name": "PlayStation 2 System [Blue Automotive Edition]",
+        "name": "PlayStation 2 System [Yellow Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
       },
       {
         "rank": 2,
-        "name": "PlayStation 2 System [Yellow Automotive Edition]",
+        "name": "PlayStation 2 System [Blue Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
@@ -3442,8 +3442,8 @@
       {
         "rank": 4,
         "name": "PlayStation 2 System [White Automotive Edition]",
-        "price_usd": 1836.76,
-        "price_eur": 1689.82,
+        "price_usd": 1820.51,
+        "price_eur": 1674.87,
         "isHistory": false
       },
       {
@@ -3491,8 +3491,8 @@
       {
         "rank": 11,
         "name": "Rule of Rose",
-        "price_usd": 594.67,
-        "price_eur": 547.1,
+        "price_usd": 597,
+        "price_eur": 549.24,
         "isHistory": false
       },
       {
@@ -3526,8 +3526,8 @@
       {
         "rank": 16,
         "name": "Obscure",
-        "price_usd": 349.98,
-        "price_eur": 321.98,
+        "price_usd": 349.99,
+        "price_eur": 321.99,
         "isHistory": false
       },
       {
@@ -3838,8 +3838,8 @@
       {
         "rank": 20,
         "name": "FIFA Soccer 96",
-        "price_usd": 50.11,
-        "price_eur": 46.1,
+        "price_usd": 50.17,
+        "price_eur": 46.16,
         "isHistory": false
       }
     ],
@@ -4080,30 +4080,30 @@
       },
       {
         "rank": 14,
+        "name": "The Firemen",
+        "price_usd": 204.94,
+        "price_eur": 188.54,
+        "isHistory": false
+      },
+      {
+        "rank": 15,
         "name": "Castlevania: Vampire's Kiss",
         "price_usd": 203.3,
         "price_eur": 187.04,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 16,
         "name": "Aero the Acro-Bat 2",
         "price_usd": 198.28,
         "price_eur": 182.42,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 17,
         "name": "Whirlo",
         "price_usd": 192.63,
         "price_eur": 177.22,
-        "isHistory": false
-      },
-      {
-        "rank": 17,
-        "name": "The Firemen",
-        "price_usd": 181.13,
-        "price_eur": 166.64,
         "isHistory": false
       },
       {
@@ -4331,8 +4331,8 @@
       {
         "rank": 9,
         "name": "Virtual Lab [Homebrew]",
-        "price_usd": 178.55,
-        "price_eur": 164.27,
+        "price_usd": 178.62,
+        "price_eur": 164.33,
         "isHistory": false
       },
       {
@@ -4394,8 +4394,8 @@
       {
         "rank": 18,
         "name": "Wario Land",
-        "price_usd": 71.49,
-        "price_eur": 65.77,
+        "price_usd": 67.47,
+        "price_eur": 62.07,
         "isHistory": false
       },
       {
@@ -4685,8 +4685,8 @@
       {
         "rank": 19,
         "name": "Wonder Swan Color",
-        "price_usd": 69.63,
-        "price_eur": 64.06,
+        "price_usd": 68.07,
+        "price_eur": 62.62,
         "isHistory": false
       },
       {
@@ -4735,16 +4735,16 @@
       },
       {
         "rank": 6,
-        "name": "Planetoids [ROM Cartridge]",
-        "price_usd": 131.86,
-        "price_eur": 121.31,
+        "name": "Jet Pac [ROM Cartridge]",
+        "price_usd": 132.88,
+        "price_eur": 122.25,
         "isHistory": false
       },
       {
         "rank": 7,
-        "name": "Jet Pac [ROM Cartridge]",
-        "price_usd": 129.12,
-        "price_eur": 118.79,
+        "name": "Planetoids [ROM Cartridge]",
+        "price_usd": 131.86,
+        "price_eur": 121.31,
         "isHistory": false
       },
       {
