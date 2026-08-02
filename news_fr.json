@@ -1,6 +1,54 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "notices": [
+    {
+      "guid": "https://www.jeuxvideo.com/news/2096808/contre-la-ps6-xbox-a-un-nouveau-plan-la-regle-des-4c.htm",
+      "title": "Contre la PS6, Xbox a un nouveau plan : la règle des 4C",
+      "link": "https://www.jeuxvideo.com/news/2096808/contre-la-ps6-xbox-a-un-nouveau-plan-la-regle-des-4c.htm",
+      "pubDate": "Sat, 01 Aug 2026 22:20:07 +0200",
+      "contentSnippet": "Les mails envoyés par Asha Sharma à ses employés ne restent jamais confidentiels bien longtemps. Après avoir annoncé le “reset” de la marque au gros “X”, la boss de Xbox évoque la croissance après une année très compliquée.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178550/1785502349-7812-card.jpg"
+    },
+    {
+      "guid": "https://www.actugaming.net/?p=814010",
+      "title": "EA Sports FC 26 dévoile la deuxième équipe Futties",
+      "link": "https://www.actugaming.net/ea-sports-fc-26-devoile-la-deuxieme-equipe-futties-814010/",
+      "pubDate": "Sat, 01 Aug 2026 17:31:21 +0000",
+      "contentSnippet": "ActuGaming.net\nEA Sports FC 26 dévoile la deuxième équipe Futties\n\nEA Sports FC 26 nous propose la deuxième équipe de la promotion Futties. Les cartes […]\nL'article EA Sports FC 26 dévoile la deuxième équipe Futties est disponible sur ActuGaming.net",
+      "thumbnail": "https://static.actugaming.net/media/2026/07/ea-sports-fc-26-futties-affiche.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2096723/baldur-s-gate-3-ce-mod-gratuit-divise-completement-la-communaute-alors-que-le-jeu-est-plus-immersif-que-jamais.htm",
+      "title": "Baldur's Gate 3 : Ce mod gratuit divise complètement la communauté alors que le jeu est plus immersif que jamais",
+      "link": "https://www.jeuxvideo.com/news/2096723/baldur-s-gate-3-ce-mod-gratuit-divise-completement-la-communaute-alors-que-le-jeu-est-plus-immersif-que-jamais.htm",
+      "pubDate": "Sat, 01 Aug 2026 18:45:07 +0200",
+      "contentSnippet": "Une nouvelle façon d'explorer le monde de Faerûn enflamme les forums de la communauté. En proposant une immersion totale à la troisième personne, un mod gratuit réinvente l'expérience de jeu sur Baldur's Gate 3, tout en divisant les fans du RPG de Larian Studios.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178549/1785487468-6529-card.jpg"
+    },
+    {
+      "guid": "https://www.actugaming.net/?p=813998",
+      "title": "CloverPit amènera sa folie addictive sur consoles PlayStation et Switch le 13 août",
+      "link": "https://www.actugaming.net/cloverpit-consoles-playstation-switch-13-aout-813998/",
+      "pubDate": "Sat, 01 Aug 2026 15:16:27 +0000",
+      "contentSnippet": "ActuGaming.net\nCloverPit amènera sa folie addictive sur consoles PlayStation et Switch le 13 août\n\nLorsque l’on arrive à faire d’un principe simple une boucle de gameplay addictive à souhait, […]\nL'article CloverPit amènera sa folie addictive sur consoles PlayStation et Switch le 13 août est disponible sur ActuGaming.net",
+      "thumbnail": "https://static.actugaming.net/media/2026/08/cloverpit-key-art.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2096680/ils-ont-commence-a-developper-leur-propre-jeu-video-dans-la-cave-de-leurs-parents-9-ans-plus-tard-il-est-enfin-sorti.htm",
+      "title": "Ils ont commencé à développer leur propre jeu vidéo dans la cave de leurs parents. 9 ans plus tard, il est enfin sorti ",
+      "link": "https://www.jeuxvideo.com/news/2096680/ils-ont-commence-a-developper-leur-propre-jeu-video-dans-la-cave-de-leurs-parents-9-ans-plus-tard-il-est-enfin-sorti.htm",
+      "pubDate": "Sat, 01 Aug 2026 17:15:07 +0200",
+      "contentSnippet": "Si certains studios mettent des années à sortir leurs jeux avec des équipes gigantesques, ces deux développeurs viennent de sortir leur dernière production, 9 ans après les premiers travaux. Commencé dans une cave et passé par un accès anticipé en 2020, le titre est donc enfin disponible sur Steam.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178542/1785420372-5199-card.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2096417/note-18-20-ce-rpg-de-sf-culte-est-actuellement-a-70-sur-steam.htm",
+      "title": "Noté 18/20, ce RPG de SF culte est actuellement à -70 % sur Steam",
+      "link": "https://www.jeuxvideo.com/news/2096417/note-18-20-ce-rpg-de-sf-culte-est-actuellement-a-70-sur-steam.htm",
+      "pubDate": "Sat, 01 Aug 2026 16:00:07 +0200",
+      "contentSnippet": "En mal d'une aventure dystopique intense et transhumaniste ? Profitez d'une réduction massive de 70 % sur Steam pour découvrir Cyberpunk 2077, l'un des mondes ouverts les plus marquants de la science-fiction moderne.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178533/1785329971-2307-card.jpg"
+    },
     {
       "guid": "https://www.actugaming.net/?p=813993",
       "title": "Final Fantasy VII Revelation relance fortement les ventes de Remake et Rebirth",
@@ -48,54 +96,6 @@
       "pubDate": "Sat, 01 Aug 2026 09:01:00 +0200",
       "contentSnippet": "Il fut un temps, pas si lointain, où Xbox aurait adoré que son Game Pass soit disponible partout, y compris chez la concurrence. Sans l'accord d'un quelconque parti, le développeur Day-OS vient de créer une application absolument pas officielle qui permet justement de jouer en cloud gaming aux jeux du catalogue de Microsoft, directement sur une PlayStation Vita.",
       "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050871361/quelqu-un-vient-de-rentre-jouable-le-xbox-game-pass-sur-playstation-vita-864c4151__930_300__0-244-1889-854.png"
-    },
-    {
-      "guid": "https://www.jeuxvideo.com/news/2096443/les-scenaristes-de-ce-jeu-video-ont-ete-forces-de-lire-3-livres-par-semaine-pendant-1-an.htm",
-      "title": "Les scénaristes de ce jeu vidéo ont été forcés de lire 3 livres par semaine pendant 1 an",
-      "link": "https://www.jeuxvideo.com/news/2096443/les-scenaristes-de-ce-jeu-video-ont-ete-forces-de-lire-3-livres-par-semaine-pendant-1-an.htm",
-      "pubDate": "Sat, 01 Aug 2026 08:40:10 +0200",
-      "contentSnippet": "Pour accoucher d'une narration interactive mémorable, certains studios ne se contentent pas de distribuer des manuels de game design. Chez ce studio, la méthode pour concevoir le dernier jeu d'horreur psychologique a été radicale : forcer l'équipe de scénaristes à lire jusqu'à 200 livres par an. Un entraînement...",
-      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178540/1785404205-5750-card.jpg"
-    },
-    {
-      "guid": "https://www.gamekult.com/actualite/25-ans-apres-golden-sun-reste-la-pepite-miraculeuse-de-la-gameboy-advance-3050871467.html",
-      "title": "25 ans après, Golden Sun reste la pépite miraculeuse de la GameBoy Advance",
-      "link": "https://www.gamekult.com/actualite/25-ans-apres-golden-sun-reste-la-pepite-miraculeuse-de-la-gameboy-advance-3050871467.html",
-      "pubDate": "Sat, 01 Aug 2026 06:01:00 +0200",
-      "contentSnippet": "Absolument rien n'amenait Camelot à devenir une référence oubliée du RPG. Le studio, fondé par les frères Hiroyuki et Shugo Takahashi, s'était surtout illustré dans le sport avec Mario Golf et Mario Tennis, une fois le partenariat scellé avec Nintendo comme développeur exclusif. Mais les deux frères venaient d'ailleurs : leur passé chez Sega les avait vus signer Shining Force III (leur premier projet ensemble). Golden Sun est le premier jeu né de cette alliance avec Nintendo qui ne repose sur aucune licence maison, à un moment où Sony écrasait le genre sur PlayStation et où Nintendo cherchait une réponse solide.",
-      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050871467/25-ans-apres-golden-sun-reste-la-pepite-miraculeuse-de-la-gameboy-advance-996aaecb__930_300__0-147-1600-662.jpg"
-    },
-    {
-      "guid": "https://www.gamekult.com/actualite/vous-etes-contre-la-mort-du-physique-playstation-s-en-balance-complet-3050871488.html",
-      "title": "Vous êtes contre la mort du physique ? PlayStation s'en balance complet",
-      "link": "https://www.gamekult.com/actualite/vous-etes-contre-la-mort-du-physique-playstation-s-en-balance-complet-3050871488.html",
-      "pubDate": "Fri, 31 Jul 2026 20:13:00 +0200",
-      "contentSnippet": "Alors que les réseaux sociaux de PlayStation brûlent toujours sous l'assaut de commentaires incendiaires sur l'arrêt du physique en 2028, la directrice des finances Lin Tao de Sony a signalé aux investisseurs que ça courait sur les rails de son indifférence sans altérer le moindre plan.",
-      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050871488/vous-etes-contre-la-mort-du-physique-playstation-s-en-balance-complet-7f35edf0__930_300__0-292-1920-912.jpg"
-    },
-    {
-      "guid": "https://www.jeuxvideo.com/news/2096756/la-ps6-coute-cher-a-playstation-et-les-joueurs-ont-l-impression-d-etre-trahis-sur-la-marchandise-les-resultats-de-sony-decevants.htm",
-      "title": "La PS6 coûte cher à PlayStation et les joueurs ont l'impression d'être trahis sur la marchandise : les résultats de Sony décevants ?",
-      "link": "https://www.jeuxvideo.com/news/2096756/la-ps6-coute-cher-a-playstation-et-les-joueurs-ont-l-impression-d-etre-trahis-sur-la-marchandise-les-resultats-de-sony-decevants.htm",
-      "pubDate": "Fri, 31 Jul 2026 20:10:12 +0200",
-      "contentSnippet": "Alors que nous pensions que Sony atteindrait facilement les 100 millions de PS5 vendues avant le début de l’été, ce n’est pas vraiment ce qui se passe dans la réalité. Quand on regarde la baisse des ventes de PlayStation 5 par rapport à l’année précédente, cela nous rappelle les chiffres d’une autre...",
-      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178549/1785492492-2229-card.png"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=813975",
-      "title": "SpeedRunners 2: King of Speed s’élancera à toute vitesse le 3 septembre sur PC et consoles",
-      "link": "https://www.actugaming.net/speedrunners-2-king-of-speed-3-septembre-813975/",
-      "pubDate": "Fri, 31 Jul 2026 17:36:57 +0000",
-      "contentSnippet": "ActuGaming.net\nSpeedRunners 2: King of Speed s’élancera à toute vitesse le 3 septembre sur PC et consoles\n\nLors de son annonce, SpeedRunners 2: King of Speed prévoyait un planning de sortie en […]\nL'article SpeedRunners 2: King of Speed s’élancera à toute vitesse le 3 septembre sur PC et consoles est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/07/speedrunners-2-key-art-no-logo.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=813974",
-      "title": "Genshin Impact ouvrira son premier café permanent en France le 14 août à Paris",
-      "link": "https://www.actugaming.net/genshin-impact-cafe-paris-ouverture-14-aout-813974/",
-      "pubDate": "Fri, 31 Jul 2026 17:31:51 +0000",
-      "contentSnippet": "ActuGaming.net\nGenshin Impact ouvrira son premier café permanent en France le 14 août à Paris\n\nQuelques jours après avoir bien dosé la mise à jour 7.0 de Genshin Impact, il […]\nL'article Genshin Impact ouvrira son premier café permanent en France le 14 août à Paris est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/07/genshin-cafe-01.jpg"
     }
   ]
 }
