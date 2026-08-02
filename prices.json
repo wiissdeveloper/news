@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01",
+  "updated": "2026-08-02",
   "systems": {
     "3do": [
       {
@@ -531,8 +531,8 @@
       {
         "rank": 15,
         "name": "Super Zaxxon",
-        "price_usd": 98.9,
-        "price_eur": 90.99,
+        "price_usd": 99.2,
+        "price_eur": 91.26,
         "isHistory": false
       },
       {
@@ -617,8 +617,8 @@
       {
         "rank": 7,
         "name": "Fat Bobby",
-        "price_usd": 124.55,
-        "price_eur": 114.59,
+        "price_usd": 124.54,
+        "price_eur": 114.58,
         "isHistory": false
       },
       {
@@ -724,8 +724,8 @@
       {
         "rank": 2,
         "name": "Atari Jaguar System",
-        "price_usd": 558.88,
-        "price_eur": 514.17,
+        "price_usd": 558.44,
+        "price_eur": 513.76,
         "isHistory": false
       },
       {
@@ -881,8 +881,8 @@
       {
         "rank": 4,
         "name": "Yellow Sega Dreamcast Controller",
-        "price_usd": 224.99,
-        "price_eur": 206.99,
+        "price_usd": 224.81,
+        "price_eur": 206.83,
         "isHistory": false
       },
       {
@@ -1072,8 +1072,8 @@
       {
         "rank": 11,
         "name": "Dracula II",
-        "price_usd": 45.7,
-        "price_eur": 42.04,
+        "price_usd": 48.69,
+        "price_eur": 44.79,
         "isHistory": false
       },
       {
@@ -1206,14 +1206,14 @@
       },
       {
         "rank": 10,
-        "name": "Bubble Bobble 2",
+        "name": "Makaimura [Box Cart]",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
       },
       {
         "rank": 11,
-        "name": "Makaimura [Box Cart]",
+        "name": "Bubble Bobble 2",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
@@ -1277,8 +1277,8 @@
       {
         "rank": 20,
         "name": "Metal Slader Glory",
-        "price_usd": 200,
-        "price_eur": 184,
+        "price_usd": 199.9,
+        "price_eur": 183.91,
         "isHistory": false
       }
     ],
@@ -1390,14 +1390,14 @@
       },
       {
         "rank": 16,
-        "name": "Analogue Pocket [Grape]",
+        "name": "Analogue Pocket [Berry]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
       },
       {
         "rank": 17,
-        "name": "Analogue Pocket [Berry]",
+        "name": "Analogue Pocket [Grape]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
@@ -1419,8 +1419,8 @@
       {
         "rank": 20,
         "name": "Toxic Crusaders",
-        "price_usd": 358.3,
-        "price_eur": 329.64,
+        "price_usd": 355.77,
+        "price_eur": 327.31,
         "isHistory": false
       }
     ],
@@ -1861,8 +1861,8 @@
       {
         "rank": 2,
         "name": "Outback Joey",
-        "price_usd": 3510.41,
-        "price_eur": 3229.58,
+        "price_usd": 3509.46,
+        "price_eur": 3228.7,
         "isHistory": false
       },
       {
@@ -1938,8 +1938,8 @@
       {
         "rank": 13,
         "name": "Blockbuster Game Factory Green",
-        "price_usd": 376.23,
-        "price_eur": 346.13,
+        "price_usd": 371.43,
+        "price_eur": 341.72,
         "isHistory": false
       },
       {
@@ -2972,8 +2972,8 @@
       {
         "rank": 18,
         "name": "SNK Vs Capcom: The Match of the Millennium",
-        "price_usd": 55.89,
-        "price_eur": 51.42,
+        "price_usd": 55.52,
+        "price_eur": 51.08,
         "isHistory": false
       },
       {
@@ -2986,8 +2986,8 @@
       {
         "rank": 20,
         "name": "Dive Alert Matt's Version",
-        "price_usd": 47.39,
-        "price_eur": 43.6,
+        "price_usd": 47.43,
+        "price_eur": 43.64,
         "isHistory": false
       }
     ],
@@ -3009,8 +3009,8 @@
       {
         "rank": 3,
         "name": "SuperGrafx Console",
-        "price_usd": 484.42,
-        "price_eur": 445.67,
+        "price_usd": 484.54,
+        "price_eur": 445.78,
         "isHistory": false
       },
       {
@@ -3235,8 +3235,8 @@
       {
         "rank": 15,
         "name": "Tekipaki Working Love FX",
-        "price_usd": 95.63,
-        "price_eur": 87.98,
+        "price_usd": 97.81,
+        "price_eur": 89.99,
         "isHistory": false
       },
       {
@@ -3369,23 +3369,23 @@
       },
       {
         "rank": 14,
+        "name": "Lunar 2 Eternal Blue Complete [Collector's Edition]",
+        "price_usd": 168.49,
+        "price_eur": 155.01,
+        "isHistory": false
+      },
+      {
+        "rank": 15,
         "name": "Silent Hill",
         "price_usd": 168.1,
         "price_eur": 154.65,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 16,
         "name": "Pink Panther Pinkadelic Pursuit",
         "price_usd": 167.47,
         "price_eur": 154.07,
-        "isHistory": false
-      },
-      {
-        "rank": 16,
-        "name": "Lunar 2 Eternal Blue Complete [Collector's Edition]",
-        "price_usd": 167.01,
-        "price_eur": 153.65,
         "isHistory": false
       },
       {
@@ -3435,8 +3435,8 @@
       {
         "rank": 3,
         "name": "PlayStation 2 Debugging Station",
-        "price_usd": 1916.98,
-        "price_eur": 1763.62,
+        "price_usd": 1919.28,
+        "price_eur": 1765.74,
         "isHistory": false
       },
       {
@@ -3449,8 +3449,8 @@
       {
         "rank": 5,
         "name": "Playstation 2 Development Tool",
-        "price_usd": 1814.32,
-        "price_eur": 1669.17,
+        "price_usd": 1791.79,
+        "price_eur": 1648.45,
         "isHistory": false
       },
       {
@@ -3498,8 +3498,8 @@
       {
         "rank": 12,
         "name": "Resident Evil 4 Chainsaw Controller",
-        "price_usd": 502.24,
-        "price_eur": 462.06,
+        "price_usd": 500.67,
+        "price_eur": 460.62,
         "isHistory": false
       },
       {
@@ -3540,8 +3540,8 @@
       {
         "rank": 18,
         "name": "Silent Hill: Shattered Memories",
-        "price_usd": 316.25,
-        "price_eur": 290.95,
+        "price_usd": 313.61,
+        "price_eur": 288.52,
         "isHistory": false
       },
       {
@@ -3563,8 +3563,8 @@
       {
         "rank": 1,
         "name": "The Hilton Family",
-        "price_usd": 1308.89,
-        "price_eur": 1204.18,
+        "price_usd": 1309.15,
+        "price_eur": 1204.42,
         "isHistory": false
       },
       {
@@ -3597,16 +3597,16 @@
       },
       {
         "rank": 6,
-        "name": "PSP 3000 Gran Turismo Limited Edition Pack [Mystic Silver]",
-        "price_usd": 189.32,
-        "price_eur": 174.17,
+        "name": "PSP Go Piano Black",
+        "price_usd": 189.7,
+        "price_eur": 174.52,
         "isHistory": false
       },
       {
         "rank": 7,
-        "name": "PSP Go Piano Black",
-        "price_usd": 189.17,
-        "price_eur": 174.04,
+        "name": "PSP 3000 Gran Turismo Limited Edition Pack [Mystic Silver]",
+        "price_usd": 189.32,
+        "price_eur": 174.17,
         "isHistory": false
       },
       {
@@ -3675,8 +3675,8 @@
       {
         "rank": 17,
         "name": "PSP 3000",
-        "price_usd": 150,
-        "price_eur": 138,
+        "price_usd": 149.95,
+        "price_eur": 137.95,
         "isHistory": false
       },
       {
@@ -3696,8 +3696,8 @@
       {
         "rank": 20,
         "name": "Shin Megami Tensei: Persona 2: Innocent Sin",
-        "price_usd": 136.34,
-        "price_eur": 125.43,
+        "price_usd": 136.39,
+        "price_eur": 125.48,
         "isHistory": false
       }
     ],
@@ -3854,8 +3854,8 @@
       {
         "rank": 2,
         "name": "Super Famicom Box Console",
-        "price_usd": 699,
-        "price_eur": 643.08,
+        "price_usd": 711.35,
+        "price_eur": 654.44,
         "isHistory": false
       },
       {
@@ -4060,8 +4060,8 @@
       {
         "rank": 11,
         "name": "Cool World",
-        "price_usd": 231.06,
-        "price_eur": 212.58,
+        "price_usd": 228.62,
+        "price_eur": 210.33,
         "isHistory": false
       },
       {
@@ -4196,8 +4196,8 @@
       {
         "rank": 10,
         "name": "Hyperchase",
-        "price_usd": 22.24,
-        "price_eur": 20.46,
+        "price_usd": 22.25,
+        "price_eur": 20.47,
         "isHistory": false
       },
       {
@@ -4650,8 +4650,8 @@
       {
         "rank": 14,
         "name": "Flash Koibito-Kun",
-        "price_usd": 88.3,
-        "price_eur": 81.24,
+        "price_usd": 90,
+        "price_eur": 82.8,
         "isHistory": false
       },
       {
@@ -4833,7 +4833,7 @@
       },
       {
         "rank": 20,
-        "name": "Live Ammo [+3 Disk]",
+        "name": "Batty",
         "price_usd": 63.22,
         "price_eur": 58.16,
         "isHistory": false
