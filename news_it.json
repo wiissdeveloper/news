@@ -2,6 +2,30 @@
   "date": "2026-08-02",
   "notices": [
     {
+      "guid": "https://it.ign.com/tech/227079/board-il-video-di-presentazione",
+      "title": "Board - Il video di presentazione",
+      "link": "https://it.ign.com/tech/227079/board-il-video-di-presentazione",
+      "pubDate": "Sun, 02 Aug 2026 13:04:27 +0000",
+      "contentSnippet": "Alla scoperta di Board.",
+      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/screenshot-2026-08-01-alle-183242_2agj.jpg"
+    },
+    {
+      "guid": "https://it.ign.com/la-cronologia-dellacqua/227073/la-cronologia-dellacqua-il-trailer-ufficiale",
+      "title": "La cronologia dell'acqua - Il trailer ufficiale",
+      "link": "https://it.ign.com/la-cronologia-dellacqua/227073/la-cronologia-dellacqua-il-trailer-ufficiale",
+      "pubDate": "Sun, 02 Aug 2026 13:04:27 +0000",
+      "contentSnippet": "Alla scoperta di La cronologia dell'acqua",
+      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/blob_bn5t.jpg"
+    },
+    {
+      "guid": "https://it.ign.com/ign-mixtape/227067/ign-mixtape-61-cat-isle-la-cronologia-dellacqua-board-e-altro-ancora",
+      "title": "IGN Mixtape #61: Cat Isle, La cronologia dell'acqua, Board e altro ancora",
+      "link": "https://it.ign.com/ign-mixtape/227067/ign-mixtape-61-cat-isle-la-cronologia-dellacqua-board-e-altro-ancora",
+      "pubDate": "Sun, 02 Aug 2026 13:04:27 +0000",
+      "contentSnippet": "Tempo di esperienze \"cozy\".\nNuovo appuntamento con IGN Mixtape, la rubrica dedicata ai consigli - videoludici e non - della redazione.",
+      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/cover-horizontal-without-title_kg5k.png"
+    },
+    {
       "guid": "https://www.gamesource.it/?post_type=notizie&p=1130285",
       "title": "Il remake di The Legend Of Zelda Ocarina of Time potrebbe uscire appena prima di GTA6",
       "link": "https://www.gamesource.it/notizie/remake-zelda-ocarina-of-time-uscire-gta6/",
@@ -72,30 +96,6 @@
       "pubDate": "Fri, 31 Jul 2026 14:08:54 +0000",
       "contentSnippet": "Sconti fino al 57% a seconda dell'edizione.\nSu Instant Gaming è possibile acquistare Digimon Story Time Stranger in versione PC con sconti fino al 57% a seconda dell'edizione.",
       "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/blob_juqx.jpg"
-    },
-    {
-      "guid": "https://it.ign.com/baldurs-gate-iii/227060/owlcat-games-studio-di-pathfinder-e-rogue-trader-si-dice-interessato-a-realizzare-baldurs-gate-4",
-      "title": "Owlcat Games, studio di Pathfinder e Rogue Trader, si dice interessato a realizzare Baldur's Gate 4",
-      "link": "https://it.ign.com/baldurs-gate-iii/227060/owlcat-games-studio-di-pathfinder-e-rogue-trader-si-dice-interessato-a-realizzare-baldurs-gate-4",
-      "pubDate": "Fri, 31 Jul 2026 14:00:41 +0000",
-      "contentSnippet": "\"Sarebbe una sfida straordinaria\".\nGli autori di Warhammer 40,000: Rogue Trader e The Expanse: Osiris Reborn non chiudono la porta a un futuro capitolo di Baldur's Gate, ma avvertono: \"Copiare Baldur's Gate 3 sarebbe un errore\".",
-      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/shpbnunruugnhvjszb4g5w-1200-80_6ka3.jpg"
-    },
-    {
-      "guid": "https://it.ign.com/ign-misc/227059/lindustria-dei-videogiochi-rischia-di-perdere-tanti-futuri-capolavori-un-veterano-suona-lallarme",
-      "title": "L'industria dei videogiochi rischia di perdere tanti futuri capolavori: un veterano suona l'allarme",
-      "link": "https://it.ign.com/ign-misc/227059/lindustria-dei-videogiochi-rischia-di-perdere-tanti-futuri-capolavori-un-veterano-suona-lallarme",
-      "pubDate": "Fri, 31 Jul 2026 13:30:33 +0000",
-      "contentSnippet": "\"La prossima FromSoftware non nascerà se non verrà dato a un gruppo di persone la possibilità di esercitare il proprio mestiere\".\nPer Xalavier Nelson Jr. licenziamenti, chiusure e incertezza stanno impedendo la nascita dei nuovi Larian, FromSoftware e CD Projekt Red.",
-      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/hardestpartaboutmakingagame-blogroll-1629387107762_nvnm.jpg"
-    },
-    {
-      "guid": "https://it.ign.com/the-expanse-osiris-reborn/227056/owlcat-games-sale-a-600-dipendenti-e-guarda-oltre-i-crpg-il-futuro-dello-studio-di-pathfinder-e-the",
-      "title": "Owlcat Games sale a 600 dipendenti e guarda oltre i CRPG: il futuro dello studio di Pathfinder e The Expanse",
-      "link": "https://it.ign.com/the-expanse-osiris-reborn/227056/owlcat-games-sale-a-600-dipendenti-e-guarda-oltre-i-crpg-il-futuro-dello-studio-di-pathfinder-e-the",
-      "pubDate": "Fri, 31 Jul 2026 11:00:45 +0000",
-      "contentSnippet": "\"Vogliamo continuare a rischiare\".\nLo studio di Pathfinder e Warhammer 40,000: Rogue Trader racconta la sua crescita, il successo ottenuto con Games Workshop e le ambizioni dietro The Expanse: Osiris Reborn.",
-      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/screenshot-4-af02e9ae132971e532a1-1900x1080_z963.jpg"
     }
   ]
 }
