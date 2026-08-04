@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03",
+  "updated": "2026-08-04",
   "systems": {
     "3do": [
       {
@@ -410,8 +410,8 @@
       {
         "rank": 18,
         "name": "Midnight Mutants",
-        "price_usd": 110.82,
-        "price_eur": 101.95,
+        "price_usd": 110.23,
+        "price_eur": 101.41,
         "isHistory": false
       },
       {
@@ -589,8 +589,8 @@
       {
         "rank": 3,
         "name": "Atari Lynx II Console",
-        "price_usd": 171.37,
-        "price_eur": 157.66,
+        "price_usd": 178.76,
+        "price_eur": 164.46,
         "isHistory": false
       },
       {
@@ -929,23 +929,23 @@
       },
       {
         "rank": 11,
+        "name": "Sega Dreamcast Console",
+        "price_usd": 140,
+        "price_eur": 128.8,
+        "isHistory": false
+      },
+      {
+        "rank": 12,
         "name": "Sega Dreamcast Broadband Adapter",
         "price_usd": 139.48,
         "price_eur": 128.32,
         "isHistory": false
       },
       {
-        "rank": 12,
+        "rank": 13,
         "name": "Giga Wing 2",
         "price_usd": 127.98,
         "price_eur": 117.74,
-        "isHistory": false
-      },
-      {
-        "rank": 13,
-        "name": "Sega Dreamcast Console",
-        "price_usd": 127.19,
-        "price_eur": 117.01,
         "isHistory": false
       },
       {
@@ -964,14 +964,14 @@
       },
       {
         "rank": 16,
-        "name": "Sega Dreamcast Arcade Stick",
+        "name": "The House of the Dead 2 [Gun Bundle]",
         "price_usd": 100,
         "price_eur": 92,
         "isHistory": false
       },
       {
         "rank": 17,
-        "name": "The House of the Dead 2 [Gun Bundle]",
+        "name": "Sega Dreamcast Arcade Stick",
         "price_usd": 100,
         "price_eur": 92,
         "isHistory": false
@@ -1186,8 +1186,8 @@
       {
         "rank": 7,
         "name": "Punch-Out Gold",
-        "price_usd": 280.5,
-        "price_eur": 258.06,
+        "price_usd": 280.75,
+        "price_eur": 258.29,
         "isHistory": false
       },
       {
@@ -1554,8 +1554,8 @@
       {
         "rank": 19,
         "name": "Pokemon Emerald",
-        "price_usd": 232.96,
-        "price_eur": 214.32,
+        "price_usd": 230.03,
+        "price_eur": 211.63,
         "isHistory": false
       },
       {
@@ -1570,8 +1570,8 @@
       {
         "rank": 1,
         "name": "Pokemon Crystal [Not For Resale]",
-        "price_usd": 763.67,
-        "price_eur": 702.58,
+        "price_usd": 762.55,
+        "price_eur": 701.55,
         "isHistory": false
       },
       {
@@ -1653,16 +1653,16 @@
       },
       {
         "rank": 13,
-        "name": "Modretro Chromatic [GameStop]",
-        "price_usd": 165.25,
-        "price_eur": 152.03,
+        "name": "Pokemon Crystal",
+        "price_usd": 172.5,
+        "price_eur": 158.7,
         "isHistory": false
       },
       {
         "rank": 14,
-        "name": "Pokemon Crystal",
-        "price_usd": 164.99,
-        "price_eur": 151.79,
+        "name": "Modretro Chromatic [GameStop]",
+        "price_usd": 165.25,
+        "price_eur": 152.03,
         "isHistory": false
       },
       {
@@ -1930,23 +1930,23 @@
       },
       {
         "rank": 12,
-        "name": "Sega Nomad",
-        "price_usd": 390,
-        "price_eur": 358.8,
-        "isHistory": false
-      },
-      {
-        "rank": 13,
         "name": "Blockbuster Game Factory Green",
         "price_usd": 371.43,
         "price_eur": 341.72,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 13,
         "name": "MUSHA",
         "price_usd": 368.54,
         "price_eur": 339.06,
+        "isHistory": false
+      },
+      {
+        "rank": 14,
+        "name": "Sega Nomad",
+        "price_usd": 350,
+        "price_eur": 322,
         "isHistory": false
       },
       {
@@ -2005,8 +2005,8 @@
       {
         "rank": 2,
         "name": "Golden Axe Warrior",
-        "price_usd": 175.69,
-        "price_eur": 161.63,
+        "price_usd": 175.95,
+        "price_eur": 161.87,
         "isHistory": false
       },
       {
@@ -2425,8 +2425,8 @@
       {
         "rank": 1,
         "name": "Pokemon [Not for Resale Arceus]",
-        "price_usd": 2726.88,
-        "price_eur": 2508.73,
+        "price_usd": 2738.44,
+        "price_eur": 2519.36,
         "isHistory": false
       },
       {
@@ -2658,8 +2658,8 @@
       {
         "rank": 14,
         "name": "Metal Slug",
-        "price_usd": 1211.92,
-        "price_eur": 1114.97,
+        "price_usd": 1271.84,
+        "price_eur": 1170.09,
         "isHistory": false
       },
       {
@@ -2800,8 +2800,8 @@
       {
         "rank": 14,
         "name": "Power Pad Test Cartridge",
-        "price_usd": 1255.28,
-        "price_eur": 1154.86,
+        "price_usd": 1258.66,
+        "price_eur": 1157.97,
         "isHistory": false
       },
       {
@@ -3320,16 +3320,16 @@
       },
       {
         "rank": 7,
-        "name": "Clock Tower 2",
-        "price_usd": 237.18,
-        "price_eur": 218.21,
+        "name": "Koudelka",
+        "price_usd": 249.99,
+        "price_eur": 229.99,
         "isHistory": false
       },
       {
         "rank": 8,
-        "name": "Koudelka",
-        "price_usd": 226.86,
-        "price_eur": 208.71,
+        "name": "Clock Tower 2",
+        "price_usd": 237.06,
+        "price_eur": 218.1,
         "isHistory": false
       },
       {
@@ -3420,14 +3420,14 @@
     "ps2": [
       {
         "rank": 1,
-        "name": "PlayStation 2 System [Yellow Automotive Edition]",
+        "name": "PlayStation 2 System [Blue Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
       },
       {
         "rank": 2,
-        "name": "PlayStation 2 System [Blue Automotive Edition]",
+        "name": "PlayStation 2 System [Yellow Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
@@ -3456,8 +3456,8 @@
       {
         "rank": 6,
         "name": "PlayStation 2 Console [Astral Blue]",
-        "price_usd": 1492.59,
-        "price_eur": 1373.18,
+        "price_usd": 1492.6,
+        "price_eur": 1373.19,
         "isHistory": false
       },
       {
@@ -3477,8 +3477,8 @@
       {
         "rank": 9,
         "name": "Kuon",
-        "price_usd": 720,
-        "price_eur": 662.4,
+        "price_usd": 749.99,
+        "price_eur": 689.99,
         "isHistory": false
       },
       {
@@ -3512,8 +3512,8 @@
       {
         "rank": 14,
         "name": "Xenosaga 3 [Lenticular Cover]",
-        "price_usd": 445.54,
-        "price_eur": 409.9,
+        "price_usd": 445.75,
+        "price_eur": 410.09,
         "isHistory": false
       },
       {
@@ -3533,8 +3533,8 @@
       {
         "rank": 17,
         "name": "PlayStation 2 System [Silver Automotive Edition]",
-        "price_usd": 342.45,
-        "price_eur": 315.05,
+        "price_usd": 331.23,
+        "price_eur": 304.73,
         "isHistory": false
       },
       {
@@ -3597,16 +3597,16 @@
       },
       {
         "rank": 6,
-        "name": "PSP Go Piano Black",
-        "price_usd": 189.7,
-        "price_eur": 174.52,
+        "name": "PSP 3000 Gran Turismo Limited Edition Pack [Mystic Silver]",
+        "price_usd": 189.3,
+        "price_eur": 174.16,
         "isHistory": false
       },
       {
         "rank": 7,
-        "name": "PSP 3000 Gran Turismo Limited Edition Pack [Mystic Silver]",
-        "price_usd": 189.32,
-        "price_eur": 174.17,
+        "name": "PSP Go Piano Black",
+        "price_usd": 185,
+        "price_eur": 170.2,
         "isHistory": false
       },
       {
@@ -3674,16 +3674,16 @@
       },
       {
         "rank": 17,
-        "name": "PSP 3000",
-        "price_usd": 149.95,
-        "price_eur": 137.95,
+        "name": "PSP System Kiosk Disc 4",
+        "price_usd": 149,
+        "price_eur": 137.08,
         "isHistory": false
       },
       {
         "rank": 18,
-        "name": "PSP System Kiosk Disc 4",
-        "price_usd": 149,
-        "price_eur": 137.08,
+        "name": "PSP 3000",
+        "price_usd": 144.45,
+        "price_eur": 132.89,
         "isHistory": false
       },
       {
@@ -3903,8 +3903,8 @@
       {
         "rank": 9,
         "name": "Ganpuru",
-        "price_usd": 306.21,
-        "price_eur": 281.71,
+        "price_usd": 305.47,
+        "price_eur": 281.03,
         "isHistory": false
       },
       {
@@ -4067,8 +4067,8 @@
       {
         "rank": 12,
         "name": "Super Chase HQ",
-        "price_usd": 228.36,
-        "price_eur": 210.09,
+        "price_usd": 228.32,
+        "price_eur": 210.05,
         "isHistory": false
       },
       {
@@ -4189,8 +4189,8 @@
       {
         "rank": 9,
         "name": "Bedlam",
-        "price_usd": 23.68,
-        "price_eur": 21.79,
+        "price_usd": 23.66,
+        "price_eur": 21.77,
         "isHistory": false
       },
       {
@@ -4473,8 +4473,8 @@
       {
         "rank": 9,
         "name": "WonderSwan Skeleton Pink",
-        "price_usd": 87.2,
-        "price_eur": 80.22,
+        "price_usd": 87.07,
+        "price_eur": 80.1,
         "isHistory": false
       },
       {
@@ -4573,8 +4573,8 @@
       {
         "rank": 3,
         "name": "Golden Axe",
-        "price_usd": 197,
-        "price_eur": 181.24,
+        "price_usd": 197.16,
+        "price_eur": 181.39,
         "isHistory": false
       },
       {
@@ -4833,7 +4833,7 @@
       },
       {
         "rank": 20,
-        "name": "Batty",
+        "name": "Live Ammo [+3 Disk]",
         "price_usd": 63.22,
         "price_eur": 58.16,
         "isHistory": false
