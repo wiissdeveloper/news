@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05",
+  "updated": "2026-08-06",
   "systems": {
     "3do": [
       {
@@ -74,16 +74,16 @@
       },
       {
         "rank": 11,
-        "name": "Endlessly",
-        "price_usd": 219.5,
-        "price_eur": 201.94,
+        "name": "3DO Console",
+        "price_usd": 228.73,
+        "price_eur": 210.43,
         "isHistory": false
       },
       {
         "rank": 12,
-        "name": "3DO Console",
-        "price_usd": 200.81,
-        "price_eur": 184.75,
+        "name": "Endlessly",
+        "price_usd": 219.5,
+        "price_eur": 201.94,
         "isHistory": false
       },
       {
@@ -382,8 +382,8 @@
       {
         "rank": 14,
         "name": "Commando",
-        "price_usd": 127.21,
-        "price_eur": 117.03,
+        "price_usd": 125,
+        "price_eur": 115,
         "isHistory": false
       },
       {
@@ -509,51 +509,51 @@
       },
       {
         "rank": 12,
-        "name": "Mario Bros.",
-        "price_usd": 110.11,
-        "price_eur": 101.3,
-        "isHistory": false
-      },
-      {
-        "rank": 13,
         "name": "Atari 400 Console",
         "price_usd": 106.38,
         "price_eur": 97.87,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 13,
         "name": "Rescue At Rigel",
         "price_usd": 99.99,
         "price_eur": 91.99,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 14,
         "name": "Super Zaxxon",
         "price_usd": 99.2,
         "price_eur": 91.26,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 15,
         "name": "Thunderfox",
         "price_usd": 94.99,
         "price_eur": 87.39,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 16,
         "name": "Picnic Paranoia",
         "price_usd": 90.21,
         "price_eur": 82.99,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 17,
         "name": "Atari 400 Mini",
         "price_usd": 90,
         "price_eur": 82.8,
+        "isHistory": false
+      },
+      {
+        "rank": 18,
+        "name": "Mario Bros.",
+        "price_usd": 89.96,
+        "price_eur": 82.76,
         "isHistory": false
       },
       {
@@ -929,16 +929,16 @@
       },
       {
         "rank": 11,
-        "name": "Sega Dreamcast Console",
-        "price_usd": 140,
-        "price_eur": 128.8,
+        "name": "Sega Dreamcast Broadband Adapter",
+        "price_usd": 139.48,
+        "price_eur": 128.32,
         "isHistory": false
       },
       {
         "rank": 12,
-        "name": "Sega Dreamcast Broadband Adapter",
-        "price_usd": 139.48,
-        "price_eur": 128.32,
+        "name": "Sega Dreamcast Console",
+        "price_usd": 132.49,
+        "price_eur": 121.89,
         "isHistory": false
       },
       {
@@ -1206,14 +1206,14 @@
       },
       {
         "rank": 10,
-        "name": "Bubble Bobble 2",
+        "name": "Makaimura [Box Cart]",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
       },
       {
         "rank": 11,
-        "name": "Makaimura [Box Cart]",
+        "name": "Bubble Bobble 2",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
@@ -1390,14 +1390,14 @@
       },
       {
         "rank": 16,
-        "name": "Analogue Pocket [Grape]",
+        "name": "Analogue Pocket [Berry]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
       },
       {
         "rank": 17,
-        "name": "Analogue Pocket [Berry]",
+        "name": "Analogue Pocket [Grape]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
@@ -1802,16 +1802,16 @@
       },
       {
         "rank": 14,
-        "name": "Defenders of Oasis",
-        "price_usd": 55.53,
-        "price_eur": 51.09,
+        "name": "Sega Game Gear Handheld",
+        "price_usd": 57,
+        "price_eur": 52.44,
         "isHistory": false
       },
       {
         "rank": 15,
-        "name": "Sega Game Gear Handheld",
-        "price_usd": 55,
-        "price_eur": 50.6,
+        "name": "Defenders of Oasis",
+        "price_usd": 55.53,
+        "price_eur": 51.09,
         "isHistory": false
       },
       {
@@ -2011,16 +2011,16 @@
       },
       {
         "rank": 3,
-        "name": "Sega Master System III",
-        "price_usd": 151.69,
-        "price_eur": 139.55,
+        "name": "Sega Master System II Console",
+        "price_usd": 155.79,
+        "price_eur": 143.33,
         "isHistory": false
       },
       {
         "rank": 4,
-        "name": "Sega Master System II Console",
-        "price_usd": 151.63,
-        "price_eur": 139.5,
+        "name": "Sega Master System III",
+        "price_usd": 151.69,
+        "price_eur": 139.55,
         "isHistory": false
       },
       {
@@ -2131,8 +2131,8 @@
       {
         "rank": 20,
         "name": "Montezuma's Revenge",
-        "price_usd": 47.5,
-        "price_eur": 43.7,
+        "price_usd": 47.44,
+        "price_eur": 43.64,
         "isHistory": false
       }
     ],
@@ -2182,8 +2182,8 @@
       {
         "rank": 7,
         "name": "Fatal Fury 2",
-        "price_usd": 237.1,
-        "price_eur": 218.13,
+        "price_usd": 247.19,
+        "price_eur": 227.41,
         "isHistory": false
       },
       {
@@ -2195,30 +2195,30 @@
       },
       {
         "rank": 9,
+        "name": "Ecco Jr.",
+        "price_usd": 215,
+        "price_eur": 197.8,
+        "isHistory": false
+      },
+      {
+        "rank": 10,
         "name": "Miracle Piano Teaching System",
         "price_usd": 197.49,
         "price_eur": 181.69,
         "isHistory": false
       },
       {
-        "rank": 10,
+        "rank": 11,
         "name": "SEGA Mega Drive Mini 2",
         "price_usd": 185,
         "price_eur": 170.2,
         "isHistory": false
       },
       {
-        "rank": 11,
+        "rank": 12,
         "name": "World of Illusion [Gold Collection]",
         "price_usd": 177.36,
         "price_eur": 163.17,
-        "isHistory": false
-      },
-      {
-        "rank": 12,
-        "name": "Ecco Jr.",
-        "price_usd": 170.77,
-        "price_eur": 157.11,
         "isHistory": false
       },
       {
@@ -2516,8 +2516,8 @@
       {
         "rank": 14,
         "name": "Nintendo DSi Development Kit [Panda]",
-        "price_usd": 661.78,
-        "price_eur": 608.84,
+        "price_usd": 655.42,
+        "price_eur": 602.99,
         "isHistory": false
       },
       {
@@ -2544,8 +2544,8 @@
       {
         "rank": 18,
         "name": "Pokemon Meloetta Distribution Cartridge",
-        "price_usd": 300.08,
-        "price_eur": 276.07,
+        "price_usd": 300.22,
+        "price_eur": 276.2,
         "isHistory": false
       },
       {
@@ -2609,8 +2609,8 @@
       {
         "rank": 7,
         "name": "Kizuna Encounter",
-        "price_usd": 2301.2,
-        "price_eur": 2117.1,
+        "price_usd": 2301.21,
+        "price_eur": 2117.11,
         "isHistory": false
       },
       {
@@ -2693,8 +2693,8 @@
       {
         "rank": 19,
         "name": "Neo Geo System",
-        "price_usd": 970.2,
-        "price_eur": 892.58,
+        "price_usd": 975,
+        "price_eur": 897,
         "isHistory": false
       },
       {
@@ -2793,8 +2793,8 @@
       {
         "rank": 13,
         "name": "Flintstones Surprise at Dinosaur Peak",
-        "price_usd": 1400,
-        "price_eur": 1288,
+        "price_usd": 1368.82,
+        "price_eur": 1259.31,
         "isHistory": false
       },
       {
@@ -3519,8 +3519,8 @@
       {
         "rank": 15,
         "name": "Haunting Ground",
-        "price_usd": 424.5,
-        "price_eur": 390.54,
+        "price_usd": 399,
+        "price_eur": 367.08,
         "isHistory": false
       },
       {
@@ -3553,9 +3553,9 @@
       },
       {
         "rank": 20,
-        "name": "Blood Will Tell",
-        "price_usd": 270.71,
-        "price_eur": 249.05,
+        "name": ".hack Quarantine",
+        "price_usd": 283.5,
+        "price_eur": 260.82,
         "isHistory": false
       }
     ],
@@ -3583,51 +3583,51 @@
       },
       {
         "rank": 4,
+        "name": "PSP 3000 Limited Edition Rock Band Version",
+        "price_usd": 200,
+        "price_eur": 184,
+        "isHistory": false
+      },
+      {
+        "rank": 5,
         "name": "PSP 3000 Limited Edition God of War Version [Black & Red]",
         "price_usd": 199.99,
         "price_eur": 183.99,
         "isHistory": false
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "PSP Go Pearl White",
         "price_usd": 194.5,
         "price_eur": 178.94,
         "isHistory": false
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "PSP 3000 Gran Turismo Limited Edition Pack [Mystic Silver]",
         "price_usd": 189.3,
         "price_eur": 174.16,
         "isHistory": false
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "PSP Go Piano Black",
         "price_usd": 185,
         "price_eur": 170.2,
         "isHistory": false
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "PSP 3000 Console Purple",
         "price_usd": 184.97,
         "price_eur": 170.17,
         "isHistory": false
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "PSP 3000 Limited Edition Metal Gear Big Boss Bundle",
         "price_usd": 182.5,
         "price_eur": 167.9,
-        "isHistory": false
-      },
-      {
-        "rank": 10,
-        "name": "PSP 3000 Limited Edition Rock Band Version",
-        "price_usd": 177.72,
-        "price_eur": 163.5,
         "isHistory": false
       },
       {
@@ -3668,8 +3668,8 @@
       {
         "rank": 16,
         "name": "Legend of Heroes: Trails in the Sky [Premium Edition]",
-        "price_usd": 151.52,
-        "price_eur": 139.4,
+        "price_usd": 151.06,
+        "price_eur": 138.98,
         "isHistory": false
       },
       {
@@ -4038,44 +4038,44 @@
       },
       {
         "rank": 8,
-        "name": "Final Fight 3",
-        "price_usd": 242.25,
-        "price_eur": 222.87,
-        "isHistory": false
-      },
-      {
-        "rank": 9,
         "name": "Daze Before Christmas",
         "price_usd": 234.63,
         "price_eur": 215.86,
         "isHistory": false
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "Captain Commando",
         "price_usd": 231.22,
         "price_eur": 212.72,
         "isHistory": false
       },
       {
-        "rank": 11,
+        "rank": 10,
         "name": "Cool World",
         "price_usd": 228.62,
         "price_eur": 210.33,
         "isHistory": false
       },
       {
-        "rank": 12,
+        "rank": 11,
         "name": "Super Chase HQ",
         "price_usd": 228.32,
         "price_eur": 210.05,
         "isHistory": false
       },
       {
-        "rank": 13,
+        "rank": 12,
         "name": "Demon's Crest",
-        "price_usd": 214.2,
-        "price_eur": 197.06,
+        "price_usd": 218.88,
+        "price_eur": 201.37,
+        "isHistory": false
+      },
+      {
+        "rank": 13,
+        "name": "Final Fight 3",
+        "price_usd": 208.5,
+        "price_eur": 191.82,
         "isHistory": false
       },
       {
@@ -4252,8 +4252,8 @@
       {
         "rank": 18,
         "name": "Clean Sweep",
-        "price_usd": 16.02,
-        "price_eur": 14.74,
+        "price_usd": 15.98,
+        "price_eur": 14.7,
         "isHistory": false
       },
       {
@@ -4515,8 +4515,8 @@
       {
         "rank": 15,
         "name": "Kaze no Klonoa: Moonlight Museum",
-        "price_usd": 66.84,
-        "price_eur": 61.49,
+        "price_usd": 67,
+        "price_eur": 61.64,
         "isHistory": false
       },
       {
@@ -4692,8 +4692,8 @@
       {
         "rank": 20,
         "name": "Guilty Gear Petit",
-        "price_usd": 65.62,
-        "price_eur": 60.37,
+        "price_usd": 65.31,
+        "price_eur": 60.09,
         "isHistory": false
       }
     ],
