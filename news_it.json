@@ -1,6 +1,22 @@
 {
-  "date": "2026-08-05",
+  "date": "2026-08-06",
   "notices": [
+    {
+      "guid": "https://it.ign.com/gears-6/227141/gears-of-war-e-day-una-galleria-di-immagini",
+      "title": "Gears of War: E-Day - Una galleria di immagini",
+      "link": "https://it.ign.com/gears-6/227141/gears-of-war-e-day-una-galleria-di-immagini",
+      "pubDate": "Wed, 05 Aug 2026 15:25:21 +0000",
+      "contentSnippet": "<img src=\"https://sm.ign.com/t/ign_it/gallery/g/gears-of-w/gears-of-war-e-day-gameplay-demo-reveal-xbox-games-showcase_ffvm.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />",
+      "thumbnail": "https://sm.ign.com/ign_it/gallery/g/gears-of-w/gears-of-war-e-day-gameplay-demo-reveal-xbox-games-showcase_ffvm.jpg"
+    },
+    {
+      "guid": "https://it.ign.com/gears-6/227140/gears-of-war-e-day-primo-assaggio-del-multiplayer",
+      "title": "Gears of War: E-Day, primo assaggio del multiplayer",
+      "link": "https://it.ign.com/gears-6/227140/gears-of-war-e-day-primo-assaggio-del-multiplayer",
+      "pubDate": "Wed, 05 Aug 2026 15:25:21 +0000",
+      "contentSnippet": "Horde Siege rende la famosa modalità PvE più dinamica che mai, ma sarà sufficiente?\nI nostri colleghi di IGN USA hanno provato in anteprima Gears of War: E-Day.",
+      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/8d129026-a498-4cb3-80e0-41b2c2483ca5_h77t.jpg"
+    },
     {
       "guid": "https://it.ign.com/halo-campaign-evolved/227134/halo-campaign-evolved-avrebbe-avuto-uno-sviluppo-travagliato-secondo-un-report",
       "title": "Halo: Campaign Evolved avrebbe avuto uno sviluppo travagliato, secondo un report",
@@ -80,22 +96,6 @@
       "pubDate": "Wed, 05 Aug 2026 07:30:33 +0000",
       "contentSnippet": "Il contenuto aggiuntivo introdurrà nuove missioni, armi, veicoli e attività legate a Ennio Salieri.\nL'espansione a pagamento di Mafia: Terra Madre uscirà tra poco più di una settimana e introdurrà nuove missioni, armi, veicoli e attività legate a Ennio Salieri.",
       "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/asf_mfxs.jpg"
-    },
-    {
-      "guid": "https://it.ign.com/honkai-nexus-anima/227023/honkai-nexus-anima-quando-il-monster-collector-incontra-il-gacha",
-      "title": "Honkai: Nexus Anima - Quando il monster collector incontra il gacha",
-      "link": "https://it.ign.com/honkai-nexus-anima/227023/honkai-nexus-anima-quando-il-monster-collector-incontra-il-gacha",
-      "pubDate": "Wed, 05 Aug 2026 07:00:49 +0000",
-      "contentSnippet": "Tra escamotage narrativi, vecchie conoscenze e atmosfere inaspettatamente cupe, il franchise tenta un azzardo strutturale. Le nostre impressioni sull'Evolution Test.\nHoYoverse lancia il guanto di sfida a Game Freak con Honkai: Nexus Anima. Abbiamo provato l'evoluzione del monster collector nell'era dei gacha.",
-      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/en-01_4dw2.jpg"
-    },
-    {
-      "guid": "https://it.ign.com/xbox-game-pass/227113/xbox-game-pass-presenta-i-giochi-di-inizio-agosto-dieci-nuovi-titoli-in-arrivo-nel-catalogo",
-      "title": "Xbox Game Pass presenta i giochi di inizio agosto: dieci nuovi titoli in arrivo nel catalogo",
-      "link": "https://it.ign.com/xbox-game-pass/227113/xbox-game-pass-presenta-i-giochi-di-inizio-agosto-dieci-nuovi-titoli-in-arrivo-nel-catalogo",
-      "pubDate": "Tue, 04 Aug 2026 15:45:34 +0000",
-      "contentSnippet": "C'è anche Beast of Reincarnation, disponibile da oggi.\nXbox ha svelato i nomi di dieci nuovi giochi in arrivo su Game Pass nelle prossime settimane, undici con Beast of Reincarnation, disponibile da oggi.",
-      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/xgp-comingsoon040826-16x9-fbxth-n-cw90-gbl-mgp-n-n-1-en-us-6_qvn6.jpg"
     }
   ]
 }
