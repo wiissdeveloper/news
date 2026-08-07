@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06",
+  "updated": "2026-08-07",
   "systems": {
     "3do": [
       {
@@ -40,8 +40,8 @@
       {
         "rank": 6,
         "name": "3DO FZ-1 Console",
-        "price_usd": 269.42,
-        "price_eur": 247.87,
+        "price_usd": 269.43,
+        "price_eur": 247.88,
         "isHistory": false
       },
       {
@@ -340,8 +340,8 @@
       {
         "rank": 8,
         "name": "Pac-Man Double Feature [Gold Edition]",
-        "price_usd": 169.46,
-        "price_eur": 155.9,
+        "price_usd": 169.22,
+        "price_eur": 155.68,
         "isHistory": false
       },
       {
@@ -424,8 +424,8 @@
       {
         "rank": 20,
         "name": "Mean 18 Ultimate Golf",
-        "price_usd": 100.33,
-        "price_eur": 92.3,
+        "price_usd": 100.63,
+        "price_eur": 92.58,
         "isHistory": false
       }
     ],
@@ -510,8 +510,8 @@
       {
         "rank": 12,
         "name": "Atari 400 Console",
-        "price_usd": 106.38,
-        "price_eur": 97.87,
+        "price_usd": 106.75,
+        "price_eur": 98.21,
         "isHistory": false
       },
       {
@@ -666,8 +666,8 @@
       {
         "rank": 14,
         "name": "Lemmings",
-        "price_usd": 95.49,
-        "price_eur": 87.85,
+        "price_usd": 95.46,
+        "price_eur": 87.82,
         "isHistory": false
       },
       {
@@ -752,8 +752,8 @@
       {
         "rank": 6,
         "name": "Atari Karts",
-        "price_usd": 200,
-        "price_eur": 184,
+        "price_usd": 204.52,
+        "price_eur": 188.16,
         "isHistory": false
       },
       {
@@ -887,14 +887,14 @@
       },
       {
         "rank": 5,
-        "name": "Sega Dreamcast Sports Edition Console",
+        "name": "VM2",
         "price_usd": 200,
         "price_eur": 184,
         "isHistory": false
       },
       {
         "rank": 6,
-        "name": "VM2",
+        "name": "Sega Dreamcast Sports Edition Console",
         "price_usd": 200,
         "price_eur": 184,
         "isHistory": false
@@ -958,20 +958,20 @@
       {
         "rank": 15,
         "name": "JoJo's Bizarre Adventure",
-        "price_usd": 119,
-        "price_eur": 109.48,
+        "price_usd": 112,
+        "price_eur": 103.04,
         "isHistory": false
       },
       {
         "rank": 16,
-        "name": "The House of the Dead 2 [Gun Bundle]",
+        "name": "Sonic Adventure 2",
         "price_usd": 100,
         "price_eur": 92,
         "isHistory": false
       },
       {
         "rank": 17,
-        "name": "Sonic Adventure 2",
+        "name": "The House of the Dead 2 [Gun Bundle]",
         "price_usd": 100,
         "price_eur": 92,
         "isHistory": false
@@ -1023,8 +1023,8 @@
       {
         "rank": 4,
         "name": "Famicom Disk System Console",
-        "price_usd": 90.36,
-        "price_eur": 83.13,
+        "price_usd": 93.15,
+        "price_eur": 85.7,
         "isHistory": false
       },
       {
@@ -1178,37 +1178,37 @@
       },
       {
         "rank": 6,
+        "name": "Twin Famicom AN-505",
+        "price_usd": 308.81,
+        "price_eur": 284.11,
+        "isHistory": false
+      },
+      {
+        "rank": 7,
         "name": "Captain Saver",
         "price_usd": 299,
         "price_eur": 275.08,
         "isHistory": false
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "Punch-Out Gold",
         "price_usd": 280.75,
         "price_eur": 258.29,
         "isHistory": false
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "Seirei Densetsu Lickle",
         "price_usd": 280.01,
         "price_eur": 257.61,
         "isHistory": false
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "Pyokotan no Dai Meiro",
         "price_usd": 279.88,
         "price_eur": 257.49,
-        "isHistory": false
-      },
-      {
-        "rank": 10,
-        "name": "Makaimura [Box Cart]",
-        "price_usd": 275,
-        "price_eur": 253,
         "isHistory": false
       },
       {
@@ -1220,30 +1220,30 @@
       },
       {
         "rank": 12,
+        "name": "Makaimura [Box Cart]",
+        "price_usd": 275,
+        "price_eur": 253,
+        "isHistory": false
+      },
+      {
+        "rank": 13,
         "name": "Bio Miracle Bokutte Upa",
         "price_usd": 253.5,
         "price_eur": 233.22,
         "isHistory": false
       },
       {
-        "rank": 13,
+        "rank": 14,
         "name": "Jetsons: Cogswell's Caper",
         "price_usd": 249.94,
         "price_eur": 229.94,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 15,
         "name": "Akumajou Dracula",
         "price_usd": 247.79,
         "price_eur": 227.97,
-        "isHistory": false
-      },
-      {
-        "rank": 15,
-        "name": "Twin Famicom AN-505",
-        "price_usd": 243.21,
-        "price_eur": 223.75,
         "isHistory": false
       },
       {
@@ -1270,8 +1270,8 @@
       {
         "rank": 19,
         "name": "Over Horizon",
-        "price_usd": 206.7,
-        "price_eur": 190.16,
+        "price_usd": 210.6,
+        "price_eur": 193.75,
         "isHistory": false
       },
       {
@@ -1455,14 +1455,14 @@
       },
       {
         "rank": 5,
-        "name": "Pokemon Emerald [Not for Resale]",
+        "name": "Disney Channel Gameboy Advance SP",
         "price_usd": 800,
         "price_eur": 736,
         "isHistory": false
       },
       {
         "rank": 6,
-        "name": "Disney Channel Gameboy Advance SP",
+        "name": "Pokemon Emerald [Not for Resale]",
         "price_usd": 800,
         "price_eur": 736,
         "isHistory": false
@@ -1553,16 +1553,16 @@
       },
       {
         "rank": 19,
-        "name": "Pokemon Emerald",
-        "price_usd": 230.03,
-        "price_eur": 211.63,
+        "name": "iQue Gameboy Advance",
+        "price_usd": 225.01,
+        "price_eur": 207.01,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "iQue Gameboy Advance",
-        "price_usd": 225.01,
-        "price_eur": 207.01,
+        "name": "GBA Micro [20th Anniversary Edition]",
+        "price_usd": 222,
+        "price_eur": 204.24,
         "isHistory": false
       }
     ],
@@ -1688,23 +1688,23 @@
       },
       {
         "rank": 18,
-        "name": "Metal Gear Solid",
-        "price_usd": 132.67,
-        "price_eur": 122.06,
-        "isHistory": false
-      },
-      {
-        "rank": 19,
         "name": "Wendy Every Witch Way",
         "price_usd": 131.95,
         "price_eur": 121.39,
         "isHistory": false
       },
       {
-        "rank": 20,
+        "rank": 19,
         "name": "Pokemon Gold and Silver Special Edition Gameboy Color",
         "price_usd": 129.99,
         "price_eur": 119.59,
+        "isHistory": false
+      },
+      {
+        "rank": 20,
+        "name": "Metal Gear Solid",
+        "price_usd": 129.23,
+        "price_eur": 118.89,
         "isHistory": false
       }
     ],
@@ -1712,15 +1712,15 @@
       {
         "rank": 1,
         "name": "Sega Game Gear [Super Sonic Sports Pack]",
-        "price_usd": 279,
-        "price_eur": 256.68,
+        "price_usd": 278.78,
+        "price_eur": 256.48,
         "isHistory": false
       },
       {
         "rank": 2,
         "name": "Mega Man",
-        "price_usd": 272.48,
-        "price_eur": 250.68,
+        "price_usd": 249.38,
+        "price_eur": 229.43,
         "isHistory": false
       },
       {
@@ -1775,8 +1775,8 @@
       {
         "rank": 10,
         "name": "EverDrive GG X7",
-        "price_usd": 83.31,
-        "price_eur": 76.65,
+        "price_usd": 80.98,
+        "price_eur": 74.5,
         "isHistory": false
       },
       {
@@ -1817,8 +1817,8 @@
       {
         "rank": 16,
         "name": "Shining Force Sword of Hajya",
-        "price_usd": 49.58,
-        "price_eur": 45.61,
+        "price_usd": 49.99,
+        "price_eur": 45.99,
         "isHistory": false
       },
       {
@@ -1838,8 +1838,8 @@
       {
         "rank": 19,
         "name": "Fatal Fury Special",
-        "price_usd": 44.55,
-        "price_eur": 40.99,
+        "price_usd": 44.53,
+        "price_eur": 40.97,
         "isHistory": false
       },
       {
@@ -1902,16 +1902,16 @@
       },
       {
         "rank": 8,
-        "name": "Sega Genesis CDx Console",
-        "price_usd": 531.79,
-        "price_eur": 489.25,
+        "name": "Crusader of Centy",
+        "price_usd": 525,
+        "price_eur": 483,
         "isHistory": false
       },
       {
         "rank": 9,
-        "name": "Crusader of Centy",
-        "price_usd": 525,
-        "price_eur": 483,
+        "name": "Sega Genesis CDx Console",
+        "price_usd": 505,
+        "price_eur": 464.6,
         "isHistory": false
       },
       {
@@ -1937,16 +1937,16 @@
       },
       {
         "rank": 13,
-        "name": "MUSHA",
-        "price_usd": 368.54,
-        "price_eur": 339.06,
+        "name": "Sega Nomad",
+        "price_usd": 350,
+        "price_eur": 322,
         "isHistory": false
       },
       {
         "rank": 14,
-        "name": "Sega Nomad",
-        "price_usd": 350,
-        "price_eur": 322,
+        "name": "MUSHA",
+        "price_usd": 333.5,
+        "price_eur": 306.82,
         "isHistory": false
       },
       {
@@ -2026,8 +2026,8 @@
       {
         "rank": 5,
         "name": "Sega Master System Console",
-        "price_usd": 149.4,
-        "price_eur": 137.45,
+        "price_usd": 150.81,
+        "price_eur": 138.75,
         "isHistory": false
       },
       {
@@ -2460,8 +2460,8 @@
       {
         "rank": 6,
         "name": "Pokemon [Not for Resale Deoxys]",
-        "price_usd": 1619.18,
-        "price_eur": 1489.65,
+        "price_usd": 1618.43,
+        "price_eur": 1488.96,
         "isHistory": false
       },
       {
@@ -2502,8 +2502,8 @@
       {
         "rank": 12,
         "name": "Pokemon [Not for Resale Secret Egg]",
-        "price_usd": 828.68,
-        "price_eur": 762.39,
+        "price_usd": 839.34,
+        "price_eur": 772.19,
         "isHistory": false
       },
       {
@@ -3030,8 +3030,8 @@
       {
         "rank": 6,
         "name": "PC Engine Duo-RX",
-        "price_usd": 444.32,
-        "price_eur": 408.77,
+        "price_usd": 441,
+        "price_eur": 405.72,
         "isHistory": false
       },
       {
@@ -3137,8 +3137,8 @@
       {
         "rank": 1,
         "name": "Chip Chan Kick",
-        "price_usd": 337.49,
-        "price_eur": 310.49,
+        "price_usd": 337.5,
+        "price_eur": 310.5,
         "isHistory": false
       },
       {
@@ -3207,8 +3207,8 @@
       {
         "rank": 11,
         "name": "PC-FX controller",
-        "price_usd": 106.49,
-        "price_eur": 97.97,
+        "price_usd": 106.48,
+        "price_eur": 97.96,
         "isHistory": false
       },
       {
@@ -3349,8 +3349,8 @@
       {
         "rank": 11,
         "name": "Shadow Tower",
-        "price_usd": 207.28,
-        "price_eur": 190.7,
+        "price_usd": 206.34,
+        "price_eur": 189.83,
         "isHistory": false
       },
       {
@@ -3477,8 +3477,8 @@
       {
         "rank": 9,
         "name": "Kuon",
-        "price_usd": 749.99,
-        "price_eur": 689.99,
+        "price_usd": 720,
+        "price_eur": 662.4,
         "isHistory": false
       },
       {
@@ -3597,9 +3597,9 @@
       },
       {
         "rank": 6,
-        "name": "PSP Go Pearl White",
-        "price_usd": 194.5,
-        "price_eur": 178.94,
+        "name": "PSP Go Piano Black",
+        "price_usd": 195.2,
+        "price_eur": 179.58,
         "isHistory": false
       },
       {
@@ -3611,30 +3611,30 @@
       },
       {
         "rank": 8,
-        "name": "PSP Go Piano Black",
-        "price_usd": 185,
-        "price_eur": 170.2,
-        "isHistory": false
-      },
-      {
-        "rank": 9,
         "name": "PSP 3000 Console Purple",
         "price_usd": 184.97,
         "price_eur": 170.17,
         "isHistory": false
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "PSP 3000 Limited Edition Metal Gear Big Boss Bundle",
         "price_usd": 182.5,
         "price_eur": 167.9,
         "isHistory": false
       },
       {
+        "rank": 10,
+        "name": "PSP Go Pearl White",
+        "price_usd": 179.5,
+        "price_eur": 165.14,
+        "isHistory": false
+      },
+      {
         "rank": 11,
         "name": "PSP 3000 Limited Edition Ratchet & Clank Version",
-        "price_usd": 161.53,
-        "price_eur": 148.61,
+        "price_usd": 161.32,
+        "price_eur": 148.41,
         "isHistory": false
       },
       {
@@ -3681,23 +3681,23 @@
       },
       {
         "rank": 18,
-        "name": "PSP 3000",
-        "price_usd": 144.45,
-        "price_eur": 132.89,
-        "isHistory": false
-      },
-      {
-        "rank": 19,
         "name": "PSP 2000 Limited Edition Star Wars Battlefront Version [White]",
         "price_usd": 142.49,
         "price_eur": 131.09,
         "isHistory": false
       },
       {
+        "rank": 19,
+        "name": "PSP 3000",
+        "price_usd": 141.94,
+        "price_eur": 130.58,
+        "isHistory": false
+      },
+      {
         "rank": 20,
         "name": "Shin Megami Tensei: Persona 2: Innocent Sin",
-        "price_usd": 136.39,
-        "price_eur": 125.48,
+        "price_usd": 136.45,
+        "price_eur": 125.53,
         "isHistory": false
       }
     ],
@@ -4275,8 +4275,8 @@
       {
         "rank": 1,
         "name": "Jack Bros.",
-        "price_usd": 900,
-        "price_eur": 828,
+        "price_usd": 875.25,
+        "price_eur": 805.23,
         "isHistory": false
       },
       {
@@ -4401,8 +4401,8 @@
       {
         "rank": 19,
         "name": "Wario Land",
-        "price_usd": 69.99,
-        "price_eur": 64.39,
+        "price_usd": 69,
+        "price_eur": 63.48,
         "isHistory": false
       },
       {
@@ -4685,8 +4685,8 @@
       {
         "rank": 19,
         "name": "Wonder Swan Color",
-        "price_usd": 68.07,
-        "price_eur": 62.62,
+        "price_usd": 67.97,
+        "price_eur": 62.53,
         "isHistory": false
       },
       {
@@ -4833,7 +4833,7 @@
       },
       {
         "rank": 20,
-        "name": "Live Ammo [+3 Disk]",
+        "name": "Batty",
         "price_usd": 63.22,
         "price_eur": 58.16,
         "isHistory": false
