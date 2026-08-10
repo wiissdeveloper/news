@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09",
+  "updated": "2026-08-10",
   "systems": {
     "3do": [
       {
@@ -12,8 +12,8 @@
       {
         "rank": 2,
         "name": "Lucienne's Quest",
-        "price_usd": 322.65,
-        "price_eur": 296.84,
+        "price_usd": 322.49,
+        "price_eur": 296.69,
         "isHistory": false
       },
       {
@@ -219,8 +219,8 @@
       {
         "rank": 11,
         "name": "Color Bar Generator",
-        "price_usd": 587.21,
-        "price_eur": 540.23,
+        "price_usd": 585.65,
+        "price_eur": 538.8,
         "isHistory": false
       },
       {
@@ -474,100 +474,100 @@
       },
       {
         "rank": 7,
+        "name": "Crystal Castles",
+        "price_usd": 152.07,
+        "price_eur": 139.9,
+        "isHistory": false
+      },
+      {
+        "rank": 8,
         "name": "Atari 130xe",
         "price_usd": 150,
         "price_eur": 138,
         "isHistory": false
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "Atari 410 Program Recorder",
         "price_usd": 147.63,
         "price_eur": 135.82,
         "isHistory": false
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "Atari 800 Console",
         "price_usd": 141.5,
         "price_eur": 130.18,
         "isHistory": false
       },
       {
-        "rank": 10,
+        "rank": 11,
         "name": "Scramble",
         "price_usd": 133.2,
         "price_eur": 122.54,
         "isHistory": false
       },
       {
-        "rank": 11,
+        "rank": 12,
         "name": "Atari 1010 Program Recorder",
         "price_usd": 129.99,
         "price_eur": 119.59,
         "isHistory": false
       },
       {
-        "rank": 12,
+        "rank": 13,
         "name": "Atari 400 Console",
         "price_usd": 106.75,
         "price_eur": 98.21,
         "isHistory": false
       },
       {
-        "rank": 13,
+        "rank": 14,
         "name": "Rescue At Rigel",
         "price_usd": 99.99,
         "price_eur": 91.99,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 15,
         "name": "Super Zaxxon",
         "price_usd": 99.2,
         "price_eur": 91.26,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 16,
         "name": "Thunderfox",
         "price_usd": 94.99,
         "price_eur": 87.39,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 17,
         "name": "Atari 400 Mini",
         "price_usd": 90,
         "price_eur": 82.8,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 18,
         "name": "Mario Bros.",
         "price_usd": 89.96,
         "price_eur": 82.76,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 19,
         "name": "Picnic Paranoia",
         "price_usd": 88.82,
         "price_eur": 81.71,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 20,
         "name": "Atari 800 XL Console",
         "price_usd": 88.13,
         "price_eur": 81.08,
-        "isHistory": false
-      },
-      {
-        "rank": 20,
-        "name": "Ultima IV: Quest of the Avatar",
-        "price_usd": 87.11,
-        "price_eur": 80.14,
         "isHistory": false
       }
     ],
@@ -707,9 +707,9 @@
       },
       {
         "rank": 20,
-        "name": "AC Adapter",
-        "price_usd": 62.92,
-        "price_eur": 57.89,
+        "name": "Desert Strike",
+        "price_usd": 62.47,
+        "price_eur": 57.47,
         "isHistory": false
       }
     ],
@@ -843,8 +843,8 @@
       {
         "rank": 19,
         "name": "Worms",
-        "price_usd": 122.03,
-        "price_eur": 112.27,
+        "price_usd": 122.04,
+        "price_eur": 112.28,
         "isHistory": false
       },
       {
@@ -901,16 +901,16 @@
       },
       {
         "rank": 7,
-        "name": "SCART Cable",
-        "price_usd": 187.5,
-        "price_eur": 172.5,
+        "name": "Illbleed",
+        "price_usd": 187.98,
+        "price_eur": 172.94,
         "isHistory": false
       },
       {
         "rank": 8,
-        "name": "Illbleed",
-        "price_usd": 186.24,
-        "price_eur": 171.34,
+        "name": "SCART Cable",
+        "price_usd": 187.5,
+        "price_eur": 172.5,
         "isHistory": false
       },
       {
@@ -944,8 +944,8 @@
       {
         "rank": 13,
         "name": "Giga Wing 2",
-        "price_usd": 131.59,
-        "price_eur": 121.06,
+        "price_usd": 133.35,
+        "price_eur": 122.68,
         "isHistory": false
       },
       {
@@ -964,14 +964,14 @@
       },
       {
         "rank": 16,
-        "name": "Sega Dreamcast Arcade Stick",
+        "name": "Sonic Adventure 2",
         "price_usd": 100,
         "price_eur": 92,
         "isHistory": false
       },
       {
         "rank": 17,
-        "name": "Sonic Adventure 2",
+        "name": "Sega Dreamcast Arcade Stick",
         "price_usd": 100,
         "price_eur": 92,
         "isHistory": false
@@ -1213,14 +1213,14 @@
       },
       {
         "rank": 11,
-        "name": "Makaimura [Box Cart]",
+        "name": "Bubble Bobble 2",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
       },
       {
         "rank": 12,
-        "name": "Bubble Bobble 2",
+        "name": "Makaimura [Box Cart]",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
@@ -1390,14 +1390,14 @@
       },
       {
         "rank": 16,
-        "name": "Analogue Pocket [Berry]",
+        "name": "Analogue Pocket [Grape]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
       },
       {
         "rank": 17,
-        "name": "Analogue Pocket [Grape]",
+        "name": "Analogue Pocket [Berry]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
@@ -1577,8 +1577,8 @@
       {
         "rank": 2,
         "name": "Shantae",
-        "price_usd": 699,
-        "price_eur": 643.08,
+        "price_usd": 650.48,
+        "price_eur": 598.44,
         "isHistory": false
       },
       {
@@ -1654,8 +1654,8 @@
       {
         "rank": 13,
         "name": "Pokemon Crystal",
-        "price_usd": 166.36,
-        "price_eur": 153.05,
+        "price_usd": 170,
+        "price_eur": 156.4,
         "isHistory": false
       },
       {
@@ -1689,8 +1689,8 @@
       {
         "rank": 18,
         "name": "Wendy Every Witch Way",
-        "price_usd": 131.95,
-        "price_eur": 121.39,
+        "price_usd": 130,
+        "price_eur": 119.6,
         "isHistory": false
       },
       {
@@ -1903,8 +1903,8 @@
       {
         "rank": 8,
         "name": "Crusader of Centy",
-        "price_usd": 525,
-        "price_eur": 483,
+        "price_usd": 512.5,
+        "price_eur": 471.5,
         "isHistory": false
       },
       {
@@ -2061,8 +2061,8 @@
       {
         "rank": 10,
         "name": "Alex Kidd in Shinobi World [Blue Label]",
-        "price_usd": 79.99,
-        "price_eur": 73.59,
+        "price_usd": 80,
+        "price_eur": 73.6,
         "isHistory": false
       },
       {
@@ -2273,8 +2273,8 @@
       {
         "rank": 20,
         "name": "Bodycount",
-        "price_usd": 110.03,
-        "price_eur": 101.23,
+        "price_usd": 109.44,
+        "price_eur": 100.68,
         "isHistory": false
       }
     ],
@@ -2439,8 +2439,8 @@
       {
         "rank": 3,
         "name": "Pokemon [Not for Resale Regigigas and Shaymin]",
-        "price_usd": 2686.55,
-        "price_eur": 2471.63,
+        "price_usd": 2686.39,
+        "price_eur": 2471.48,
         "isHistory": false
       },
       {
@@ -2786,8 +2786,8 @@
       {
         "rank": 12,
         "name": "Bubble Bath Babes",
-        "price_usd": 1701.06,
-        "price_eur": 1564.98,
+        "price_usd": 1698.22,
+        "price_eur": 1562.36,
         "isHistory": false
       },
       {
@@ -3200,8 +3200,8 @@
       {
         "rank": 10,
         "name": "Pia Carrot & Can Can Bunny Extra DX",
-        "price_usd": 107.76,
-        "price_eur": 99.14,
+        "price_usd": 107.75,
+        "price_eur": 99.13,
         "isHistory": false
       },
       {
@@ -3314,8 +3314,8 @@
       {
         "rank": 6,
         "name": "The Misadventures of Tron Bonne",
-        "price_usd": 254.69,
-        "price_eur": 234.31,
+        "price_usd": 252.5,
+        "price_eur": 232.3,
         "isHistory": false
       },
       {
@@ -3442,8 +3442,8 @@
       {
         "rank": 4,
         "name": "PlayStation 2 System [White Automotive Edition]",
-        "price_usd": 1820.51,
-        "price_eur": 1674.87,
+        "price_usd": 1814.69,
+        "price_eur": 1669.51,
         "isHistory": false
       },
       {
@@ -3547,8 +3547,8 @@
       {
         "rank": 19,
         "name": ".hack Quarantine",
-        "price_usd": 283.5,
-        "price_eur": 260.82,
+        "price_usd": 283.61,
+        "price_eur": 260.92,
         "isHistory": false
       },
       {
@@ -3626,8 +3626,8 @@
       {
         "rank": 10,
         "name": "PSP Go Pearl White",
-        "price_usd": 179.5,
-        "price_eur": 165.14,
+        "price_usd": 179.56,
+        "price_eur": 165.2,
         "isHistory": false
       },
       {
@@ -3944,14 +3944,14 @@
       },
       {
         "rank": 15,
-        "name": "Undercover Cops",
+        "name": "Yokai Buster",
         "price_usd": 229.25,
         "price_eur": 210.91,
         "isHistory": false
       },
       {
         "rank": 16,
-        "name": "Yokai Buster",
+        "name": "Undercover Cops",
         "price_usd": 229.25,
         "price_eur": 210.91,
         "isHistory": false
@@ -4224,8 +4224,8 @@
       {
         "rank": 14,
         "name": "WebWarp",
-        "price_usd": 20.02,
-        "price_eur": 18.42,
+        "price_usd": 20.03,
+        "price_eur": 18.43,
         "isHistory": false
       },
       {
@@ -4401,8 +4401,8 @@
       {
         "rank": 19,
         "name": "Wario Land",
-        "price_usd": 69,
-        "price_eur": 63.48,
+        "price_usd": 68.87,
+        "price_eur": 63.36,
         "isHistory": false
       },
       {
@@ -4580,8 +4580,8 @@
       {
         "rank": 4,
         "name": "Super Robot Taisen Compact 3",
-        "price_usd": 153.04,
-        "price_eur": 140.8,
+        "price_usd": 153.01,
+        "price_eur": 140.77,
         "isHistory": false
       },
       {
@@ -4708,8 +4708,8 @@
       {
         "rank": 2,
         "name": "Sinclair ZX Spectrum +2 James Bond 007 Action Pack",
-        "price_usd": 174.37,
-        "price_eur": 160.42,
+        "price_usd": 174.46,
+        "price_eur": 160.5,
         "isHistory": false
       },
       {
