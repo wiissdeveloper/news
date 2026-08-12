@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11",
+  "updated": "2026-08-12",
   "systems": {
     "3do": [
       {
@@ -163,8 +163,8 @@
       {
         "rank": 3,
         "name": "Eli's Ladder",
-        "price_usd": 1529.4,
-        "price_eur": 1407.05,
+        "price_usd": 1515.01,
+        "price_eur": 1393.81,
         "isHistory": false
       },
       {
@@ -481,7 +481,7 @@
       },
       {
         "rank": 8,
-        "name": "Atari 130xe",
+        "name": "The Educator",
         "price_usd": 150,
         "price_eur": 138,
         "isHistory": false
@@ -523,16 +523,16 @@
       },
       {
         "rank": 14,
-        "name": "Rescue At Rigel",
-        "price_usd": 99.99,
-        "price_eur": 91.99,
+        "name": "Super Zaxxon",
+        "price_usd": 100.63,
+        "price_eur": 92.58,
         "isHistory": false
       },
       {
         "rank": 15,
-        "name": "Super Zaxxon",
-        "price_usd": 99.2,
-        "price_eur": 91.26,
+        "name": "Rescue At Rigel",
+        "price_usd": 99.99,
+        "price_eur": 91.99,
         "isHistory": false
       },
       {
@@ -617,8 +617,8 @@
       {
         "rank": 7,
         "name": "Fat Bobby",
-        "price_usd": 124.54,
-        "price_eur": 114.58,
+        "price_usd": 124.53,
+        "price_eur": 114.57,
         "isHistory": false
       },
       {
@@ -1213,14 +1213,14 @@
       },
       {
         "rank": 11,
-        "name": "Makaimura [Box Cart]",
+        "name": "Bubble Bobble 2",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
       },
       {
         "rank": 12,
-        "name": "Bubble Bobble 2",
+        "name": "Makaimura [Box Cart]",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
@@ -1419,8 +1419,8 @@
       {
         "rank": 20,
         "name": "Toxic Crusaders",
-        "price_usd": 355.77,
-        "price_eur": 327.31,
+        "price_usd": 350.13,
+        "price_eur": 322.12,
         "isHistory": false
       }
     ],
@@ -1455,14 +1455,14 @@
       },
       {
         "rank": 5,
-        "name": "Disney Channel Gameboy Advance SP",
+        "name": "Pokemon Emerald [Not for Resale]",
         "price_usd": 800,
         "price_eur": 736,
         "isHistory": false
       },
       {
         "rank": 6,
-        "name": "Pokemon Emerald [Not for Resale]",
+        "name": "Disney Channel Gameboy Advance SP",
         "price_usd": 800,
         "price_eur": 736,
         "isHistory": false
@@ -1695,16 +1695,16 @@
       },
       {
         "rank": 19,
-        "name": "Metal Gear Solid",
-        "price_usd": 129.23,
-        "price_eur": 118.89,
+        "name": "Bomberman Quest",
+        "price_usd": 129.19,
+        "price_eur": 118.85,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "Bomberman Quest",
-        "price_usd": 129.19,
-        "price_eur": 118.85,
+        "name": "Metal Gear Solid",
+        "price_usd": 125.1,
+        "price_eur": 115.09,
         "isHistory": false
       }
     ],
@@ -1767,23 +1767,23 @@
       },
       {
         "rank": 9,
-        "name": "Tails' Adventure",
-        "price_usd": 85,
-        "price_eur": 78.2,
-        "isHistory": false
-      },
-      {
-        "rank": 10,
         "name": "EverDrive GG X7",
         "price_usd": 80.98,
         "price_eur": 74.5,
         "isHistory": false
       },
       {
-        "rank": 11,
+        "rank": 10,
         "name": "Sega Game Gear [Majesco Revision]",
         "price_usd": 80,
         "price_eur": 73.6,
+        "isHistory": false
+      },
+      {
+        "rank": 11,
+        "name": "Tails' Adventure",
+        "price_usd": 79.99,
+        "price_eur": 73.59,
         "isHistory": false
       },
       {
@@ -1998,8 +1998,8 @@
       {
         "rank": 1,
         "name": "James Buster Douglas Knockout Boxing",
-        "price_usd": 386.09,
-        "price_eur": 355.2,
+        "price_usd": 390.65,
+        "price_eur": 359.4,
         "isHistory": false
       },
       {
@@ -2238,8 +2238,8 @@
       {
         "rank": 15,
         "name": "Zero the Kamikaze Squirrel",
-        "price_usd": 137.25,
-        "price_eur": 126.27,
+        "price_usd": 136.65,
+        "price_eur": 125.72,
         "isHistory": false
       },
       {
@@ -2401,8 +2401,8 @@
       {
         "rank": 18,
         "name": "Nintendo 64 Ice Blue Console",
-        "price_usd": 160.24,
-        "price_eur": 147.42,
+        "price_usd": 160.28,
+        "price_eur": 147.46,
         "isHistory": false
       },
       {
@@ -2523,8 +2523,8 @@
       {
         "rank": 15,
         "name": "Pokemon [Legendary Not For Resale Y90E]",
-        "price_usd": 614.49,
-        "price_eur": 565.33,
+        "price_usd": 607.81,
+        "price_eur": 559.19,
         "isHistory": false
       },
       {
@@ -2972,8 +2972,8 @@
       {
         "rank": 18,
         "name": "SNK Vs Capcom: The Match of the Millennium",
-        "price_usd": 55.52,
-        "price_eur": 51.08,
+        "price_usd": 55.71,
+        "price_eur": 51.25,
         "isHistory": false
       },
       {
@@ -2986,8 +2986,8 @@
       {
         "rank": 20,
         "name": "Dive Alert Matt's Version",
-        "price_usd": 47.43,
-        "price_eur": 43.64,
+        "price_usd": 45.84,
+        "price_eur": 42.17,
         "isHistory": false
       }
     ],
@@ -3420,14 +3420,14 @@
     "ps2": [
       {
         "rank": 1,
-        "name": "PlayStation 2 System [Blue Automotive Edition]",
+        "name": "PlayStation 2 System [Yellow Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
       },
       {
         "rank": 2,
-        "name": "PlayStation 2 System [Yellow Automotive Edition]",
+        "name": "PlayStation 2 System [Blue Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
@@ -3449,8 +3449,8 @@
       {
         "rank": 5,
         "name": "Playstation 2 Development Tool",
-        "price_usd": 1791.79,
-        "price_eur": 1648.45,
+        "price_usd": 1789.17,
+        "price_eur": 1646.04,
         "isHistory": false
       },
       {
@@ -3484,8 +3484,8 @@
       {
         "rank": 10,
         "name": "Rule of Rose",
-        "price_usd": 699.99,
-        "price_eur": 643.99,
+        "price_usd": 710.66,
+        "price_eur": 653.81,
         "isHistory": false
       },
       {
@@ -3498,8 +3498,8 @@
       {
         "rank": 12,
         "name": "Resident Evil 4 Chainsaw Controller",
-        "price_usd": 500.67,
-        "price_eur": 460.62,
+        "price_usd": 494.04,
+        "price_eur": 454.52,
         "isHistory": false
       },
       {
@@ -3563,8 +3563,8 @@
       {
         "rank": 1,
         "name": "The Hilton Family",
-        "price_usd": 1309.15,
-        "price_eur": 1204.42,
+        "price_usd": 1309.4,
+        "price_eur": 1204.65,
         "isHistory": false
       },
       {
@@ -3661,8 +3661,8 @@
       {
         "rank": 15,
         "name": "Legend of Heroes: Trails in the Sky [Premium Edition]",
-        "price_usd": 151.06,
-        "price_eur": 138.98,
+        "price_usd": 150.33,
+        "price_eur": 138.3,
         "isHistory": false
       },
       {
@@ -3689,8 +3689,8 @@
       {
         "rank": 19,
         "name": "Shin Megami Tensei: Persona 2: Innocent Sin",
-        "price_usd": 136.45,
-        "price_eur": 125.53,
+        "price_usd": 137.17,
+        "price_eur": 126.2,
         "isHistory": false
       },
       {
@@ -3854,8 +3854,8 @@
       {
         "rank": 2,
         "name": "Super Famicom Box Console",
-        "price_usd": 711.35,
-        "price_eur": 654.44,
+        "price_usd": 727.26,
+        "price_eur": 669.08,
         "isHistory": false
       },
       {
@@ -4045,16 +4045,16 @@
       },
       {
         "rank": 9,
-        "name": "Cool World",
-        "price_usd": 228.62,
-        "price_eur": 210.33,
+        "name": "Super Chase HQ",
+        "price_usd": 228.32,
+        "price_eur": 210.05,
         "isHistory": false
       },
       {
         "rank": 10,
-        "name": "Super Chase HQ",
-        "price_usd": 228.32,
-        "price_eur": 210.05,
+        "name": "Cool World",
+        "price_usd": 224.69,
+        "price_eur": 206.71,
         "isHistory": false
       },
       {
@@ -4296,43 +4296,43 @@
       {
         "rank": 4,
         "name": "Virtual Boy System",
-        "price_usd": 345,
-        "price_eur": 317.4,
+        "price_usd": 372.17,
+        "price_eur": 342.4,
         "isHistory": false
       },
       {
         "rank": 5,
+        "name": "Virtual Fishing [Homebrew]",
+        "price_usd": 347.5,
+        "price_eur": 319.7,
+        "isHistory": false
+      },
+      {
+        "rank": 6,
         "name": "Red Alarm [Not for Resale]",
         "price_usd": 299.92,
         "price_eur": 275.93,
         "isHistory": false
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "Waterworld",
         "price_usd": 224.26,
         "price_eur": 206.32,
         "isHistory": false
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "Wario Land [Not For Resale]",
         "price_usd": 209.97,
         "price_eur": 193.17,
         "isHistory": false
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "Bound High",
         "price_usd": 202.45,
         "price_eur": 186.25,
-        "isHistory": false
-      },
-      {
-        "rank": 9,
-        "name": "Virtual Fishing [Homebrew]",
-        "price_usd": 199.99,
-        "price_eur": 183.99,
         "isHistory": false
       },
       {
