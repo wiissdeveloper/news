@@ -1,6 +1,30 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "notices": [
+    {
+      "guid": "https://www.gamesource.it/?post_type=notizie&p=1131889",
+      "title": "Skyrim, la neve finalmente si deforma: il modding supera i limiti del Creation Engine",
+      "link": "https://www.gamesource.it/notizie/skyrim-la-neve-finalmente-si-deforma/",
+      "pubDate": "Fri, 14 Aug 2026 17:47:27 +0000",
+      "contentSnippet": "Dopo quasi quindici anni dall'uscita di The Elder Scrolls V: Skyrim, il celebre RPG di Bethesda si prepara ad accogliere una delle caratteristiche ambientali che i modder ritenevano praticamente impossibili da realizzare: la neve dinamica. La mod, ancora in fase di sviluppo e realizzata dal modder Josef Rudberg, permette infatti alla neve di reagire fisicamente al passaggio del personaggio. Camminando sulle superfici innevate, il giocatore lascia impronte e, quando lo strato è sufficientemente spesso, può persino creare piccoli solchi e accumuli ai lati dei passi. Il risultato è particolarmente significativo perché Skyrim utilizza una struttura in cui gran parte della geometria del paesaggio è statica. Per anni, la community ha quindi considerato la deformazione realistica della neve troppo difficile da implementare senza provocare pesanti problemi di prestazioni o instabilità.\n \nSkyrim si arricchisce di una nuova mod\nLa nuova mod di Skyrim sembra però aggirare questi limiti con un approccio più sofisticato. Il sistema consente di personalizzare le texture delle superfici innevate e aggiunge veri e propri strati tridimensionali alla neve, rendendo più uniformi le deformazioni. È inoltre presente un sistema di riempimento che permette alla neve di tornare gradualmente alla forma originale durante le nevicate, cancellando le tracce lasciate dal giocatore. Un altro elemento importante è la compatibilità con Community Shaders, che dovrebbe consentire di mantenere un impatto contenuto sulle prestazioni anche su hardware meno potente.\nIl progetto non è ancora disponibile al pubblico. Rudberg sta lavorando soprattutto sulle interazioni tra neve e PNG e vuole rendere l'accumulo dipendente dalle condizioni atmosferiche, introducendo in futuro anche vento e interazioni con gli incantesimi. Non sorprende quindi l'entusiasmo della community: per molti giocatori, una semplice impronta nella neve rappresenta una delle dimostrazioni più spettacolari di quanto il modding possa ancora trasformare Skyrim.\nInfine ti lasciamo con la nostra recensione di The Elder Scrolls V: Skyrim Anniversary Edition.\n \nL'articolo Skyrim, la neve finalmente si deforma: il modding supera i limiti del Creation Engine proviene da GameSource.",
+      "thumbnail": "https://www.gamesource.it/wp-content/uploads/2026/08/skyrim-neve-1.webp"
+    },
+    {
+      "guid": "https://it.ign.com/hokum/227320/hokum-il-trailer-ufficiale",
+      "title": "Hokum - Il trailer ufficiale",
+      "link": "https://it.ign.com/hokum/227320/hokum-il-trailer-ufficiale",
+      "pubDate": "Fri, 14 Aug 2026 16:47:16 +0000",
+      "contentSnippet": "Alla scoperta di Hokum.",
+      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/blob_s9cu.jpg"
+    },
+    {
+      "guid": "https://it.ign.com/offerte-amazon-videogiochi-sconti/227308/red-dead-redemption-ottime-offerte-per-le-versioni-switch-12",
+      "title": "Red Dead Redemption: ottime offerte per le versioni Switch 1/2",
+      "link": "https://it.ign.com/offerte-amazon-videogiochi-sconti/227308/red-dead-redemption-ottime-offerte-per-le-versioni-switch-12",
+      "pubDate": "Fri, 14 Aug 2026 13:30:49 +0000",
+      "contentSnippet": "Sconti fino al 62% per il capolavoro di Rockstar Games.\nLe versioni Switch 1/2 di Red Dead Redemption sono disponibili su Instant Gaming con sconti fino al 62%.",
+      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/apps26419715344459133897783217f3df-0d90-489b-8f2f-90d018aded_r535.jpg"
+    },
     {
       "guid": "https://it.ign.com/south-of-midnight/227304/la-separazione-tra-xbox-e-compulsion-games-sembra-ormai-definitiva",
       "title": "La separazione tra Xbox e Compulsion Games sembra ormai definitiva",
@@ -72,30 +96,6 @@
       "pubDate": "Thu, 13 Aug 2026 15:01:59 +0000",
       "contentSnippet": "Alla scoperta di Game of Thrones: War for Westeros.",
       "thumbnail": "https://sm.ign.com/ign_it/video/g/game-of-th/game-of-thrones-war-for-westeros-official-gameplay-teaser-tr_3444.png"
-    },
-    {
-      "guid": "https://it.ign.com/dokev/227278/dokev-il-nuovo-gioco-dallo-studio-di-crimson-desert-uscira-nel-2028-cresce-il-team-di-sviluppo",
-      "title": "DokeV: il nuovo gioco dallo studio di Crimson Desert uscirà nel 2028, cresce il team di sviluppo",
-      "link": "https://it.ign.com/dokev/227278/dokev-il-nuovo-gioco-dallo-studio-di-crimson-desert-uscira-nel-2028-cresce-il-team-di-sviluppo",
-      "pubDate": "Thu, 13 Aug 2026 15:00:36 +0000",
-      "contentSnippet": "Sarà un'esperienza molto diversa dall'action RPG pubblicato quest'anno.\nIl curioso gioco open world di Pearl Abyss è ancora in sviluppo e il team è in espansione: lo studio punta a un lancio tra due anni circa.",
-      "thumbnail": "https://sm.ign.com/ign_it/photo/default/dokev-screenshot-09-1637104333482_6fg2.jpg"
-    },
-    {
-      "guid": "https://www.gamesource.it/?post_type=notizie&p=1131773",
-      "title": "The Elder Scrolls 6: il sottotitolo era nascosto in Starfield fin dal lancio? La teoria dei fan",
-      "link": "https://www.gamesource.it/notizie/the-elder-scrolls-6-il-sottotitolo/",
-      "pubDate": "Thu, 13 Aug 2026 14:10:44 +0000",
-      "contentSnippet": "A ben otto anni dal primo teaser ufficiale, il mistero attorno all'ipotetico nome completo di The Elder Scrolls 6 continua a far discutere, ma i fan sono convinti di averlo finalmente scoperto. Infatti, grazie a un post di Asha Sharma, CEO di Xbox, siamo venuti a conoscenza di quanti caratteri contenga il sottotitolo segreto, citandolo censurato da otto asterischi: \"The Elder Scrolls 6: ********\".\nQuesto ha scatenato la caccia alla parola chiave e la teoria regina porta a Sentinel, una delle città più importanti della regione di Hammerfell, da sempre indiziata principale come ambientazione del gioco. La svolta più clamorosa arriva però da Starfield: analizzando l'editor dei personaggi del titolo sci-fi di Bethesda, la community ha scoperto che un codice numerico a 16 cifre impresso sullo schermo, se diviso in coppie e convertito nelle corrispondenti lettere dell'alfabeto, compone esattamente la parola Sentinel.\nQuesta ipotesi, già intravista da alcuni utenti in passato e riemersa in questi giorni, ha trovato perfino l'approvazione informale di Michael Kirkbride, storico ex autore e designer della saga.\nNonostante l'entusiasmo attorno a questi indizi, la strada verso la pubblicazione resta ancora lunga. Tra i recenti e pesanti licenziamenti che hanno colpito la divisione Xbox e la prudenza dello studio nel fissare una data di uscita, Bethesda potrebbe farci attendere ancora un bel po' di tempo.\nL'articolo The Elder Scrolls 6: il sottotitolo era nascosto in Starfield fin dal lancio? La teoria dei fan proviene da GameSource.",
-      "thumbnail": "https://www.gamesource.it/wp-content/uploads/2026/08/the-elder-scrolls-vi-ecco-forse-il-sottotitolo-ufficiale.webp"
-    },
-    {
-      "guid": "https://it.ign.com/nautus/227288/nautus-il-trailer-di-annuncio",
-      "title": "Nautus - Il trailer di annuncio",
-      "link": "https://it.ign.com/nautus/227288/nautus-il-trailer-di-annuncio",
-      "pubDate": "Thu, 13 Aug 2026 14:00:00 +0000",
-      "contentSnippet": "Dagli autoti di Have a Nice Death.",
-      "thumbnail": "https://sm.ign.com/ign_it/video/n/nautus-off/nautus-official-reveal-trailer_6dvg.jpg"
     }
   ]
 }
