@@ -1,6 +1,46 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "notices": [
+    {
+      "guid": "https://www.jeuxvideo.com/news/2098599/pourquoi-le-debut-des-annees-2010-est-l-ere-la-plus-dingue-de-nintendo-de-mon-point-de-vue.htm",
+      "title": "Pourquoi le début des années 2010 est l'ère la plus dingue de Nintendo de mon point de vue ",
+      "link": "https://www.jeuxvideo.com/news/2098599/pourquoi-le-debut-des-annees-2010-est-l-ere-la-plus-dingue-de-nintendo-de-mon-point-de-vue.htm",
+      "pubDate": "Sat, 15 Aug 2026 22:20:08 +0200",
+      "contentSnippet": "Quand on repense au début des années 2010 chez Nintendo, c'est un pur grand huit. Entre choix technologiques loufoques, bides monumentaux et idées sorties de nulle part, la firme de Kyoto nous a offert une période totalement surréaliste. Et pourtant, avec le recul, c'est mon époque préférée.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178655/1786549818-6531-card.png"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2098885/juste-une-pompe-a-fric-un-developpeur-historique-de-cette-franchise-culte-playstation-dezingue-les-projets-de-naughty-dog.htm",
+      "title": "« Juste une pompe à fric » : un développeur historique de cette franchise culte PlayStation dézingue les projets de Naughty Dog !",
+      "link": "https://www.jeuxvideo.com/news/2098885/juste-une-pompe-a-fric-un-developpeur-historique-de-cette-franchise-culte-playstation-dezingue-les-projets-de-naughty-dog.htm",
+      "pubDate": "Sat, 15 Aug 2026 18:45:09 +0200",
+      "contentSnippet": "Les remakes et remasters sont devenus incontournables dans le paysage vidéoludique. Mais alors que certaines licences multiplient les retours, un ancien de Naughty Dog soulève une question simple : faut-il vraiment refaire des jeux qui n'ont jamais disparu ?",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178671/1786707872-3475-card.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2098237/note-95-sur-steam-ce-nouveau-souls-like-a-l-esthetique-bluffante-vous-plonge-dans-un-univers-obscur-inspire-des-echecs.htm",
+      "title": "Noté 95% sur Steam, ce nouveau Souls-like à l’esthétique bluffante vous plonge dans un univers obscur inspiré… des échecs",
+      "link": "https://www.jeuxvideo.com/news/2098237/note-95-sur-steam-ce-nouveau-souls-like-a-l-esthetique-bluffante-vous-plonge-dans-un-univers-obscur-inspire-des-echecs.htm",
+      "pubDate": "Sat, 15 Aug 2026 17:15:08 +0200",
+      "contentSnippet": "Une production indépendante revisite les mécaniques du jeu d'échecs à travers un système d'action à la troisième personne. Centré sur la métamorphose en temps réel et la parade, ce titre enregistre des évaluations très positives de la part du public.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178637/1786366511-6393-card.jpg"
+    },
+    {
+      "guid": "https://www.gamekult.com/actualite/la-steamboy-est-la-merveilleuse-transformation-d-un-steam-deck-en-game-boy-3050871620.html",
+      "title": "La SteamBoy est la merveilleuse transformation d'un Steam Deck en Game Boy",
+      "link": "https://www.gamekult.com/actualite/la-steamboy-est-la-merveilleuse-transformation-d-un-steam-deck-en-game-boy-3050871620.html",
+      "pubDate": "Sat, 15 Aug 2026 17:09:00 +0200",
+      "contentSnippet": "Reddit abrite bien des génies : celui du jour porte le doux pseudonyme de PhyFawkes et s'est mis en tête de récupérer un Steam Deck, de le désosser puis de laisser parler la magie noire pour en faire ce qu'il appelle une SteamBoy, une autre console portable au format Game Boy. Attendez, est-ce qu'on doit dire \"un\" SteamBoy, du coup ?",
+      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050871620/la-steamboy-est-la-merveilleuse-transformation-d-un-steam-deck-en-game-boy-1d7d9a73__930_300__0-1048-1080-1396.png"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2098293/ces-jeux-sur-consoles-nintendo-ont-ete-faits-par-les-createurs-de-elden-ring-et-c-est-loin-d-etre-des-masterclass.htm",
+      "title": "Ces jeux sur consoles Nintendo ont été faits par les créateurs de Elden Ring et c'est loin d'être des masterclass",
+      "link": "https://www.jeuxvideo.com/news/2098293/ces-jeux-sur-consoles-nintendo-ont-ete-faits-par-les-createurs-de-elden-ring-et-c-est-loin-d-etre-des-masterclass.htm",
+      "pubDate": "Sat, 15 Aug 2026 16:00:11 +0200",
+      "contentSnippet": "Connu pour Elden Ring ou Dark Souls, FromSoftware n'a pas toujours produit des chefs-d'œuvre. Si les joueurs pensent aujourd'hui à The Duskbloods, la mystérieuse exclusivité Switch 2 du studio, son passé sur consoles Nintendo est bien plus mitigé. Entre casse-têtes opportunistes sur DS et RPG bancals...",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178644/1786441288-5397-card.png"
+    },
     {
       "guid": "https://www.actugaming.net/?p=817077",
       "title": "EA Sports FC 26 dévoile la quatrième équipe Futties",
@@ -56,46 +96,6 @@
       "pubDate": "Fri, 14 Aug 2026 19:00:00 +0200",
       "contentSnippet": "À peine un an après Crown Gambit, les Bretons de Wild Wits Games sont de retour avec Sovereign Tower, un jeu de gestion rudement efficace et bien plus accrocheur que leur dernière production. On sent que le studio a bien revu son approche en matière d'écriture, et ça rend l'ensemble nettement plus plaisant et marquant.",
       "thumbnail": "https://cdn.gamekult.com/optim/images/review/30/3050871640/sovereign-tower-c3e9911a__930_530__218-287-2405-1536.png"
-    },
-    {
-      "guid": "https://www.gamekult.com/actualite/cinq-millions-de-ventes-en-quatre-mois-pour-pokemon-pokopia-3050871649.html",
-      "title": "Cinq millions de ventes en quatre mois pour Pokémon Pokopia",
-      "link": "https://www.gamekult.com/actualite/cinq-millions-de-ventes-en-quatre-mois-pour-pokemon-pokopia-3050871649.html",
-      "pubDate": "Fri, 14 Aug 2026 18:05:00 +0200",
-      "contentSnippet": "Nintendo et The Pokémon Company ont publié un communiqué ce vendredi pour annoncer que Pokémon Pokopia vient de franchir la barre des 5 millions d'exemplaires vendus dans le monde.",
-      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050871649/cinq-millions-de-ventes-en-quatre-mois-pour-pokemon-pokopia-ba10425e__930_300__0-234-1800-817.jpg"
-    },
-    {
-      "guid": "https://www.jeuxvideo.com/news/2098787/j-attendais-ce-jeu-comme-le-messi-qui-me-fera-enfin-abandonner-pokemon-le-banger-chinois-aniimo-trouve-enfin-sa-date-de-sortie.htm",
-      "title": "J'attendais ce jeu comme le messi qui me fera enfin abandonner Pokémon : le banger chinois Aniimo trouve enfin sa date de sortie !",
-      "link": "https://www.jeuxvideo.com/news/2098787/j-attendais-ce-jeu-comme-le-messi-qui-me-fera-enfin-abandonner-pokemon-le-banger-chinois-aniimo-trouve-enfin-sa-date-de-sortie.htm",
-      "pubDate": "Fri, 14 Aug 2026 17:15:08 +0200",
-      "contentSnippet": "Longtemps prisonnier de ma passion pour Pokémon malgré la stagnation de la formule de Game Freak, j'attendais désespérément un challenger à la hauteur. Le phénomène chinois Aniimo vient d'officialiser sa date de sortie, fixée au 16 septembre 2026 sur consoles, PC et mobiles.",
-      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178663/1786629614-9096-card.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=817008",
-      "title": "Magic Design Studio (Have a Nice Death) annonce Nautus, une aventure sous-marine jouable en coopération",
-      "link": "https://www.actugaming.net/magic-design-studio-annonce-nautus-aventure-sous-marine-cooperation-817008/",
-      "pubDate": "Fri, 14 Aug 2026 15:02:17 +0000",
-      "contentSnippet": "ActuGaming.net\nMagic Design Studio (Have a Nice Death) annonce Nautus, une aventure sous-marine jouable en coopération\n\nLe studio montpélliérain Magic Design Studios nous a déjà régalé d’un Unruly Heroes charmant mais […]\nL'article Magic Design Studio (Have a Nice Death) annonce Nautus, une aventure sous-marine jouable en coopération est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/08/nautus-key-art.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=817014",
-      "title": "Sonic Frontiers et Pokémon Pokopia fêtent tous les deux leurs 5 millions de ventes",
-      "link": "https://www.actugaming.net/sonic-frontiers-et-pokemon-pokopia-fetent-tous-les-deux-leurs-5-millions-de-ventes-817014/",
-      "pubDate": "Fri, 14 Aug 2026 14:32:53 +0000",
-      "contentSnippet": "ActuGaming.net\nSonic Frontiers et Pokémon Pokopia fêtent tous les deux leurs 5 millions de ventes\n\nOn ne va pas se mentir, on espérait que SEGA nous gâte un peu plus […]\nL'article Sonic Frontiers et Pokémon Pokopia fêtent tous les deux leurs 5 millions de ventes est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2022/08/Sonic-Frontiers-5.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=816999",
-      "title": "2K ouvre Small Axe Studio pour créer une nouvelle franchise sportive AAA",
-      "link": "https://www.actugaming.net/2k-small-axe-studio-nouvelle-franchise-sportive-816999/",
-      "pubDate": "Fri, 14 Aug 2026 13:54:37 +0000",
-      "contentSnippet": "ActuGaming.net\n2K ouvre Small Axe Studio pour créer une nouvelle franchise sportive AAA\n\nLes jeux de sport ont toujours connu du succès, et aujourd’hui le paysage ne bouge […]\nL'article 2K ouvre Small Axe Studio pour créer une nouvelle franchise sportive AAA est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/08/small-axe-studio.jpg"
     }
   ]
 }
