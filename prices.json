@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15",
+  "updated": "2026-08-16",
   "systems": {
     "3do": [
       {
@@ -551,16 +551,16 @@
       },
       {
         "rank": 18,
-        "name": "Atari 400 Mini",
-        "price_usd": 90,
-        "price_eur": 82.8,
+        "name": "Mario Bros.",
+        "price_usd": 90.91,
+        "price_eur": 83.64,
         "isHistory": false
       },
       {
         "rank": 19,
-        "name": "Mario Bros.",
-        "price_usd": 89.96,
-        "price_eur": 82.76,
+        "name": "Atari 400 Mini",
+        "price_usd": 90,
+        "price_eur": 82.8,
         "isHistory": false
       },
       {
@@ -800,14 +800,14 @@
       },
       {
         "rank": 13,
-        "name": "Rayman",
-        "price_usd": 150.05,
-        "price_eur": 138.05,
+        "name": "Beast Busters",
+        "price_usd": 149.99,
+        "price_eur": 137.99,
         "isHistory": false
       },
       {
         "rank": 14,
-        "name": "Beast Busters",
+        "name": "Rayman",
         "price_usd": 149.99,
         "price_eur": 137.99,
         "isHistory": false
@@ -979,8 +979,8 @@
       {
         "rank": 18,
         "name": "Project Justice",
-        "price_usd": 95.13,
-        "price_eur": 87.52,
+        "price_usd": 95.31,
+        "price_eur": 87.69,
         "isHistory": false
       },
       {
@@ -1404,16 +1404,16 @@
       },
       {
         "rank": 18,
-        "name": "Gameboy Light [Yellow]",
-        "price_usd": 381.36,
-        "price_eur": 350.85,
+        "name": "Analogue Pocket [Pink]",
+        "price_usd": 380,
+        "price_eur": 349.6,
         "isHistory": false
       },
       {
         "rank": 19,
-        "name": "Analogue Pocket [Pink]",
-        "price_usd": 380,
-        "price_eur": 349.6,
+        "name": "Gameboy Light [Yellow]",
+        "price_usd": 354.77,
+        "price_eur": 326.39,
         "isHistory": false
       },
       {
@@ -1455,14 +1455,14 @@
       },
       {
         "rank": 5,
-        "name": "Disney Channel Gameboy Advance SP",
+        "name": "Pokemon Emerald [Not for Resale]",
         "price_usd": 800,
         "price_eur": 736,
         "isHistory": false
       },
       {
         "rank": 6,
-        "name": "Pokemon Emerald [Not for Resale]",
+        "name": "Disney Channel Gameboy Advance SP",
         "price_usd": 800,
         "price_eur": 736,
         "isHistory": false
@@ -1554,8 +1554,8 @@
       {
         "rank": 19,
         "name": "Pokemon Emerald",
-        "price_usd": 225.5,
-        "price_eur": 207.46,
+        "price_usd": 225.68,
+        "price_eur": 207.63,
         "isHistory": false
       },
       {
@@ -1767,23 +1767,23 @@
       },
       {
         "rank": 9,
+        "name": "Tails' Adventure",
+        "price_usd": 85,
+        "price_eur": 78.2,
+        "isHistory": false
+      },
+      {
+        "rank": 10,
         "name": "EverDrive GG X7",
         "price_usd": 81.08,
         "price_eur": 74.59,
         "isHistory": false
       },
       {
-        "rank": 10,
+        "rank": 11,
         "name": "Sega Game Gear [Majesco Revision]",
         "price_usd": 80,
         "price_eur": 73.6,
-        "isHistory": false
-      },
-      {
-        "rank": 11,
-        "name": "Tails' Adventure",
-        "price_usd": 79.99,
-        "price_eur": 73.59,
         "isHistory": false
       },
       {
@@ -2117,8 +2117,8 @@
       {
         "rank": 18,
         "name": "Silver Valley [Homebrew]",
-        "price_usd": 59.45,
-        "price_eur": 54.69,
+        "price_usd": 54.73,
+        "price_eur": 50.35,
         "isHistory": false
       },
       {
@@ -2317,8 +2317,8 @@
       {
         "rank": 6,
         "name": "Snowboard Kids 2",
-        "price_usd": 475.03,
-        "price_eur": 437.03,
+        "price_usd": 469.63,
+        "price_eur": 432.06,
         "isHistory": false
       },
       {
@@ -2516,8 +2516,8 @@
       {
         "rank": 14,
         "name": "Nintendo DSi Development Kit [Panda]",
-        "price_usd": 655.42,
-        "price_eur": 602.99,
+        "price_usd": 652.7,
+        "price_eur": 600.48,
         "isHistory": false
       },
       {
@@ -2544,8 +2544,8 @@
       {
         "rank": 18,
         "name": "Pokemon Meloetta Distribution Cartridge",
-        "price_usd": 300.22,
-        "price_eur": 276.2,
+        "price_usd": 300.38,
+        "price_eur": 276.35,
         "isHistory": false
       },
       {
@@ -2693,8 +2693,8 @@
       {
         "rank": 19,
         "name": "Neo Geo System",
-        "price_usd": 975,
-        "price_eur": 897,
+        "price_usd": 987.95,
+        "price_eur": 908.91,
         "isHistory": false
       },
       {
@@ -2909,8 +2909,8 @@
       {
         "rank": 9,
         "name": "Pocket Reversi",
-        "price_usd": 85.48,
-        "price_eur": 78.64,
+        "price_usd": 84.67,
+        "price_eur": 77.9,
         "isHistory": false
       },
       {
@@ -3008,37 +3008,37 @@
       },
       {
         "rank": 3,
+        "name": "PC Engine GT",
+        "price_usd": 576.09,
+        "price_eur": 530,
+        "isHistory": false
+      },
+      {
+        "rank": 4,
         "name": "SuperGrafx Console",
         "price_usd": 484.54,
         "price_eur": 445.78,
         "isHistory": false
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "Magical Chase",
         "price_usd": 465.49,
         "price_eur": 428.25,
         "isHistory": false
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "Illust Booster",
         "price_usd": 449.99,
         "price_eur": 413.99,
         "isHistory": false
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "PC Engine Duo-RX",
         "price_usd": 441,
         "price_eur": 405.72,
-        "isHistory": false
-      },
-      {
-        "rank": 7,
-        "name": "PC Engine GT",
-        "price_usd": 397.84,
-        "price_eur": 366.01,
         "isHistory": false
       },
       {
@@ -3086,8 +3086,8 @@
       {
         "rank": 14,
         "name": "PC Engine Duo-R",
-        "price_usd": 284.02,
-        "price_eur": 261.3,
+        "price_usd": 267.52,
+        "price_eur": 246.12,
         "isHistory": false
       },
       {
@@ -3300,8 +3300,8 @@
       {
         "rank": 4,
         "name": "Tail Concerto",
-        "price_usd": 315.23,
-        "price_eur": 290.01,
+        "price_usd": 315.42,
+        "price_eur": 290.19,
         "isHistory": false
       },
       {
@@ -3328,8 +3328,8 @@
       {
         "rank": 8,
         "name": "Koudelka",
-        "price_usd": 242.99,
-        "price_eur": 223.55,
+        "price_usd": 231.89,
+        "price_eur": 213.34,
         "isHistory": false
       },
       {
@@ -3512,15 +3512,15 @@
       {
         "rank": 14,
         "name": "Haunting Ground",
-        "price_usd": 449,
-        "price_eur": 413.08,
+        "price_usd": 450,
+        "price_eur": 414,
         "isHistory": false
       },
       {
         "rank": 15,
         "name": "Obscure",
-        "price_usd": 349.99,
-        "price_eur": 321.99,
+        "price_usd": 380,
+        "price_eur": 349.6,
         "isHistory": false
       },
       {
@@ -3570,8 +3570,8 @@
       {
         "rank": 2,
         "name": "PSP 3010 Metal Gear Solid: Peace Walker",
-        "price_usd": 476.66,
-        "price_eur": 438.53,
+        "price_usd": 478.61,
+        "price_eur": 440.32,
         "isHistory": false
       },
       {
@@ -4045,23 +4045,23 @@
       },
       {
         "rank": 9,
+        "name": "Demon's Crest",
+        "price_usd": 250.6,
+        "price_eur": 230.55,
+        "isHistory": false
+      },
+      {
+        "rank": 10,
         "name": "Super Chase HQ",
         "price_usd": 227.91,
         "price_eur": 209.68,
         "isHistory": false
       },
       {
-        "rank": 10,
+        "rank": 11,
         "name": "Cool World",
         "price_usd": 224.69,
         "price_eur": 206.71,
-        "isHistory": false
-      },
-      {
-        "rank": 11,
-        "name": "Demon's Crest",
-        "price_usd": 218.88,
-        "price_eur": 201.37,
         "isHistory": false
       },
       {
@@ -4109,8 +4109,8 @@
       {
         "rank": 18,
         "name": "Mega Man X2",
-        "price_usd": 167.19,
-        "price_eur": 153.81,
+        "price_usd": 167.38,
+        "price_eur": 153.99,
         "isHistory": false
       },
       {
@@ -4123,8 +4123,8 @@
       {
         "rank": 20,
         "name": "King of Dragons",
-        "price_usd": 162.94,
-        "price_eur": 149.9,
+        "price_usd": 162.17,
+        "price_eur": 149.2,
         "isHistory": false
       }
     ],
@@ -4275,8 +4275,8 @@
       {
         "rank": 1,
         "name": "Jack Bros.",
-        "price_usd": 875.25,
-        "price_eur": 805.23,
+        "price_usd": 900,
+        "price_eur": 828,
         "isHistory": false
       },
       {
@@ -4345,8 +4345,8 @@
       {
         "rank": 11,
         "name": "3D Tetris",
-        "price_usd": 172.5,
-        "price_eur": 158.7,
+        "price_usd": 172.9,
+        "price_eur": 159.07,
         "isHistory": false
       },
       {
@@ -4401,8 +4401,8 @@
       {
         "rank": 19,
         "name": "Wario Land",
-        "price_usd": 69.99,
-        "price_eur": 64.39,
+        "price_usd": 70,
+        "price_eur": 64.4,
         "isHistory": false
       },
       {
@@ -4629,8 +4629,8 @@
       {
         "rank": 11,
         "name": "Wonderswan Color Console",
-        "price_usd": 98.84,
-        "price_eur": 90.93,
+        "price_usd": 114,
+        "price_eur": 104.88,
         "isHistory": false
       },
       {
@@ -4692,8 +4692,8 @@
       {
         "rank": 20,
         "name": "Guilty Gear Petit",
-        "price_usd": 65.31,
-        "price_eur": 60.09,
+        "price_usd": 65.18,
+        "price_eur": 59.97,
         "isHistory": false
       }
     ],
