@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18",
+  "updated": "2026-08-19",
   "systems": {
     "3do": [
       {
@@ -12,8 +12,8 @@
       {
         "rank": 2,
         "name": "Lucienne's Quest",
-        "price_usd": 322.49,
-        "price_eur": 296.69,
+        "price_usd": 322.43,
+        "price_eur": 296.64,
         "isHistory": false
       },
       {
@@ -67,16 +67,16 @@
       },
       {
         "rank": 10,
-        "name": "3DO Console FZ-10",
-        "price_usd": 229.98,
-        "price_eur": 211.58,
+        "name": "3DO Console",
+        "price_usd": 230.99,
+        "price_eur": 212.51,
         "isHistory": false
       },
       {
         "rank": 11,
-        "name": "3DO Console",
-        "price_usd": 228.73,
-        "price_eur": 210.43,
+        "name": "3DO Console FZ-10",
+        "price_usd": 229.98,
+        "price_eur": 211.58,
         "isHistory": false
       },
       {
@@ -205,8 +205,8 @@
       {
         "rank": 9,
         "name": "Out of Control",
-        "price_usd": 609.4,
-        "price_eur": 560.65,
+        "price_usd": 607.03,
+        "price_eur": 558.47,
         "isHistory": false
       },
       {
@@ -247,8 +247,8 @@
       {
         "rank": 15,
         "name": "The Music Machine",
-        "price_usd": 377.97,
-        "price_eur": 347.73,
+        "price_usd": 378.18,
+        "price_eur": 347.93,
         "isHistory": false
       },
       {
@@ -291,8 +291,8 @@
       {
         "rank": 1,
         "name": "Scramble [Homebrew]",
-        "price_usd": 458.7,
-        "price_eur": 422,
+        "price_usd": 457.24,
+        "price_eur": 420.66,
         "isHistory": false
       },
       {
@@ -346,23 +346,23 @@
       },
       {
         "rank": 9,
-        "name": "Moon Cresta [Homebrew]",
-        "price_usd": 162.5,
-        "price_eur": 149.5,
+        "name": "K.C. Munchkin [Homebrew]",
+        "price_usd": 159.53,
+        "price_eur": 146.77,
         "isHistory": false
       },
       {
         "rank": 10,
-        "name": "K.C. Munchkin [Homebrew]",
-        "price_usd": 159.28,
-        "price_eur": 146.54,
+        "name": "Space Invaders [Homebrew]",
+        "price_usd": 149.99,
+        "price_eur": 137.99,
         "isHistory": false
       },
       {
         "rank": 11,
-        "name": "Space Invaders [Homebrew]",
-        "price_usd": 149.99,
-        "price_eur": 137.99,
+        "name": "Moon Cresta [Homebrew]",
+        "price_usd": 140,
+        "price_eur": 128.8,
         "isHistory": false
       },
       {
@@ -374,14 +374,14 @@
       },
       {
         "rank": 13,
-        "name": "Ikari Warriors",
+        "name": "Commando",
         "price_usd": 125,
         "price_eur": 115,
         "isHistory": false
       },
       {
         "rank": 14,
-        "name": "Commando",
+        "name": "Ikari Warriors",
         "price_usd": 125,
         "price_eur": 115,
         "isHistory": false
@@ -566,8 +566,8 @@
       {
         "rank": 20,
         "name": "Picnic Paranoia",
-        "price_usd": 88.82,
-        "price_eur": 81.71,
+        "price_usd": 88.76,
+        "price_eur": 81.66,
         "isHistory": false
       }
     ],
@@ -582,8 +582,8 @@
       {
         "rank": 2,
         "name": "Atari Lynx II Console",
-        "price_usd": 199.83,
-        "price_eur": 183.84,
+        "price_usd": 199.56,
+        "price_eur": 183.6,
         "isHistory": false
       },
       {
@@ -680,8 +680,8 @@
       {
         "rank": 16,
         "name": "Battlezone 2000",
-        "price_usd": 74.82,
-        "price_eur": 68.83,
+        "price_usd": 74.4,
+        "price_eur": 68.45,
         "isHistory": false
       },
       {
@@ -972,8 +972,8 @@
       {
         "rank": 17,
         "name": "Project Justice",
-        "price_usd": 95.31,
-        "price_eur": 87.69,
+        "price_usd": 95.22,
+        "price_eur": 87.6,
         "isHistory": false
       },
       {
@@ -1079,8 +1079,8 @@
       {
         "rank": 12,
         "name": "Metroid",
-        "price_usd": 47.44,
-        "price_eur": 43.64,
+        "price_usd": 45.5,
+        "price_eur": 41.86,
         "isHistory": false
       },
       {
@@ -1491,8 +1491,8 @@
       {
         "rank": 10,
         "name": "Gameboy Advance SP [Groudon Edition]",
-        "price_usd": 456.65,
-        "price_eur": 420.12,
+        "price_usd": 456.21,
+        "price_eur": 419.71,
         "isHistory": false
       },
       {
@@ -1619,8 +1619,8 @@
       {
         "rank": 8,
         "name": "Pine Creek [Collector's Edition]",
-        "price_usd": 318.81,
-        "price_eur": 293.31,
+        "price_usd": 318.86,
+        "price_eur": 293.35,
         "isHistory": false
       },
       {
@@ -1660,14 +1660,14 @@
       },
       {
         "rank": 14,
-        "name": "Pokemon Crystal",
+        "name": "Zelda Oracle of Seasons [Not for Resale]",
         "price_usd": 160,
         "price_eur": 147.2,
         "isHistory": false
       },
       {
         "rank": 15,
-        "name": "Zelda Oracle of Seasons [Not for Resale]",
+        "name": "Pokemon Crystal",
         "price_usd": 160,
         "price_eur": 147.2,
         "isHistory": false
@@ -1689,8 +1689,8 @@
       {
         "rank": 18,
         "name": "Wendy Every Witch Way",
-        "price_usd": 130,
-        "price_eur": 119.6,
+        "price_usd": 129.99,
+        "price_eur": 119.59,
         "isHistory": false
       },
       {
@@ -2082,8 +2082,8 @@
       {
         "rank": 13,
         "name": "Phantasy Star",
-        "price_usd": 75.53,
-        "price_eur": 69.49,
+        "price_usd": 75,
+        "price_eur": 69,
         "isHistory": false
       },
       {
@@ -2103,8 +2103,8 @@
       {
         "rank": 16,
         "name": "Alex Kidd in Shinobi World",
-        "price_usd": 65.47,
-        "price_eur": 60.23,
+        "price_usd": 65.96,
+        "price_eur": 60.68,
         "isHistory": false
       },
       {
@@ -2124,8 +2124,8 @@
       {
         "rank": 19,
         "name": "OutRun [Blue Label]",
-        "price_usd": 51.87,
-        "price_eur": 47.72,
+        "price_usd": 52.05,
+        "price_eur": 47.89,
         "isHistory": false
       },
       {
@@ -2210,8 +2210,8 @@
       {
         "rank": 11,
         "name": "SEGA Mega Drive Mini 2",
-        "price_usd": 184.8,
-        "price_eur": 170.02,
+        "price_usd": 184.16,
+        "price_eur": 169.43,
         "isHistory": false
       },
       {
@@ -2231,8 +2231,8 @@
       {
         "rank": 14,
         "name": "McDonald's Treasure Land Adventure",
-        "price_usd": 146.12,
-        "price_eur": 134.43,
+        "price_usd": 146.33,
+        "price_eur": 134.62,
         "isHistory": false
       },
       {
@@ -2358,16 +2358,16 @@
       },
       {
         "rank": 12,
-        "name": "Nintendo 64 Fire Orange",
-        "price_usd": 228.15,
-        "price_eur": 209.9,
+        "name": "Doctor V64",
+        "price_usd": 241.65,
+        "price_eur": 222.32,
         "isHistory": false
       },
       {
         "rank": 13,
-        "name": "Doctor V64",
-        "price_usd": 210.83,
-        "price_eur": 193.96,
+        "name": "Nintendo 64 Fire Orange",
+        "price_usd": 227.68,
+        "price_eur": 209.47,
         "isHistory": false
       },
       {
@@ -2439,8 +2439,8 @@
       {
         "rank": 3,
         "name": "Pokemon [Not for Resale Regigigas and Shaymin]",
-        "price_usd": 2686.39,
-        "price_eur": 2471.48,
+        "price_usd": 2686.19,
+        "price_eur": 2471.29,
         "isHistory": false
       },
       {
@@ -2509,8 +2509,8 @@
       {
         "rank": 13,
         "name": "Seattle Mariners Nintendo DS Lite",
-        "price_usd": 727.12,
-        "price_eur": 668.95,
+        "price_usd": 733.56,
+        "price_eur": 674.88,
         "isHistory": false
       },
       {
@@ -2757,16 +2757,16 @@
       },
       {
         "rank": 8,
-        "name": "Hot Slots",
-        "price_usd": 2410.23,
-        "price_eur": 2217.41,
+        "name": "Little Samson",
+        "price_usd": 2416.02,
+        "price_eur": 2222.74,
         "isHistory": false
       },
       {
         "rank": 9,
-        "name": "Little Samson",
-        "price_usd": 2405.81,
-        "price_eur": 2213.35,
+        "name": "Hot Slots",
+        "price_usd": 2410.23,
+        "price_eur": 2217.41,
         "isHistory": false
       },
       {
@@ -2820,16 +2820,16 @@
       },
       {
         "rank": 17,
-        "name": "Joystick Test Cartridge",
-        "price_usd": 1108.33,
-        "price_eur": 1019.66,
+        "name": "Panic Restaurant",
+        "price_usd": 1120.18,
+        "price_eur": 1030.57,
         "isHistory": false
       },
       {
         "rank": 18,
-        "name": "Panic Restaurant",
-        "price_usd": 1094.28,
-        "price_eur": 1006.74,
+        "name": "Joystick Test Cartridge",
+        "price_usd": 1108.33,
+        "price_eur": 1019.66,
         "isHistory": false
       },
       {
@@ -3221,8 +3221,8 @@
       {
         "rank": 13,
         "name": "Der Langrisser FX",
-        "price_usd": 100.03,
-        "price_eur": 92.03,
+        "price_usd": 100.07,
+        "price_eur": 92.06,
         "isHistory": false
       },
       {
@@ -3349,8 +3349,8 @@
       {
         "rank": 11,
         "name": "Clock Tower 2",
-        "price_usd": 210,
-        "price_eur": 193.2,
+        "price_usd": 215.71,
+        "price_eur": 198.45,
         "isHistory": false
       },
       {
@@ -3377,8 +3377,8 @@
       {
         "rank": 15,
         "name": "PSOne LCD Screen",
-        "price_usd": 180.22,
-        "price_eur": 165.8,
+        "price_usd": 179.89,
+        "price_eur": 165.5,
         "isHistory": false
       },
       {
@@ -3441,16 +3441,16 @@
       },
       {
         "rank": 4,
-        "name": "PlayStation 2 System [White Automotive Edition]",
-        "price_usd": 1814.69,
-        "price_eur": 1669.51,
+        "name": "Playstation 2 Development Tool",
+        "price_usd": 1789.17,
+        "price_eur": 1646.04,
         "isHistory": false
       },
       {
         "rank": 5,
-        "name": "Playstation 2 Development Tool",
-        "price_usd": 1789.17,
-        "price_eur": 1646.04,
+        "name": "PlayStation 2 System [White Automotive Edition]",
+        "price_usd": 1756.83,
+        "price_eur": 1616.28,
         "isHistory": false
       },
       {
@@ -3477,8 +3477,8 @@
       {
         "rank": 9,
         "name": "Kuon",
-        "price_usd": 735,
-        "price_eur": 676.2,
+        "price_usd": 756.54,
+        "price_eur": 696.02,
         "isHistory": false
       },
       {
@@ -3689,8 +3689,8 @@
       {
         "rank": 19,
         "name": "PSP 3000 Bright Yellow",
-        "price_usd": 144.95,
-        "price_eur": 133.35,
+        "price_usd": 144.56,
+        "price_eur": 133,
         "isHistory": false
       },
       {
@@ -4032,8 +4032,8 @@
       {
         "rank": 7,
         "name": "X-Zone",
-        "price_usd": 263.1,
-        "price_eur": 242.05,
+        "price_usd": 263.12,
+        "price_eur": 242.07,
         "isHistory": false
       },
       {
@@ -4387,7 +4387,7 @@
       {
         "rank": 17,
         "name": "Nintendo Virtual Boy AC Adapter",
-        "price_usd": 92.82,
+        "price_usd": 92.81,
         "price_eur": 85.39,
         "isHistory": false
       },
@@ -4401,8 +4401,8 @@
       {
         "rank": 19,
         "name": "Wario Land",
-        "price_usd": 70,
-        "price_eur": 64.4,
+        "price_usd": 69.99,
+        "price_eur": 64.39,
         "isHistory": false
       },
       {
@@ -4543,8 +4543,8 @@
       {
         "rank": 19,
         "name": "Ganso Jajamaru-kun",
-        "price_usd": 52.78,
-        "price_eur": 48.56,
+        "price_usd": 53.01,
+        "price_eur": 48.77,
         "isHistory": false
       },
       {
@@ -4701,8 +4701,8 @@
       {
         "rank": 1,
         "name": "Sinclair ZX Spectrum 128K Computer",
-        "price_usd": 458.86,
-        "price_eur": 422.15,
+        "price_usd": 449.42,
+        "price_eur": 413.47,
         "isHistory": false
       },
       {
