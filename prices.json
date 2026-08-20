@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19",
+  "updated": "2026-08-20",
   "systems": {
     "3do": [
       {
@@ -212,8 +212,8 @@
       {
         "rank": 10,
         "name": "Color Bar Generator",
-        "price_usd": 585.65,
-        "price_eur": 538.8,
+        "price_usd": 584.34,
+        "price_eur": 537.59,
         "isHistory": false
       },
       {
@@ -475,8 +475,8 @@
       {
         "rank": 7,
         "name": "Crystal Castles",
-        "price_usd": 152.07,
-        "price_eur": 139.9,
+        "price_usd": 157.88,
+        "price_eur": 145.25,
         "isHistory": false
       },
       {
@@ -596,8 +596,8 @@
       {
         "rank": 4,
         "name": "Bubble Trouble",
-        "price_usd": 134.99,
-        "price_eur": 124.19,
+        "price_usd": 129.99,
+        "price_eur": 119.59,
         "isHistory": false
       },
       {
@@ -752,8 +752,8 @@
       {
         "rank": 6,
         "name": "AirCars",
-        "price_usd": 192.77,
-        "price_eur": 177.35,
+        "price_usd": 193.58,
+        "price_eur": 178.09,
         "isHistory": false
       },
       {
@@ -800,14 +800,14 @@
       },
       {
         "rank": 13,
-        "name": "Beast Busters",
+        "name": "Rayman",
         "price_usd": 149.99,
         "price_eur": 137.99,
         "isHistory": false
       },
       {
         "rank": 14,
-        "name": "Rayman",
+        "name": "Beast Busters",
         "price_usd": 149.99,
         "price_eur": 137.99,
         "isHistory": false
@@ -849,9 +849,9 @@
       },
       {
         "rank": 20,
-        "name": "Atari Jaguar Pro Controler",
-        "price_usd": 104.44,
-        "price_eur": 96.08,
+        "name": "Zero 5",
+        "price_usd": 92.05,
+        "price_eur": 84.69,
         "isHistory": false
       }
     ],
@@ -888,8 +888,8 @@
       {
         "rank": 5,
         "name": "Sega Dreamcast Sports Edition Console",
-        "price_usd": 201.25,
-        "price_eur": 185.15,
+        "price_usd": 219.74,
+        "price_eur": 202.16,
         "isHistory": false
       },
       {
@@ -929,23 +929,23 @@
       },
       {
         "rank": 11,
-        "name": "Sega Dreamcast Console",
-        "price_usd": 144.96,
-        "price_eur": 133.36,
-        "isHistory": false
-      },
-      {
-        "rank": 12,
         "name": "Sega Dreamcast Broadband Adapter",
         "price_usd": 139.48,
         "price_eur": 128.32,
         "isHistory": false
       },
       {
-        "rank": 13,
+        "rank": 12,
         "name": "Giga Wing 2",
         "price_usd": 135.02,
         "price_eur": 124.22,
+        "isHistory": false
+      },
+      {
+        "rank": 13,
+        "name": "Sega Dreamcast Console",
+        "price_usd": 132.5,
+        "price_eur": 121.9,
         "isHistory": false
       },
       {
@@ -1036,16 +1036,16 @@
       },
       {
         "rank": 6,
-        "name": "Roger Rabbit",
-        "price_usd": 80,
-        "price_eur": 73.6,
+        "name": "All Night Nippon Super Mario Bros",
+        "price_usd": 79.98,
+        "price_eur": 73.58,
         "isHistory": false
       },
       {
         "rank": 7,
-        "name": "All Night Nippon Super Mario Bros",
-        "price_usd": 79.98,
-        "price_eur": 73.58,
+        "name": "Roger Rabbit",
+        "price_usd": 79.16,
+        "price_eur": 72.83,
         "isHistory": false
       },
       {
@@ -1151,8 +1151,8 @@
       {
         "rank": 2,
         "name": "Recca",
-        "price_usd": 782.46,
-        "price_eur": 719.86,
+        "price_usd": 664.96,
+        "price_eur": 611.76,
         "isHistory": false
       },
       {
@@ -1235,8 +1235,8 @@
       {
         "rank": 14,
         "name": "Jetsons: Cogswell's Caper",
-        "price_usd": 248.35,
-        "price_eur": 228.48,
+        "price_usd": 247.56,
+        "price_eur": 227.76,
         "isHistory": false
       },
       {
@@ -1313,37 +1313,37 @@
       },
       {
         "rank": 5,
+        "name": "Analogue Pocket [Noir Anodized]",
+        "price_usd": 980,
+        "price_eur": 901.6,
+        "isHistory": false
+      },
+      {
+        "rank": 6,
         "name": "Analogue Pocket [Natural Anodized]",
         "price_usd": 847.91,
         "price_eur": 780.08,
         "isHistory": false
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "Amazing Tater",
         "price_usd": 800,
         "price_eur": 736,
         "isHistory": false
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "Analogue Pocket [Black Anodized]",
         "price_usd": 700,
         "price_eur": 644,
         "isHistory": false
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "Analogue Pocket [Indigo Anodized]",
         "price_usd": 699,
         "price_eur": 643.08,
-        "isHistory": false
-      },
-      {
-        "rank": 9,
-        "name": "Analogue Pocket [Noir Anodized]",
-        "price_usd": 650,
-        "price_eur": 598,
         "isHistory": false
       },
       {
@@ -1384,8 +1384,8 @@
       {
         "rank": 15,
         "name": "Analogue Pocket [Transparent Clear]",
-        "price_usd": 507.24,
-        "price_eur": 466.66,
+        "price_usd": 504.61,
+        "price_eur": 464.24,
         "isHistory": false
       },
       {
@@ -1455,14 +1455,14 @@
       },
       {
         "rank": 5,
-        "name": "Pokemon Emerald [Not for Resale]",
+        "name": "Disney Channel Gameboy Advance SP",
         "price_usd": 800,
         "price_eur": 736,
         "isHistory": false
       },
       {
         "rank": 6,
-        "name": "Disney Channel Gameboy Advance SP",
+        "name": "Pokemon Emerald [Not for Resale]",
         "price_usd": 800,
         "price_eur": 736,
         "isHistory": false
@@ -1526,8 +1526,8 @@
       {
         "rank": 15,
         "name": "Car Battler Joe",
-        "price_usd": 292.28,
-        "price_eur": 268.9,
+        "price_usd": 288.43,
+        "price_eur": 265.36,
         "isHistory": false
       },
       {
@@ -1577,8 +1577,8 @@
       {
         "rank": 2,
         "name": "Shantae",
-        "price_usd": 650.48,
-        "price_eur": 598.44,
+        "price_usd": 700,
+        "price_eur": 644,
         "isHistory": false
       },
       {
@@ -1646,28 +1646,28 @@
       },
       {
         "rank": 12,
+        "name": "Pokemon Crystal",
+        "price_usd": 173.56,
+        "price_eur": 159.68,
+        "isHistory": false
+      },
+      {
+        "rank": 13,
         "name": "Survival Kids",
         "price_usd": 169.99,
         "price_eur": 156.39,
         "isHistory": false
       },
       {
-        "rank": 13,
+        "rank": 14,
         "name": "Modretro Chromatic [GameStop]",
         "price_usd": 165.25,
         "price_eur": 152.03,
         "isHistory": false
       },
       {
-        "rank": 14,
-        "name": "Zelda Oracle of Seasons [Not for Resale]",
-        "price_usd": 160,
-        "price_eur": 147.2,
-        "isHistory": false
-      },
-      {
         "rank": 15,
-        "name": "Pokemon Crystal",
+        "name": "Zelda Oracle of Seasons [Not for Resale]",
         "price_usd": 160,
         "price_eur": 147.2,
         "isHistory": false
@@ -1719,8 +1719,8 @@
       {
         "rank": 2,
         "name": "Mega Man",
-        "price_usd": 249,
-        "price_eur": 229.08,
+        "price_usd": 242.5,
+        "price_eur": 223.1,
         "isHistory": false
       },
       {
@@ -1767,21 +1767,21 @@
       },
       {
         "rank": 9,
-        "name": "Tails' Adventure",
-        "price_usd": 85,
-        "price_eur": 78.2,
-        "isHistory": false
-      },
-      {
-        "rank": 10,
         "name": "EverDrive GG X7",
         "price_usd": 81.08,
         "price_eur": 74.59,
         "isHistory": false
       },
       {
-        "rank": 11,
+        "rank": 10,
         "name": "Sega Game Gear [Majesco Revision]",
+        "price_usd": 80,
+        "price_eur": 73.6,
+        "isHistory": false
+      },
+      {
+        "rank": 11,
+        "name": "Tails' Adventure",
         "price_usd": 80,
         "price_eur": 73.6,
         "isHistory": false
@@ -1823,23 +1823,23 @@
       },
       {
         "rank": 17,
-        "name": "Sega Game Gear Handheld",
-        "price_usd": 47.48,
-        "price_eur": 43.68,
-        "isHistory": false
-      },
-      {
-        "rank": 18,
         "name": "Arena Maze of Death",
         "price_usd": 46.78,
         "price_eur": 43.04,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 18,
         "name": "TV Tuner",
         "price_usd": 46.5,
         "price_eur": 42.78,
+        "isHistory": false
+      },
+      {
+        "rank": 19,
+        "name": "Sega Game Gear Handheld",
+        "price_usd": 42.5,
+        "price_eur": 39.1,
         "isHistory": false
       },
       {
@@ -1910,8 +1910,8 @@
       {
         "rank": 9,
         "name": "Sega Genesis CDx Console",
-        "price_usd": 500,
-        "price_eur": 460,
+        "price_usd": 498.86,
+        "price_eur": 458.95,
         "isHistory": false
       },
       {
@@ -2786,15 +2786,15 @@
       {
         "rank": 12,
         "name": "Bubble Bath Babes",
-        "price_usd": 1698.22,
-        "price_eur": 1562.36,
+        "price_usd": 1696.8,
+        "price_eur": 1561.06,
         "isHistory": false
       },
       {
         "rank": 13,
         "name": "Flintstones Surprise at Dinosaur Peak",
-        "price_usd": 1397.5,
-        "price_eur": 1285.7,
+        "price_usd": 1282,
+        "price_eur": 1179.44,
         "isHistory": false
       },
       {
@@ -2995,8 +2995,8 @@
       {
         "rank": 1,
         "name": "PC Engine LT",
-        "price_usd": 1990,
-        "price_eur": 1830.8,
+        "price_usd": 2828.97,
+        "price_eur": 2602.65,
         "isHistory": false
       },
       {
@@ -3100,8 +3100,8 @@
       {
         "rank": 16,
         "name": "Tatsujin",
-        "price_usd": 244.31,
-        "price_eur": 224.77,
+        "price_usd": 244.64,
+        "price_eur": 225.07,
         "isHistory": false
       },
       {
@@ -3143,16 +3143,16 @@
       },
       {
         "rank": 2,
-        "name": "Cutie Honey FX",
-        "price_usd": 269.99,
-        "price_eur": 248.39,
+        "name": "NEC PC-FX Console",
+        "price_usd": 286.5,
+        "price_eur": 263.58,
         "isHistory": false
       },
       {
         "rank": 3,
-        "name": "NEC PC-FX Console",
-        "price_usd": 264.5,
-        "price_eur": 243.34,
+        "name": "Cutie Honey FX",
+        "price_usd": 269.99,
+        "price_eur": 248.39,
         "isHistory": false
       },
       {
@@ -3335,8 +3335,8 @@
       {
         "rank": 9,
         "name": "Koudelka",
-        "price_usd": 231.89,
-        "price_eur": 213.34,
+        "price_usd": 238.26,
+        "price_eur": 219.2,
         "isHistory": false
       },
       {
@@ -3383,30 +3383,30 @@
       },
       {
         "rank": 16,
-        "name": "Lunar 2 Eternal Blue Complete [Collector's Edition]",
-        "price_usd": 168.49,
-        "price_eur": 155.01,
-        "isHistory": false
-      },
-      {
-        "rank": 17,
         "name": "Batman Forever Arcade",
         "price_usd": 164.95,
         "price_eur": 151.75,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 17,
         "name": "REDANT 5 LCD Monitor",
         "price_usd": 162.37,
         "price_eur": 149.38,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 18,
         "name": "Klonoa Door to Phantomile",
         "price_usd": 160,
         "price_eur": 147.2,
+        "isHistory": false
+      },
+      {
+        "rank": 19,
+        "name": "Lunar 2 Eternal Blue Complete [Collector's Edition]",
+        "price_usd": 159.25,
+        "price_eur": 146.51,
         "isHistory": false
       },
       {
@@ -3484,8 +3484,8 @@
       {
         "rank": 10,
         "name": "Rule of Rose",
-        "price_usd": 729.99,
-        "price_eur": 671.59,
+        "price_usd": 728.17,
+        "price_eur": 669.92,
         "isHistory": false
       },
       {
@@ -3584,8 +3584,8 @@
       {
         "rank": 4,
         "name": "PSP Go Piano Black",
-        "price_usd": 202.12,
-        "price_eur": 185.95,
+        "price_usd": 203.35,
+        "price_eur": 187.08,
         "isHistory": false
       },
       {
@@ -3696,8 +3696,8 @@
       {
         "rank": 20,
         "name": "PSP 3000",
-        "price_usd": 143.08,
-        "price_eur": 131.63,
+        "price_usd": 136.83,
+        "price_eur": 125.88,
         "isHistory": false
       }
     ],
@@ -3944,16 +3944,16 @@
       },
       {
         "rank": 15,
-        "name": "Yokai Buster",
-        "price_usd": 229.25,
-        "price_eur": 210.91,
+        "name": "Undercover Cops",
+        "price_usd": 229.2,
+        "price_eur": 210.86,
         "isHistory": false
       },
       {
         "rank": 16,
-        "name": "Undercover Cops",
-        "price_usd": 229.2,
-        "price_eur": 210.86,
+        "name": "Yokai Buster",
+        "price_usd": 229.13,
+        "price_eur": 210.8,
         "isHistory": false
       },
       {
@@ -4073,30 +4073,30 @@
       },
       {
         "rank": 13,
-        "name": "The Firemen",
-        "price_usd": 204.94,
-        "price_eur": 188.54,
-        "isHistory": false
-      },
-      {
-        "rank": 14,
         "name": "Castlevania: Vampire's Kiss",
         "price_usd": 203.3,
         "price_eur": 187.04,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 14,
         "name": "Aero the Acro-Bat 2",
         "price_usd": 197.65,
         "price_eur": 181.84,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 15,
         "name": "Whirlo",
         "price_usd": 193.1,
         "price_eur": 177.65,
+        "isHistory": false
+      },
+      {
+        "rank": 16,
+        "name": "The Firemen",
+        "price_usd": 177.41,
+        "price_eur": 163.22,
         "isHistory": false
       },
       {
@@ -4238,8 +4238,8 @@
       {
         "rank": 16,
         "name": "Scramble",
-        "price_usd": 18.34,
-        "price_eur": 16.87,
+        "price_usd": 18.33,
+        "price_eur": 16.86,
         "isHistory": false
       },
       {
@@ -4580,8 +4580,8 @@
       {
         "rank": 4,
         "name": "Super Robot Taisen Compact 3",
-        "price_usd": 153.01,
-        "price_eur": 140.77,
+        "price_usd": 152.99,
+        "price_eur": 140.75,
         "isHistory": false
       },
       {
