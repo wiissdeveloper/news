@@ -1,6 +1,78 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "notices": [
+    {
+      "guid": "https://www.jeuxvideo.com/news/2099820/black-myth-zhong-kui-ces-15-minutes-de-gameplay-me-rappellent-tous-les-defauts-de-wukong.htm",
+      "title": "Black Myth Zhong Kui : ces 15 minutes de gameplay me rappellent tous les défauts de Wukong",
+      "link": "https://www.jeuxvideo.com/news/2099820/black-myth-zhong-kui-ces-15-minutes-de-gameplay-me-rappellent-tous-les-defauts-de-wukong.htm",
+      "pubDate": "Fri, 21 Aug 2026 20:10:08 +0200",
+      "contentSnippet": "Voilà douze mois que le studio Game Science n’avait pas fait parler de lui. Presque jour pour jour, c’était à l’occasion de la Gamescom. Sauf que cette fois, pas de bande-annonce, mais du gameplay concret ! En l’espace de quinze minutes, on retrouve tout ce qui faisait le sel de Black Myth : Wukong,...",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178723/1787230568-1230-card.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2099852/vous-allez-vraiment-mourir-phantom-blade-zero-defie-les-joueurs-avec-un-mode-de-difficulte-en-parfait-accord-avec-son-histoire.htm",
+      "title": "Vous allez vraiment mourir : Phantom Blade Zero défie les joueurs avec un mode de difficulté en parfait accord avec son histoire",
+      "link": "https://www.jeuxvideo.com/news/2099852/vous-allez-vraiment-mourir-phantom-blade-zero-defie-les-joueurs-avec-un-mode-de-difficulte-en-parfait-accord-avec-son-histoire.htm",
+      "pubDate": "Fri, 21 Aug 2026 18:45:06 +0200",
+      "contentSnippet": "Alors que le très attendu Phantom Blade Zero a récemment enflammé les écrans lors d’un State of Play qui lui était entièrement dédié, un mystérieux détail a sûrement attiré, comme ce fut mon cas, l’attention des joueurs. Bien au-delà de ses combats survoltés, le titre du studio S-Game dissimule une fonctionnalité...",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178723/1787234918-4103-card.jpg"
+    },
+    {
+      "guid": "https://www.actugaming.net/?p=818978",
+      "title": "GTA 6 : Take-Two demande à Microsoft et à Discord de collaborer dans l’enquête pour retrouver le hackeur",
+      "link": "https://www.actugaming.net/gta-6-take-two-demande-a-microsoft-et-a-discord-de-collaborer-dans-lenquete-pour-retrouver-le-hackeur-818978/",
+      "pubDate": "Fri, 21 Aug 2026 16:34:40 +0000",
+      "contentSnippet": "ActuGaming.net\nGTA 6 : Take-Two demande à Microsoft et à Discord de collaborer dans l’enquête pour retrouver le hackeur\n\nDepuis la première fuite autour de GTA 6 survenue en début de semaine, on guettait […]\nL'article GTA 6 : Take-Two demande à Microsoft et à Discord de collaborer dans l’enquête pour retrouver le hackeur est disponible sur ActuGaming.net",
+      "thumbnail": "https://static.actugaming.net/media/2025/05/gta-6-Brian_Heder_04.jpg"
+    },
+    {
+      "guid": "https://www.gamekult.com/actualite/et-voici-une-bande-annonce-de-gameplay-de-minecraft-dungeons-2-3050871720.html",
+      "title": "Communiqué de presse - Et voici une bande-annonce de gameplay de Minecraft Dungeons 2",
+      "link": "https://www.gamekult.com/actualite/et-voici-une-bande-annonce-de-gameplay-de-minecraft-dungeons-2-3050871720.html",
+      "pubDate": "Fri, 21 Aug 2026 17:28:00 +0200",
+      "contentSnippet": "Xbox Game Studios et Mojang ont dévoilé une nouvelle bande-annonce de Minecraft Dungeons II, le hack & slash attendu le 29 septembre 2026. On y découvre la nouvelle dimension que les joueurs devront parcourir, seul ou jusqu'à quatre joueurs.",
+      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050871720/minecraft-dungeons-ii-791f8db9__930_300__0-926-3840-2160.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2099818/les-experts-sont-formels-si-la-ps6-et-la-prochaine-xbox-coutent-1-000-sony-et-microsoft-ont-un-enorme-probleme.htm",
+      "title": "Les experts sont formels : si la PS6 et la prochaine Xbox coûtent 1.000 €, Sony et Microsoft ont un énorme problème ",
+      "link": "https://www.jeuxvideo.com/news/2099818/les-experts-sont-formels-si-la-ps6-et-la-prochaine-xbox-coutent-1-000-sony-et-microsoft-ont-un-enorme-probleme.htm",
+      "pubDate": "Fri, 21 Aug 2026 17:15:07 +0200",
+      "contentSnippet": "La prochaine génération de consoles pourrait franchir un cap tarifaire inédit et risqué. Face aux rumeurs d'une PlayStation 6 et d'une future Xbox franchissant la barre symbolique des 1 000 euros, les analystes tirent la sonnette d'alarme sur un modèle économique au bord de la rupture.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178723/1787229540-2998-card.jpg"
+    },
+    {
+      "guid": "https://www.actugaming.net/?p=818920",
+      "title": "Sur consoles, The Blood of Dawnwalker se limitera au maximum à 40 images par secondes, même sur PS5 Pro",
+      "link": "https://www.actugaming.net/sur-consoles-the-blood-of-dawnwalker-se-limitera-au-maximum-a-40-images-par-secondes-meme-sur-ps5-pro-818920/",
+      "pubDate": "Fri, 21 Aug 2026 15:01:43 +0000",
+      "contentSnippet": "ActuGaming.net\nSur consoles, The Blood of Dawnwalker se limitera au maximum à 40 images par secondes, même sur PS5 Pro\n\nEn dépit de l’expérience de ses membres, Rebel Wolves est un studio tout neuf qui […]\nL'article Sur consoles, The Blood of Dawnwalker se limitera au maximum à 40 images par secondes, même sur PS5 Pro est disponible sur ActuGaming.net",
+      "thumbnail": "https://static.actugaming.net/media/2026/05/the-blood-of-dawnwalker.webp"
+    },
+    {
+      "guid": "https://www.actugaming.net/?p=818882",
+      "title": "Code Vein II en a encore sous le coude avec un DLC qui sortira le 9 septembre prochain",
+      "link": "https://www.actugaming.net/code-vein-ii-en-a-encore-sous-le-coude-avec-un-dlc-qui-sortira-le-9-septembre-prochain-818882/",
+      "pubDate": "Fri, 21 Aug 2026 14:19:44 +0000",
+      "contentSnippet": "ActuGaming.net\nCode Vein II en a encore sous le coude avec un DLC qui sortira le 9 septembre prochain\n\nUn peu vite oublié dans la mesure où il est sorti au tout début de […]\nL'article Code Vein II en a encore sous le coude avec un DLC qui sortira le 9 septembre prochain est disponible sur ActuGaming.net",
+      "thumbnail": "https://static.actugaming.net/media/2026/07/code-vein-2.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2099763/les-joueurs-ont-parle-playstation-fait-machine-arriere-ce-grand-projet-ps5-contraint-de-repartir-de-zero.htm",
+      "title": "Les joueurs ont parlé, PlayStation fait machine arrière : ce grand projet PS5 contraint de repartir de zéro",
+      "link": "https://www.jeuxvideo.com/news/2099763/les-joueurs-ont-parle-playstation-fait-machine-arriere-ce-grand-projet-ps5-contraint-de-repartir-de-zero.htm",
+      "pubDate": "Fri, 21 Aug 2026 16:00:07 +0200",
+      "contentSnippet": "Annoncé en début d'année, la prochaine exlu majeure multijoueur de PlayStation est aujourd'hui dans la tourmente. À cause d'un aspect majeur de l'expérience, cette dernière subit des retours particulièrement négatifs de la part des joueurs. Désormais, les développeurs n'ont que quelques mois pour sauver...",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178722/1787219663-4398-card.jpg"
+    },
+    {
+      "guid": "https://www.actugaming.net/?p=818875",
+      "title": "Le premier test réseau de The Duskbloods tourne au fiasco, From Software présente ses excuses",
+      "link": "https://www.actugaming.net/le-premier-test-reseau-de-the-duskbloods-tourne-au-fiasco-from-software-presente-ses-excuses-818875/",
+      "pubDate": "Fri, 21 Aug 2026 13:40:06 +0000",
+      "contentSnippet": "ActuGaming.net\nLe premier test réseau de The Duskbloods tourne au fiasco, From Software présente ses excuses\n\nOn ne peut pas réellement dire que l’on soit surpris de voir qu’un test réseau […]\nL'article Le premier test réseau de The Duskbloods tourne au fiasco, From Software présente ses excuses est disponible sur ActuGaming.net",
+      "thumbnail": "https://static.actugaming.net/media/2026/07/the-duskbloods.jpg"
+    },
     {
       "guid": "https://www.gamekult.com/actualite/la-serie-d-animation-golden-axe-joue-donc-la-carte-de-l-humour-drole-pour-faire-rire-3050871712.html",
       "title": "Game and watch - La série d'animation Golden Axe joue donc la carte de l'humour drôle pour faire rire",
@@ -24,78 +96,6 @@
       "pubDate": "Fri, 21 Aug 2026 12:15:00 +0200",
       "contentSnippet": "2XKO aura donc mis nettement moins de temps à tirer sa révérence qu'à venir au monde. Riot Games vient d'annoncer que le développement de son jeu de combat free-to-play prendra fin en décembre 2026, en raison d'un manque de viabilité économique. Mais derrière cet échec, c'est tout le paysage des jeux de combat qui semble être dans une situation délicate. Sauf pour un certain jeu de Capcom.",
       "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050871713/c-est-deja-la-fin-pour-2xko-que-se-passe-t-il-avec-les-jeux-de-combat-e43f8ef0__930_300__0-0-1920-622.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=818847",
-      "title": "Fin de partie pour 2XKO, dont le développement s’arrête même si les serveurs restent ouverts",
-      "link": "https://www.actugaming.net/fin-de-partie-pour-2xko-dont-le-developpement-sarrete-meme-si-les-serveurs-restent-ouverts-818847/",
-      "pubDate": "Fri, 21 Aug 2026 10:00:11 +0000",
-      "contentSnippet": "ActuGaming.net\nFin de partie pour 2XKO, dont le développement s’arrête même si les serveurs restent ouverts\n\nRiot avait beau tenir un discours rassurant sur l’avenir de 2XKO, tout le monde a […]\nL'article Fin de partie pour 2XKO, dont le développement s’arrête même si les serveurs restent ouverts est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2025/10/2xko.webp"
-    },
-    {
-      "guid": "https://www.gamekult.com/guide-achat/jeux/hack-and-slash.html",
-      "title": "Sélection / guide - Quels sont les meilleurs Hack and Slash ? (Consoles et PC)",
-      "link": "https://www.gamekult.com/guide-achat/jeux/hack-and-slash.html",
-      "pubDate": "Fri, 21 Aug 2026 11:34:00 +0200",
-      "contentSnippet": "Vous cherchez les meilleurs hack and slash du moment ? La frénésie du clic et la quête éternelle du butin parfait continuent de faire des ravages. Porté par le règne de la franchise Diablo, le genre continue d'aimanter les passionnés de loot et d'optimisation.Cette sélection rassemble les indispensables du genre sur consoles et PC, réactualisée au fil des tests publiés sur le site. Progression au millimètre, pièces d'équipement légendaires et builds optimisés aux petits oignons : voici de quoi vous occuper des nuits entières.",
-      "thumbnail": "https://cdn.gamekult.com/optim/images/game_shopping/30/3050871654/quels-sont-les-meilleurs-hack-and-slash-consoles-et-pc-8df9011d__930_300__0-562-3840-1803.jpeg"
-    },
-    {
-      "guid": "https://www.jeuxvideo.com/news/2099781/c-etait-inacceptable-ce-developpeur-denonce-le-crunch-chez-rockstar-et-la-raison-est-absurde.htm",
-      "title": "« C’était inacceptable » : ce développeur dénonce le crunch chez Rockstar et la raison est absurde ",
-      "link": "https://www.jeuxvideo.com/news/2099781/c-etait-inacceptable-ce-developpeur-denonce-le-crunch-chez-rockstar-et-la-raison-est-absurde.htm",
-      "pubDate": "Fri, 21 Aug 2026 10:30:09 +0200",
-      "contentSnippet": "Le studio Rockstar Games traîne depuis longtemps une réputation sulfureuse concernant les conditions de travail imposées pendant le développement de ses jeux. Un ancien du studio a révélé cette semaine qu'il y a passé l'une des périodes les plus difficiles de sa carrière, avec des semaines de travail...",
-      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178724/1787239886-5807-card.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=818620",
-      "title": "La Team Rocket vous provoque en duel dans la prochaine extension de Pokémon TCG Pocket",
-      "link": "https://www.actugaming.net/la-team-rocket-vous-provoque-en-duel-dans-la-prochaine-extension-de-pokemon-tcg-pocket-818620/",
-      "pubDate": "Fri, 21 Aug 2026 07:30:17 +0000",
-      "contentSnippet": "ActuGaming.net\nLa Team Rocket vous provoque en duel dans la prochaine extension de Pokémon TCG Pocket\n\nBien moins populaire qu’à ses débuts, Pokémon TCG Pocket continue de générer une tonne de […]\nL'article La Team Rocket vous provoque en duel dans la prochaine extension de Pokémon TCG Pocket est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/08/pokemon-tcg-pocket-2.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=817039",
-      "title": "Test Metal Gear Solid Master Collection Vol.2 – Une suite sans surprise, mais pas sans légendes",
-      "link": "https://www.actugaming.net/test-metal-gear-solid-master-collection-vol-2-review-817039/",
-      "pubDate": "Fri, 21 Aug 2026 07:00:11 +0000",
-      "contentSnippet": "ActuGaming.net\nTest Metal Gear Solid Master Collection Vol.2 – Une suite sans surprise, mais pas sans légendes\n\nL’après Kojima a toujours été un souci de taille pour Konami vis-à-vis de la gestion […]\nL'article Test Metal Gear Solid Master Collection Vol.2 – Une suite sans surprise, mais pas sans légendes est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/02/metal-gear-solid-master-collection-vol-deux.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=818842",
-      "title": "Dave Bautista sera bien le Kratos de la série God of War chez Amazon",
-      "link": "https://www.actugaming.net/dave-bautista-sera-bien-le-kratos-de-la-serie-god-of-war-chez-amazon-818842/",
-      "pubDate": "Fri, 21 Aug 2026 06:50:58 +0000",
-      "contentSnippet": "ActuGaming.net\nDave Bautista sera bien le Kratos de la série God of War chez Amazon\n\nLa blessure de Ryan Hurst aura compliqué les choses autour de la série God of […]\nL'article Dave Bautista sera bien le Kratos de la série God of War chez Amazon est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/08/dave-bautista.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=818599",
-      "title": "Chronoscript: The Endless End vous laisse explorer quelques pages de son livre dans une démo",
-      "link": "https://www.actugaming.net/chronoscript-the-endless-end-vous-laisse-explorer-quelques-pages-de-son-livre-dans-une-demo-818599/",
-      "pubDate": "Fri, 21 Aug 2026 06:00:39 +0000",
-      "contentSnippet": "ActuGaming.net\nChronoscript: The Endless End vous laisse explorer quelques pages de son livre dans une démo\n\nAvec toutes les sorties qui arrivent dans les prochaines semaines, vous n’aurez pas beaucoup de […]\nL'article Chronoscript: The Endless End vous laisse explorer quelques pages de son livre dans une démo est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/08/chronoscript-the-endless-end.jpg"
-    },
-    {
-      "guid": "https://www.jeuxvideo.com/news/2099257/4-mois-de-prison-pour-ce-joueur-fan-de-the-legend-of-zelda-tout-le-monde-ne-peut-pas-se-balader-avec-la-master-sword-comme-le-fait-link.htm",
-      "title": "4 mois de prison pour ce joueur fan de The Legend of Zelda ! Tout le monde ne peut pas se balader avec la Master Sword comme le fait Link…",
-      "link": "https://www.jeuxvideo.com/news/2099257/4-mois-de-prison-pour-ce-joueur-fan-de-the-legend-of-zelda-tout-le-monde-ne-peut-pas-se-balader-avec-la-master-sword-comme-le-fait-link.htm",
-      "pubDate": "Fri, 21 Aug 2026 07:05:06 +0200",
-      "contentSnippet": "Si vous avez toujours rêvé de vous balader avec la Master Sword de Link comme dans The Legend of Zelda, vous feriez mieux de ne pas passer à l’acte ! Un fan de la licence a fait l’erreur d’essayer, et il a écopé de 4 mois de prison.",
-      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178697/1786970290-7329-card.jpg"
-    },
-    {
-      "guid": "https://www.jeuxvideo.com/news/2099427/cet-heritier-de-the-witcher-3-s-est-inspire-d-un-jeu-video-auquel-personne-ne-s-attendait.htm",
-      "title": "Cet héritier de The Witcher 3 s'est inspiré d'un jeu vidéo auquel personne ne s'attendait",
-      "link": "https://www.jeuxvideo.com/news/2099427/cet-heritier-de-the-witcher-3-s-est-inspire-d-un-jeu-video-auquel-personne-ne-s-attendait.htm",
-      "pubDate": "Fri, 21 Aug 2026 06:05:06 +0200",
-      "contentSnippet": "Avec ses vampires, son univers médiéval sombre et ses anciens de CD Projekt Red, The Blood of Dawnwalker assume volontiers une filiation avec The Witcher 3, l'un des RPG les plus marquants de ces dernières années. Mais pour imaginer une partie de son gameplay, Rebel Wolves est allé chercher ses idées...",
-      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178704/1787044855-3372-card.jpg"
     }
   ]
 }
