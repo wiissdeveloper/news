@@ -1,6 +1,14 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "notices": [
+    {
+      "guid": "https://www.gamesource.it/?post_type=notizie&p=1132560",
+      "title": "Nintendo contro l’emulazione: cancellati oltre 400 progetti da GitHub",
+      "link": "https://www.gamesource.it/notizie/nintendo-contro-lemulazione/",
+      "pubDate": "Sat, 22 Aug 2026 20:01:47 +0000",
+      "contentSnippet": "La battaglia di Nintendo contro l'emulazione delle proprie console continua (ne avevo già parlato qua) e compie un ulteriore passo. Come riportato da TorrentFreak, il colosso giapponese ha depositato una massiccia ondata di notifiche di violazione del copyright (DMCA) indirizzate a GitHub, portando alla rimozione immediata di oltre 400 repository e progetti di codice legati all'emulazione di Nintendo Switch.\nL'azione legale ha colpito direttamente Suyu, Skyline e il capostipite Yuzu. Nonostante l'accordo extragiudiziale del 2024 con Tropic Haze (la società dietro Yuzu) che prevedeva un risarcimento da 2,4 milioni di dollari e la chiusura del repository ufficiale, la natura open source del software aveva permesso a numerosi programmatori di duplicarne e proseguirne il codice. Nintendo ha ora deciso di tagliare il problema alla radice, eliminando ogni singola ramificazione presente sulla piattaforma.\nLa leva legale di Nintendo: l'aggiramento delle misure di protezione\nAlla base della richiesta di rimozione su GitHub c'è una tesi legale precisa: per Nintendo questi software non sono semplici strumenti tecnici, ma sistemi esplicitamente ideati per favorire la pirateria.\nLa compagnia sostiene che gli emulatori violino la legge aggirando illegalmente le proprie misure tecnologiche di protezione, ovvero i sistemi crittografici integrati nell'hardware e nei file di gioco della Switch pensati per impedire l'accesso non autorizzato. Secondo l'accusa, per funzionare correttamente gli emulatori devono necessariamente utilizzare copie non autorizzate di chiavi crittografiche proprietarie per decifrare le ROM al momento dell'avvio, operazione eseguita senza alcun consenso da parte del titolare dei diritti.\nCon questa nuova ondata di rimozioni, Nintendo ribadisce una linea di tolleranza zero assoluta, rendendo la vita sempre più difficile alla preservazione digitale.\nL'articolo Nintendo contro l’emulazione: cancellati oltre 400 progetti da GitHub proviene da GameSource.",
+      "thumbnail": "https://www.gamesource.it/wp-content/uploads/2026/08/nintendo-contro-gli-emulatori-di-switch.webp"
+    },
     {
       "guid": "https://it.ign.com/ign-retro/227399/ign-retro-thing-on-a-spring",
       "title": "IGN Retro: Thing on a Spring",
@@ -88,14 +96,6 @@
       "pubDate": "Thu, 20 Aug 2026 19:42:20 +0000",
       "contentSnippet": "Il ritorno in grande stile di James Bond nel mondo dei videogiochi si è trasformato in un trionfo commerciale. IO Interactive ha annunciato ufficialmente in un post su X che 007 First Light ha superato il traguardo delle 4 milioni di copie vendute dal suo debutto avvenuto a maggio. Sebbene un seguito non sia stato ancora confermato, il successo di critica e pubblico rende lo sviluppo di un sequel un passaggio praticamente inevitabile.\nLa notizia spazza via le incertezze emerse nei mesi scorsi attorno al futuro videoludico dell'agente segreto dopo l'acquisizione del franchise da parte di Amazon. Alcune dichiarazioni del responsabile di Amazon Game Studios, Jeff Gatis, avevano inizialmente fatto temere un cambio di rotta. Successivamente, lo stesso dirigente ha chiarito la posizione dell'azienda, confermando che l'intenzione è proprio quella di proseguire la collaborazione con IO Interactive per un sequel, considerati gli straordinari risultati economici raggiunti dal primo capitolo.\nA dare un'ulteriore spinta al ciclo commerciale dell'opera sarà l'atteso debutto su Nintendo Switch 2, attualmente in fase di sviluppo. L'arrivo sulla nuova console ibrida di Nintendo, forte di una platea sempre ricettiva verso le grandi produzioni terze parti, ha tutte le carte in regola per ampliare il bacino d'utenza e far lievitare ulteriormente i numeri già eccezionali registrati su PC, PlayStation e Xbox.\nL'articolo 007 First Light supera i 4 milioni di copie: il sequel di James Bond è ormai scontato proviene da GameSource.",
       "thumbnail": "https://www.gamesource.it/wp-content/uploads/2026/08/007-first-light-vola-a-4-milioni-di-copie-vendute.webp"
-    },
-    {
-      "guid": "https://it.ign.com/grand-theft-auto-vi/227417/grand-theft-auto-vi-avrebbe-gia-venduto-438-milioni-di-copie-in-soli-preordini",
-      "title": "Grand Theft Auto VI avrebbe già venduto 4,38 milioni di copie in soli preordini",
-      "link": "https://it.ign.com/grand-theft-auto-vi/227417/grand-theft-auto-vi-avrebbe-gia-venduto-438-milioni-di-copie-in-soli-preordini",
-      "pubDate": "Thu, 20 Aug 2026 14:00:40 +0000",
-      "contentSnippet": "E la campagna promozionale deve ancora iniziare.\nSecondo le ultime stime degli analisti, GTA VI avrebbe generato circa 429 milioni di dollari prima ancora dell'inizio della vera campagna promozionale, con PS5 nettamente avanti rispetto a Xbox.",
-      "thumbnail": "https://sm.ign.com/ign_it/photo/g/gta-vi-the/gta-vi-the-billion-dollar-masterpiece-that-could-crash-the-i_du47.jpg"
     }
   ]
 }

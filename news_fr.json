@@ -1,6 +1,38 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "notices": [
+    {
+      "guid": "https://www.jeuxvideo.com/news/2099937/ps6-playstation-doit-reagir-oui-mais-comment.htm",
+      "title": "PS6 : PlayStation doit réagir. Oui, mais comment ?",
+      "link": "https://www.jeuxvideo.com/news/2099937/ps6-playstation-doit-reagir-oui-mais-comment.htm",
+      "pubDate": "Sat, 22 Aug 2026 20:10:08 +0200",
+      "contentSnippet": "Que va choisir Sony pour le lancement de la prochaine génération de PlayStation ? Alors que les analystes n’arrivent pas à se mettre d’accord sur la date de sortie de la PS6, le groupe japonais joue la prudence et assure que rien n’est décidé pour le moment. La situation dans laquelle se trouve PlayStation...",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178730/1787303809-2956-card.jpg"
+    },
+    {
+      "guid": "https://www.gamekult.com/actualite/de-true-crime-a-sleeping-dogs-une-vieille-version-du-jeu-devient-jouable-3050871686.html",
+      "title": "De True Crime à Sleeping Dogs : une vieille version du jeu devient jouable ",
+      "link": "https://www.gamekult.com/actualite/de-true-crime-a-sleeping-dogs-une-vieille-version-du-jeu-devient-jouable-3050871686.html",
+      "pubDate": "Sat, 22 Aug 2026 17:08:00 +0200",
+      "contentSnippet": "Il y a quelques jours, nous fêtions les quatorze ans de Sleeping Dogs et lui déclarions au passage une flamme non dissimulée : c'était très clairement l'un des GTA-like les plus réussis de sa génération et, encore aujourd'hui, on y repense avec une chaude nostalgie. C'est d'autant plus triste qu'il s'agit de la seule production marquante d'United Front Games, qui a fermé ses portes quelques années plus tard.",
+      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050871686/de-true-crime-a-sleeping-dogs-une-vieille-version-du-jeu-devient-jouable-5fc4cb25__930_300__0-63-1273-473.png"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2099286/disneyland-paris-choque-tout-le-monde-l-attraction-la-plus-populaire-du-parc-va-fermer.htm",
+      "title": "Disneyland Paris choque tout le monde : l'attraction la plus populaire du parc va fermer ! ",
+      "link": "https://www.jeuxvideo.com/news/2099286/disneyland-paris-choque-tout-le-monde-l-attraction-la-plus-populaire-du-parc-va-fermer.htm",
+      "pubDate": "Sat, 22 Aug 2026 16:30:08 +0200",
+      "contentSnippet": "C'est l'une des silhouettes les plus reconnaissables de Disneyland Paris et un passage presque incontournable pour les amateurs de sensations fortes. Plus de trente ans après son inauguration, l'attraction emblématique de la zone Discoveryland s'apprête pourtant à connaître un nouveau bouleversement...",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178697/1786973780-8408-card.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2099365/the-duskbloods-a-ete-un-grand-challenge-apres-elden-ring-hidetaka-miyazaki-le-patron-de-from-software-explique-l-un-de-ses-plus-grands-defis-de-developpeur.htm",
+      "title": "The Duskbloods a été un grand challenge après Elden Ring ! Hidetaka Miyazaki, le patron de From Software, explique l'un de ses plus grands défis de développeur ",
+      "link": "https://www.jeuxvideo.com/news/2099365/the-duskbloods-a-ete-un-grand-challenge-apres-elden-ring-hidetaka-miyazaki-le-patron-de-from-software-explique-l-un-de-ses-plus-grands-defis-de-developpeur.htm",
+      "pubDate": "Sat, 22 Aug 2026 16:00:11 +0200",
+      "contentSnippet": "En plein développement de The Duskbloods sur Switch 2, Hidetaka Miyazaki a dû bousculer ses méthodes créatives. Privé de la création d'avatar libre propre aux Souls, le patron de FromSoftware s'est heurté à un obstacle inédit : concevoir des héros imposés dotés d'une véritable identité.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178724/1787239985-5838-card.jpg"
+    },
     {
       "guid": "https://www.gamekult.com/actualite/auto-modellista-reste-un-jeu-unique-dans-le-catalogue-de-capcom-3050865270.html",
       "title": "Mémoire cash - Auto Modellista reste un jeu unique dans le catalogue de Capcom",
@@ -50,22 +82,6 @@
       "thumbnail": "https://image.jeuxvideo.com/medias-lg/178706/1787061979-520-card.jpg"
     },
     {
-      "guid": "https://www.jeuxvideo.com/news/2099820/black-myth-zhong-kui-ces-15-minutes-de-gameplay-me-rappellent-tous-les-defauts-de-wukong.htm",
-      "title": "Black Myth Zhong Kui : ces 15 minutes de gameplay me rappellent tous les défauts de Wukong",
-      "link": "https://www.jeuxvideo.com/news/2099820/black-myth-zhong-kui-ces-15-minutes-de-gameplay-me-rappellent-tous-les-defauts-de-wukong.htm",
-      "pubDate": "Fri, 21 Aug 2026 20:10:08 +0200",
-      "contentSnippet": "Voilà douze mois que le studio Game Science n’avait pas fait parler de lui. Presque jour pour jour, c’était à l’occasion de la Gamescom. Sauf que cette fois, pas de bande-annonce, mais du gameplay concret ! En l’espace de quinze minutes, on retrouve tout ce qui faisait le sel de Black Myth : Wukong,...",
-      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178723/1787230568-1230-card.jpg"
-    },
-    {
-      "guid": "https://www.jeuxvideo.com/news/2099852/vous-allez-vraiment-mourir-phantom-blade-zero-defie-les-joueurs-avec-un-mode-de-difficulte-en-parfait-accord-avec-son-histoire.htm",
-      "title": "Vous allez vraiment mourir : Phantom Blade Zero défie les joueurs avec un mode de difficulté en parfait accord avec son histoire",
-      "link": "https://www.jeuxvideo.com/news/2099852/vous-allez-vraiment-mourir-phantom-blade-zero-defie-les-joueurs-avec-un-mode-de-difficulte-en-parfait-accord-avec-son-histoire.htm",
-      "pubDate": "Fri, 21 Aug 2026 18:45:06 +0200",
-      "contentSnippet": "Alors que le très attendu Phantom Blade Zero a récemment enflammé les écrans lors d’un State of Play qui lui était entièrement dédié, un mystérieux détail a sûrement attiré, comme ce fut mon cas, l’attention des joueurs. Bien au-delà de ses combats survoltés, le titre du studio S-Game dissimule une fonctionnalité...",
-      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178723/1787234918-4103-card.jpg"
-    },
-    {
       "guid": "https://www.actugaming.net/?p=818978",
       "title": "GTA 6 : Take-Two demande à Microsoft et à Discord de collaborer dans l’enquête pour retrouver le hackeur",
       "link": "https://www.actugaming.net/gta-6-take-two-demande-a-microsoft-et-a-discord-de-collaborer-dans-lenquete-pour-retrouver-le-hackeur-818978/",
@@ -80,22 +96,6 @@
       "pubDate": "Fri, 21 Aug 2026 17:28:00 +0200",
       "contentSnippet": "Xbox Game Studios et Mojang ont dévoilé une nouvelle bande-annonce de Minecraft Dungeons II, le hack & slash attendu le 29 septembre 2026. On y découvre la nouvelle dimension que les joueurs devront parcourir, seul ou jusqu'à quatre joueurs.",
       "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050871720/minecraft-dungeons-ii-791f8db9__930_300__0-926-3840-2160.jpg"
-    },
-    {
-      "guid": "https://www.jeuxvideo.com/news/2099818/les-experts-sont-formels-si-la-ps6-et-la-prochaine-xbox-coutent-1-000-sony-et-microsoft-ont-un-enorme-probleme.htm",
-      "title": "Les experts sont formels : si la PS6 et la prochaine Xbox coûtent 1.000 €, Sony et Microsoft ont un énorme problème ",
-      "link": "https://www.jeuxvideo.com/news/2099818/les-experts-sont-formels-si-la-ps6-et-la-prochaine-xbox-coutent-1-000-sony-et-microsoft-ont-un-enorme-probleme.htm",
-      "pubDate": "Fri, 21 Aug 2026 17:15:07 +0200",
-      "contentSnippet": "La prochaine génération de consoles pourrait franchir un cap tarifaire inédit et risqué. Face aux rumeurs d'une PlayStation 6 et d'une future Xbox franchissant la barre symbolique des 1 000 euros, les analystes tirent la sonnette d'alarme sur un modèle économique au bord de la rupture.",
-      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178723/1787229540-2998-card.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=818920",
-      "title": "Sur consoles, The Blood of Dawnwalker se limitera au maximum à 40 images par secondes, même sur PS5 Pro",
-      "link": "https://www.actugaming.net/sur-consoles-the-blood-of-dawnwalker-se-limitera-au-maximum-a-40-images-par-secondes-meme-sur-ps5-pro-818920/",
-      "pubDate": "Fri, 21 Aug 2026 15:01:43 +0000",
-      "contentSnippet": "ActuGaming.net\nSur consoles, The Blood of Dawnwalker se limitera au maximum à 40 images par secondes, même sur PS5 Pro\n\nEn dépit de l’expérience de ses membres, Rebel Wolves est un studio tout neuf qui […]\nL'article Sur consoles, The Blood of Dawnwalker se limitera au maximum à 40 images par secondes, même sur PS5 Pro est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/05/the-blood-of-dawnwalker.webp"
     }
   ]
 }
