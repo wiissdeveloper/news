@@ -1,12 +1,12 @@
 {
-  "updated": "2026-08-23",
+  "updated": "2026-08-24",
   "systems": {
     "3do": [
       {
         "rank": 1,
         "name": "DinoPark Tycoon",
-        "price_usd": 748.44,
-        "price_eur": 688.56,
+        "price_usd": 749.22,
+        "price_eur": 689.28,
         "isHistory": false
       },
       {
@@ -32,30 +32,30 @@
       },
       {
         "rank": 5,
+        "name": "3DO Console Sanyo",
+        "price_usd": 279.17,
+        "price_eur": 256.84,
+        "isHistory": false
+      },
+      {
+        "rank": 6,
         "name": "GameGun",
         "price_usd": 277.88,
         "price_eur": 255.65,
         "isHistory": false
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "3DO FZ-1 Console",
         "price_usd": 269.43,
         "price_eur": 247.88,
         "isHistory": false
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "Panasonic 3DO FZ-1",
         "price_usd": 267.21,
         "price_eur": 245.83,
-        "isHistory": false
-      },
-      {
-        "rank": 8,
-        "name": "3DO Console Sanyo",
-        "price_usd": 253.72,
-        "price_eur": 233.42,
         "isHistory": false
       },
       {
@@ -433,8 +433,8 @@
       {
         "rank": 1,
         "name": "Ultima I: The Original",
-        "price_usd": 558.47,
-        "price_eur": 513.79,
+        "price_usd": 582.58,
+        "price_eur": 535.97,
         "isHistory": false
       },
       {
@@ -815,8 +815,8 @@
       {
         "rank": 15,
         "name": "NBA Jam: Tournament Edition",
-        "price_usd": 141,
-        "price_eur": 129.72,
+        "price_usd": 147.72,
+        "price_eur": 135.9,
         "isHistory": false
       },
       {
@@ -888,8 +888,8 @@
       {
         "rank": 5,
         "name": "Sega Dreamcast Sports Edition Console",
-        "price_usd": 219.74,
-        "price_eur": 202.16,
+        "price_usd": 219.62,
+        "price_eur": 202.05,
         "isHistory": false
       },
       {
@@ -1213,44 +1213,44 @@
       },
       {
         "rank": 11,
-        "name": "Makaimura [Box Cart]",
-        "price_usd": 275,
-        "price_eur": 253,
-        "isHistory": false
-      },
-      {
-        "rank": 12,
         "name": "Bubble Bobble 2",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
       },
       {
-        "rank": 13,
-        "name": "Bio Miracle Bokutte Upa",
-        "price_usd": 253.5,
-        "price_eur": 233.22,
+        "rank": 12,
+        "name": "Makaimura [Box Cart]",
+        "price_usd": 275,
+        "price_eur": 253,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 13,
         "name": "Jetsons: Cogswell's Caper",
         "price_usd": 247.56,
         "price_eur": 227.76,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 14,
         "name": "Battle Formula",
         "price_usd": 240.52,
         "price_eur": 221.28,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 15,
         "name": "Famicom Data Recorder",
         "price_usd": 239.98,
         "price_eur": 220.78,
+        "isHistory": false
+      },
+      {
+        "rank": 16,
+        "name": "Bio Miracle Bokutte Upa",
+        "price_usd": 233.49,
+        "price_eur": 214.81,
         "isHistory": false
       },
       {
@@ -1362,16 +1362,16 @@
       },
       {
         "rank": 12,
-        "name": "Analogue Pocket [Transparent Purple]",
-        "price_usd": 529.99,
-        "price_eur": 487.59,
+        "name": "Spud's Adventure",
+        "price_usd": 522.5,
+        "price_eur": 480.7,
         "isHistory": false
       },
       {
         "rank": 13,
-        "name": "Spud's Adventure",
-        "price_usd": 522.5,
-        "price_eur": 480.7,
+        "name": "Analogue Pocket [Transparent Purple]",
+        "price_usd": 522.32,
+        "price_eur": 480.53,
         "isHistory": false
       },
       {
@@ -1612,8 +1612,8 @@
       {
         "rank": 7,
         "name": "Resident Evil Gaiden",
-        "price_usd": 349.97,
-        "price_eur": 321.97,
+        "price_usd": 349.95,
+        "price_eur": 321.95,
         "isHistory": false
       },
       {
@@ -1774,14 +1774,14 @@
       },
       {
         "rank": 10,
-        "name": "Sega Game Gear [Majesco Revision]",
+        "name": "Tails' Adventure",
         "price_usd": 80,
         "price_eur": 73.6,
         "isHistory": false
       },
       {
         "rank": 11,
-        "name": "Tails' Adventure",
+        "name": "Sega Game Gear [Majesco Revision]",
         "price_usd": 80,
         "price_eur": 73.6,
         "isHistory": false
@@ -1803,8 +1803,8 @@
       {
         "rank": 14,
         "name": "Shining Force Sword of Hajya",
-        "price_usd": 48.99,
-        "price_eur": 45.07,
+        "price_usd": 49.3,
+        "price_eur": 45.36,
         "isHistory": false
       },
       {
@@ -2026,8 +2026,8 @@
       {
         "rank": 5,
         "name": "Sega Master System Console",
-        "price_usd": 142.75,
-        "price_eur": 131.33,
+        "price_usd": 143.02,
+        "price_eur": 131.58,
         "isHistory": false
       },
       {
@@ -3016,8 +3016,8 @@
       {
         "rank": 4,
         "name": "Magical Chase",
-        "price_usd": 465.49,
-        "price_eur": 428.25,
+        "price_usd": 529.99,
+        "price_eur": 487.59,
         "isHistory": false
       },
       {
@@ -3107,8 +3107,8 @@
       {
         "rank": 17,
         "name": "PC Engine Core Grafx Mini",
-        "price_usd": 197.96,
-        "price_eur": 182.12,
+        "price_usd": 197.94,
+        "price_eur": 182.1,
         "isHistory": false
       },
       {
@@ -3456,8 +3456,8 @@
       {
         "rank": 6,
         "name": "PlayStation 2 Console [Astral Blue]",
-        "price_usd": 1492.6,
-        "price_eur": 1373.19,
+        "price_usd": 1492.61,
+        "price_eur": 1373.2,
         "isHistory": false
       },
       {
@@ -3526,15 +3526,15 @@
       {
         "rank": 16,
         "name": "Silent Hill: Shattered Memories",
-        "price_usd": 327.48,
-        "price_eur": 301.28,
+        "price_usd": 334.48,
+        "price_eur": 307.72,
         "isHistory": false
       },
       {
         "rank": 17,
         "name": "PlayStation 2 System [Silver Automotive Edition]",
-        "price_usd": 325.62,
-        "price_eur": 299.57,
+        "price_usd": 322.81,
+        "price_eur": 296.99,
         "isHistory": false
       },
       {
@@ -3868,8 +3868,8 @@
       {
         "rank": 4,
         "name": "Rendering Ranger",
-        "price_usd": 499.86,
-        "price_eur": 459.87,
+        "price_usd": 499.93,
+        "price_eur": 459.94,
         "isHistory": false
       },
       {
@@ -3945,8 +3945,8 @@
       {
         "rank": 15,
         "name": "Undercover Cops",
-        "price_usd": 229.2,
-        "price_eur": 210.86,
+        "price_usd": 229.17,
+        "price_eur": 210.84,
         "isHistory": false
       },
       {
@@ -4459,8 +4459,8 @@
       {
         "rank": 7,
         "name": "Pocket Fighter",
-        "price_usd": 106.64,
-        "price_eur": 98.11,
+        "price_usd": 100.24,
+        "price_eur": 92.22,
         "isHistory": false
       },
       {
