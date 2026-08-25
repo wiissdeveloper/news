@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24",
+  "updated": "2026-08-25",
   "systems": {
     "3do": [
       {
@@ -589,8 +589,8 @@
       {
         "rank": 3,
         "name": "Atari Lynx Console",
-        "price_usd": 180.44,
-        "price_eur": 166,
+        "price_usd": 180.22,
+        "price_eur": 165.8,
         "isHistory": false
       },
       {
@@ -1016,8 +1016,8 @@
       {
         "rank": 3,
         "name": "All One",
-        "price_usd": 106.54,
-        "price_eur": 98.02,
+        "price_usd": 106.36,
+        "price_eur": 97.85,
         "isHistory": false
       },
       {
@@ -1193,8 +1193,8 @@
       {
         "rank": 8,
         "name": "Punch-Out Gold",
-        "price_usd": 280.88,
-        "price_eur": 258.41,
+        "price_usd": 280.94,
+        "price_eur": 258.46,
         "isHistory": false
       },
       {
@@ -1355,51 +1355,51 @@
       },
       {
         "rank": 11,
-        "name": "Analogue Pocket [Glow in the Dark]",
-        "price_usd": 533.68,
-        "price_eur": 490.99,
-        "isHistory": false
-      },
-      {
-        "rank": 12,
         "name": "Spud's Adventure",
         "price_usd": 522.5,
         "price_eur": 480.7,
         "isHistory": false
       },
       {
-        "rank": 13,
+        "rank": 12,
         "name": "Analogue Pocket [Transparent Purple]",
         "price_usd": 522.32,
         "price_eur": 480.53,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 13,
         "name": "Analogue Pocket Transparent Blue",
         "price_usd": 510,
         "price_eur": 469.2,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 14,
         "name": "Analogue Pocket [Transparent Clear]",
         "price_usd": 504.61,
         "price_eur": 464.24,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 15,
         "name": "Analogue Pocket [Grape]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 16,
         "name": "Analogue Pocket [Berry]",
         "price_usd": 500,
         "price_eur": 460,
+        "isHistory": false
+      },
+      {
+        "rank": 17,
+        "name": "Analogue Pocket [Glow in the Dark]",
+        "price_usd": 499.99,
+        "price_eur": 459.99,
         "isHistory": false
       },
       {
@@ -1539,30 +1539,30 @@
       },
       {
         "rank": 17,
-        "name": "Eon Ticket",
-        "price_usd": 264.98,
-        "price_eur": 243.78,
-        "isHistory": false
-      },
-      {
-        "rank": 18,
         "name": "GBA Micro Silver",
         "price_usd": 236.98,
         "price_eur": 218.02,
         "isHistory": false
       },
       {
+        "rank": 18,
+        "name": "Eon Ticket",
+        "price_usd": 230,
+        "price_eur": 211.6,
+        "isHistory": false
+      },
+      {
         "rank": 19,
-        "name": "Pokemon Emerald",
-        "price_usd": 225,
-        "price_eur": 207,
+        "name": "iQue Gameboy Advance",
+        "price_usd": 224.82,
+        "price_eur": 206.83,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "iQue Gameboy Advance",
-        "price_usd": 224.82,
-        "price_eur": 206.83,
+        "name": "Pokemon Emerald",
+        "price_usd": 218.99,
+        "price_eur": 201.47,
         "isHistory": false
       }
     ],
@@ -1570,8 +1570,8 @@
       {
         "rank": 1,
         "name": "Pokemon Crystal [Not For Resale]",
-        "price_usd": 761.98,
-        "price_eur": 701.02,
+        "price_usd": 761.7,
+        "price_eur": 700.76,
         "isHistory": false
       },
       {
@@ -1640,22 +1640,22 @@
       {
         "rank": 11,
         "name": "Hamtaro Ham-Hams Unite! [Not For Resale]",
-        "price_usd": 183.65,
-        "price_eur": 168.96,
+        "price_usd": 184.2,
+        "price_eur": 169.46,
         "isHistory": false
       },
       {
         "rank": 12,
-        "name": "Pokemon Crystal",
-        "price_usd": 173.56,
-        "price_eur": 159.68,
+        "name": "Survival Kids",
+        "price_usd": 169.99,
+        "price_eur": 156.39,
         "isHistory": false
       },
       {
         "rank": 13,
-        "name": "Survival Kids",
-        "price_usd": 169.99,
-        "price_eur": 156.39,
+        "name": "Pokemon Crystal",
+        "price_usd": 166.25,
+        "price_eur": 152.95,
         "isHistory": false
       },
       {
@@ -1696,8 +1696,8 @@
       {
         "rank": 19,
         "name": "Wendy Every Witch Way",
-        "price_usd": 129.99,
-        "price_eur": 119.59,
+        "price_usd": 129.58,
+        "price_eur": 119.21,
         "isHistory": false
       },
       {
@@ -1768,8 +1768,8 @@
       {
         "rank": 9,
         "name": "EverDrive GG X7",
-        "price_usd": 81.08,
-        "price_eur": 74.59,
+        "price_usd": 81.18,
+        "price_eur": 74.69,
         "isHistory": false
       },
       {
@@ -1823,16 +1823,16 @@
       },
       {
         "rank": 17,
-        "name": "Arena Maze of Death",
-        "price_usd": 46.78,
-        "price_eur": 43.04,
+        "name": "TV Tuner",
+        "price_usd": 46.5,
+        "price_eur": 42.78,
         "isHistory": false
       },
       {
         "rank": 18,
-        "name": "TV Tuner",
-        "price_usd": 46.5,
-        "price_eur": 42.78,
+        "name": "Arena Maze of Death",
+        "price_usd": 45.08,
+        "price_eur": 41.47,
         "isHistory": false
       },
       {
@@ -1889,8 +1889,8 @@
       {
         "rank": 6,
         "name": "Sega Genesis JVC X'Eye",
-        "price_usd": 603.33,
-        "price_eur": 555.06,
+        "price_usd": 602.71,
+        "price_eur": 554.49,
         "isHistory": false
       },
       {
@@ -1966,8 +1966,8 @@
       {
         "rank": 17,
         "name": "Star Odyssey",
-        "price_usd": 260.29,
-        "price_eur": 239.47,
+        "price_usd": 260.3,
+        "price_eur": 239.48,
         "isHistory": false
       },
       {
@@ -2075,8 +2075,8 @@
       {
         "rank": 12,
         "name": "Power Supply",
-        "price_usd": 79.61,
-        "price_eur": 73.24,
+        "price_usd": 79.31,
+        "price_eur": 72.97,
         "isHistory": false
       },
       {
@@ -2110,15 +2110,15 @@
       {
         "rank": 17,
         "name": "Alf",
-        "price_usd": 64.56,
-        "price_eur": 59.4,
+        "price_usd": 64.06,
+        "price_eur": 58.94,
         "isHistory": false
       },
       {
         "rank": 18,
         "name": "Silver Valley [Homebrew]",
-        "price_usd": 54.73,
-        "price_eur": 50.35,
+        "price_usd": 52.36,
+        "price_eur": 48.17,
         "isHistory": false
       },
       {
@@ -2182,8 +2182,8 @@
       {
         "rank": 7,
         "name": "Fatal Fury 2",
-        "price_usd": 251.35,
-        "price_eur": 231.24,
+        "price_usd": 253.43,
+        "price_eur": 233.16,
         "isHistory": false
       },
       {
@@ -2800,8 +2800,8 @@
       {
         "rank": 14,
         "name": "Power Pad Test Cartridge",
-        "price_usd": 1261.97,
-        "price_eur": 1161.01,
+        "price_usd": 1265.24,
+        "price_eur": 1164.02,
         "isHistory": false
       },
       {
@@ -3002,8 +3002,8 @@
       {
         "rank": 2,
         "name": "Darius Alpha",
-        "price_usd": 1426.71,
-        "price_eur": 1312.57,
+        "price_usd": 1428.2,
+        "price_eur": 1313.94,
         "isHistory": false
       },
       {
@@ -3335,8 +3335,8 @@
       {
         "rank": 9,
         "name": "Koudelka",
-        "price_usd": 238.26,
-        "price_eur": 219.2,
+        "price_usd": 242.99,
+        "price_eur": 223.55,
         "isHistory": false
       },
       {
@@ -3404,16 +3404,16 @@
       },
       {
         "rank": 19,
-        "name": "Lunar 2 Eternal Blue Complete [Collector's Edition]",
-        "price_usd": 154.63,
-        "price_eur": 142.26,
+        "name": "Tales of Destiny 2",
+        "price_usd": 152.54,
+        "price_eur": 140.34,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "Tales of Destiny 2",
-        "price_usd": 152.54,
-        "price_eur": 140.34,
+        "name": "Lunar 2 Eternal Blue Complete [Collector's Edition]",
+        "price_usd": 152.32,
+        "price_eur": 140.13,
         "isHistory": false
       }
     ],
@@ -3477,8 +3477,8 @@
       {
         "rank": 9,
         "name": "Kuon",
-        "price_usd": 756.54,
-        "price_eur": 696.02,
+        "price_usd": 755.77,
+        "price_eur": 695.31,
         "isHistory": false
       },
       {
@@ -3491,15 +3491,15 @@
       {
         "rank": 11,
         "name": "Playstation 2 Test Debug Unit",
-        "price_usd": 645.68,
-        "price_eur": 594.03,
+        "price_usd": 639.17,
+        "price_eur": 588.04,
         "isHistory": false
       },
       {
         "rank": 12,
         "name": "Resident Evil 4 Chainsaw Controller",
-        "price_usd": 493.41,
-        "price_eur": 453.94,
+        "price_usd": 492.9,
+        "price_eur": 453.47,
         "isHistory": false
       },
       {
@@ -3512,8 +3512,8 @@
       {
         "rank": 14,
         "name": "Haunting Ground",
-        "price_usd": 449.75,
-        "price_eur": 413.77,
+        "price_usd": 449.38,
+        "price_eur": 413.43,
         "isHistory": false
       },
       {
@@ -3554,8 +3554,8 @@
       {
         "rank": 20,
         "name": "Blood Will Tell",
-        "price_usd": 283.05,
-        "price_eur": 260.41,
+        "price_usd": 285.94,
+        "price_eur": 263.06,
         "isHistory": false
       }
     ],
@@ -3570,8 +3570,8 @@
       {
         "rank": 2,
         "name": "PSP 3010 Metal Gear Solid: Peace Walker",
-        "price_usd": 478.61,
-        "price_eur": 440.32,
+        "price_usd": 479.59,
+        "price_eur": 441.22,
         "isHistory": false
       },
       {
@@ -3831,8 +3831,8 @@
       {
         "rank": 19,
         "name": "Metal Head",
-        "price_usd": 50.58,
-        "price_eur": 46.53,
+        "price_usd": 50.53,
+        "price_eur": 46.49,
         "isHistory": false
       },
       {
@@ -3903,8 +3903,8 @@
       {
         "rank": 9,
         "name": "Ganpuru",
-        "price_usd": 304.77,
-        "price_eur": 280.39,
+        "price_usd": 304.12,
+        "price_eur": 279.79,
         "isHistory": false
       },
       {
@@ -4046,8 +4046,8 @@
       {
         "rank": 9,
         "name": "Daze Before Christmas",
-        "price_usd": 261.12,
-        "price_eur": 240.23,
+        "price_usd": 259.98,
+        "price_eur": 239.18,
         "isHistory": false
       },
       {
@@ -4060,8 +4060,8 @@
       {
         "rank": 11,
         "name": "Super Chase HQ",
-        "price_usd": 227.91,
-        "price_eur": 209.68,
+        "price_usd": 228.14,
+        "price_eur": 209.89,
         "isHistory": false
       },
       {
@@ -4202,16 +4202,16 @@
       },
       {
         "rank": 11,
-        "name": "Rip Off",
-        "price_usd": 20.91,
-        "price_eur": 19.24,
+        "name": "Soccer Football",
+        "price_usd": 20.9,
+        "price_eur": 19.23,
         "isHistory": false
       },
       {
         "rank": 12,
-        "name": "Soccer Football",
-        "price_usd": 20.9,
-        "price_eur": 19.23,
+        "name": "Rip Off",
+        "price_usd": 20.82,
+        "price_eur": 19.15,
         "isHistory": false
       },
       {
@@ -4296,8 +4296,8 @@
       {
         "rank": 4,
         "name": "Virtual Boy System",
-        "price_usd": 372.17,
-        "price_eur": 342.4,
+        "price_usd": 377.54,
+        "price_eur": 347.34,
         "isHistory": false
       },
       {
@@ -4480,8 +4480,8 @@
       {
         "rank": 10,
         "name": "WonderSwan Skeleton Pink",
-        "price_usd": 86.95,
-        "price_eur": 79.99,
+        "price_usd": 86.84,
+        "price_eur": 79.89,
         "isHistory": false
       },
       {
@@ -4573,8 +4573,8 @@
       {
         "rank": 3,
         "name": "Golden Axe",
-        "price_usd": 197.31,
-        "price_eur": 181.53,
+        "price_usd": 197.46,
+        "price_eur": 181.66,
         "isHistory": false
       },
       {
