@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29",
+  "updated": "2026-08-30",
   "systems": {
     "3do": [
       {
@@ -12,8 +12,8 @@
       {
         "rank": 2,
         "name": "Lucienne's Quest",
-        "price_usd": 322.43,
-        "price_eur": 296.64,
+        "price_usd": 322.94,
+        "price_eur": 297.1,
         "isHistory": false
       },
       {
@@ -360,14 +360,14 @@
       },
       {
         "rank": 11,
-        "name": "Moon Cresta [Homebrew]",
+        "name": "Serpentine [Homebrew]",
         "price_usd": 140,
         "price_eur": 128.8,
         "isHistory": false
       },
       {
         "rank": 12,
-        "name": "Serpentine [Homebrew]",
+        "name": "Moon Cresta [Homebrew]",
         "price_usd": 140,
         "price_eur": 128.8,
         "isHistory": false
@@ -1023,8 +1023,8 @@
       {
         "rank": 4,
         "name": "Famicom Disk System Console",
-        "price_usd": 94.99,
-        "price_eur": 87.39,
+        "price_usd": 100.38,
+        "price_eur": 92.35,
         "isHistory": false
       },
       {
@@ -1228,8 +1228,8 @@
       {
         "rank": 13,
         "name": "Jetsons: Cogswell's Caper",
-        "price_usd": 247.56,
-        "price_eur": 227.76,
+        "price_usd": 247.17,
+        "price_eur": 227.4,
         "isHistory": false
       },
       {
@@ -1455,14 +1455,14 @@
       },
       {
         "rank": 5,
-        "name": "Pokemon Emerald [Not for Resale]",
+        "name": "Disney Channel Gameboy Advance SP",
         "price_usd": 800,
         "price_eur": 736,
         "isHistory": false
       },
       {
         "rank": 6,
-        "name": "Disney Channel Gameboy Advance SP",
+        "name": "Pokemon Emerald [Not for Resale]",
         "price_usd": 800,
         "price_eur": 736,
         "isHistory": false
@@ -1774,14 +1774,14 @@
       },
       {
         "rank": 10,
-        "name": "Tails' Adventure",
+        "name": "Sega Game Gear [Majesco Revision]",
         "price_usd": 80,
         "price_eur": 73.6,
         "isHistory": false
       },
       {
         "rank": 11,
-        "name": "Sega Game Gear [Majesco Revision]",
+        "name": "Tails' Adventure",
         "price_usd": 80,
         "price_eur": 73.6,
         "isHistory": false
@@ -1796,15 +1796,15 @@
       {
         "rank": 13,
         "name": "Defenders of Oasis",
-        "price_usd": 51.13,
-        "price_eur": 47.04,
+        "price_usd": 50.83,
+        "price_eur": 46.76,
         "isHistory": false
       },
       {
         "rank": 14,
         "name": "Shining Force Sword of Hajya",
-        "price_usd": 49.3,
-        "price_eur": 45.36,
+        "price_usd": 48.9,
+        "price_eur": 44.99,
         "isHistory": false
       },
       {
@@ -1868,8 +1868,8 @@
       {
         "rank": 3,
         "name": "Analogue Mega SG",
-        "price_usd": 673.38,
-        "price_eur": 619.51,
+        "price_usd": 657,
+        "price_eur": 604.44,
         "isHistory": false
       },
       {
@@ -1945,8 +1945,8 @@
       {
         "rank": 14,
         "name": "MUSHA",
-        "price_usd": 333.5,
-        "price_eur": 306.82,
+        "price_usd": 332.34,
+        "price_eur": 305.75,
         "isHistory": false
       },
       {
@@ -2351,23 +2351,23 @@
       },
       {
         "rank": 11,
+        "name": "Doctor V64",
+        "price_usd": 248.89,
+        "price_eur": 228.98,
+        "isHistory": false
+      },
+      {
+        "rank": 12,
         "name": "Nintendo 64 Jungle Green",
         "price_usd": 244.79,
         "price_eur": 225.21,
         "isHistory": false
       },
       {
-        "rank": 12,
-        "name": "Doctor V64",
-        "price_usd": 241.65,
-        "price_eur": 222.32,
-        "isHistory": false
-      },
-      {
         "rank": 13,
         "name": "Nintendo 64 Fire Orange",
-        "price_usd": 227.68,
-        "price_eur": 209.47,
+        "price_usd": 227.22,
+        "price_eur": 209.04,
         "isHistory": false
       },
       {
@@ -2439,8 +2439,8 @@
       {
         "rank": 3,
         "name": "Pokemon [Not for Resale Regigigas and Shaymin]",
-        "price_usd": 2686.19,
-        "price_eur": 2471.29,
+        "price_usd": 2685.98,
+        "price_eur": 2471.1,
         "isHistory": false
       },
       {
@@ -3207,8 +3207,8 @@
       {
         "rank": 11,
         "name": "Pia Carrot & Can Can Bunny Extra DX",
-        "price_usd": 107.73,
-        "price_eur": 99.11,
+        "price_usd": 107.72,
+        "price_eur": 99.1,
         "isHistory": false
       },
       {
@@ -3314,8 +3314,8 @@
       {
         "rank": 6,
         "name": "Shadow Tower",
-        "price_usd": 260.16,
-        "price_eur": 239.35,
+        "price_usd": 258.99,
+        "price_eur": 238.27,
         "isHistory": false
       },
       {
@@ -3363,8 +3363,8 @@
       {
         "rank": 13,
         "name": "Silent Hill",
-        "price_usd": 187.72,
-        "price_eur": 172.7,
+        "price_usd": 180,
+        "price_eur": 165.6,
         "isHistory": false
       },
       {
@@ -3398,36 +3398,36 @@
       {
         "rank": 18,
         "name": "Klonoa Door to Phantomile",
-        "price_usd": 160,
-        "price_eur": 147.2,
+        "price_usd": 159.13,
+        "price_eur": 146.4,
         "isHistory": false
       },
       {
         "rank": 19,
-        "name": "Lunar 2 Eternal Blue Complete [Collector's Edition]",
-        "price_usd": 152.32,
-        "price_eur": 140.13,
+        "name": "Tales of Destiny 2",
+        "price_usd": 151.77,
+        "price_eur": 139.63,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "Tales of Destiny 2",
-        "price_usd": 151.77,
-        "price_eur": 139.63,
+        "name": "Lunar 2 Eternal Blue Complete [Collector's Edition]",
+        "price_usd": 151.16,
+        "price_eur": 139.07,
         "isHistory": false
       }
     ],
     "ps2": [
       {
         "rank": 1,
-        "name": "PlayStation 2 System [Yellow Automotive Edition]",
+        "name": "PlayStation 2 System [Blue Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
       },
       {
         "rank": 2,
-        "name": "PlayStation 2 System [Blue Automotive Edition]",
+        "name": "PlayStation 2 System [Yellow Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
@@ -3498,8 +3498,8 @@
       {
         "rank": 12,
         "name": "Resident Evil 4 Chainsaw Controller",
-        "price_usd": 492.9,
-        "price_eur": 453.47,
+        "price_usd": 492.43,
+        "price_eur": 453.04,
         "isHistory": false
       },
       {
@@ -3512,8 +3512,8 @@
       {
         "rank": 14,
         "name": "Haunting Ground",
-        "price_usd": 449.19,
-        "price_eur": 413.25,
+        "price_usd": 449.1,
+        "price_eur": 413.17,
         "isHistory": false
       },
       {
@@ -3547,8 +3547,8 @@
       {
         "rank": 19,
         "name": ".hack Quarantine",
-        "price_usd": 298.57,
-        "price_eur": 274.68,
+        "price_usd": 297.89,
+        "price_eur": 274.06,
         "isHistory": false
       },
       {
@@ -3584,8 +3584,8 @@
       {
         "rank": 4,
         "name": "PSP Go Piano Black",
-        "price_usd": 203.35,
-        "price_eur": 187.08,
+        "price_usd": 203,
+        "price_eur": 186.76,
         "isHistory": false
       },
       {
@@ -3838,8 +3838,8 @@
       {
         "rank": 20,
         "name": "FIFA Soccer 96",
-        "price_usd": 50.21,
-        "price_eur": 46.19,
+        "price_usd": 50.22,
+        "price_eur": 46.2,
         "isHistory": false
       }
     ],
@@ -3931,8 +3931,8 @@
       {
         "rank": 13,
         "name": "Love Quest",
-        "price_usd": 253.18,
-        "price_eur": 232.93,
+        "price_usd": 251.36,
+        "price_eur": 231.25,
         "isHistory": false
       },
       {
@@ -3952,8 +3952,8 @@
       {
         "rank": 16,
         "name": "Yokai Buster",
-        "price_usd": 229.13,
-        "price_eur": 210.8,
+        "price_usd": 229.07,
+        "price_eur": 210.74,
         "isHistory": false
       },
       {
@@ -4231,8 +4231,8 @@
       {
         "rank": 15,
         "name": "Scramble",
-        "price_usd": 18.33,
-        "price_eur": 16.86,
+        "price_usd": 18.1,
+        "price_eur": 16.65,
         "isHistory": false
       },
       {
@@ -4317,8 +4317,8 @@
       {
         "rank": 7,
         "name": "Waterworld",
-        "price_usd": 223.27,
-        "price_eur": 205.41,
+        "price_usd": 223.25,
+        "price_eur": 205.39,
         "isHistory": false
       },
       {
@@ -4408,8 +4408,8 @@
       {
         "rank": 20,
         "name": "Vertical Force",
-        "price_usd": 67.47,
-        "price_eur": 62.07,
+        "price_usd": 69.97,
+        "price_eur": 64.37,
         "isHistory": false
       }
     ],
@@ -4580,8 +4580,8 @@
       {
         "rank": 4,
         "name": "Super Robot Taisen Compact 3",
-        "price_usd": 152.99,
-        "price_eur": 140.75,
+        "price_usd": 152.97,
+        "price_eur": 140.73,
         "isHistory": false
       },
       {
@@ -4708,8 +4708,8 @@
       {
         "rank": 2,
         "name": "Sinclair ZX Spectrum +2 James Bond 007 Action Pack",
-        "price_usd": 174.46,
-        "price_eur": 160.5,
+        "price_usd": 174.42,
+        "price_eur": 160.47,
         "isHistory": false
       },
       {
