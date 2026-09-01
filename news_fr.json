@@ -1,6 +1,22 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "notices": [
+    {
+      "guid": "https://www.gamekult.com/actualite/super-mario-kart-le-rituel-sacre-des-mercredi-apres-midi-des-gosses-des-annees-90-3050871837.html",
+      "title": "Mémoire cash - Super Mario Kart : le rituel sacré des mercredi après-midi des gosses des années 90",
+      "link": "https://www.gamekult.com/actualite/super-mario-kart-le-rituel-sacre-des-mercredi-apres-midi-des-gosses-des-annees-90-3050871837.html",
+      "pubDate": "Tue, 01 Sep 2026 06:01:00 +0200",
+      "contentSnippet": "Si la formule Mario Kart a fini par devenir la vache à lait planétaire et policée que l'on connaît sur Switch, pour toute une génération née dans les années 80, Super Mario Kart (sorti le 1er septembre 1992 en Amérique du Nord sur Super Nintendo) était le rendez-vous obligatoire de 16h30, le ciment social de nos fins d'après-midi (de nos mercredis, et de nos week-ends) d'écoliers.",
+      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050871837/super-mario-kart-le-rituel-sacre-des-mercredi-apres-midi-des-gosses-des-annees-80-ce8a9748__930_300__0-427-2560-1253.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2101280/12-to-de-jeux-video-dans-la-nature-dont-des-nouveaux-half-life-comment-steam-a-betement-ete-victime-d-une-enorme-fuite-de-donnees.htm",
+      "title": "12 To de jeux vidéo dans la nature dont des nouveaux Half-Life : comment Steam a bêtement été victime d'une énorme fuite de données",
+      "link": "https://www.jeuxvideo.com/news/2101280/12-to-de-jeux-video-dans-la-nature-dont-des-nouveaux-half-life-comment-steam-a-betement-ete-victime-d-une-enorme-fuite-de-donnees.htm",
+      "pubDate": "Mon, 31 Aug 2026 20:10:08 +0200",
+      "contentSnippet": "Des milliers de fichiers issus des débuts de Steam viennent soudainement de refaire surface sur Internet. Une fuite aux proportions vertigineuses, qui pourrait encore réserver de nombreuses découvertes à mesure que les joueurs fouillent dans ces archives.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178818/1788177745-5427-card.jpg"
+    },
     {
       "guid": "https://www.actugaming.net/?p=821727",
       "title": "Le studio Housemarque (Returnal, Saros) doit dire au revoir à l’un de ses cofondateurs, Ilari Kuittinen",
@@ -80,22 +96,6 @@
       "pubDate": "Mon, 31 Aug 2026 15:35:00 +0200",
       "contentSnippet": "À peine a-t-on digéré les annonces de la gamescom 2026 que Sony Interactive Entertainment annonce la date et l'heure du prochain State of Play. Avec un nouvel horaire à la clé, justement.",
       "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050871835/le-state-of-play-revient-cette-semaine-et-il-change-d-horaire-ffe10a58__930_300__0-353-3840-1587.png"
-    },
-    {
-      "guid": "https://www.jeuxvideo.com/news/2101422/playstation-joue-gros-ce-jeudi-3-septembre-avec-son-state-of-play.htm",
-      "title": "PlayStation joue gros ce jeudi 3 septembre avec son State of Play",
-      "link": "https://www.jeuxvideo.com/news/2101422/playstation-joue-gros-ce-jeudi-3-septembre-avec-son-state-of-play.htm",
-      "pubDate": "Mon, 31 Aug 2026 14:58:24 +0200",
-      "contentSnippet": "Alors que la période estivale s'achève, PlayStation revient sur le devant de la scène avec son traditionnel State of Play de rentrée. Mais cette année, cette présentation est sous haute tension compte tenu des récentes prises de position du constructeur qui ne ravissent par les joueurs.",
-      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178818/1788180069-6570-card.png"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=821459",
-      "title": "Deux State of Play pour le prix d’un auront lieu le 3 septembre, avec notamment Final Fantasy VII Revelation",
-      "link": "https://www.actugaming.net/deux-state-of-play-3-septembre-2026-final-fantasy-vii-revelation-821459/",
-      "pubDate": "Mon, 31 Aug 2026 12:35:12 +0000",
-      "contentSnippet": "ActuGaming.net\nDeux State of Play pour le prix d’un auront lieu le 3 septembre, avec notamment Final Fantasy VII Revelation\n\nLa période estivale se ferme symboliquement comme chaque année aux alentours de la Gamescom, suivie […]\nL'article Deux State of Play pour le prix d’un auront lieu le 3 septembre, avec notamment Final Fantasy VII Revelation est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/08/state-of-play-3-septembre-2026.webp"
     }
   ]
 }
