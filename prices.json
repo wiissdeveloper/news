@@ -1,40 +1,40 @@
 {
-  "updated": "2026-09-01",
+  "updated": "2026-09-02",
   "systems": {
     "3do": [
       {
         "rank": 1,
         "name": "DinoPark Tycoon",
-        "price_usd": 749.22,
-        "price_eur": 689.28,
+        "price_usd": 749.61,
+        "price_eur": 689.64,
         "isHistory": false
       },
       {
         "rank": 2,
+        "name": "3DO Console Sanyo",
+        "price_usd": 424,
+        "price_eur": 390.08,
+        "isHistory": false
+      },
+      {
+        "rank": 3,
         "name": "Lucienne's Quest",
         "price_usd": 322.94,
         "price_eur": 297.1,
         "isHistory": false
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "Firewall",
         "price_usd": 298.91,
         "price_eur": 275,
         "isHistory": false
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "DOCS Wireless Controllers",
         "price_usd": 279.99,
         "price_eur": 257.59,
-        "isHistory": false
-      },
-      {
-        "rank": 5,
-        "name": "3DO Console Sanyo",
-        "price_usd": 279.17,
-        "price_eur": 256.84,
         "isHistory": false
       },
       {
@@ -156,8 +156,8 @@
       {
         "rank": 2,
         "name": "Eli's Ladder",
-        "price_usd": 1514.25,
-        "price_eur": 1393.11,
+        "price_usd": 1513.58,
+        "price_eur": 1392.49,
         "isHistory": false
       },
       {
@@ -169,121 +169,121 @@
       },
       {
         "rank": 4,
-        "name": "Pepsi Invaders",
-        "price_usd": 1132.76,
-        "price_eur": 1042.14,
-        "isHistory": false
-      },
-      {
-        "rank": 5,
         "name": "Lochjaw",
         "price_usd": 1003.5,
         "price_eur": 923.22,
         "isHistory": false
       },
       {
-        "rank": 6,
+        "rank": 5,
         "name": "Superman [Tele-Games Picture Label]",
         "price_usd": 929.26,
         "price_eur": 854.92,
         "isHistory": false
       },
       {
-        "rank": 7,
+        "rank": 6,
         "name": "River Patrol",
         "price_usd": 786.33,
         "price_eur": 723.42,
         "isHistory": false
       },
       {
-        "rank": 8,
+        "rank": 7,
         "name": "Karate [Ultravision]",
         "price_usd": 742.81,
         "price_eur": 683.39,
         "isHistory": false
       },
       {
-        "rank": 9,
+        "rank": 8,
         "name": "Out of Control",
         "price_usd": 606.09,
         "price_eur": 557.6,
         "isHistory": false
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "Color Bar Generator",
         "price_usd": 578.59,
         "price_eur": 532.3,
         "isHistory": false
       },
       {
-        "rank": 11,
+        "rank": 10,
         "name": "Malagai",
         "price_usd": 575,
         "price_eur": 529,
         "isHistory": false
       },
       {
-        "rank": 12,
+        "rank": 11,
         "name": "Halloween",
         "price_usd": 519.5,
         "price_eur": 477.94,
         "isHistory": false
       },
       {
-        "rank": 13,
+        "rank": 12,
         "name": "Copy Cart",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 13,
         "name": "Pursuit Of The Pink Panther [Homebrew]",
         "price_usd": 405,
         "price_eur": 372.6,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 14,
         "name": "The Music Machine",
         "price_usd": 368.08,
         "price_eur": 338.63,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 15,
         "name": "Desert Bus 2600 [Homebrew]",
         "price_usd": 350,
         "price_eur": 322,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 16,
         "name": "Dukes Of Hazzard: Stunt Cycle [Homewbrew]",
         "price_usd": 323.95,
         "price_eur": 298.03,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 17,
         "name": "Texas Chainsaw Massacre",
-        "price_usd": 298.97,
-        "price_eur": 275.05,
+        "price_usd": 322.5,
+        "price_eur": 296.7,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 18,
         "name": "Parachute",
         "price_usd": 289,
         "price_eur": 265.88,
         "isHistory": false
       },
       {
-        "rank": 20,
+        "rank": 19,
         "name": "Mangia",
         "price_usd": 281.78,
         "price_eur": 259.24,
+        "isHistory": false
+      },
+      {
+        "rank": 20,
+        "name": "Condor Attack",
+        "price_usd": 280.94,
+        "price_eur": 258.46,
         "isHistory": false
       }
     ],
@@ -410,8 +410,8 @@
       {
         "rank": 18,
         "name": "Midnight Mutants",
-        "price_usd": 110.04,
-        "price_eur": 101.24,
+        "price_usd": 110.27,
+        "price_eur": 101.45,
         "isHistory": false
       },
       {
@@ -524,8 +524,8 @@
       {
         "rank": 14,
         "name": "Super Zaxxon",
-        "price_usd": 101.54,
-        "price_eur": 93.42,
+        "price_usd": 102.3,
+        "price_eur": 94.12,
         "isHistory": false
       },
       {
@@ -752,8 +752,8 @@
       {
         "rank": 6,
         "name": "Atari Karts",
-        "price_usd": 204.52,
-        "price_eur": 188.16,
+        "price_usd": 204.16,
+        "price_eur": 187.83,
         "isHistory": false
       },
       {
@@ -1165,8 +1165,8 @@
       {
         "rank": 4,
         "name": "Moon Crystal",
-        "price_usd": 484.08,
-        "price_eur": 445.35,
+        "price_usd": 501.69,
+        "price_eur": 461.55,
         "isHistory": false
       },
       {
@@ -1277,8 +1277,8 @@
       {
         "rank": 20,
         "name": "Metal Slader Glory",
-        "price_usd": 199.52,
-        "price_eur": 183.56,
+        "price_usd": 199.29,
+        "price_eur": 183.35,
         "isHistory": false
       }
     ],
@@ -1334,14 +1334,14 @@
       },
       {
         "rank": 8,
-        "name": "Analogue Pocket [Supreme Red]",
+        "name": "Analogue Pocket [Black Anodized]",
         "price_usd": 700,
         "price_eur": 644,
         "isHistory": false
       },
       {
         "rank": 9,
-        "name": "Analogue Pocket [Black Anodized]",
+        "name": "Analogue Pocket [Supreme Red]",
         "price_usd": 700,
         "price_eur": 644,
         "isHistory": false
@@ -1931,8 +1931,8 @@
       {
         "rank": 12,
         "name": "Blockbuster Game Factory Green",
-        "price_usd": 367.83,
-        "price_eur": 338.4,
+        "price_usd": 367.23,
+        "price_eur": 337.85,
         "isHistory": false
       },
       {
@@ -2082,8 +2082,8 @@
       {
         "rank": 13,
         "name": "Phantasy Star",
-        "price_usd": 74.45,
-        "price_eur": 68.49,
+        "price_usd": 74.72,
+        "price_eur": 68.74,
         "isHistory": false
       },
       {
@@ -2230,16 +2230,16 @@
       },
       {
         "rank": 14,
-        "name": "Zero the Kamikaze Squirrel",
-        "price_usd": 136.22,
-        "price_eur": 125.32,
+        "name": "Mega Man: The Wily Wars",
+        "price_usd": 136.24,
+        "price_eur": 125.34,
         "isHistory": false
       },
       {
         "rank": 15,
-        "name": "Mega Man: The Wily Wars",
-        "price_usd": 135.83,
-        "price_eur": 124.96,
+        "name": "Zero the Kamikaze Squirrel",
+        "price_usd": 136.22,
+        "price_eur": 125.32,
         "isHistory": false
       },
       {
@@ -2345,8 +2345,8 @@
       {
         "rank": 10,
         "name": "San Francisco Rush 2049",
-        "price_usd": 254.02,
-        "price_eur": 233.7,
+        "price_usd": 257.73,
+        "price_eur": 237.11,
         "isHistory": false
       },
       {
@@ -2495,8 +2495,8 @@
       {
         "rank": 11,
         "name": "Pokemon [Not for Resale Diamond & Pearl]",
-        "price_usd": 896.68,
-        "price_eur": 824.95,
+        "price_usd": 895.76,
+        "price_eur": 824.1,
         "isHistory": false
       },
       {
@@ -2523,8 +2523,8 @@
       {
         "rank": 15,
         "name": "Pokemon Legendary Distribution",
-        "price_usd": 616.74,
-        "price_eur": 567.4,
+        "price_usd": 618.42,
+        "price_eur": 568.95,
         "isHistory": false
       },
       {
@@ -2765,8 +2765,8 @@
       {
         "rank": 9,
         "name": "Hot Slots",
-        "price_usd": 2406.88,
-        "price_eur": 2214.33,
+        "price_usd": 2403.44,
+        "price_eur": 2211.16,
         "isHistory": false
       },
       {
@@ -3043,23 +3043,23 @@
       },
       {
         "rank": 8,
+        "name": "PC Engine Shuttle",
+        "price_usd": 362.76,
+        "price_eur": 333.74,
+        "isHistory": false
+      },
+      {
+        "rank": 9,
         "name": "Coryoon",
         "price_usd": 356.18,
         "price_eur": 327.69,
         "isHistory": false
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "1941: Counter Attack",
         "price_usd": 350,
         "price_eur": 322,
-        "isHistory": false
-      },
-      {
-        "rank": 10,
-        "name": "PC Engine Shuttle",
-        "price_usd": 349.96,
-        "price_eur": 321.96,
         "isHistory": false
       },
       {
@@ -3072,8 +3072,8 @@
       {
         "rank": 12,
         "name": "XE-1 HE Pro",
-        "price_usd": 304.57,
-        "price_eur": 280.2,
+        "price_usd": 303.03,
+        "price_eur": 278.79,
         "isHistory": false
       },
       {
@@ -3355,79 +3355,79 @@
       },
       {
         "rank": 12,
-        "name": "ISS Pro Evolution",
-        "price_usd": 188.92,
-        "price_eur": 173.81,
-        "isHistory": false
-      },
-      {
-        "rank": 13,
         "name": "Silent Hill",
         "price_usd": 182,
         "price_eur": 167.44,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 13,
         "name": "PSOne LCD Screen",
         "price_usd": 179.9,
         "price_eur": 165.51,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 14,
         "name": "Valkyrie Profile",
-        "price_usd": 167.03,
-        "price_eur": 153.67,
+        "price_usd": 167.02,
+        "price_eur": 153.66,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 15,
         "name": "REDANT 5 LCD Monitor",
         "price_usd": 162.37,
         "price_eur": 149.38,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 16,
         "name": "Batman Forever Arcade",
         "price_usd": 162.04,
         "price_eur": 149.08,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 17,
         "name": "Klonoa Door to Phantomile",
         "price_usd": 159.13,
         "price_eur": 146.4,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 18,
         "name": "Tales of Destiny 2",
         "price_usd": 151.77,
         "price_eur": 139.63,
         "isHistory": false
       },
       {
-        "rank": 20,
+        "rank": 19,
         "name": "Lunar 2 Eternal Blue Complete [Collector's Edition]",
         "price_usd": 151.16,
         "price_eur": 139.07,
+        "isHistory": false
+      },
+      {
+        "rank": 20,
+        "name": "Pink Panther Pinkadelic Pursuit",
+        "price_usd": 149.99,
+        "price_eur": 137.99,
         "isHistory": false
       }
     ],
     "ps2": [
       {
         "rank": 1,
-        "name": "PlayStation 2 System [Blue Automotive Edition]",
+        "name": "PlayStation 2 System [Yellow Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
       },
       {
         "rank": 2,
-        "name": "PlayStation 2 System [Yellow Automotive Edition]",
+        "name": "PlayStation 2 System [Blue Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
@@ -3435,15 +3435,15 @@
       {
         "rank": 3,
         "name": "PlayStation 2 Debugging Station",
-        "price_usd": 1923.72,
-        "price_eur": 1769.82,
+        "price_usd": 1925.8,
+        "price_eur": 1771.74,
         "isHistory": false
       },
       {
         "rank": 4,
         "name": "Playstation 2 Development Tool",
-        "price_usd": 1786.67,
-        "price_eur": 1643.74,
+        "price_usd": 1784.25,
+        "price_eur": 1641.51,
         "isHistory": false
       },
       {
@@ -3484,8 +3484,8 @@
       {
         "rank": 10,
         "name": "Rule of Rose",
-        "price_usd": 711.36,
-        "price_eur": 654.45,
+        "price_usd": 710.2,
+        "price_eur": 653.38,
         "isHistory": false
       },
       {
@@ -3824,8 +3824,8 @@
       {
         "rank": 18,
         "name": "Darxide",
-        "price_usd": 53.79,
-        "price_eur": 49.49,
+        "price_usd": 52.83,
+        "price_eur": 48.6,
         "isHistory": false
       },
       {
@@ -3966,15 +3966,15 @@
       {
         "rank": 18,
         "name": "The Amazing Spiderman: Lethal Foes",
-        "price_usd": 217.66,
-        "price_eur": 200.25,
+        "price_usd": 217.99,
+        "price_eur": 200.55,
         "isHistory": false
       },
       {
         "rank": 19,
         "name": "Metal Slader Glory",
-        "price_usd": 214.63,
-        "price_eur": 197.46,
+        "price_usd": 214.99,
+        "price_eur": 197.79,
         "isHistory": false
       },
       {
@@ -4763,72 +4763,72 @@
       },
       {
         "rank": 10,
+        "name": "Lord Harry",
+        "price_usd": 97.62,
+        "price_eur": 89.81,
+        "isHistory": false
+      },
+      {
+        "rank": 11,
         "name": "Hungry Horace [ROM Cartridge]",
         "price_usd": 93.02,
         "price_eur": 85.58,
         "isHistory": false
       },
       {
-        "rank": 11,
+        "rank": 12,
         "name": "Martianoids",
         "price_usd": 92.39,
         "price_eur": 85,
         "isHistory": false
       },
       {
-        "rank": 12,
+        "rank": 13,
         "name": "Chess [ROM Cartridge]",
         "price_usd": 92.13,
         "price_eur": 84.76,
         "isHistory": false
       },
       {
-        "rank": 13,
+        "rank": 14,
         "name": "Sinclair ZX Spectrum +2 Action Pack",
         "price_usd": 86.01,
         "price_eur": 79.13,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 15,
         "name": "Pit-Fighter",
         "price_usd": 85.78,
         "price_eur": 78.92,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 16,
         "name": "Sinclair ZX Spectrum 128K +2 Computer",
         "price_usd": 85,
         "price_eur": 78.2,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 17,
         "name": "Spellbound Dizzy",
         "price_usd": 83.97,
         "price_eur": 77.25,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 18,
         "name": "Backgammon [ROM Cartridge]",
         "price_usd": 81.51,
         "price_eur": 74.99,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 19,
         "name": "Skull & Crossbones",
         "price_usd": 69.72,
         "price_eur": 64.14,
-        "isHistory": false
-      },
-      {
-        "rank": 19,
-        "name": "Lord Harry",
-        "price_usd": 66.94,
-        "price_eur": 61.58,
         "isHistory": false
       },
       {
