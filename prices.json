@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02",
+  "updated": "2026-09-03",
   "systems": {
     "3do": [
       {
@@ -82,8 +82,8 @@
       {
         "rank": 12,
         "name": "3DO Console",
-        "price_usd": 215.46,
-        "price_eur": 198.22,
+        "price_usd": 177.7,
+        "price_eur": 163.48,
         "isHistory": false
       },
       {
@@ -332,51 +332,51 @@
       },
       {
         "rank": 7,
+        "name": "Super Pac-Man [Homebrew]",
+        "price_usd": 183.4,
+        "price_eur": 168.73,
+        "isHistory": false
+      },
+      {
+        "rank": 8,
         "name": "7800 GameDrive",
         "price_usd": 170,
         "price_eur": 156.4,
         "isHistory": false
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "Pac-Man Double Feature [Gold Edition]",
         "price_usd": 169.06,
         "price_eur": 155.54,
         "isHistory": false
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "K.C. Munchkin [Homebrew]",
         "price_usd": 159.78,
         "price_eur": 147,
         "isHistory": false
       },
       {
-        "rank": 10,
+        "rank": 11,
         "name": "Space Invaders [Homebrew]",
         "price_usd": 149.99,
         "price_eur": 137.99,
         "isHistory": false
       },
       {
-        "rank": 11,
+        "rank": 12,
         "name": "Serpentine [Homebrew]",
         "price_usd": 140,
         "price_eur": 128.8,
         "isHistory": false
       },
       {
-        "rank": 12,
+        "rank": 13,
         "name": "Moon Cresta [Homebrew]",
         "price_usd": 140,
         "price_eur": 128.8,
-        "isHistory": false
-      },
-      {
-        "rank": 13,
-        "name": "Commando",
-        "price_usd": 125,
-        "price_eur": 115,
         "isHistory": false
       },
       {
@@ -388,37 +388,37 @@
       },
       {
         "rank": 15,
+        "name": "Commando",
+        "price_usd": 125,
+        "price_eur": 115,
+        "isHistory": false
+      },
+      {
+        "rank": 16,
         "name": "Klax [Homebrew]",
         "price_usd": 124.95,
         "price_eur": 114.95,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 17,
         "name": "Astro Fighter [Homebrew]",
         "price_usd": 124,
         "price_eur": 114.08,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 18,
         "name": "Missing In Action [Homebrew]",
         "price_usd": 113.19,
         "price_eur": 104.13,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 19,
         "name": "Midnight Mutants",
         "price_usd": 110.27,
         "price_eur": 101.45,
-        "isHistory": false
-      },
-      {
-        "rank": 19,
-        "name": "Super Pac-Man [Homebrew]",
-        "price_usd": 107.5,
-        "price_eur": 98.9,
         "isHistory": false
       },
       {
@@ -822,8 +822,8 @@
       {
         "rank": 16,
         "name": "NBA Jam: Tournament Edition",
-        "price_usd": 147.72,
-        "price_eur": 135.9,
+        "price_usd": 141,
+        "price_eur": 129.72,
         "isHistory": false
       },
       {
@@ -1093,8 +1093,8 @@
       {
         "rank": 14,
         "name": "Panic Space",
-        "price_usd": 42.3,
-        "price_eur": 38.92,
+        "price_usd": 42.29,
+        "price_eur": 38.91,
         "isHistory": false
       },
       {
@@ -1193,8 +1193,8 @@
       {
         "rank": 8,
         "name": "Punch-Out Gold",
-        "price_usd": 280.94,
-        "price_eur": 258.46,
+        "price_usd": 280.97,
+        "price_eur": 258.49,
         "isHistory": false
       },
       {
@@ -1206,14 +1206,14 @@
       },
       {
         "rank": 10,
-        "name": "Bubble Bobble 2",
+        "name": "Makaimura [Box Cart]",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
       },
       {
         "rank": 11,
-        "name": "Makaimura [Box Cart]",
+        "name": "Bubble Bobble 2",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
@@ -1363,8 +1363,8 @@
       {
         "rank": 12,
         "name": "Analogue Pocket [Transparent Purple]",
-        "price_usd": 522.32,
-        "price_eur": 480.53,
+        "price_usd": 521.16,
+        "price_eur": 479.47,
         "isHistory": false
       },
       {
@@ -3016,8 +3016,8 @@
       {
         "rank": 4,
         "name": "Magical Chase",
-        "price_usd": 529.99,
-        "price_eur": 487.59,
+        "price_usd": 531.12,
+        "price_eur": 488.63,
         "isHistory": false
       },
       {
@@ -3107,8 +3107,8 @@
       {
         "rank": 17,
         "name": "PC Engine Core Grafx Mini",
-        "price_usd": 197.94,
-        "price_eur": 182.1,
+        "price_usd": 198.1,
+        "price_eur": 182.25,
         "isHistory": false
       },
       {
@@ -3200,8 +3200,8 @@
       {
         "rank": 10,
         "name": "Ojousama Sousamou",
-        "price_usd": 109.64,
-        "price_eur": 100.87,
+        "price_usd": 109.65,
+        "price_eur": 100.88,
         "isHistory": false
       },
       {
@@ -3420,14 +3420,14 @@
     "ps2": [
       {
         "rank": 1,
-        "name": "PlayStation 2 System [Yellow Automotive Edition]",
+        "name": "PlayStation 2 System [Blue Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
       },
       {
         "rank": 2,
-        "name": "PlayStation 2 System [Blue Automotive Edition]",
+        "name": "PlayStation 2 System [Yellow Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
@@ -3512,8 +3512,8 @@
       {
         "rank": 14,
         "name": "Haunting Ground",
-        "price_usd": 449.1,
-        "price_eur": 413.17,
+        "price_usd": 447.42,
+        "price_eur": 411.63,
         "isHistory": false
       },
       {
@@ -3525,16 +3525,16 @@
       },
       {
         "rank": 16,
-        "name": "Silent Hill: Shattered Memories",
-        "price_usd": 334.48,
-        "price_eur": 307.72,
+        "name": "PlayStation 2 System [Silver Automotive Edition]",
+        "price_usd": 335.15,
+        "price_eur": 308.34,
         "isHistory": false
       },
       {
         "rank": 17,
-        "name": "PlayStation 2 System [Silver Automotive Edition]",
-        "price_usd": 322.81,
-        "price_eur": 296.99,
+        "name": "Silent Hill: Shattered Memories",
+        "price_usd": 334.48,
+        "price_eur": 307.72,
         "isHistory": false
       },
       {
@@ -3570,15 +3570,15 @@
       {
         "rank": 2,
         "name": "PSP 3010 Metal Gear Solid: Peace Walker",
-        "price_usd": 479.59,
-        "price_eur": 441.22,
+        "price_usd": 480.07,
+        "price_eur": 441.66,
         "isHistory": false
       },
       {
         "rank": 3,
         "name": "PSP 2000 Limited Edition God of War [Red]",
-        "price_usd": 249.99,
-        "price_eur": 229.99,
+        "price_usd": 221.75,
+        "price_eur": 204.01,
         "isHistory": false
       },
       {
@@ -3868,8 +3868,8 @@
       {
         "rank": 4,
         "name": "Rendering Ranger",
-        "price_usd": 499.93,
-        "price_eur": 459.94,
+        "price_usd": 500,
+        "price_eur": 460,
         "isHistory": false
       },
       {
@@ -3902,16 +3902,16 @@
       },
       {
         "rank": 9,
-        "name": "Ganpuru",
-        "price_usd": 304.12,
-        "price_eur": 279.79,
+        "name": "Laser Birdie",
+        "price_usd": 293.51,
+        "price_eur": 270.03,
         "isHistory": false
       },
       {
         "rank": 10,
-        "name": "Laser Birdie",
-        "price_usd": 293.51,
-        "price_eur": 270.03,
+        "name": "Ganpuru",
+        "price_usd": 292.42,
+        "price_eur": 269.03,
         "isHistory": false
       },
       {
@@ -3937,16 +3937,16 @@
       },
       {
         "rank": 14,
-        "name": "Iron Commando",
-        "price_usd": 236.55,
-        "price_eur": 217.63,
+        "name": "Undercover Cops",
+        "price_usd": 244.2,
+        "price_eur": 224.66,
         "isHistory": false
       },
       {
         "rank": 15,
-        "name": "Undercover Cops",
-        "price_usd": 229.17,
-        "price_eur": 210.84,
+        "name": "Iron Commando",
+        "price_usd": 236.55,
+        "price_eur": 217.63,
         "isHistory": false
       },
       {
@@ -4252,8 +4252,8 @@
       {
         "rank": 18,
         "name": "Cosmic Chasm",
-        "price_usd": 15.62,
-        "price_eur": 14.37,
+        "price_usd": 15.82,
+        "price_eur": 14.55,
         "isHistory": false
       },
       {
@@ -4459,8 +4459,8 @@
       {
         "rank": 7,
         "name": "Pocket Fighter",
-        "price_usd": 100.24,
-        "price_eur": 92.22,
+        "price_usd": 99.5,
+        "price_eur": 91.54,
         "isHistory": false
       },
       {
