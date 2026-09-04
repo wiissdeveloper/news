@@ -1,6 +1,14 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "notices": [
+    {
+      "guid": "https://it.ign.com/captain-tsubasa-2-world-fighters/227796/captain-tsubasa-2-world-fighters-la-recensione",
+      "title": "Captain Tsubasa 2: World Fighters - La recensione",
+      "link": "https://it.ign.com/captain-tsubasa-2-world-fighters/227796/captain-tsubasa-2-world-fighters-la-recensione",
+      "pubDate": "Thu, 03 Sep 2026 18:13:49 +0000",
+      "contentSnippet": "Cosa resta oltre il fanservice?\nCaptain Tsubasa 2: World Fighters di Tamsoft è un seguito spettacolare e ricco di fanservice, che forse dimentica un po' l'essenza dell'opera di Takahashi.",
+      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/titolo_5ksf.jpg"
+    },
     {
       "guid": "https://it.ign.com/saros/227788/saros-annunciato-laggiornamento-gratuito-zenith-con-due-nuove-modalita",
       "title": "Saros: annunciato l'aggiornamento gratuito Zenith con due nuove modalità",
@@ -88,14 +96,6 @@
       "pubDate": "Thu, 03 Sep 2026 13:48:40 +0000",
       "contentSnippet": "DualSense si fa bello per Rockstar!",
       "thumbnail": "https://sm.ign.com/ign_it/video/g/gta-6-gran/gta-6-grand-theft-auto-6-official-dualsense-controllers-trai_1zst.jpg"
-    },
-    {
-      "guid": "https://it.ign.com/ghost-of-yotei-complete-edition/227767/ghost-of-yotei-complete-edition-e-most-wanted-arrivano-il-1deg-ottobre-jin-sakai-torna-in-azione",
-      "title": "Ghost of Yōtei: Complete Edition e Most Wanted arrivano il 1° ottobre, Jin Sakai torna in azione",
-      "link": "https://it.ign.com/ghost-of-yotei-complete-edition/227767/ghost-of-yotei-complete-edition-e-most-wanted-arrivano-il-1deg-ottobre-jin-sakai-torna-in-azione",
-      "pubDate": "Thu, 03 Sep 2026 13:46:00 +0000",
-      "contentSnippet": "Il protagonista di Ghost of Tsushima sarà giocabile nella nuova modalità singleplayer.\nSucker Punch ricorda che Ghost of Yōtei riceverà un'espansione della storia, una Complete Edition e una nuova modalità di gioco singleplayer a ottobre. In quest'ultima sarà possibile utilizzare Jin Sakai, protagonista di Ghost of Tsushima.",
-      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/gd_gre2.jpg"
     }
   ]
 }
