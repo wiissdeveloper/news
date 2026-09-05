@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04",
+  "updated": "2026-09-05",
   "systems": {
     "3do": [
       {
@@ -318,16 +318,16 @@
       },
       {
         "rank": 5,
-        "name": "b*nQ [Homebrew]",
-        "price_usd": 267.53,
-        "price_eur": 246.13,
+        "name": "Rikki & Vikki [Homebrew]",
+        "price_usd": 261.13,
+        "price_eur": 240.24,
         "isHistory": false
       },
       {
         "rank": 6,
-        "name": "Rikki & Vikki [Homebrew]",
-        "price_usd": 261.13,
-        "price_eur": 240.24,
+        "name": "b*nQ [Homebrew]",
+        "price_usd": 200.53,
+        "price_eur": 184.49,
         "isHistory": false
       },
       {
@@ -381,51 +381,51 @@
       },
       {
         "rank": 14,
+        "name": "Baby Pac-Man [Homebrew]",
+        "price_usd": 129.66,
+        "price_eur": 119.29,
+        "isHistory": false
+      },
+      {
+        "rank": 15,
         "name": "Commando",
         "price_usd": 125,
         "price_eur": 115,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 16,
         "name": "Ikari Warriors",
         "price_usd": 125,
         "price_eur": 115,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 17,
         "name": "Klax [Homebrew]",
         "price_usd": 124.95,
         "price_eur": 114.95,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 18,
         "name": "Astro Fighter [Homebrew]",
         "price_usd": 124,
         "price_eur": 114.08,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 19,
         "name": "Missing In Action [Homebrew]",
         "price_usd": 113.19,
         "price_eur": 104.13,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 20,
         "name": "Midnight Mutants",
         "price_usd": 110.27,
         "price_eur": 101.45,
-        "isHistory": false
-      },
-      {
-        "rank": 20,
-        "name": "Mean 18 Ultimate Golf",
-        "price_usd": 99.99,
-        "price_eur": 91.99,
         "isHistory": false
       }
     ],
@@ -517,8 +517,8 @@
       {
         "rank": 13,
         "name": "Atari 400 Console",
-        "price_usd": 108.07,
-        "price_eur": 99.42,
+        "price_usd": 108.51,
+        "price_eur": 99.83,
         "isHistory": false
       },
       {
@@ -724,8 +724,8 @@
       {
         "rank": 2,
         "name": "BattleSphere",
-        "price_usd": 407.47,
-        "price_eur": 374.87,
+        "price_usd": 412.5,
+        "price_eur": 379.5,
         "isHistory": false
       },
       {
@@ -843,8 +843,8 @@
       {
         "rank": 19,
         "name": "Towers II",
-        "price_usd": 129.51,
-        "price_eur": 119.15,
+        "price_usd": 129.54,
+        "price_eur": 119.18,
         "isHistory": false
       },
       {
@@ -930,8 +930,8 @@
       {
         "rank": 11,
         "name": "Sega Dreamcast Console",
-        "price_usd": 140,
-        "price_eur": 128.8,
+        "price_usd": 148.25,
+        "price_eur": 136.39,
         "isHistory": false
       },
       {
@@ -944,8 +944,8 @@
       {
         "rank": 13,
         "name": "Giga Wing 2",
-        "price_usd": 134.88,
-        "price_eur": 124.09,
+        "price_usd": 134.79,
+        "price_eur": 124.01,
         "isHistory": false
       },
       {
@@ -1114,8 +1114,8 @@
       {
         "rank": 17,
         "name": "Akumajou Dracula",
-        "price_usd": 40.44,
-        "price_eur": 37.2,
+        "price_usd": 40.56,
+        "price_eur": 37.32,
         "isHistory": false
       },
       {
@@ -1369,14 +1369,14 @@
       },
       {
         "rank": 13,
-        "name": "Spud's Adventure",
+        "name": "Analogue Pocket Transparent Blue",
         "price_usd": 510,
         "price_eur": 469.2,
         "isHistory": false
       },
       {
         "rank": 14,
-        "name": "Analogue Pocket Transparent Blue",
+        "name": "Spud's Adventure",
         "price_usd": 510,
         "price_eur": 469.2,
         "isHistory": false
@@ -1455,14 +1455,14 @@
       },
       {
         "rank": 5,
-        "name": "Pokemon Emerald [Not for Resale]",
+        "name": "Disney Channel Gameboy Advance SP",
         "price_usd": 800,
         "price_eur": 736,
         "isHistory": false
       },
       {
         "rank": 6,
-        "name": "Disney Channel Gameboy Advance SP",
+        "name": "Pokemon Emerald [Not for Resale]",
         "price_usd": 800,
         "price_eur": 736,
         "isHistory": false
@@ -1612,8 +1612,8 @@
       {
         "rank": 7,
         "name": "Resident Evil Gaiden",
-        "price_usd": 349.95,
-        "price_eur": 321.95,
+        "price_usd": 328.17,
+        "price_eur": 301.92,
         "isHistory": false
       },
       {
@@ -1688,16 +1688,16 @@
       },
       {
         "rank": 18,
-        "name": "Metal Gear Solid",
-        "price_usd": 135.25,
-        "price_eur": 124.43,
+        "name": "Pokemon Special Edition Gameboy Color System",
+        "price_usd": 132.5,
+        "price_eur": 121.9,
         "isHistory": false
       },
       {
         "rank": 19,
-        "name": "Pokemon Special Edition Gameboy Color System",
-        "price_usd": 132.5,
-        "price_eur": 121.9,
+        "name": "Metal Gear Solid",
+        "price_usd": 130,
+        "price_eur": 119.6,
         "isHistory": false
       },
       {
@@ -1768,8 +1768,8 @@
       {
         "rank": 9,
         "name": "EverDrive GG X7",
-        "price_usd": 81.18,
-        "price_eur": 74.69,
+        "price_usd": 81.28,
+        "price_eur": 74.78,
         "isHistory": false
       },
       {
@@ -1838,8 +1838,8 @@
       {
         "rank": 19,
         "name": "Bubble Bobble",
-        "price_usd": 42.85,
-        "price_eur": 39.42,
+        "price_usd": 42.6,
+        "price_eur": 39.19,
         "isHistory": false
       },
       {
@@ -1973,8 +1973,8 @@
       {
         "rank": 18,
         "name": "Mega EverDrive PRO [Red]",
-        "price_usd": 236.4,
-        "price_eur": 217.49,
+        "price_usd": 245,
+        "price_eur": 225.4,
         "isHistory": false
       },
       {
@@ -2005,8 +2005,8 @@
       {
         "rank": 2,
         "name": "Golden Axe Warrior",
-        "price_usd": 175.5,
-        "price_eur": 161.46,
+        "price_usd": 175.02,
+        "price_eur": 161.02,
         "isHistory": false
       },
       {
@@ -2103,8 +2103,8 @@
       {
         "rank": 16,
         "name": "Alex Kidd in Shinobi World",
-        "price_usd": 66.44,
-        "price_eur": 61.12,
+        "price_usd": 66.67,
+        "price_eur": 61.34,
         "isHistory": false
       },
       {
@@ -2174,23 +2174,23 @@
       },
       {
         "rank": 6,
+        "name": "The Punisher",
+        "price_usd": 264.42,
+        "price_eur": 243.27,
+        "isHistory": false
+      },
+      {
+        "rank": 7,
         "name": "Fatal Fury 2",
         "price_usd": 255.5,
         "price_eur": 235.06,
         "isHistory": false
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "Alien Soldier",
         "price_usd": 225,
         "price_eur": 207,
-        "isHistory": false
-      },
-      {
-        "rank": 8,
-        "name": "The Punisher",
-        "price_usd": 218.9,
-        "price_eur": 201.39,
         "isHistory": false
       },
       {
@@ -2251,16 +2251,16 @@
       },
       {
         "rank": 17,
-        "name": "Flink",
-        "price_usd": 116.04,
-        "price_eur": 106.76,
+        "name": "Aero the Acro-Bat 2",
+        "price_usd": 113.17,
+        "price_eur": 104.12,
         "isHistory": false
       },
       {
         "rank": 18,
-        "name": "Aero the Acro-Bat 2",
-        "price_usd": 113.17,
-        "price_eur": 104.12,
+        "name": "Flink",
+        "price_usd": 112.13,
+        "price_eur": 103.16,
         "isHistory": false
       },
       {
@@ -2516,8 +2516,8 @@
       {
         "rank": 14,
         "name": "Nintendo DSi Development Kit [Panda]",
-        "price_usd": 651.35,
-        "price_eur": 599.24,
+        "price_usd": 654.77,
+        "price_eur": 602.39,
         "isHistory": false
       },
       {
@@ -3484,8 +3484,8 @@
       {
         "rank": 10,
         "name": "Rule of Rose",
-        "price_usd": 710.2,
-        "price_eur": 653.38,
+        "price_usd": 711.9,
+        "price_eur": 654.95,
         "isHistory": false
       },
       {
@@ -3640,8 +3640,8 @@
       {
         "rank": 12,
         "name": "PSP 3000 Limited Edition Ratchet & Clank Version",
-        "price_usd": 161.19,
-        "price_eur": 148.29,
+        "price_usd": 161.13,
+        "price_eur": 148.24,
         "isHistory": false
       },
       {
@@ -3831,8 +3831,8 @@
       {
         "rank": 19,
         "name": "Metal Head",
-        "price_usd": 50.53,
-        "price_eur": 46.49,
+        "price_usd": 50.51,
+        "price_eur": 46.47,
         "isHistory": false
       },
       {
@@ -3875,8 +3875,8 @@
       {
         "rank": 5,
         "name": "Fire Emblem: Thracia 776 [Deluxe Pack]",
-        "price_usd": 444,
-        "price_eur": 408.48,
+        "price_usd": 431.5,
+        "price_eur": 396.98,
         "isHistory": false
       },
       {
@@ -4116,8 +4116,8 @@
       {
         "rank": 19,
         "name": "Mega Man X2",
-        "price_usd": 167.76,
-        "price_eur": 154.34,
+        "price_usd": 174.47,
+        "price_eur": 160.51,
         "isHistory": false
       },
       {
@@ -4345,8 +4345,8 @@
       {
         "rank": 11,
         "name": "3D Tetris",
-        "price_usd": 173.51,
-        "price_eur": 159.63,
+        "price_usd": 173.2,
+        "price_eur": 159.34,
         "isHistory": false
       },
       {
@@ -4407,9 +4407,9 @@
       },
       {
         "rank": 20,
-        "name": "Vertical Force",
-        "price_usd": 69.97,
-        "price_eur": 64.37,
+        "name": "SD Gundam Dimension Wars [Homebrew]",
+        "price_usd": 65,
+        "price_eur": 59.8,
         "isHistory": false
       }
     ],
