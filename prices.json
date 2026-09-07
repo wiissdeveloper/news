@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06",
+  "updated": "2026-09-07",
   "systems": {
     "3do": [
       {
@@ -47,8 +47,8 @@
       {
         "rank": 7,
         "name": "3DO FZ-1 Console",
-        "price_usd": 269.43,
-        "price_eur": 247.88,
+        "price_usd": 268.75,
+        "price_eur": 247.25,
         "isHistory": false
       },
       {
@@ -117,8 +117,8 @@
       {
         "rank": 17,
         "name": "American Laser Games Game Gun",
-        "price_usd": 126.25,
-        "price_eur": 116.15,
+        "price_usd": 125.63,
+        "price_eur": 115.58,
         "isHistory": false
       },
       {
@@ -240,8 +240,8 @@
       {
         "rank": 14,
         "name": "The Music Machine",
-        "price_usd": 368.08,
-        "price_eur": 338.63,
+        "price_usd": 368.06,
+        "price_eur": 338.62,
         "isHistory": false
       },
       {
@@ -347,8 +347,8 @@
       {
         "rank": 9,
         "name": "Pac-Man Double Feature [Gold Edition]",
-        "price_usd": 169.06,
-        "price_eur": 155.54,
+        "price_usd": 169.23,
+        "price_eur": 155.69,
         "isHistory": false
       },
       {
@@ -582,8 +582,8 @@
       {
         "rank": 2,
         "name": "Atari Lynx II Console",
-        "price_usd": 199.5,
-        "price_eur": 183.54,
+        "price_usd": 199.99,
+        "price_eur": 183.99,
         "isHistory": false
       },
       {
@@ -738,8 +738,8 @@
       {
         "rank": 4,
         "name": "Another World",
-        "price_usd": 256.95,
-        "price_eur": 236.39,
+        "price_usd": 256.94,
+        "price_eur": 236.38,
         "isHistory": false
       },
       {
@@ -993,8 +993,8 @@
       {
         "rank": 20,
         "name": "Sonic Adventure 2",
-        "price_usd": 95,
-        "price_eur": 87.4,
+        "price_usd": 94.99,
+        "price_eur": 87.39,
         "isHistory": false
       }
     ],
@@ -1369,14 +1369,14 @@
       },
       {
         "rank": 13,
-        "name": "Analogue Pocket Transparent Blue",
+        "name": "Spud's Adventure",
         "price_usd": 510,
         "price_eur": 469.2,
         "isHistory": false
       },
       {
         "rank": 14,
-        "name": "Spud's Adventure",
+        "name": "Analogue Pocket Transparent Blue",
         "price_usd": 510,
         "price_eur": 469.2,
         "isHistory": false
@@ -1427,37 +1427,37 @@
     "gba": [
       {
         "rank": 1,
+        "name": "Pokemon Distribution [Birth Island Deoxys]",
+        "price_usd": 3499.99,
+        "price_eur": 3219.99,
+        "isHistory": false
+      },
+      {
+        "rank": 2,
         "name": "Pokemon FireRed [Mew Distribution]",
         "price_usd": 1605.99,
         "price_eur": 1477.51,
         "isHistory": false
       },
       {
-        "rank": 2,
+        "rank": 3,
         "name": "IQue Gameboy Advance SP DK",
         "price_usd": 1000,
         "price_eur": 920,
         "isHistory": false
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "Pokemon LeafGreen Version [Not for Resale]",
         "price_usd": 962.5,
         "price_eur": 885.5,
         "isHistory": false
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "Pokemon FireRed [Not for Resale]",
         "price_usd": 825,
         "price_eur": 759,
-        "isHistory": false
-      },
-      {
-        "rank": 5,
-        "name": "Disney Channel Gameboy Advance SP",
-        "price_usd": 800,
-        "price_eur": 736,
         "isHistory": false
       },
       {
@@ -1469,100 +1469,100 @@
       },
       {
         "rank": 7,
+        "name": "Disney Channel Gameboy Advance SP",
+        "price_usd": 800,
+        "price_eur": 736,
+        "isHistory": false
+      },
+      {
+        "rank": 8,
         "name": "Pokemon Sapphire [Not for Resale]",
         "price_usd": 711.93,
         "price_eur": 654.98,
         "isHistory": false
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "Visteon Gameboy Advance Console",
         "price_usd": 675,
         "price_eur": 621,
         "isHistory": false
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "Visteon Nintendo Gameboy Advance + DVD Player",
         "price_usd": 649,
         "price_eur": 597.08,
         "isHistory": false
       },
       {
-        "rank": 10,
+        "rank": 11,
         "name": "Gameboy Advance SP [Charizard Edition]",
         "price_usd": 550,
         "price_eur": 506,
         "isHistory": false
       },
       {
-        "rank": 11,
+        "rank": 12,
         "name": "Gameboy Advance SP [Groudon Edition]",
         "price_usd": 456.48,
         "price_eur": 419.96,
         "isHistory": false
       },
       {
-        "rank": 12,
+        "rank": 13,
         "name": "Pokemon Ruby [Not for Resale]",
         "price_usd": 400,
         "price_eur": 368,
         "isHistory": false
       },
       {
-        "rank": 13,
+        "rank": 14,
         "name": "Gameboy Advance SP [Rayquaza Edition]",
         "price_usd": 384.21,
         "price_eur": 353.47,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 15,
         "name": "Drill Dozer [Not for Resale]",
         "price_usd": 300,
         "price_eur": 276,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 16,
         "name": "Car Battler Joe",
         "price_usd": 289.53,
         "price_eur": 266.37,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 17,
         "name": "Ninja Five O",
         "price_usd": 287,
         "price_eur": 264.04,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 18,
         "name": "IQue Gameboy Advance SP Dragon",
         "price_usd": 269.8,
         "price_eur": 248.22,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 19,
         "name": "Gameboy Advance Console & E-Reader Bundle",
         "price_usd": 244.56,
         "price_eur": 225,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 20,
         "name": "GBA Micro Silver",
         "price_usd": 236.98,
         "price_eur": 218.02,
-        "isHistory": false
-      },
-      {
-        "rank": 20,
-        "name": "Eon Ticket",
-        "price_usd": 230,
-        "price_eur": 211.6,
         "isHistory": false
       }
     ],
@@ -1611,16 +1611,16 @@
       },
       {
         "rank": 7,
-        "name": "Resident Evil Gaiden",
-        "price_usd": 328.17,
-        "price_eur": 301.92,
+        "name": "Pine Creek [Collector's Edition]",
+        "price_usd": 318.92,
+        "price_eur": 293.41,
         "isHistory": false
       },
       {
         "rank": 8,
-        "name": "Pine Creek [Collector's Edition]",
-        "price_usd": 318.92,
-        "price_eur": 293.41,
+        "name": "Resident Evil Gaiden",
+        "price_usd": 317.23,
+        "price_eur": 291.85,
         "isHistory": false
       },
       {
@@ -1712,8 +1712,8 @@
       {
         "rank": 1,
         "name": "Sega Game Gear [Super Sonic Sports Pack]",
-        "price_usd": 278.4,
-        "price_eur": 256.13,
+        "price_usd": 278.24,
+        "price_eur": 255.98,
         "isHistory": false
       },
       {
@@ -1733,8 +1733,8 @@
       {
         "rank": 4,
         "name": "Blue Sega Game Gear",
-        "price_usd": 147.46,
-        "price_eur": 135.66,
+        "price_usd": 147.34,
+        "price_eur": 135.55,
         "isHistory": false
       },
       {
@@ -2054,8 +2054,8 @@
       {
         "rank": 9,
         "name": "Master EverDrive X7",
-        "price_usd": 108.71,
-        "price_eur": 100.01,
+        "price_usd": 107.36,
+        "price_eur": 98.77,
         "isHistory": false
       },
       {
@@ -2380,8 +2380,8 @@
       {
         "rank": 15,
         "name": "Nintendo 64 Pikachu",
-        "price_usd": 177.76,
-        "price_eur": 163.54,
+        "price_usd": 188.36,
+        "price_eur": 173.29,
         "isHistory": false
       },
       {
@@ -2401,8 +2401,8 @@
       {
         "rank": 18,
         "name": "Nintendo 64 Grape Purple",
-        "price_usd": 159.1,
-        "price_eur": 146.37,
+        "price_usd": 158.84,
+        "price_eur": 146.13,
         "isHistory": false
       },
       {
@@ -2502,8 +2502,8 @@
       {
         "rank": 12,
         "name": "Pokemon [Not for Resale Secret Egg]",
-        "price_usd": 826.45,
-        "price_eur": 760.33,
+        "price_usd": 825.61,
+        "price_eur": 759.56,
         "isHistory": false
       },
       {
@@ -2551,15 +2551,15 @@
       {
         "rank": 19,
         "name": "Pokemon White Nintendo DSi System",
-        "price_usd": 280,
-        "price_eur": 257.6,
+        "price_usd": 279.4,
+        "price_eur": 257.05,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "Mario Kart DS [Not for Resale]",
-        "price_usd": 255,
-        "price_eur": 234.6,
+        "name": "Pokemon HeartGold Version [Pokewalker]",
+        "price_usd": 260.16,
+        "price_eur": 239.35,
         "isHistory": false
       }
     ],
@@ -3037,8 +3037,8 @@
       {
         "rank": 7,
         "name": "PC Engine Duo-RX",
-        "price_usd": 439.94,
-        "price_eur": 404.74,
+        "price_usd": 438.7,
+        "price_eur": 403.6,
         "isHistory": false
       },
       {
@@ -3064,16 +3064,16 @@
       },
       {
         "rank": 11,
-        "name": "PC Engine Duo System",
-        "price_usd": 306.45,
-        "price_eur": 281.93,
+        "name": "XE-1 HE Pro",
+        "price_usd": 303.03,
+        "price_eur": 278.79,
         "isHistory": false
       },
       {
         "rank": 12,
-        "name": "XE-1 HE Pro",
-        "price_usd": 303.03,
-        "price_eur": 278.79,
+        "name": "PC Engine Duo System",
+        "price_usd": 297.7,
+        "price_eur": 273.88,
         "isHistory": false
       },
       {
@@ -3221,8 +3221,8 @@
       {
         "rank": 13,
         "name": "Der Langrisser FX",
-        "price_usd": 100.12,
-        "price_eur": 92.11,
+        "price_usd": 100.17,
+        "price_eur": 92.16,
         "isHistory": false
       },
       {
@@ -3420,14 +3420,14 @@
     "ps2": [
       {
         "rank": 1,
-        "name": "PlayStation 2 System [Yellow Automotive Edition]",
+        "name": "PlayStation 2 System [Blue Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
       },
       {
         "rank": 2,
-        "name": "PlayStation 2 System [Blue Automotive Edition]",
+        "name": "PlayStation 2 System [Yellow Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
@@ -3591,8 +3591,8 @@
       {
         "rank": 5,
         "name": "PSP Go Piano Black",
-        "price_usd": 203,
-        "price_eur": 186.76,
+        "price_usd": 204.3,
+        "price_eur": 187.96,
         "isHistory": false
       },
       {
@@ -3667,37 +3667,37 @@
       },
       {
         "rank": 16,
-        "name": "X [UMD]",
-        "price_usd": 155,
-        "price_eur": 142.6,
-        "isHistory": false
-      },
-      {
-        "rank": 17,
         "name": "PSP 3000 Kingdom Hearts Limited Edition",
         "price_usd": 153,
         "price_eur": 140.76,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 17,
         "name": "PSP System Kiosk Disc 4",
         "price_usd": 149,
         "price_eur": 137.08,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 18,
         "name": "PSP 3000 Bright Yellow",
         "price_usd": 144.56,
         "price_eur": 133,
         "isHistory": false
       },
       {
-        "rank": 20,
+        "rank": 19,
         "name": "PSP 3000",
         "price_usd": 134.95,
         "price_eur": 124.15,
+        "isHistory": false
+      },
+      {
+        "rank": 20,
+        "name": "PSP 2000 Limited Edition Star Wars Battlefront Version [White]",
+        "price_usd": 134.91,
+        "price_eur": 124.12,
         "isHistory": false
       }
     ],
@@ -4245,8 +4245,8 @@
       {
         "rank": 17,
         "name": "Clean Sweep",
-        "price_usd": 15.95,
-        "price_eur": 14.67,
+        "price_usd": 15.94,
+        "price_eur": 14.66,
         "isHistory": false
       },
       {
@@ -4288,16 +4288,16 @@
       },
       {
         "rank": 3,
-        "name": "Space Invaders [Homebrew]",
-        "price_usd": 430,
-        "price_eur": 395.6,
+        "name": "Virtual Boy System",
+        "price_usd": 437.89,
+        "price_eur": 402.86,
         "isHistory": false
       },
       {
         "rank": 4,
-        "name": "Virtual Boy System",
-        "price_usd": 371.47,
-        "price_eur": 341.75,
+        "name": "Space Invaders [Homebrew]",
+        "price_usd": 430,
+        "price_eur": 395.6,
         "isHistory": false
       },
       {
@@ -4542,16 +4542,16 @@
       },
       {
         "rank": 19,
-        "name": "Ganso Jajamaru-kun",
-        "price_usd": 53.15,
-        "price_eur": 48.9,
+        "name": "WonderSwan Skeleton Black",
+        "price_usd": 53.58,
+        "price_eur": 49.29,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "WonderSwan Skeleton Black",
-        "price_usd": 52.89,
-        "price_eur": 48.66,
+        "name": "Ganso Jajamaru-kun",
+        "price_usd": 53.15,
+        "price_eur": 48.9,
         "isHistory": false
       }
     ],
