@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08",
+  "updated": "2026-09-09",
   "systems": {
     "3do": [
       {
@@ -19,8 +19,8 @@
       {
         "rank": 3,
         "name": "Lucienne's Quest",
-        "price_usd": 322.94,
-        "price_eur": 297.1,
+        "price_usd": 323.7,
+        "price_eur": 297.8,
         "isHistory": false
       },
       {
@@ -566,8 +566,8 @@
       {
         "rank": 20,
         "name": "Picnic Paranoia",
-        "price_usd": 88.71,
-        "price_eur": 81.61,
+        "price_usd": 88.66,
+        "price_eur": 81.57,
         "isHistory": false
       }
     ],
@@ -730,23 +730,23 @@
       },
       {
         "rank": 3,
+        "name": "Atari Jaguar Pro Controler",
+        "price_usd": 376,
+        "price_eur": 345.92,
+        "isHistory": false
+      },
+      {
+        "rank": 4,
         "name": "AirCars 94",
         "price_usd": 375,
         "price_eur": 345,
         "isHistory": false
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "Another World",
         "price_usd": 256.94,
         "price_eur": 236.38,
-        "isHistory": false
-      },
-      {
-        "rank": 5,
-        "name": "Atari Jaguar Pro Controler",
-        "price_usd": 235,
-        "price_eur": 216.2,
         "isHistory": false
       },
       {
@@ -850,7 +850,7 @@
       {
         "rank": 20,
         "name": "Worms",
-        "price_usd": 122.06,
+        "price_usd": 122.07,
         "price_eur": 112.3,
         "isHistory": false
       }
@@ -1023,8 +1023,8 @@
       {
         "rank": 4,
         "name": "Famicom Disk System Console",
-        "price_usd": 100.38,
-        "price_eur": 92.35,
+        "price_usd": 100,
+        "price_eur": 92,
         "isHistory": false
       },
       {
@@ -1206,14 +1206,14 @@
       },
       {
         "rank": 10,
-        "name": "Makaimura [Box Cart]",
+        "name": "Bubble Bobble 2",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
       },
       {
         "rank": 11,
-        "name": "Bubble Bobble 2",
+        "name": "Makaimura [Box Cart]",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
@@ -1334,14 +1334,14 @@
       },
       {
         "rank": 8,
-        "name": "Analogue Pocket [Black Anodized]",
+        "name": "Analogue Pocket [Supreme Red]",
         "price_usd": 700,
         "price_eur": 644,
         "isHistory": false
       },
       {
         "rank": 9,
-        "name": "Analogue Pocket [Supreme Red]",
+        "name": "Analogue Pocket [Black Anodized]",
         "price_usd": 700,
         "price_eur": 644,
         "isHistory": false
@@ -1362,21 +1362,21 @@
       },
       {
         "rank": 12,
+        "name": "Spud's Adventure",
+        "price_usd": 545.09,
+        "price_eur": 501.48,
+        "isHistory": false
+      },
+      {
+        "rank": 13,
         "name": "Analogue Pocket [Transparent Purple]",
         "price_usd": 521.16,
         "price_eur": 479.47,
         "isHistory": false
       },
       {
-        "rank": 13,
-        "name": "Analogue Pocket Transparent Blue",
-        "price_usd": 510,
-        "price_eur": 469.2,
-        "isHistory": false
-      },
-      {
         "rank": 14,
-        "name": "Spud's Adventure",
+        "name": "Analogue Pocket Transparent Blue",
         "price_usd": 510,
         "price_eur": 469.2,
         "isHistory": false
@@ -1390,14 +1390,14 @@
       },
       {
         "rank": 16,
-        "name": "Analogue Pocket [Grape]",
+        "name": "Analogue Pocket [Berry]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
       },
       {
         "rank": 17,
-        "name": "Analogue Pocket [Berry]",
+        "name": "Analogue Pocket [Grape]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
@@ -1462,14 +1462,14 @@
       },
       {
         "rank": 6,
-        "name": "Pokemon Emerald [Not for Resale]",
+        "name": "Disney Channel Gameboy Advance SP",
         "price_usd": 800,
         "price_eur": 736,
         "isHistory": false
       },
       {
         "rank": 7,
-        "name": "Disney Channel Gameboy Advance SP",
+        "name": "Pokemon Emerald [Not for Resale]",
         "price_usd": 800,
         "price_eur": 736,
         "isHistory": false
@@ -1605,15 +1605,15 @@
       {
         "rank": 6,
         "name": "Pokemon Gold [Not For Resale]",
-        "price_usd": 449.99,
-        "price_eur": 413.99,
+        "price_usd": 397,
+        "price_eur": 365.24,
         "isHistory": false
       },
       {
         "rank": 7,
         "name": "Pine Creek [Collector's Edition]",
-        "price_usd": 318.92,
-        "price_eur": 293.41,
+        "price_usd": 318.96,
+        "price_eur": 293.44,
         "isHistory": false
       },
       {
@@ -1695,16 +1695,16 @@
       },
       {
         "rank": 19,
-        "name": "Pokemon Special Edition Gameboy Color System",
-        "price_usd": 132.5,
-        "price_eur": 121.9,
+        "name": "Metal Gear Solid",
+        "price_usd": 135,
+        "price_eur": 124.2,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "Metal Gear Solid",
-        "price_usd": 130,
-        "price_eur": 119.6,
+        "name": "Pokemon Special Edition Gameboy Color System",
+        "price_usd": 132.5,
+        "price_eur": 121.9,
         "isHistory": false
       }
     ],
@@ -1789,15 +1789,15 @@
       {
         "rank": 12,
         "name": "Cosmic Spacehead",
-        "price_usd": 69.21,
-        "price_eur": 63.67,
+        "price_usd": 77.42,
+        "price_eur": 71.23,
         "isHistory": false
       },
       {
         "rank": 13,
         "name": "Defenders of Oasis",
-        "price_usd": 50.83,
-        "price_eur": 46.76,
+        "price_usd": 50.13,
+        "price_eur": 46.12,
         "isHistory": false
       },
       {
@@ -1910,8 +1910,8 @@
       {
         "rank": 9,
         "name": "Crusader of Centy",
-        "price_usd": 514.48,
-        "price_eur": 473.32,
+        "price_usd": 502.05,
+        "price_eur": 461.89,
         "isHistory": false
       },
       {
@@ -2296,8 +2296,8 @@
       {
         "rank": 3,
         "name": "Nintendo 64 007 Goldeneye Value Pack",
-        "price_usd": 868,
-        "price_eur": 798.56,
+        "price_usd": 748.18,
+        "price_eur": 688.33,
         "isHistory": false
       },
       {
@@ -2366,8 +2366,8 @@
       {
         "rank": 13,
         "name": "Nintendo 64 Fire Orange",
-        "price_usd": 227.22,
-        "price_eur": 209.04,
+        "price_usd": 226.78,
+        "price_eur": 208.64,
         "isHistory": false
       },
       {
@@ -2778,23 +2778,23 @@
       },
       {
         "rank": 11,
-        "name": "Bubble Bath Babes",
-        "price_usd": 2255.31,
-        "price_eur": 2074.89,
-        "isHistory": false
-      },
-      {
-        "rank": 12,
         "name": "Cheetahmen II",
         "price_usd": 1926.47,
         "price_eur": 1772.35,
         "isHistory": false
       },
       {
-        "rank": 13,
+        "rank": 12,
         "name": "Peek-a-Boo Poker",
         "price_usd": 1735.01,
         "price_eur": 1596.21,
+        "isHistory": false
+      },
+      {
+        "rank": 13,
+        "name": "Bubble Bath Babes",
+        "price_usd": 1718.07,
+        "price_eur": 1580.62,
         "isHistory": false
       },
       {
@@ -3286,8 +3286,8 @@
       {
         "rank": 2,
         "name": "Elemental Gearbolt Assassin Case",
-        "price_usd": 9307.62,
-        "price_eur": 8563.01,
+        "price_usd": 9304.41,
+        "price_eur": 8560.06,
         "isHistory": false
       },
       {
@@ -3356,8 +3356,8 @@
       {
         "rank": 12,
         "name": "Valkyrie Profile",
-        "price_usd": 199.99,
-        "price_eur": 183.99,
+        "price_usd": 210,
+        "price_eur": 193.2,
         "isHistory": false
       },
       {
@@ -3688,16 +3688,16 @@
       },
       {
         "rank": 19,
-        "name": "PSP 3000",
-        "price_usd": 134.95,
-        "price_eur": 124.15,
+        "name": "PSP 2000 Limited Edition Star Wars Battlefront Version [White]",
+        "price_usd": 135.89,
+        "price_eur": 125.02,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "PSP 2000 Limited Edition Star Wars Battlefront Version [White]",
-        "price_usd": 134.91,
-        "price_eur": 124.12,
+        "name": "PSP 3000",
+        "price_usd": 134.95,
+        "price_eur": 124.15,
         "isHistory": false
       }
     ],
@@ -3952,8 +3952,8 @@
       {
         "rank": 16,
         "name": "Yokai Buster",
-        "price_usd": 229.07,
-        "price_eur": 210.74,
+        "price_usd": 229.04,
+        "price_eur": 210.72,
         "isHistory": false
       },
       {
@@ -4032,8 +4032,8 @@
       {
         "rank": 7,
         "name": "X-Zone",
-        "price_usd": 263.13,
-        "price_eur": 242.08,
+        "price_usd": 263.14,
+        "price_eur": 242.09,
         "isHistory": false
       },
       {
@@ -4231,8 +4231,8 @@
       {
         "rank": 15,
         "name": "Scramble",
-        "price_usd": 18.1,
-        "price_eur": 16.65,
+        "price_usd": 17.85,
+        "price_eur": 16.42,
         "isHistory": false
       },
       {
@@ -4317,8 +4317,8 @@
       {
         "rank": 7,
         "name": "Waterworld",
-        "price_usd": 223.25,
-        "price_eur": 205.39,
+        "price_usd": 214.99,
+        "price_eur": 197.79,
         "isHistory": false
       },
       {
@@ -4359,8 +4359,8 @@
       {
         "rank": 13,
         "name": "Flashboy+",
-        "price_usd": 148.36,
-        "price_eur": 136.49,
+        "price_usd": 148.01,
+        "price_eur": 136.17,
         "isHistory": false
       },
       {
@@ -4580,8 +4580,8 @@
       {
         "rank": 4,
         "name": "Super Robot Taisen Compact 3",
-        "price_usd": 152.97,
-        "price_eur": 140.73,
+        "price_usd": 152.94,
+        "price_eur": 140.7,
         "isHistory": false
       },
       {
@@ -4743,8 +4743,8 @@
       {
         "rank": 7,
         "name": "Planetoids [ROM Cartridge]",
-        "price_usd": 128.94,
-        "price_eur": 118.62,
+        "price_usd": 128.88,
+        "price_eur": 118.57,
         "isHistory": false
       },
       {
