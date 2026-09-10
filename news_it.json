@@ -1,6 +1,22 @@
 {
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "notices": [
+    {
+      "guid": "https://it.ign.com/onyx-the-dark-grip/227933/onyx-the-dark-grip-il-trailer-del-nintendo-direct",
+      "title": "Onyx: The Dark Grip - Il trailer del Nintendo Direct",
+      "link": "https://it.ign.com/onyx-the-dark-grip/227933/onyx-the-dark-grip-il-trailer-del-nintendo-direct",
+      "pubDate": "Wed, 09 Sep 2026 16:50:16 +0000",
+      "contentSnippet": "In arrivo nel 2027.",
+      "thumbnail": "https://sm.ign.com/ign_it/video/o/onyx-the-d/onyx-the-dark-grip-official-nintendo-switch-2-reveal-trailer_5nya.png"
+    },
+    {
+      "guid": "https://it.ign.com/yo-kai-watch-2-haunted-domain/227935/yo-kai-watch-2-haunted-domain-il-trailer-ufficiale",
+      "title": "Yo-kai Watch 2: Haunted Domain - Il trailer ufficiale",
+      "link": "https://it.ign.com/yo-kai-watch-2-haunted-domain/227935/yo-kai-watch-2-haunted-domain-il-trailer-ufficiale",
+      "pubDate": "Wed, 09 Sep 2026 16:10:04 +0000",
+      "contentSnippet": "Alla scoperta di Yo-kai Watch 2: Haunted Domain.",
+      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/ff-tvy5_3k7a.jpg"
+    },
     {
       "guid": "https://it.ign.com/yo-kai-watch-2-haunted-domain/227927/yo-kai-watch-2-haunted-domain-annunciato-ufficialmente-e-un-remake-di-yo-kai-watch-2",
       "title": "Yo-kai Watch 2: Haunted Domain annunciato ufficialmente, è un remake di Yo-kai Watch 2",
@@ -16,6 +32,22 @@
       "pubDate": "Wed, 09 Sep 2026 15:45:54 +0000",
       "contentSnippet": "Uscirà la prossima primavera solo su Nintendo Switch 2.\nKirby tornerà in azione la prossima primavera in Kirby and the World Beyond, un seguito di Kirby e la terra perduta (2022) per Nintendo Switch 2.",
       "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/sdg_kb4s.jpg"
+    },
+    {
+      "guid": "https://it.ign.com/kirby-and-the-world-beyond/227931/kirby-and-the-world-beyond-officially-il-trailer-di-annuncio",
+      "title": "Kirby and the World Beyond Officially - Il trailer di annuncio",
+      "link": "https://it.ign.com/kirby-and-the-world-beyond/227931/kirby-and-the-world-beyond-officially-il-trailer-di-annuncio",
+      "pubDate": "Wed, 09 Sep 2026 15:45:31 +0000",
+      "contentSnippet": "In arrivo nel 2027 su Nintendo Switch 2.",
+      "thumbnail": "https://sm.ign.com/ign_it/video/k/kirby-and-/kirby-and-the-world-beyond-officially-announced-for-nintendo_zhfw.png"
+    },
+    {
+      "guid": "https://it.ign.com/star-fox-remake/227934/star-fox-il-trailer-del-nuovo-aggiornamento",
+      "title": "Star Fox: il trailer del nuovo aggiornamento",
+      "link": "https://it.ign.com/star-fox-remake/227934/star-fox-il-trailer-del-nuovo-aggiornamento",
+      "pubDate": "Wed, 09 Sep 2026 15:42:57 +0000",
+      "contentSnippet": "In arrivo su Switch 2.",
+      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/titolo_6wuq.png"
     },
     {
       "guid": "https://it.ign.com/star-fox-remake/227923/star-fox-si-aggiorna-su-switch-2-con-una-nuova-modalita-vs-per-quattro-giocatori",
@@ -42,6 +74,14 @@
       "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/blob_x6mh.jpg"
     },
     {
+      "guid": "https://it.ign.com/metroid-ravenous/227932/metroid-ravenous-il-trailer-del-nintendo-direct",
+      "title": "Metroid Ravenous - Il trailer del Nintendo Direct",
+      "link": "https://it.ign.com/metroid-ravenous/227932/metroid-ravenous-il-trailer-del-nintendo-direct",
+      "pubDate": "Wed, 09 Sep 2026 15:32:03 +0000",
+      "contentSnippet": "In arrivo il 28 gennaio su Nintendo Switch 2.",
+      "thumbnail": "https://sm.ign.com/ign_it/video/m/metroid-ra/metroid-ravenous-new-game-revealed-with-a-release-date-for-n_jzg7.png"
+    },
+    {
       "guid": "https://it.ign.com/persona-4-revival/227925/persona-4-revival-il-trailer-della-versione-switch-2",
       "title": "Persona 4 Revival - Il trailer della versione Switch 2",
       "link": "https://it.ign.com/persona-4-revival/227925/persona-4-revival-il-trailer-della-versione-switch-2",
@@ -56,46 +96,6 @@
       "pubDate": "Wed, 09 Sep 2026 15:08:54 +0000",
       "contentSnippet": "Precedentemente conosciuto come Project M, uscirà nel 2027.\nBloober Team, studio di Silent Hill 2 Remake e Cronos: The New Dawn, ha presentato Onyx: The Dark Grip, un horror soprannaturale per Switch 2 precedentemente conosciuto come Project M.",
       "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/onyx-the-dark-grip_fkhf.png"
-    },
-    {
-      "guid": "https://it.ign.com/metroid-ravenous/227919/metroid-ravenous-e-ufficiale-il-nuovo-platformer-2d-e-in-uscita-a-gennaio-su-switch-2",
-      "title": "Metroid Ravenous è ufficiale: il nuovo platformer 2D è in uscita a gennaio su Switch 2",
-      "link": "https://it.ign.com/metroid-ravenous/227919/metroid-ravenous-e-ufficiale-il-nuovo-platformer-2d-e-in-uscita-a-gennaio-su-switch-2",
-      "pubDate": "Wed, 09 Sep 2026 15:06:21 +0000",
-      "contentSnippet": "Divora... per non farti divorare.\nNintendo ha finalmente confermato Metroid Ravenous, successore di Metroid Dread in uscita a inizio anno nuovo solo su Switch 2.",
-      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/hdg_gje8.jpg"
-    },
-    {
-      "guid": "https://it.ign.com/the-game-awards-2026/227901/geoff-keighley-e-mark-cerny-lanciano-nova-games-foundation-uniniziativa-per-giovani-sviluppatori",
-      "title": "Geoff Keighley e Mark Cerny lanciano Nova Games Foundation, un'iniziativa per giovani sviluppatori",
-      "link": "https://it.ign.com/the-game-awards-2026/227901/geoff-keighley-e-mark-cerny-lanciano-nova-games-foundation-uniniziativa-per-giovani-sviluppatori",
-      "pubDate": "Wed, 09 Sep 2026 13:42:28 +0000",
-      "contentSnippet": "Per sostenere la prossima generazione di autori videoludici.\nLa nuova fondazione offrirà 100.000 dollari a 20 giovani game designer ogni anno, con ulteriori finanziamenti fino a 500.000 dollari per i progetti più promettenti.",
-      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/sf_ze7b.jpg"
-    },
-    {
-      "guid": "https://it.ign.com/keeper/227911/phil-spencer-voleva-double-fine-asha-sharma-no-il-capo-dello-studio-racconta-la-separazione-da-xbox",
-      "title": "Phil Spencer voleva Double Fine, Asha Sharma no: il capo dello studio racconta la separazione da Xbox",
-      "link": "https://it.ign.com/keeper/227911/phil-spencer-voleva-double-fine-asha-sharma-no-il-capo-dello-studio-racconta-la-separazione-da-xbox",
-      "pubDate": "Wed, 09 Sep 2026 13:12:43 +0000",
-      "contentSnippet": "Tim Schafer racconta i retroscena.\nTim Schafer, fondatore di Double Fine, inizialmente non voleva vendere il suo studio a Microsoft, ma Phil Spencer riuscì a convincerlo. Ecco i retroscena.",
-      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/tim-schafer-xbox-u1nb_gbzr.jpg"
-    },
-    {
-      "guid": "https://it.ign.com/the-witcher-3-wild-hunt-songs-of-the-past/227905/the-witcher-3-wild-hunt-songs-of-the-past-abbiamo-visto-in-anteprima-linizio-della-nuova-avventura-d",
-      "title": "The Witcher 3: Wild Hunt - Songs of the Past, abbiamo visto in anteprima l'inizio della nuova avventura dello Strigo",
-      "link": "https://it.ign.com/the-witcher-3-wild-hunt-songs-of-the-past/227905/the-witcher-3-wild-hunt-songs-of-the-past-abbiamo-visto-in-anteprima-linizio-della-nuova-avventura-d",
-      "pubDate": "Wed, 09 Sep 2026 12:49:50 +0000",
-      "contentSnippet": "A dieci anni di distanza, CD Projekt RED ci riporta nel Continente con un'espansione inaspettata e molto promettente.\nAlla gamescom di Colonia abbiamo assistito a una presentazione a porte chiuse di Songs of the Past, la nuova, inattesa espansione di The Witcher 3: Wild Hunt.",
-      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/the-witcher-3-songs-of-the-past-cover_pa98.jpg"
-    },
-    {
-      "guid": "https://it.ign.com/persona-6/227910/pioggia-di-leak-da-steam-spuntano-spoiler-di-persona-6-kingdom-hearts-iv-e-giochi-non-annunciati",
-      "title": "Pioggia di leak da Steam: spuntano spoiler di Persona 6, Kingdom Hearts IV e giochi non annunciati",
-      "link": "https://it.ign.com/persona-6/227910/pioggia-di-leak-da-steam-spuntano-spoiler-di-persona-6-kingdom-hearts-iv-e-giochi-non-annunciati",
-      "pubDate": "Wed, 09 Sep 2026 12:30:26 +0000",
-      "contentSnippet": "Svelati gli obiettivi di oltre 50 giochi molto attesi.\nUn'importante fuga di informazioni proveniente da Steam sembra aver svelato nuovi dettagli su alcuni dei giochi più attesi dei prossimi anni.",
-      "thumbnail": "https://sm.ign.com/ign_it/cover/p/persona-6/persona-6_7y16.jpg"
     }
   ]
 }
