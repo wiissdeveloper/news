@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10",
+  "updated": "2026-09-11",
   "systems": {
     "3do": [
       {
@@ -155,135 +155,135 @@
       },
       {
         "rank": 2,
+        "name": "Pepsi Invaders",
+        "price_usd": 1926.69,
+        "price_eur": 1772.55,
+        "isHistory": false
+      },
+      {
+        "rank": 3,
         "name": "Eli's Ladder",
         "price_usd": 1513.58,
         "price_eur": 1392.49,
         "isHistory": false
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "Star Wars Ewok Adventure Prototype",
         "price_usd": 1245.28,
         "price_eur": 1145.66,
         "isHistory": false
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "Lochjaw",
         "price_usd": 1003.5,
         "price_eur": 923.22,
         "isHistory": false
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "Superman [Tele-Games Picture Label]",
         "price_usd": 929.26,
         "price_eur": 854.92,
         "isHistory": false
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "River Patrol",
         "price_usd": 786.33,
         "price_eur": 723.42,
         "isHistory": false
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "Karate [Ultravision]",
         "price_usd": 742.81,
         "price_eur": 683.39,
         "isHistory": false
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "Halloween",
         "price_usd": 620.63,
         "price_eur": 570.98,
         "isHistory": false
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "Out of Control",
         "price_usd": 605.26,
         "price_eur": 556.84,
         "isHistory": false
       },
       {
-        "rank": 10,
+        "rank": 11,
         "name": "Color Bar Generator",
         "price_usd": 576.86,
         "price_eur": 530.71,
         "isHistory": false
       },
       {
-        "rank": 11,
+        "rank": 12,
         "name": "Malagai",
         "price_usd": 575,
         "price_eur": 529,
         "isHistory": false
       },
       {
-        "rank": 12,
+        "rank": 13,
         "name": "Copy Cart",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
       },
       {
-        "rank": 13,
+        "rank": 14,
         "name": "Pursuit Of The Pink Panther [Homebrew]",
         "price_usd": 405,
         "price_eur": 372.6,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 15,
         "name": "The Music Machine",
         "price_usd": 368.06,
         "price_eur": 338.62,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 16,
         "name": "Desert Bus 2600 [Homebrew]",
         "price_usd": 350,
         "price_eur": 322,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 17,
         "name": "Dukes Of Hazzard: Stunt Cycle [Homewbrew]",
         "price_usd": 323.95,
         "price_eur": 298.03,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 18,
         "name": "Texas Chainsaw Massacre",
         "price_usd": 322.5,
         "price_eur": 296.7,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 19,
         "name": "Parachute",
         "price_usd": 289,
         "price_eur": 265.88,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 20,
         "name": "Mangia",
         "price_usd": 281.81,
         "price_eur": 259.27,
-        "isHistory": false
-      },
-      {
-        "rank": 20,
-        "name": "Shield Shifter [Homebrew]",
-        "price_usd": 249.99,
-        "price_eur": 229.99,
         "isHistory": false
       }
     ],
@@ -752,8 +752,8 @@
       {
         "rank": 6,
         "name": "Atari Karts",
-        "price_usd": 204.16,
-        "price_eur": 187.83,
+        "price_usd": 210.19,
+        "price_eur": 193.37,
         "isHistory": false
       },
       {
@@ -930,8 +930,8 @@
       {
         "rank": 11,
         "name": "Sega Dreamcast Console",
-        "price_usd": 148.25,
-        "price_eur": 136.39,
+        "price_usd": 149.97,
+        "price_eur": 137.97,
         "isHistory": false
       },
       {
@@ -944,8 +944,8 @@
       {
         "rank": 13,
         "name": "Giga Wing 2",
-        "price_usd": 134.79,
-        "price_eur": 124.01,
+        "price_usd": 134.73,
+        "price_eur": 123.95,
         "isHistory": false
       },
       {
@@ -979,8 +979,8 @@
       {
         "rank": 18,
         "name": "Tech Romancer",
-        "price_usd": 97.54,
-        "price_eur": 89.74,
+        "price_usd": 98.15,
+        "price_eur": 90.3,
         "isHistory": false
       },
       {
@@ -992,9 +992,9 @@
       },
       {
         "rank": 20,
-        "name": "Sonic Adventure 2",
-        "price_usd": 94.99,
-        "price_eur": 87.39,
+        "name": "Dream Point Bank VMU",
+        "price_usd": 91.74,
+        "price_eur": 84.4,
         "isHistory": false
       }
     ],
@@ -1079,8 +1079,8 @@
       {
         "rank": 12,
         "name": "Metroid",
-        "price_usd": 45.15,
-        "price_eur": 41.54,
+        "price_usd": 45.07,
+        "price_eur": 41.46,
         "isHistory": false
       },
       {
@@ -1248,37 +1248,37 @@
       },
       {
         "rank": 16,
-        "name": "Bio Miracle Bokutte Upa",
-        "price_usd": 233.61,
-        "price_eur": 214.92,
-        "isHistory": false
-      },
-      {
-        "rank": 17,
         "name": "Akumajou Dracula",
         "price_usd": 227.5,
         "price_eur": 209.3,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 17,
         "name": "ROB the Robot",
         "price_usd": 216.5,
         "price_eur": 199.18,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 18,
         "name": "Over Horizon",
         "price_usd": 210.6,
         "price_eur": 193.75,
         "isHistory": false
       },
       {
-        "rank": 20,
+        "rank": 19,
         "name": "Metal Slader Glory",
         "price_usd": 199.29,
         "price_eur": 183.35,
+        "isHistory": false
+      },
+      {
+        "rank": 20,
+        "name": "Pizza Pop",
+        "price_usd": 194.39,
+        "price_eur": 178.84,
         "isHistory": false
       }
     ],
@@ -1462,14 +1462,14 @@
       },
       {
         "rank": 6,
-        "name": "Disney Channel Gameboy Advance SP",
+        "name": "Pokemon Emerald [Not for Resale]",
         "price_usd": 800,
         "price_eur": 736,
         "isHistory": false
       },
       {
         "rank": 7,
-        "name": "Pokemon Emerald [Not for Resale]",
+        "name": "Disney Channel Gameboy Advance SP",
         "price_usd": 800,
         "price_eur": 736,
         "isHistory": false
@@ -1518,44 +1518,44 @@
       },
       {
         "rank": 14,
+        "name": "Gameboy Advance Console & E-Reader Bundle",
+        "price_usd": 319.12,
+        "price_eur": 293.59,
+        "isHistory": false
+      },
+      {
+        "rank": 15,
         "name": "Drill Dozer [Not for Resale]",
         "price_usd": 300,
         "price_eur": 276,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 16,
         "name": "Car Battler Joe",
         "price_usd": 289.53,
         "price_eur": 266.37,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 17,
         "name": "Ninja Five O",
         "price_usd": 287,
         "price_eur": 264.04,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 18,
         "name": "Gameboy Advance SP [Groudon Edition]",
         "price_usd": 270.04,
         "price_eur": 248.44,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 19,
         "name": "IQue Gameboy Advance SP Dragon",
         "price_usd": 269.8,
         "price_eur": 248.22,
-        "isHistory": false
-      },
-      {
-        "rank": 19,
-        "name": "Gameboy Advance Console & E-Reader Bundle",
-        "price_usd": 244.56,
-        "price_eur": 225,
         "isHistory": false
       },
       {
@@ -1577,8 +1577,8 @@
       {
         "rank": 2,
         "name": "Shantae",
-        "price_usd": 646.98,
-        "price_eur": 595.22,
+        "price_usd": 662.19,
+        "price_eur": 609.21,
         "isHistory": false
       },
       {
@@ -1695,16 +1695,16 @@
       },
       {
         "rank": 19,
-        "name": "Metal Gear Solid",
-        "price_usd": 135,
-        "price_eur": 124.2,
+        "name": "Pokemon Special Edition Gameboy Color System",
+        "price_usd": 132.5,
+        "price_eur": 121.9,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "Pokemon Special Edition Gameboy Color System",
-        "price_usd": 132.5,
-        "price_eur": 121.9,
+        "name": "Space Marauder",
+        "price_usd": 125.99,
+        "price_eur": 115.91,
         "isHistory": false
       }
     ],
@@ -1747,8 +1747,8 @@
       {
         "rank": 6,
         "name": "Pete Sampras Tennis",
-        "price_usd": 127.9,
-        "price_eur": 117.67,
+        "price_usd": 128.01,
+        "price_eur": 117.77,
         "isHistory": false
       },
       {
@@ -1774,16 +1774,16 @@
       },
       {
         "rank": 10,
-        "name": "Tails' Adventure",
+        "name": "Sega Game Gear [Majesco Revision]",
         "price_usd": 80,
         "price_eur": 73.6,
         "isHistory": false
       },
       {
         "rank": 11,
-        "name": "Sega Game Gear [Majesco Revision]",
-        "price_usd": 80,
-        "price_eur": 73.6,
+        "name": "Tails' Adventure",
+        "price_usd": 79.99,
+        "price_eur": 73.59,
         "isHistory": false
       },
       {
@@ -1802,37 +1802,37 @@
       },
       {
         "rank": 14,
+        "name": "Arena Maze of Death",
+        "price_usd": 49.99,
+        "price_eur": 45.99,
+        "isHistory": false
+      },
+      {
+        "rank": 15,
         "name": "Offical Game Gear Bag",
         "price_usd": 47.76,
         "price_eur": 43.94,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 16,
         "name": "Shining Force Sword of Hajya",
         "price_usd": 47.5,
         "price_eur": 43.7,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 17,
         "name": "Sega Game Gear Handheld",
         "price_usd": 47.41,
         "price_eur": 43.62,
         "isHistory": false
       },
       {
-        "rank": 17,
-        "name": "Urban Strike",
-        "price_usd": 47.09,
-        "price_eur": 43.32,
-        "isHistory": false
-      },
-      {
         "rank": 18,
-        "name": "Arena Maze of Death",
-        "price_usd": 45.08,
-        "price_eur": 41.47,
+        "name": "Urban Strike",
+        "price_usd": 47.32,
+        "price_eur": 43.53,
         "isHistory": false
       },
       {
@@ -1861,8 +1861,8 @@
       {
         "rank": 2,
         "name": "Outback Joey",
-        "price_usd": 3506.68,
-        "price_eur": 3226.15,
+        "price_usd": 3505.77,
+        "price_eur": 3225.31,
         "isHistory": false
       },
       {
@@ -2089,8 +2089,8 @@
       {
         "rank": 14,
         "name": "Phantasy Star",
-        "price_usd": 74.35,
-        "price_eur": 68.4,
+        "price_usd": 74.4,
+        "price_eur": 68.45,
         "isHistory": false
       },
       {
@@ -2394,8 +2394,8 @@
       {
         "rank": 17,
         "name": "Nintendo 64 Ice Blue Console",
-        "price_usd": 160.35,
-        "price_eur": 147.52,
+        "price_usd": 160.37,
+        "price_eur": 147.54,
         "isHistory": false
       },
       {
@@ -2558,8 +2558,8 @@
       {
         "rank": 20,
         "name": "Pokemon HeartGold Version [Pokewalker]",
-        "price_usd": 260.16,
-        "price_eur": 239.35,
+        "price_usd": 260.15,
+        "price_eur": 239.34,
         "isHistory": false
       }
     ],
@@ -2786,8 +2786,8 @@
       {
         "rank": 12,
         "name": "Peek-a-Boo Poker",
-        "price_usd": 1735.01,
-        "price_eur": 1596.21,
+        "price_usd": 1734.94,
+        "price_eur": 1596.14,
         "isHistory": false
       },
       {
@@ -2835,8 +2835,8 @@
       {
         "rank": 19,
         "name": "Panic Restaurant",
-        "price_usd": 1103.39,
-        "price_eur": 1015.12,
+        "price_usd": 1100,
+        "price_eur": 1012,
         "isHistory": false
       },
       {
@@ -3023,8 +3023,8 @@
       {
         "rank": 5,
         "name": "SuperGrafx Console",
-        "price_usd": 452.14,
-        "price_eur": 415.97,
+        "price_usd": 481.35,
+        "price_eur": 442.84,
         "isHistory": false
       },
       {
@@ -3563,8 +3563,8 @@
       {
         "rank": 1,
         "name": "The Hilton Family",
-        "price_usd": 1309.89,
-        "price_eur": 1205.1,
+        "price_usd": 1310.12,
+        "price_eur": 1205.31,
         "isHistory": false
       },
       {
@@ -3696,8 +3696,8 @@
       {
         "rank": 20,
         "name": "PSP 3000",
-        "price_usd": 134.95,
-        "price_eur": 124.15,
+        "price_usd": 134.48,
+        "price_eur": 123.72,
         "isHistory": false
       }
     ],
@@ -4067,8 +4067,8 @@
       {
         "rank": 12,
         "name": "Cool World",
-        "price_usd": 212.45,
-        "price_eur": 195.45,
+        "price_usd": 209,
+        "price_eur": 192.28,
         "isHistory": false
       },
       {
@@ -4259,8 +4259,8 @@
       {
         "rank": 19,
         "name": "Flipper Pinball",
-        "price_usd": 14.69,
-        "price_eur": 13.51,
+        "price_usd": 15.47,
+        "price_eur": 14.23,
         "isHistory": false
       },
       {
@@ -4275,8 +4275,8 @@
       {
         "rank": 1,
         "name": "Jack Bros.",
-        "price_usd": 900,
-        "price_eur": 828,
+        "price_usd": 962.18,
+        "price_eur": 885.21,
         "isHistory": false
       },
       {
@@ -4736,8 +4736,8 @@
       {
         "rank": 6,
         "name": "Jet Pac [ROM Cartridge]",
-        "price_usd": 136.71,
-        "price_eur": 125.77,
+        "price_usd": 137.18,
+        "price_eur": 126.21,
         "isHistory": false
       },
       {
@@ -4827,8 +4827,8 @@
       {
         "rank": 19,
         "name": "Skull & Crossbones",
-        "price_usd": 69.72,
-        "price_eur": 64.14,
+        "price_usd": 70.06,
+        "price_eur": 64.46,
         "isHistory": false
       },
       {
