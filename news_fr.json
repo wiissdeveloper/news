@@ -1,6 +1,38 @@
 {
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "notices": [
+    {
+      "guid": "https://www.jeuxvideo.com/news/2103204/playstation-sacrifie-son-premier-jeu-ps6-xbox-le-recupere.htm",
+      "title": "PlayStation sacrifie son premier jeu PS6... XBOX le récupère !",
+      "link": "https://www.jeuxvideo.com/news/2103204/playstation-sacrifie-son-premier-jeu-ps6-xbox-le-recupere.htm",
+      "pubDate": "Thu, 10 Sep 2026 21:40:08 +0200",
+      "contentSnippet": "“Nous sommes très enthousiastes à propos de ce projet, et plus de détails arriveront bientôt”, promettait Hermen Hulst de Sony lors de l’annonce de Physint. Des détails, nous en avons eu aujourd'hui : PlayStation laisse tomber le jeu deHideo Kojima et ce dernier a trouvé refuge chez XBOX. Wow !",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178904/1789041947-1469-card.png"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2103042/l-iphone-18-pro-max-est-il-une-meilleure-console-de-jeu-que-la-nintendo-switch-2.htm",
+      "title": "L'iPhone 18 Pro Max est-il une meilleure console de jeu que la Nintendo Switch 2 ?",
+      "link": "https://www.jeuxvideo.com/news/2103042/l-iphone-18-pro-max-est-il-une-meilleure-console-de-jeu-que-la-nintendo-switch-2.htm",
+      "pubDate": "Thu, 10 Sep 2026 20:10:09 +0200",
+      "contentSnippet": "Apple vient de révéler ses tous nouveaux smartphones, le très attendu iPhone Duo (le premier iPhone pliable de la marque), mais aussi les iPhone 18 Pro Max et iPhone 18 Pro, qui promettent à nouveau d’être parmi les smartphones les plus performants du marché. De quoi en faire des alternatives de choix...",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178898/1788984440-2144-card.jpg"
+    },
+    {
+      "guid": "https://www.gamekult.com/jeux/fable-3050882605/preview-3050871979.html",
+      "title": "Preview : Fable mise tout sur les sorts pour avoir des combats dynamiques",
+      "link": "https://www.gamekult.com/jeux/fable-3050882605/preview-3050871979.html",
+      "pubDate": "Thu, 10 Sep 2026 20:00:00 +0200",
+      "contentSnippet": "Cela semblait presque irréel d’enfin pouvoir poser ses mains sur le prochain Fable à la Gamescom, tant les années de perdition et d’hibernation de la licence ont été longues. Une prise en main certes encourageante pour ce retour en bonne et due forme, mais qui ne suffit pas à rassurer totalement.",
+      "thumbnail": "https://cdn.gamekult.com/optim/images/preview/30/3050871979/fable-mise-tout-sur-les-sorts-pour-avoir-des-combats-dynamiques-4ca74c68__930_300__0-56-3840-1294.png"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2103167/serveur-dedie-gratuit-valheim-1-0-comment-creer-un-dedicated-server-le-configurer-et-le-rejoindre.htm",
+      "title": "Serveur dédié gratuit Valheim 1.0 : Comment créer un Dedicated server, le configurer et le rejoindre ?",
+      "link": "https://www.jeuxvideo.com/news/2103167/serveur-dedie-gratuit-valheim-1-0-comment-creer-un-dedicated-server-le-configurer-et-le-rejoindre.htm",
+      "pubDate": "Thu, 10 Sep 2026 19:15:05 +0200",
+      "contentSnippet": "Le célèbre jeu de survie et de craft en monde ouvert est enfin sorti d'early access. Si vous souhaitez disposer d'un serveur de jeu persistant sur lequel jouer à Valheim avec vos amis, voici un guide de configuration sur Steam.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178903/1789033804-8417-card.jpg"
+    },
     {
       "guid": "https://www.actugaming.net/?p=823975",
       "title": "Level-5 annonce Inazuma Eleven: Bold Revolution et prévoit de sortir Decapolice, Snack World et Holy Horror Mansion en 2027",
@@ -8,6 +40,14 @@
       "pubDate": "Thu, 10 Sep 2026 16:03:24 +0000",
       "contentSnippet": "ActuGaming.net\nLevel-5 annonce Inazuma Eleven: Bold Revolution et prévoit de sortir Decapolice, Snack World et Holy Horror Mansion en 2027\n\nL’horrible présentation générée par IA chez Level-5 aujourd’hui nous aura au moins permis d’apprendre quelques […]\nL'article Level-5 annonce Inazuma Eleven: Bold Revolution et prévoit de sortir Decapolice, Snack World et Holy Horror Mansion en 2027 est disponible sur ActuGaming.net",
       "thumbnail": "https://static.actugaming.net/media/2026/09/decapolice.webp"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2103221/pour-la-rentree-gamesplanet-propose-wardogs-et-2-nouveaux-jeux-a-prix-reduit.htm",
+      "title": "Pour la rentrée, Gamesplanet propose WARDOGS et 2 nouveaux jeux à prix réduit ! ",
+      "link": "https://www.jeuxvideo.com/news/2103221/pour-la-rentree-gamesplanet-propose-wardogs-et-2-nouveaux-jeux-a-prix-reduit.htm",
+      "pubDate": "Thu, 10 Sep 2026 18:00:10 +0200",
+      "contentSnippet": "Envie de faire le plein de nouveautés sans exploser votre budget ? Gamesplanet propose actuellement de belles réductions sur plusieurs jeux, avec notamment WARDOGS, Minecraft Dungeons II et le nouveau DLC de Total War: WARHAMMER III.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178904/1789043436-9710-card.jpg"
     },
     {
       "guid": "https://www.gamekult.com/actualite/28-ans-apres-le-remake-de-zelda-ocarina-of-time-doit-affronter-le-souvenir-imperissable-de-son-aine-3050866818.html",
@@ -18,12 +58,28 @@
       "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050866818/25-ans-apres-ocarina-of-time-reste-le-miracle-que-nintendo-n-a-jamais-reproduit-015235f4__930_300__0-176-2048-835.jpg"
     },
     {
+      "guid": "https://www.jeuxvideo.com/news/2103343/les-3-dernieres-annonces-nintendo-switch-2-qui-ont-fait-vibrer-les-fans-professeur-layton-inazuma-eleven-yo-kai-watch-tu-en-pense-quoi.htm",
+      "title": "Les 3 dernières annonces Nintendo Switch 2 qui ont fait vibrer les fans : Professeur Layton, Inazuma Eleven, Yo‑Kai Watch",
+      "link": "https://www.jeuxvideo.com/news/2103343/les-3-dernieres-annonces-nintendo-switch-2-qui-ont-fait-vibrer-les-fans-professeur-layton-inazuma-eleven-yo-kai-watch-tu-en-pense-quoi.htm",
+      "pubDate": "Thu, 10 Sep 2026 17:33:28 +0200",
+      "contentSnippet": "Après Nintendo et ses deux Direct, Level-5 a conclu cette semaine d'annonces avec son propre événement. Intitulé Level-5 Vision, c'était l'occasion de découvrir l'avenir de Professeur Layton, Inazuma Eleven, Yo-Kai Watch et autres Fantasy Life dans une présentation marquée... par l'utilisation de l'IA.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178905/1789052733-18-card.jpg"
+    },
+    {
       "guid": "https://www.actugaming.net/?p=823953",
       "title": "Spyro: A Realm Beyond fait prendre la pose au dragon violet pour son anniversaire avec de nouvelles images",
       "link": "https://www.actugaming.net/spyro-a-realm-beyond-dragon-violet-anniversaire-nouvelles-images-823953/",
       "pubDate": "Thu, 10 Sep 2026 15:26:06 +0000",
       "contentSnippet": "ActuGaming.net\nSpyro: A Realm Beyond fait prendre la pose au dragon violet pour son anniversaire avec de nouvelles images\n\nLe truc avec les anniversaires du monde du jeu vidéo, c’est qu’il y en a […]\nL'article Spyro: A Realm Beyond fait prendre la pose au dragon violet pour son anniversaire avec de nouvelles images est disponible sur ActuGaming.net",
       "thumbnail": "https://static.actugaming.net/media/2026/06/spyro-a-realm-beyond-official-screenshot-5.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2102934/le-nouveau-jeu-video-gratuit-aniimo-est-il-un-gacha-j-ai-analyse-ce-pokemon-like.htm",
+      "title": "Le nouveau jeu vidéo gratuit Aniimo est-il un gacha ? J'ai analysé ce Pokémon like",
+      "link": "https://www.jeuxvideo.com/news/2102934/le-nouveau-jeu-video-gratuit-aniimo-est-il-un-gacha-j-ai-analyse-ce-pokemon-like.htm",
+      "pubDate": "Thu, 10 Sep 2026 17:15:09 +0200",
+      "contentSnippet": "Prévu pour le 16 septembre 2026 sur PC, consoles et mobiles, Aniimo s'impose comme l'un des Pokémon-like gratuits les plus ambitieux du moment. Entre monde ouvert étincelant, mécanique de fusion inédite et modèle économique inspiré des productions chinoises, on décrypte ce qui fait le sel de ce jeu vidéo...",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178896/1788958002-5356-card.jpg"
     },
     {
       "guid": "https://www.actugaming.net/?p=823952",
@@ -40,62 +96,6 @@
       "pubDate": "Thu, 10 Sep 2026 15:39:00 +0200",
       "contentSnippet": "Pour accompagner la sortie de GTA 6, PlayStation prévoit une DualSense en édition limitée, et les précommandes sont ouvertes. Lien ci-dessous.",
       "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872010/0bac2e74__930_300__0-243-1920-863.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=823946",
-      "title": "Est-ce que The Blood of Dawnwalker a un New Game Plus ?",
-      "link": "https://www.actugaming.net/the-blood-of-dawnwalker-new-game-plus-823946/",
-      "pubDate": "Thu, 10 Sep 2026 13:38:41 +0000",
-      "contentSnippet": "ActuGaming.net\nEst-ce que The Blood of Dawnwalker a un New Game Plus ?\n\nVous souhaitez savoir si The Blood of Dawnwalker propose aux joueurs un New Game Plus […]\nL'article Est-ce que The Blood of Dawnwalker a un New Game Plus ? est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/09/the-blood-of-dawnwalker-vignette-ng.jpg"
-    },
-    {
-      "guid": "https://www.gamekult.com/actualite/nova-games-foundation-mark-cerny-et-geoff-keighley-s-unissent-pour-financer-l-avenir-du-jeu-video-a-coups-de-millions-3050872001.html",
-      "title": "Nova Games Foundation : Mark Cerny et Geoff Keighley s'unissent pour financer l'avenir du jeu vidéo à coups de millions",
-      "link": "https://www.gamekult.com/actualite/nova-games-foundation-mark-cerny-et-geoff-keighley-s-unissent-pour-financer-l-avenir-du-jeu-video-a-coups-de-millions-3050872001.html",
-      "pubDate": "Thu, 10 Sep 2026 15:11:00 +0200",
-      "contentSnippet": "L'un est l'architecte en chef des consoles de salon de Sony depuis plus de dix ans, l'autre règne en maître de cérémonie sur les grands événements de l'industrie. Mais c'est loin des logos de PlayStation et des Game Awards (au moins sur le papier...) que Mark Cerny et Geoff Keighley ont décidé de s'associer. Dans une longue enquête signée Stephen Totilo pour Game File, le duo a annoncé la création de la Nova Games Foundation, un programme philanthropique à but non lucratif destiné à attribuer des bourses de six chiffres à de jeunes créateurs tout juste sortis de l'école, sans prise de parts ni aliénation de leurs licences.",
-      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872001/nova-games-foundation-mark-cerny-et-geoff-keighley-investissent-des-millions-pour-financer-les-jeunes-diplomes-du-jeu-video-843cae4e__930_300__0-0-1920-621.jpg"
-    },
-    {
-      "guid": "https://www.gamekult.com/actualite/playstation-plus-en-septembre-vous-pourrez-voir-si-slitterhead-est-si-decevant-que-ca-3050872000.html",
-      "title": "Agenda - PlayStation Plus : en septembre, vous pourrez voir si Slitterhead est si décevant que ça",
-      "link": "https://www.gamekult.com/actualite/playstation-plus-en-septembre-vous-pourrez-voir-si-slitterhead-est-si-decevant-que-ca-3050872000.html",
-      "pubDate": "Thu, 10 Sep 2026 14:30:00 +0200",
-      "contentSnippet": "Sony Interactive Entertainment a dévoilé la liste des jeux qui débarqueront dans le catalogue des jeux PlayStation Plus en septembre 2026. Si des titres comme RuneScape : Dragonwilds et WWE 2K26 sont à l'affiche de cette vague mensuelle, notre attention se porte aussi sur un certain Siltterhead.",
-      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872000/playstation-plus-en-septembre-vous-pourrez-voir-si-slitterhead-est-si-decevant-que-ca-a6a03dc2__930_300__0-887-3840-2121.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=823931",
-      "title": "Comment vendre l’argent dans The Blood of Dawnwalker ?",
-      "link": "https://www.actugaming.net/vendre-argent-the-blood-of-dawnwalker-823931/",
-      "pubDate": "Thu, 10 Sep 2026 12:25:22 +0000",
-      "contentSnippet": "ActuGaming.net\nComment vendre l’argent dans The Blood of Dawnwalker ?\n\nVous êtes en possession d’un montant faramineux d’objets en argent dans The Blood of Dawnwalker […]\nL'article Comment vendre l’argent dans The Blood of Dawnwalker ? est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/09/2026-09-10-14_21_07-Dawnwalker.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=823921",
-      "title": "La Switch 2 se met à jour avec l’ajout du VRR lorsque la console est connectée à votre TV",
-      "link": "https://www.actugaming.net/la-switch-2-se-met-a-jour-avec-lajout-du-vrr-lorsque-la-console-est-connectee-a-votre-tv-823921/",
-      "pubDate": "Thu, 10 Sep 2026 12:20:06 +0000",
-      "contentSnippet": "ActuGaming.net\nLa Switch 2 se met à jour avec l’ajout du VRR lorsque la console est connectée à votre TV\n\nL’annonce était peut-être trop technique pour être au sein du line-up du Nintendo Direct, et […]\nL'article La Switch 2 se met à jour avec l’ajout du VRR lorsque la console est connectée à votre TV est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2025/01/nintendo-switch-2-.jpg"
-    },
-    {
-      "guid": "https://www.jeuxvideo.com/preview/2102851/j-ai-joue-a-final-fantasy-7-revelation-et-l-ultime-chapitre-du-remake-va-nous-envoyer-au-septieme-ciel.htm",
-      "title": "Preview Final Fantasy VII Revelation sur PC",
-      "link": "https://www.jeuxvideo.com/preview/2102851/j-ai-joue-a-final-fantasy-7-revelation-et-l-ultime-chapitre-du-remake-va-nous-envoyer-au-septieme-ciel.htm",
-      "pubDate": "Thu, 10 Sep 2026 14:00:09 +0200",
-      "contentSnippet": "Il n'aura finalement pas du attendre si longtemps après Rebirth pour voir débarquer sa suite directe et dernière partie du remake de Final Fantasy VII. FF7 Revelation est donc prévu pour le 8 avril 2027 sur consoles et PC, y compris sur Nintendo Switch 2. On a pu y jouer une petite heure sur PS5 Pro,...",
-      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178889/1788886917-7051-card.jpg"
-    },
-    {
-      "guid": "https://www.jeuxvideo.com/news/2102884/les-fans-de-playstation-sont-en-train-de-realiser-que-xbox-reprend-le-dessus-en-convertissant-17-de-ses-jeux-xbox-one-ce-joueur-a-convaincu-tout-le-monde.htm",
-      "title": "Les fans de PlayStation sont en train de réaliser que Xbox reprend le dessus. En convertissant 17 de ses jeux Xbox One, ce joueur a convaincu tout le monde",
-      "link": "https://www.jeuxvideo.com/news/2102884/les-fans-de-playstation-sont-en-train-de-realiser-que-xbox-reprend-le-dessus-en-convertissant-17-de-ses-jeux-xbox-one-ce-joueur-a-convaincu-tout-le-monde.htm",
-      "pubDate": "Thu, 10 Sep 2026 12:50:08 +0200",
-      "contentSnippet": "Sur la communauté Reddit r/xbox, un joueur a démontré fin août 2026 qu'il pouvait transformer 17 disques physiques Xbox One en licences numériques grâce au nouveau programme de Microsoft. Face à la décision de Sony d'abandonner les disques d'ici 2028, cette innovation permet de conserver ses jeux physiques...",
-      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178895/1788947405-2841-card.jpg"
     }
   ]
 }
