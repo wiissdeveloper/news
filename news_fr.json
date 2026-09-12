@@ -1,6 +1,46 @@
 {
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "notices": [
+    {
+      "guid": "https://www.jeuxvideo.com/news/2103426/nintendo-switch-2-vos-jeux-seront-desormais-plus-fluides-grace-a-cette-fonctionnalite.htm",
+      "title": "Nintendo Switch 2 : Vos jeux seront désormais plus fluides grâce à cette fonctionnalité !",
+      "link": "https://www.jeuxvideo.com/news/2103426/nintendo-switch-2-vos-jeux-seront-desormais-plus-fluides-grace-a-cette-fonctionnalite.htm",
+      "pubDate": "Fri, 11 Sep 2026 20:10:08 +0200",
+      "contentSnippet": "Attendue de longue date par les possesseurs de Switch 2, la mise à jour système 23.0.0 de la dernière console de Nintendo débloque enfin une technologie d'affichage capitale. Grâce au déploiement du VRR sur téléviseur, la firme de Kyoto promet d'éliminer les saccades et d'offrir une expérience de jeu...",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178912/1789115701-9921-card.jpg"
+    },
+    {
+      "guid": "https://www.gamekult.com/actualite/gley-lancer-overdrive-revisite-le-shoot-em-up-de-la-mega-drive-sur-les-plateformes-modernes-et-neo-geo-3050872026.html",
+      "title": "Gley Lancer : Overdrive revisite le shoot'em up de la Mega Drive sur les plateformes modernes (et Neo Geo)",
+      "link": "https://www.gamekult.com/actualite/gley-lancer-overdrive-revisite-le-shoot-em-up-de-la-mega-drive-sur-les-plateformes-modernes-et-neo-geo-3050872026.html",
+      "pubDate": "Fri, 11 Sep 2026 20:05:00 +0200",
+      "contentSnippet": "Les passionnés de Nalua Studio sont en train de se faire un nom dans le milieu du rétrogaming. Après avoir livré le beat'em up Vengeance Hunters en octobre 2024, l'équipe vient d'annoncer Gley Lancer : Overdrive, un remake du shoot'em up de Masaya sorti en 1992 sur Mega Drive.",
+      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872026/gley-lancer-overdrive-revisite-le-shoot-em-up-de-la-mega-drive-sur-les-plateformes-modernes-et-neo-geo-75be7efd__930_300__0-46-1280-459.jpg"
+    },
+    {
+      "guid": "https://www.gamekult.com/jeux/twisted-tower-3050889537/test.html",
+      "title": "Test : Twisted Tower : complètement flingué, ce parc d'attractions",
+      "link": "https://www.gamekult.com/jeux/twisted-tower-3050889537/test.html",
+      "pubDate": "Fri, 11 Sep 2026 19:31:00 +0200",
+      "contentSnippet": "Après l'émouvant Neversong, qui abordait le subconscient d'un jeune garçon en plein coma, l'artiste Thomas Brush réalise un virage à 180 degrés et signe un FPS aux allures de BioShock chez 3D Realms (Duke Nukem 3D, Ion Fury). C'est pas très cher, c'est pas très long, et c'est pas incroyable, mais ça a le mérite de se jouer sans peine.",
+      "thumbnail": "https://cdn.gamekult.com/optim/images/review/30/3050872011/ce026dec__930_530__0-0-1896-1080.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2102911/andrei-the-blood-of-dawnwalker-quel-objet-choisir-pour-le-malefice.htm",
+      "title": "Andreï The Blood of Dawnwalker : Quel objet choisir pour le maléfice ?",
+      "link": "https://www.jeuxvideo.com/news/2102911/andrei-the-blood-of-dawnwalker-quel-objet-choisir-pour-le-malefice.htm",
+      "pubDate": "Fri, 11 Sep 2026 19:15:11 +0200",
+      "contentSnippet": "La quête « Le Cœur a ses raisons » vous demande d'enquêter et de faire attention aux détails, pour une fois, dans le RPG The Blood of Dawnwalker. Découvrez les différentes étapes pour obtenir le résultat souhaité grâce à ce guide.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178895/1788953302-1202-card.jpg"
+    },
+    {
+      "guid": "https://www.gamekult.com/actualite/geforce-now-wardogs-en-tete-de-gondole-cette-semaine-3050872024.html",
+      "title": "Agenda - GeForce NOW : Wardogs en tête de gondole cette semaine",
+      "link": "https://www.gamekult.com/actualite/geforce-now-wardogs-en-tete-de-gondole-cette-semaine-3050872024.html",
+      "pubDate": "Fri, 11 Sep 2026 19:03:00 +0200",
+      "contentSnippet": "Pas de grosse nouveauté à signaler chez Nvidia cette semaine, le service GeForce NOW propose juste sa fournée hebdomadaire, et c'est mené par le FPS à 100 joueurs Wardogs.",
+      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872024/c2d277ce__930_300__0-190-2048-849.jpg"
+    },
     {
       "guid": "https://www.actugaming.net/?p=824127",
       "title": "Pèlerinage de puissance The Blood of Dawnwalker : où trouver toutes les stèles sacrées ?",
@@ -56,46 +96,6 @@
       "pubDate": "Fri, 11 Sep 2026 15:16:00 +0200",
       "contentSnippet": "Porté par Jade Raymond (Assassin's Creed Unity) avant son départ en 2025, le mystérieux jeu-service Fairgames reste l'une des grandes inconnues du catalogue PlayStation à venir, surtout dans un climat compliqué pour les nouveaux jeux-services. Cependant, la plateforme Player.gg vient d'ouvrir les inscriptions pour « Project Espresso », et absolument toutes les informations disponibles établissent qu'il s'agit, à 99,9%, du jeu de Sony. Voyons la bête.",
       "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872020/fairgames-le-jeu-service-de-playstation-se-montre-enfin-et-vous-pouvez-essayer-d-y-jouer-2d7f76fd__930_300__0-502-3840-1742.jpg"
-    },
-    {
-      "guid": "https://www.gamekult.com/actualite/wardogs-le-concurrent-de-battlefield-rafle-la-mise-1-million-de-joueurs-au-lancement-3050872019.html",
-      "title": "Wardogs : le concurrent de Battlefield rafle la mise, 1 million de joueurs au lancement",
-      "link": "https://www.gamekult.com/actualite/wardogs-le-concurrent-de-battlefield-rafle-la-mise-1-million-de-joueurs-au-lancement-3050872019.html",
-      "pubDate": "Fri, 11 Sep 2026 14:00:00 +0200",
-      "contentSnippet": "Un nouveau colosse s'avance sur le terrain des FPS de guerre. Pas encore couvert dans nos colonnes, Wardogs jouit pourtant d'une excellente dynamique depuis quelque mois et confirme sa popularité avec 1 million de ventes dès son premier jour.",
-      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872019/wardogs-le-concurrent-de-battlefield-rafle-la-mise-1-million-de-joueurs-au-lancement-b7ddce7b__930_300__0-127-1920-747.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=824062",
-      "title": "Acte d’allégeance The Blood of Dawnwalker : quel choix devriez-vous faire ?",
-      "link": "https://www.actugaming.net/acte-allegeance-the-blood-of-dawnwalker-824062/",
-      "pubDate": "Fri, 11 Sep 2026 11:44:56 +0000",
-      "contentSnippet": "ActuGaming.net\nActe d’allégeance The Blood of Dawnwalker : quel choix devriez-vous faire ?\n\nLa fin de la quête “Actes d’allégeance” va sceller ou non votre participation aux plans […]\nL'article Acte d’allégeance The Blood of Dawnwalker : quel choix devriez-vous faire ? est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/09/the-blood-of-dawnwalker-crake.jpg"
-    },
-    {
-      "guid": "https://www.gamekult.com/actualite/digital-devil-story-megami-tensei-les-origines-litteraires-de-la-serie-qui-a-forge-atlus-3050865724.html",
-      "title": "Mémoire cash - Digital Devil Story : Megami Tensei, les origines littéraires de la série qui a forgé Atlus",
-      "link": "https://www.gamekult.com/actualite/digital-devil-story-megami-tensei-les-origines-litteraires-de-la-serie-qui-a-forge-atlus-3050865724.html",
-      "pubDate": "Fri, 11 Sep 2026 13:00:00 +0200",
-      "contentSnippet": "À la fin des années 80, le JRPG est encore une curiosité en chantier. Dragon Quest a mis la première pierre dès 1986, puis Final Fantasy va poser les bases d’un canevas épique dès l'année suivante. Et au milieu de ce duel fondateur, un intrus arrive par une porte que personne n’attendait : celle de l’occultisme et des démons invoqués à coups de machines archaïques. Digital Devil Story : Megami Tensei, ce n’est pas seulement un RPG de plus : c’est le chaînon étrange qui a ouvert la voie à toute une autre manière de concevoir l’aventure japonaise.",
-      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050865724/digital-devil-story-megami-tensei-c-est-le-point-de-depart-maudit-de-l-etrange-cc56a66c__930_300__0-49-1914-665.png"
-    },
-    {
-      "guid": "https://www.jeuxvideo.com/news/2103165/cette-exclusivite-sur-nintendo-switch-2-vous-force-a-jouer-en-mode-portable-impossible-de-jouer-sur-une-tv.htm",
-      "title": "Cette exclusivité sur Nintendo Switch 2 vous force à jouer en mode portable : impossible de jouer sur une TV",
-      "link": "https://www.jeuxvideo.com/news/2103165/cette-exclusivite-sur-nintendo-switch-2-vous-force-a-jouer-en-mode-portable-impossible-de-jouer-sur-une-tv.htm",
-      "pubDate": "Fri, 11 Sep 2026 12:50:10 +0200",
-      "contentSnippet": "Le concept de la Switch, c’est sa nature hybride. Mais ce jeu tente une approche radicale. Il impose le mode portable…",
-      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178903/1789031012-1680-card.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=824055",
-      "title": "Fontaine de vie The Blood of Dawnwalker : quel choix devez-vous faire avec Anca ?",
-      "link": "https://www.actugaming.net/fontaine-de-vie-the-blood-of-dawnwalker-824055/",
-      "pubDate": "Fri, 11 Sep 2026 10:27:57 +0000",
-      "contentSnippet": "ActuGaming.net\nFontaine de vie The Blood of Dawnwalker : quel choix devez-vous faire avec Anca ?\n\nAprès avoir relevé de nombreux défis dans les ruines anciennes avec Anca, dans The Blood […]\nL'article Fontaine de vie The Blood of Dawnwalker : quel choix devez-vous faire avec Anca ? est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/09/2026-09-09-23_11_57-Greenshot.jpg"
     }
   ]
 }
