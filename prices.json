@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14",
+  "updated": "2026-09-15",
   "systems": {
     "3do": [
       {
@@ -326,8 +326,8 @@
       {
         "rank": 6,
         "name": "b*nQ [Homebrew]",
-        "price_usd": 200.53,
-        "price_eur": 184.49,
+        "price_usd": 201.99,
+        "price_eur": 185.83,
         "isHistory": false
       },
       {
@@ -382,8 +382,8 @@
       {
         "rank": 14,
         "name": "Baby Pac-Man [Homebrew]",
-        "price_usd": 129.66,
-        "price_eur": 119.29,
+        "price_usd": 133.41,
+        "price_eur": 122.74,
         "isHistory": false
       },
       {
@@ -724,8 +724,8 @@
       {
         "rank": 2,
         "name": "BattleSphere",
-        "price_usd": 412.5,
-        "price_eur": 379.5,
+        "price_usd": 410.93,
+        "price_eur": 378.06,
         "isHistory": false
       },
       {
@@ -843,8 +843,8 @@
       {
         "rank": 19,
         "name": "Towers II",
-        "price_usd": 129.54,
-        "price_eur": 119.18,
+        "price_usd": 129.56,
+        "price_eur": 119.2,
         "isHistory": false
       },
       {
@@ -944,8 +944,8 @@
       {
         "rank": 13,
         "name": "Giga Wing 2",
-        "price_usd": 134.73,
-        "price_eur": 123.95,
+        "price_usd": 134.7,
+        "price_eur": 123.92,
         "isHistory": false
       },
       {
@@ -986,8 +986,8 @@
       {
         "rank": 19,
         "name": "Project Justice",
-        "price_usd": 96.15,
-        "price_eur": 88.46,
+        "price_usd": 96.66,
+        "price_eur": 88.93,
         "isHistory": false
       },
       {
@@ -1016,15 +1016,15 @@
       {
         "rank": 3,
         "name": "All One",
-        "price_usd": 106.18,
-        "price_eur": 97.69,
+        "price_usd": 106,
+        "price_eur": 97.52,
         "isHistory": false
       },
       {
         "rank": 4,
         "name": "Famicom Disk System Console",
-        "price_usd": 100,
-        "price_eur": 92,
+        "price_usd": 93.14,
+        "price_eur": 85.69,
         "isHistory": false
       },
       {
@@ -1128,8 +1128,8 @@
       {
         "rank": 19,
         "name": "Electrician",
-        "price_usd": 37.5,
-        "price_eur": 34.5,
+        "price_usd": 37.44,
+        "price_eur": 34.44,
         "isHistory": false
       },
       {
@@ -1341,14 +1341,14 @@
       },
       {
         "rank": 9,
-        "name": "Analogue Pocket [Black Anodized]",
+        "name": "Analogue Pocket [Supreme Red]",
         "price_usd": 700,
         "price_eur": 644,
         "isHistory": false
       },
       {
         "rank": 10,
-        "name": "Analogue Pocket [Supreme Red]",
+        "name": "Analogue Pocket [Black Anodized]",
         "price_usd": 700,
         "price_eur": 644,
         "isHistory": false
@@ -1404,14 +1404,14 @@
       },
       {
         "rank": 18,
-        "name": "Analogue Pocket [Grape]",
+        "name": "Analogue Pocket [Berry]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
       },
       {
         "rank": 19,
-        "name": "Analogue Pocket [Berry]",
+        "name": "Analogue Pocket [Grape]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
@@ -1660,14 +1660,14 @@
       },
       {
         "rank": 14,
-        "name": "Pokemon Crystal",
+        "name": "Zelda Oracle of Seasons [Not for Resale]",
         "price_usd": 160,
         "price_eur": 147.2,
         "isHistory": false
       },
       {
         "rank": 15,
-        "name": "Zelda Oracle of Seasons [Not for Resale]",
+        "name": "Pokemon Crystal",
         "price_usd": 160,
         "price_eur": 147.2,
         "isHistory": false
@@ -1768,8 +1768,8 @@
       {
         "rank": 9,
         "name": "EverDrive GG X7",
-        "price_usd": 81.28,
-        "price_eur": 74.78,
+        "price_usd": 84.44,
+        "price_eur": 77.68,
         "isHistory": false
       },
       {
@@ -1838,8 +1838,8 @@
       {
         "rank": 19,
         "name": "Bubble Bobble",
-        "price_usd": 42.6,
-        "price_eur": 39.19,
+        "price_usd": 42.41,
+        "price_eur": 39.02,
         "isHistory": false
       },
       {
@@ -1854,8 +1854,8 @@
       {
         "rank": 1,
         "name": "Blockbuster World Championships II",
-        "price_usd": 5232.28,
-        "price_eur": 4813.7,
+        "price_usd": 5232.27,
+        "price_eur": 4813.69,
         "isHistory": false
       },
       {
@@ -1889,8 +1889,8 @@
       {
         "rank": 6,
         "name": "Sega Genesis JVC X'Eye",
-        "price_usd": 602.71,
-        "price_eur": 554.49,
+        "price_usd": 601.35,
+        "price_eur": 553.24,
         "isHistory": false
       },
       {
@@ -2005,8 +2005,8 @@
       {
         "rank": 2,
         "name": "Golden Axe Warrior",
-        "price_usd": 175.02,
-        "price_eur": 161.02,
+        "price_usd": 174.76,
+        "price_eur": 160.78,
         "isHistory": false
       },
       {
@@ -2082,8 +2082,8 @@
       {
         "rank": 13,
         "name": "Phantasy Star",
-        "price_usd": 74.4,
-        "price_eur": 68.45,
+        "price_usd": 74.43,
+        "price_eur": 68.48,
         "isHistory": false
       },
       {
@@ -2124,8 +2124,8 @@
       {
         "rank": 19,
         "name": "Silver Valley [Homebrew]",
-        "price_usd": 51.18,
-        "price_eur": 47.09,
+        "price_usd": 50.59,
+        "price_eur": 46.54,
         "isHistory": false
       },
       {
@@ -2523,8 +2523,8 @@
       {
         "rank": 15,
         "name": "Nintendo DSi Development Kit [Panda]",
-        "price_usd": 654.77,
-        "price_eur": 602.39,
+        "price_usd": 656.06,
+        "price_eur": 603.58,
         "isHistory": false
       },
       {
@@ -2835,8 +2835,8 @@
       {
         "rank": 19,
         "name": "Panic Restaurant",
-        "price_usd": 1100,
-        "price_eur": 1012,
+        "price_usd": 1097.5,
+        "price_eur": 1009.7,
         "isHistory": false
       },
       {
@@ -3002,15 +3002,15 @@
       {
         "rank": 2,
         "name": "Darius Alpha",
-        "price_usd": 1429.21,
-        "price_eur": 1314.87,
+        "price_usd": 1429.97,
+        "price_eur": 1315.57,
         "isHistory": false
       },
       {
         "rank": 3,
         "name": "PC Engine GT",
-        "price_usd": 569.02,
-        "price_eur": 523.5,
+        "price_usd": 569.29,
+        "price_eur": 523.75,
         "isHistory": false
       },
       {
@@ -3477,8 +3477,8 @@
       {
         "rank": 9,
         "name": "Kuon",
-        "price_usd": 758.07,
-        "price_eur": 697.42,
+        "price_usd": 811.72,
+        "price_eur": 746.78,
         "isHistory": false
       },
       {
@@ -3519,8 +3519,8 @@
       {
         "rank": 15,
         "name": "Obscure",
-        "price_usd": 377.5,
-        "price_eur": 347.3,
+        "price_usd": 380,
+        "price_eur": 349.6,
         "isHistory": false
       },
       {
@@ -3539,16 +3539,16 @@
       },
       {
         "rank": 18,
-        "name": "Playstation 2 Gran Turismo 3 Console Bundle",
-        "price_usd": 299.99,
-        "price_eur": 275.99,
+        "name": ".hack Quarantine",
+        "price_usd": 300.76,
+        "price_eur": 276.7,
         "isHistory": false
       },
       {
         "rank": 19,
-        "name": ".hack Quarantine",
-        "price_usd": 299.95,
-        "price_eur": 275.95,
+        "name": "Playstation 2 Gran Turismo 3 Console Bundle",
+        "price_usd": 299.99,
+        "price_eur": 275.99,
         "isHistory": false
       },
       {
@@ -3831,8 +3831,8 @@
       {
         "rank": 19,
         "name": "Metal Head",
-        "price_usd": 50.51,
-        "price_eur": 46.47,
+        "price_usd": 50.5,
+        "price_eur": 46.46,
         "isHistory": false
       },
       {
@@ -3875,8 +3875,8 @@
       {
         "rank": 5,
         "name": "Fire Emblem: Thracia 776 [Deluxe Pack]",
-        "price_usd": 431.5,
-        "price_eur": 396.98,
+        "price_usd": 444,
+        "price_eur": 408.48,
         "isHistory": false
       },
       {
@@ -4025,8 +4025,8 @@
       {
         "rank": 6,
         "name": "Super Nintendo System [Mario All-Stars Set]",
-        "price_usd": 287.66,
-        "price_eur": 264.65,
+        "price_usd": 324.15,
+        "price_eur": 298.22,
         "isHistory": false
       },
       {
@@ -4116,8 +4116,8 @@
       {
         "rank": 19,
         "name": "Mega Man X2",
-        "price_usd": 174.47,
-        "price_eur": 160.51,
+        "price_usd": 175.74,
+        "price_eur": 161.68,
         "isHistory": false
       },
       {
@@ -4573,8 +4573,8 @@
       {
         "rank": 3,
         "name": "Golden Axe",
-        "price_usd": 197.61,
-        "price_eur": 181.8,
+        "price_usd": 197.74,
+        "price_eur": 181.92,
         "isHistory": false
       },
       {
