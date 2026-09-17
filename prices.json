@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16",
+  "updated": "2026-09-17",
   "systems": {
     "3do": [
       {
@@ -666,8 +666,8 @@
       {
         "rank": 14,
         "name": "Lemmings",
-        "price_usd": 95.04,
-        "price_eur": 87.44,
+        "price_usd": 95.02,
+        "price_eur": 87.42,
         "isHistory": false
       },
       {
@@ -971,30 +971,30 @@
       },
       {
         "rank": 17,
+        "name": "Skies of Arcadia",
+        "price_usd": 102.2,
+        "price_eur": 94.02,
+        "isHistory": false
+      },
+      {
+        "rank": 18,
         "name": "Sega Dreamcast Arcade Stick",
         "price_usd": 100,
         "price_eur": 92,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 19,
         "name": "Tech Romancer",
         "price_usd": 97.19,
         "price_eur": 89.41,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 20,
         "name": "Project Justice",
         "price_usd": 96.66,
         "price_eur": 88.93,
-        "isHistory": false
-      },
-      {
-        "rank": 20,
-        "name": "Sonic Adventure 2",
-        "price_usd": 92.72,
-        "price_eur": 85.3,
         "isHistory": false
       }
     ],
@@ -1023,8 +1023,8 @@
       {
         "rank": 4,
         "name": "Famicom Disk System Console",
-        "price_usd": 93.14,
-        "price_eur": 85.69,
+        "price_usd": 92.5,
+        "price_eur": 85.1,
         "isHistory": false
       },
       {
@@ -1058,8 +1058,8 @@
       {
         "rank": 9,
         "name": "Omoikkiri Tanteidan Haado Gumi",
-        "price_usd": 58.68,
-        "price_eur": 53.99,
+        "price_usd": 58.51,
+        "price_eur": 53.83,
         "isHistory": false
       },
       {
@@ -1071,23 +1071,23 @@
       },
       {
         "rank": 11,
-        "name": "Dracula II",
-        "price_usd": 48.11,
-        "price_eur": 44.26,
-        "isHistory": false
-      },
-      {
-        "rank": 12,
         "name": "Metroid",
         "price_usd": 45.07,
         "price_eur": 41.46,
         "isHistory": false
       },
       {
-        "rank": 13,
+        "rank": 12,
         "name": "Clu Clu Land",
         "price_usd": 42.99,
         "price_eur": 39.55,
+        "isHistory": false
+      },
+      {
+        "rank": 13,
+        "name": "Dracula II",
+        "price_usd": 42.49,
+        "price_eur": 39.09,
         "isHistory": false
       },
       {
@@ -1100,8 +1100,8 @@
       {
         "rank": 15,
         "name": "Kick Challenger: Air Foot",
-        "price_usd": 41.57,
-        "price_eur": 38.24,
+        "price_usd": 41.52,
+        "price_eur": 38.2,
         "isHistory": false
       },
       {
@@ -1114,8 +1114,8 @@
       {
         "rank": 17,
         "name": "BurgerTime",
-        "price_usd": 40.28,
-        "price_eur": 37.06,
+        "price_usd": 40.23,
+        "price_eur": 37.01,
         "isHistory": false
       },
       {
@@ -1220,37 +1220,37 @@
       },
       {
         "rank": 12,
+        "name": "Akumajou Dracula",
+        "price_usd": 265.81,
+        "price_eur": 244.55,
+        "isHistory": false
+      },
+      {
+        "rank": 13,
         "name": "Seirei Densetsu Lickle",
         "price_usd": 264.43,
         "price_eur": 243.28,
         "isHistory": false
       },
       {
-        "rank": 13,
+        "rank": 14,
         "name": "Jetsons: Cogswell's Caper",
         "price_usd": 246.97,
         "price_eur": 227.21,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 15,
         "name": "Battle Formula",
         "price_usd": 240.52,
         "price_eur": 221.28,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 16,
         "name": "Famicom Data Recorder",
         "price_usd": 239.98,
         "price_eur": 220.78,
-        "isHistory": false
-      },
-      {
-        "rank": 16,
-        "name": "Akumajou Dracula",
-        "price_usd": 227.5,
-        "price_eur": 209.3,
         "isHistory": false
       },
       {
@@ -1605,8 +1605,8 @@
       {
         "rank": 6,
         "name": "Pokemon Gold [Not For Resale]",
-        "price_usd": 397,
-        "price_eur": 365.24,
+        "price_usd": 393.25,
+        "price_eur": 361.79,
         "isHistory": false
       },
       {
@@ -1712,8 +1712,8 @@
       {
         "rank": 1,
         "name": "Sega Game Gear [Super Sonic Sports Pack]",
-        "price_usd": 278.24,
-        "price_eur": 255.98,
+        "price_usd": 278.09,
+        "price_eur": 255.84,
         "isHistory": false
       },
       {
@@ -1733,8 +1733,8 @@
       {
         "rank": 4,
         "name": "Blue Sega Game Gear",
-        "price_usd": 147.34,
-        "price_eur": 135.55,
+        "price_usd": 147.17,
+        "price_eur": 135.4,
         "isHistory": false
       },
       {
@@ -2047,8 +2047,8 @@
       {
         "rank": 8,
         "name": "Master EverDrive X7",
-        "price_usd": 107.36,
-        "price_eur": 98.77,
+        "price_usd": 107.31,
+        "price_eur": 98.73,
         "isHistory": false
       },
       {
@@ -2131,8 +2131,8 @@
       {
         "rank": 20,
         "name": "Ghouls N Ghosts",
-        "price_usd": 47.46,
-        "price_eur": 43.66,
+        "price_usd": 47.7,
+        "price_eur": 43.88,
         "isHistory": false
       }
     ],
@@ -2509,8 +2509,8 @@
       {
         "rank": 13,
         "name": "Pokemon [Not for Resale Secret Egg]",
-        "price_usd": 825.61,
-        "price_eur": 759.56,
+        "price_usd": 824.82,
+        "price_eur": 758.83,
         "isHistory": false
       },
       {
@@ -2558,8 +2558,8 @@
       {
         "rank": 20,
         "name": "Pokemon White Nintendo DSi System",
-        "price_usd": 279.4,
-        "price_eur": 257.05,
+        "price_usd": 279.1,
+        "price_eur": 256.77,
         "isHistory": false
       }
     ],
@@ -3137,8 +3137,8 @@
       {
         "rank": 1,
         "name": "Chip Chan Kick",
-        "price_usd": 293.13,
-        "price_eur": 269.68,
+        "price_usd": 293.64,
+        "price_eur": 270.15,
         "isHistory": false
       },
       {
@@ -3540,8 +3540,8 @@
       {
         "rank": 18,
         "name": ".hack Quarantine",
-        "price_usd": 300.76,
-        "price_eur": 276.7,
+        "price_usd": 301.05,
+        "price_eur": 276.97,
         "isHistory": false
       },
       {
@@ -3682,8 +3682,8 @@
       {
         "rank": 18,
         "name": "PSP 3000 Bright Yellow",
-        "price_usd": 144.76,
-        "price_eur": 133.18,
+        "price_usd": 144.85,
+        "price_eur": 133.26,
         "isHistory": false
       },
       {
@@ -4310,8 +4310,8 @@
       {
         "rank": 6,
         "name": "Red Alarm [Not for Resale]",
-        "price_usd": 299.92,
-        "price_eur": 275.93,
+        "price_usd": 299.89,
+        "price_eur": 275.9,
         "isHistory": false
       },
       {
@@ -4331,8 +4331,8 @@
       {
         "rank": 9,
         "name": "Bound High",
-        "price_usd": 188.23,
-        "price_eur": 173.17,
+        "price_usd": 184.27,
+        "price_eur": 169.53,
         "isHistory": false
       },
       {
