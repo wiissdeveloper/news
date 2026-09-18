@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17",
+  "updated": "2026-09-18",
   "systems": {
     "3do": [
       {
@@ -117,8 +117,8 @@
       {
         "rank": 17,
         "name": "American Laser Games Game Gun",
-        "price_usd": 125.63,
-        "price_eur": 115.58,
+        "price_usd": 125.32,
+        "price_eur": 115.29,
         "isHistory": false
       },
       {
@@ -291,8 +291,8 @@
       {
         "rank": 1,
         "name": "Scramble [Homebrew]",
-        "price_usd": 454.45,
-        "price_eur": 418.09,
+        "price_usd": 453.1,
+        "price_eur": 416.85,
         "isHistory": false
       },
       {
@@ -1206,14 +1206,14 @@
       },
       {
         "rank": 10,
-        "name": "Bubble Bobble 2",
+        "name": "Makaimura [Box Cart]",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
       },
       {
         "rank": 11,
-        "name": "Makaimura [Box Cart]",
+        "name": "Bubble Bobble 2",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
@@ -1398,8 +1398,8 @@
       {
         "rank": 17,
         "name": "Analogue Pocket [Transparent Clear]",
-        "price_usd": 502.63,
-        "price_eur": 462.42,
+        "price_usd": 502.3,
+        "price_eur": 462.12,
         "isHistory": false
       },
       {
@@ -1525,16 +1525,16 @@
       },
       {
         "rank": 15,
-        "name": "Drill Dozer [Not for Resale]",
-        "price_usd": 300,
-        "price_eur": 276,
+        "name": "Car Battler Joe",
+        "price_usd": 300.79,
+        "price_eur": 276.73,
         "isHistory": false
       },
       {
         "rank": 16,
-        "name": "Car Battler Joe",
-        "price_usd": 289.53,
-        "price_eur": 266.37,
+        "name": "Drill Dozer [Not for Resale]",
+        "price_usd": 300,
+        "price_eur": 276,
         "isHistory": false
       },
       {
@@ -1546,23 +1546,23 @@
       },
       {
         "rank": 18,
-        "name": "Gameboy Advance SP [Groudon Edition]",
-        "price_usd": 270.04,
-        "price_eur": 248.44,
-        "isHistory": false
-      },
-      {
-        "rank": 19,
         "name": "IQue Gameboy Advance SP Dragon",
         "price_usd": 269.8,
         "price_eur": 248.22,
         "isHistory": false
       },
       {
-        "rank": 20,
+        "rank": 19,
         "name": "GBA Micro Silver",
         "price_usd": 236.98,
         "price_eur": 218.02,
+        "isHistory": false
+      },
+      {
+        "rank": 20,
+        "name": "Eon Ticket",
+        "price_usd": 230,
+        "price_eur": 211.6,
         "isHistory": false
       }
     ],
@@ -1612,8 +1612,8 @@
       {
         "rank": 7,
         "name": "Pine Creek [Collector's Edition]",
-        "price_usd": 318.96,
-        "price_eur": 293.44,
+        "price_usd": 319.02,
+        "price_eur": 293.5,
         "isHistory": false
       },
       {
@@ -2296,8 +2296,8 @@
       {
         "rank": 3,
         "name": "Nintendo 64 007 Goldeneye Value Pack",
-        "price_usd": 748.18,
-        "price_eur": 688.33,
+        "price_usd": 743.52,
+        "price_eur": 684.04,
         "isHistory": false
       },
       {
@@ -2324,8 +2324,8 @@
       {
         "rank": 7,
         "name": "Starcraft 64",
-        "price_usd": 433.75,
-        "price_eur": 399.05,
+        "price_usd": 435.51,
+        "price_eur": 400.67,
         "isHistory": false
       },
       {
@@ -2387,8 +2387,8 @@
       {
         "rank": 16,
         "name": "Nintendo 64 System [Super Mario 64 Bundle]",
-        "price_usd": 172.72,
-        "price_eur": 158.9,
+        "price_usd": 174.51,
+        "price_eur": 160.55,
         "isHistory": false
       },
       {
@@ -2516,8 +2516,8 @@
       {
         "rank": 14,
         "name": "Seattle Mariners Nintendo DS Lite",
-        "price_usd": 730.34,
-        "price_eur": 671.91,
+        "price_usd": 728.73,
+        "price_eur": 670.43,
         "isHistory": false
       },
       {
@@ -2765,8 +2765,8 @@
       {
         "rank": 9,
         "name": "Little Samson",
-        "price_usd": 2408.01,
-        "price_eur": 2215.37,
+        "price_usd": 2599.99,
+        "price_eur": 2391.99,
         "isHistory": false
       },
       {
@@ -3037,8 +3037,8 @@
       {
         "rank": 7,
         "name": "PC Engine Duo-RX",
-        "price_usd": 438.7,
-        "price_eur": 403.6,
+        "price_usd": 438.27,
+        "price_eur": 403.21,
         "isHistory": false
       },
       {
@@ -3071,16 +3071,16 @@
       },
       {
         "rank": 12,
-        "name": "PC Engine Duo System",
-        "price_usd": 297.7,
-        "price_eur": 273.88,
+        "name": "Bomberman '93 [Special]",
+        "price_usd": 287.68,
+        "price_eur": 264.67,
         "isHistory": false
       },
       {
         "rank": 13,
-        "name": "Bomberman '93 [Special]",
-        "price_usd": 287.68,
-        "price_eur": 264.67,
+        "name": "PC Engine Duo System",
+        "price_usd": 272.47,
+        "price_eur": 250.67,
         "isHistory": false
       },
       {
@@ -3144,8 +3144,8 @@
       {
         "rank": 2,
         "name": "NEC PC-FX Console",
-        "price_usd": 286.5,
-        "price_eur": 263.58,
+        "price_usd": 284.74,
+        "price_eur": 261.96,
         "isHistory": false
       },
       {
@@ -3221,8 +3221,8 @@
       {
         "rank": 13,
         "name": "Der Langrisser FX",
-        "price_usd": 100.17,
-        "price_eur": 92.16,
+        "price_usd": 100.22,
+        "price_eur": 92.2,
         "isHistory": false
       },
       {
@@ -3420,14 +3420,14 @@
     "ps2": [
       {
         "rank": 1,
-        "name": "PlayStation 2 System [Yellow Automotive Edition]",
+        "name": "PlayStation 2 System [Blue Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
       },
       {
         "rank": 2,
-        "name": "PlayStation 2 System [Blue Automotive Edition]",
+        "name": "PlayStation 2 System [Yellow Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
@@ -3449,8 +3449,8 @@
       {
         "rank": 5,
         "name": "PlayStation 2 System [White Automotive Edition]",
-        "price_usd": 1712.03,
-        "price_eur": 1575.07,
+        "price_usd": 1691.98,
+        "price_eur": 1556.62,
         "isHistory": false
       },
       {
@@ -3477,8 +3477,8 @@
       {
         "rank": 9,
         "name": "Kuon",
-        "price_usd": 811.72,
-        "price_eur": 746.78,
+        "price_usd": 811.1,
+        "price_eur": 746.21,
         "isHistory": false
       },
       {
@@ -3498,8 +3498,8 @@
       {
         "rank": 12,
         "name": "Resident Evil 4 Chainsaw Controller",
-        "price_usd": 491.39,
-        "price_eur": 452.08,
+        "price_usd": 491.13,
+        "price_eur": 451.84,
         "isHistory": false
       },
       {
@@ -3688,16 +3688,16 @@
       },
       {
         "rank": 19,
-        "name": "PSP 2000 Limited Edition Star Wars Battlefront Version [White]",
-        "price_usd": 135.89,
-        "price_eur": 125.02,
+        "name": "PSP 3000",
+        "price_usd": 134.48,
+        "price_eur": 123.72,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "PSP 3000",
-        "price_usd": 134.48,
-        "price_eur": 123.72,
+        "name": "PSP 2000 Limited Edition Star Wars Battlefront Version [White]",
+        "price_usd": 133.72,
+        "price_eur": 123.02,
         "isHistory": false
       }
     ],
@@ -3809,23 +3809,23 @@
       },
       {
         "rank": 16,
-        "name": "WWF Raw",
-        "price_usd": 59.63,
-        "price_eur": 54.86,
-        "isHistory": false
-      },
-      {
-        "rank": 17,
         "name": "Cosmic Carnage",
         "price_usd": 57.63,
         "price_eur": 53.02,
         "isHistory": false
       },
       {
+        "rank": 17,
+        "name": "WWF Raw",
+        "price_usd": 56.78,
+        "price_eur": 52.24,
+        "isHistory": false
+      },
+      {
         "rank": 18,
         "name": "Toughman Contest",
-        "price_usd": 56.98,
-        "price_eur": 52.42,
+        "price_usd": 55.67,
+        "price_eur": 51.22,
         "isHistory": false
       },
       {
@@ -4052,72 +4052,72 @@
       },
       {
         "rank": 10,
+        "name": "The Firemen",
+        "price_usd": 244.45,
+        "price_eur": 224.89,
+        "isHistory": false
+      },
+      {
+        "rank": 11,
         "name": "Demon's Crest",
         "price_usd": 243.39,
         "price_eur": 223.92,
         "isHistory": false
       },
       {
-        "rank": 11,
+        "rank": 12,
         "name": "Super Chase HQ",
         "price_usd": 228.31,
         "price_eur": 210.05,
         "isHistory": false
       },
       {
-        "rank": 12,
+        "rank": 13,
         "name": "Hagane The Final Conflict",
         "price_usd": 220.25,
         "price_eur": 202.63,
         "isHistory": false
       },
       {
-        "rank": 13,
+        "rank": 14,
         "name": "Final Fight 3",
         "price_usd": 209.22,
         "price_eur": 192.48,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 15,
         "name": "Cool World",
         "price_usd": 209,
         "price_eur": 192.28,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 16,
         "name": "Captain Commando",
         "price_usd": 206.38,
         "price_eur": 189.87,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 17,
         "name": "Castlevania: Vampire's Kiss",
         "price_usd": 203.3,
         "price_eur": 187.04,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 18,
         "name": "Aero the Acro-Bat 2",
         "price_usd": 197.08,
         "price_eur": 181.31,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 19,
         "name": "Whirlo",
         "price_usd": 194.57,
         "price_eur": 179,
-        "isHistory": false
-      },
-      {
-        "rank": 19,
-        "name": "The Firemen",
-        "price_usd": 188.22,
-        "price_eur": 173.16,
         "isHistory": false
       },
       {
@@ -4288,16 +4288,16 @@
       },
       {
         "rank": 3,
-        "name": "Virtual Boy System",
-        "price_usd": 437.89,
-        "price_eur": 402.86,
+        "name": "Space Invaders [Homebrew]",
+        "price_usd": 430,
+        "price_eur": 395.6,
         "isHistory": false
       },
       {
         "rank": 4,
-        "name": "Space Invaders [Homebrew]",
-        "price_usd": 430,
-        "price_eur": 395.6,
+        "name": "Virtual Boy System",
+        "price_usd": 383.47,
+        "price_eur": 352.79,
         "isHistory": false
       },
       {
@@ -4550,8 +4550,8 @@
       {
         "rank": 20,
         "name": "WonderSwan Skeleton Black",
-        "price_usd": 53.58,
-        "price_eur": 49.29,
+        "price_usd": 53.93,
+        "price_eur": 49.62,
         "isHistory": false
       }
     ],
@@ -4670,16 +4670,16 @@
       },
       {
         "rank": 17,
-        "name": "Gunpey Ex",
-        "price_usd": 76,
-        "price_eur": 69.92,
+        "name": "Rockman EXE WS",
+        "price_usd": 74.99,
+        "price_eur": 68.99,
         "isHistory": false
       },
       {
         "rank": 18,
-        "name": "Rockman EXE WS",
-        "price_usd": 74.99,
-        "price_eur": 68.99,
+        "name": "Gunpey Ex",
+        "price_usd": 74.6,
+        "price_eur": 68.63,
         "isHistory": false
       },
       {
