@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18",
+  "updated": "2026-09-19",
   "systems": {
     "3do": [
       {
@@ -19,8 +19,8 @@
       {
         "rank": 3,
         "name": "Lucienne's Quest",
-        "price_usd": 323.7,
-        "price_eur": 297.8,
+        "price_usd": 324.52,
+        "price_eur": 298.56,
         "isHistory": false
       },
       {
@@ -219,8 +219,8 @@
       {
         "rank": 11,
         "name": "Out of Control",
-        "price_usd": 605.26,
-        "price_eur": 556.84,
+        "price_usd": 602.25,
+        "price_eur": 554.07,
         "isHistory": false
       },
       {
@@ -254,8 +254,8 @@
       {
         "rank": 16,
         "name": "The Music Machine",
-        "price_usd": 368.06,
-        "price_eur": 338.62,
+        "price_usd": 368.03,
+        "price_eur": 338.59,
         "isHistory": false
       },
       {
@@ -354,8 +354,8 @@
       {
         "rank": 10,
         "name": "K.C. Munchkin [Homebrew]",
-        "price_usd": 160.03,
-        "price_eur": 147.23,
+        "price_usd": 160.27,
+        "price_eur": 147.45,
         "isHistory": false
       },
       {
@@ -388,16 +388,16 @@
       },
       {
         "rank": 15,
-        "name": "Commando",
+        "name": "Ikari Warriors",
         "price_usd": 125,
         "price_eur": 115,
         "isHistory": false
       },
       {
         "rank": 16,
-        "name": "Ikari Warriors",
-        "price_usd": 125,
-        "price_eur": 115,
+        "name": "Commando",
+        "price_usd": 124.79,
+        "price_eur": 114.81,
         "isHistory": false
       },
       {
@@ -680,8 +680,8 @@
       {
         "rank": 16,
         "name": "Battlezone 2000",
-        "price_usd": 74.08,
-        "price_eur": 68.15,
+        "price_usd": 74.03,
+        "price_eur": 68.11,
         "isHistory": false
       },
       {
@@ -723,16 +723,16 @@
       },
       {
         "rank": 2,
-        "name": "BattleSphere",
-        "price_usd": 410.93,
-        "price_eur": 378.06,
+        "name": "Atari Jaguar Pro Controler",
+        "price_usd": 531.1,
+        "price_eur": 488.61,
         "isHistory": false
       },
       {
         "rank": 3,
-        "name": "Atari Jaguar Pro Controler",
-        "price_usd": 376,
-        "price_eur": 345.92,
+        "name": "BattleSphere",
+        "price_usd": 410.93,
+        "price_eur": 378.06,
         "isHistory": false
       },
       {
@@ -908,23 +908,23 @@
       },
       {
         "rank": 8,
-        "name": "Cannon Spike",
-        "price_usd": 181.99,
-        "price_eur": 167.43,
-        "isHistory": false
-      },
-      {
-        "rank": 9,
         "name": "Yellow Sega Dreamcast Controller",
         "price_usd": 172.2,
         "price_eur": 158.42,
         "isHistory": false
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "Illbleed",
         "price_usd": 170,
         "price_eur": 156.4,
+        "isHistory": false
+      },
+      {
+        "rank": 10,
+        "name": "Cannon Spike",
+        "price_usd": 150,
+        "price_eur": 138,
         "isHistory": false
       },
       {
@@ -985,16 +985,16 @@
       },
       {
         "rank": 19,
-        "name": "Tech Romancer",
-        "price_usd": 97.19,
-        "price_eur": 89.41,
+        "name": "Project Justice",
+        "price_usd": 96.66,
+        "price_eur": 88.93,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "Project Justice",
-        "price_usd": 96.66,
-        "price_eur": 88.93,
+        "name": "Tech Romancer",
+        "price_usd": 96.32,
+        "price_eur": 88.61,
         "isHistory": false
       }
     ],
@@ -1404,23 +1404,23 @@
       },
       {
         "rank": 18,
-        "name": "Analogue Pocket [Berry]",
+        "name": "Analogue Pocket [Red]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
       },
       {
         "rank": 19,
-        "name": "Analogue Pocket [Grape]",
+        "name": "Analogue Pocket [Berry]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "Analogue Pocket [Glow in the Dark]",
-        "price_usd": 499.99,
-        "price_eur": 459.99,
+        "name": "Analogue Pocket [Grape]",
+        "price_usd": 500,
+        "price_eur": 460,
         "isHistory": false
       }
     ],
@@ -1540,8 +1540,8 @@
       {
         "rank": 17,
         "name": "Ninja Five O",
-        "price_usd": 287,
-        "price_eur": 264.04,
+        "price_usd": 299,
+        "price_eur": 275.08,
         "isHistory": false
       },
       {
@@ -1619,8 +1619,8 @@
       {
         "rank": 8,
         "name": "Resident Evil Gaiden",
-        "price_usd": 318.73,
-        "price_eur": 293.23,
+        "price_usd": 313.5,
+        "price_eur": 288.42,
         "isHistory": false
       },
       {
@@ -1660,14 +1660,14 @@
       },
       {
         "rank": 14,
-        "name": "Zelda Oracle of Seasons [Not for Resale]",
+        "name": "Pokemon Crystal",
         "price_usd": 160,
         "price_eur": 147.2,
         "isHistory": false
       },
       {
         "rank": 15,
-        "name": "Pokemon Crystal",
+        "name": "Zelda Oracle of Seasons [Not for Resale]",
         "price_usd": 160,
         "price_eur": 147.2,
         "isHistory": false
@@ -1796,8 +1796,8 @@
       {
         "rank": 13,
         "name": "Defenders of Oasis",
-        "price_usd": 50.13,
-        "price_eur": 46.12,
+        "price_usd": 50.07,
+        "price_eur": 46.06,
         "isHistory": false
       },
       {
@@ -2082,8 +2082,8 @@
       {
         "rank": 13,
         "name": "Phantasy Star",
-        "price_usd": 74.43,
-        "price_eur": 68.48,
+        "price_usd": 74.45,
+        "price_eur": 68.49,
         "isHistory": false
       },
       {
@@ -2117,8 +2117,8 @@
       {
         "rank": 18,
         "name": "OutRun [Blue Label]",
-        "price_usd": 52.41,
-        "price_eur": 48.22,
+        "price_usd": 52.58,
+        "price_eur": 48.37,
         "isHistory": false
       },
       {
@@ -2352,8 +2352,8 @@
       {
         "rank": 11,
         "name": "Doctor V64",
-        "price_usd": 248.89,
-        "price_eur": 228.98,
+        "price_usd": 256.12,
+        "price_eur": 235.63,
         "isHistory": false
       },
       {
@@ -2366,8 +2366,8 @@
       {
         "rank": 13,
         "name": "Nintendo 64 Fire Orange",
-        "price_usd": 226.78,
-        "price_eur": 208.64,
+        "price_usd": 226.37,
+        "price_eur": 208.26,
         "isHistory": false
       },
       {
@@ -2439,8 +2439,8 @@
       {
         "rank": 3,
         "name": "Pokemon [Not for Resale Regigigas and Shaymin]",
-        "price_usd": 2685.75,
-        "price_eur": 2470.89,
+        "price_usd": 2685.52,
+        "price_eur": 2470.68,
         "isHistory": false
       },
       {
@@ -2629,23 +2629,23 @@
       },
       {
         "rank": 10,
-        "name": "Metal Slug 4",
-        "price_usd": 1866.04,
-        "price_eur": 1716.76,
-        "isHistory": false
-      },
-      {
-        "rank": 11,
         "name": "Sengoku 3",
         "price_usd": 1800,
         "price_eur": 1656,
         "isHistory": false
       },
       {
-        "rank": 12,
+        "rank": 11,
         "name": "Metal Slug 3",
         "price_usd": 1800,
         "price_eur": 1656,
+        "isHistory": false
+      },
+      {
+        "rank": 12,
+        "name": "Metal Slug 4",
+        "price_usd": 1786.26,
+        "price_eur": 1643.36,
         "isHistory": false
       },
       {
@@ -2730,8 +2730,8 @@
       {
         "rank": 4,
         "name": "Mega Man [5 Screw]",
-        "price_usd": 6595.5,
-        "price_eur": 6067.86,
+        "price_usd": 6500,
+        "price_eur": 5980,
         "isHistory": false
       },
       {
@@ -2793,8 +2793,8 @@
       {
         "rank": 13,
         "name": "Bubble Bath Babes",
-        "price_usd": 1718.07,
-        "price_eur": 1580.62,
+        "price_usd": 1660.66,
+        "price_eur": 1527.81,
         "isHistory": false
       },
       {
@@ -3369,30 +3369,30 @@
       },
       {
         "rank": 14,
+        "name": "Xenogears [Greatest Hits]",
+        "price_usd": 163.23,
+        "price_eur": 150.17,
+        "isHistory": false
+      },
+      {
+        "rank": 15,
         "name": "REDANT 5 LCD Monitor",
         "price_usd": 162.37,
         "price_eur": 149.38,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 16,
         "name": "Klonoa Door to Phantomile",
         "price_usd": 160,
         "price_eur": 147.2,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 17,
         "name": "Batman Forever Arcade",
         "price_usd": 155.75,
         "price_eur": 143.29,
-        "isHistory": false
-      },
-      {
-        "rank": 17,
-        "name": "Xenogears [Greatest Hits]",
-        "price_usd": 155,
-        "price_eur": 142.6,
         "isHistory": false
       },
       {
@@ -3952,8 +3952,8 @@
       {
         "rank": 16,
         "name": "Yokai Buster",
-        "price_usd": 229.04,
-        "price_eur": 210.72,
+        "price_usd": 229.02,
+        "price_eur": 210.7,
         "isHistory": false
       },
       {
@@ -4231,8 +4231,8 @@
       {
         "rank": 15,
         "name": "Scramble",
-        "price_usd": 17.85,
-        "price_eur": 16.42,
+        "price_usd": 18.31,
+        "price_eur": 16.85,
         "isHistory": false
       },
       {
@@ -4359,8 +4359,8 @@
       {
         "rank": 13,
         "name": "Flashboy+",
-        "price_usd": 148.01,
-        "price_eur": 136.17,
+        "price_usd": 147.1,
+        "price_eur": 135.33,
         "isHistory": false
       },
       {
