@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20",
+  "updated": "2026-09-21",
   "systems": {
     "3do": [
       {
@@ -367,14 +367,14 @@
       },
       {
         "rank": 12,
-        "name": "Serpentine [Homebrew]",
+        "name": "Moon Cresta [Homebrew]",
         "price_usd": 140,
         "price_eur": 128.8,
         "isHistory": false
       },
       {
         "rank": 13,
-        "name": "Moon Cresta [Homebrew]",
+        "name": "Serpentine [Homebrew]",
         "price_usd": 140,
         "price_eur": 128.8,
         "isHistory": false
@@ -424,8 +424,8 @@
       {
         "rank": 20,
         "name": "Midnight Mutants",
-        "price_usd": 110.39,
-        "price_eur": 101.56,
+        "price_usd": 110.45,
+        "price_eur": 101.61,
         "isHistory": false
       }
     ],
@@ -524,8 +524,8 @@
       {
         "rank": 14,
         "name": "Super Zaxxon",
-        "price_usd": 102.96,
-        "price_eur": 94.72,
+        "price_usd": 103.54,
+        "price_eur": 95.26,
         "isHistory": false
       },
       {
@@ -1235,8 +1235,8 @@
       {
         "rank": 14,
         "name": "Jetsons: Cogswell's Caper",
-        "price_usd": 246.97,
-        "price_eur": 227.21,
+        "price_usd": 246.87,
+        "price_eur": 227.12,
         "isHistory": false
       },
       {
@@ -1469,16 +1469,16 @@
       },
       {
         "rank": 7,
-        "name": "Pokemon Sapphire [Not for Resale]",
-        "price_usd": 711.93,
-        "price_eur": 654.98,
+        "name": "Visteon Gameboy Advance Console",
+        "price_usd": 675,
+        "price_eur": 621,
         "isHistory": false
       },
       {
         "rank": 8,
-        "name": "Visteon Gameboy Advance Console",
-        "price_usd": 675,
-        "price_eur": 621,
+        "name": "Pokemon Sapphire [Not for Resale]",
+        "price_usd": 650,
+        "price_eur": 598,
         "isHistory": false
       },
       {
@@ -1519,8 +1519,8 @@
       {
         "rank": 14,
         "name": "Gameboy Advance Console & E-Reader Bundle",
-        "price_usd": 319.12,
-        "price_eur": 293.59,
+        "price_usd": 356.38,
+        "price_eur": 327.87,
         "isHistory": false
       },
       {
@@ -1660,23 +1660,23 @@
       },
       {
         "rank": 14,
-        "name": "Pokemon Crystal",
-        "price_usd": 160,
-        "price_eur": 147.2,
-        "isHistory": false
-      },
-      {
-        "rank": 15,
         "name": "Zelda Oracle of Seasons [Not for Resale]",
         "price_usd": 160,
         "price_eur": 147.2,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 15,
         "name": "Bomberman Quest",
         "price_usd": 157.81,
         "price_eur": 145.19,
+        "isHistory": false
+      },
+      {
+        "rank": 16,
+        "name": "Pokemon Crystal",
+        "price_usd": 157.46,
+        "price_eur": 144.86,
         "isHistory": false
       },
       {
@@ -1816,16 +1816,16 @@
       },
       {
         "rank": 16,
-        "name": "Shining Force Sword of Hajya",
-        "price_usd": 47.5,
-        "price_eur": 43.7,
+        "name": "Urban Strike",
+        "price_usd": 47.67,
+        "price_eur": 43.86,
         "isHistory": false
       },
       {
         "rank": 17,
-        "name": "Urban Strike",
-        "price_usd": 47.32,
-        "price_eur": 43.53,
+        "name": "Shining Force Sword of Hajya",
+        "price_usd": 47.5,
+        "price_eur": 43.7,
         "isHistory": false
       },
       {
@@ -2089,8 +2089,8 @@
       {
         "rank": 14,
         "name": "Alf",
-        "price_usd": 69.99,
-        "price_eur": 64.39,
+        "price_usd": 70.46,
+        "price_eur": 64.82,
         "isHistory": false
       },
       {
@@ -2238,8 +2238,8 @@
       {
         "rank": 15,
         "name": "Zero the Kamikaze Squirrel",
-        "price_usd": 136.15,
-        "price_eur": 125.26,
+        "price_usd": 136.12,
+        "price_eur": 125.23,
         "isHistory": false
       },
       {
@@ -2394,8 +2394,8 @@
       {
         "rank": 17,
         "name": "Nintendo 64 Ice Blue Console",
-        "price_usd": 160.37,
-        "price_eur": 147.54,
+        "price_usd": 160.41,
+        "price_eur": 147.58,
         "isHistory": false
       },
       {
@@ -2529,14 +2529,14 @@
       },
       {
         "rank": 16,
-        "name": "Pokemon Legendary Distribution",
+        "name": "Pokemon [Legendary Not For Resale Y90E]",
         "price_usd": 600,
         "price_eur": 552,
         "isHistory": false
       },
       {
         "rank": 17,
-        "name": "Pokemon [Legendary Not For Resale Y90E]",
+        "name": "Pokemon Legendary Distribution",
         "price_usd": 600,
         "price_eur": 552,
         "isHistory": false
@@ -2786,8 +2786,8 @@
       {
         "rank": 12,
         "name": "Peek-a-Boo Poker",
-        "price_usd": 1734.94,
-        "price_eur": 1596.14,
+        "price_usd": 1734.87,
+        "price_eur": 1596.08,
         "isHistory": false
       },
       {
@@ -2835,8 +2835,8 @@
       {
         "rank": 19,
         "name": "Panic Restaurant",
-        "price_usd": 1097.5,
-        "price_eur": 1009.7,
+        "price_usd": 1098.75,
+        "price_eur": 1010.85,
         "isHistory": false
       },
       {
@@ -2887,16 +2887,16 @@
       },
       {
         "rank": 6,
-        "name": "The Last Blade",
-        "price_usd": 123.84,
-        "price_eur": 113.93,
+        "name": "Puyo Pop",
+        "price_usd": 116.14,
+        "price_eur": 106.85,
         "isHistory": false
       },
       {
         "rank": 7,
-        "name": "Puyo Pop",
-        "price_usd": 116.14,
-        "price_eur": 106.85,
+        "name": "The Last Blade",
+        "price_usd": 102.12,
+        "price_eur": 93.95,
         "isHistory": false
       },
       {
@@ -3207,8 +3207,8 @@
       {
         "rank": 11,
         "name": "Pia Carrot & Can Can Bunny Extra DX",
-        "price_usd": 107.7,
-        "price_eur": 99.08,
+        "price_usd": 107.69,
+        "price_eur": 99.07,
         "isHistory": false
       },
       {
@@ -4088,8 +4088,8 @@
       {
         "rank": 15,
         "name": "Cool World",
-        "price_usd": 209,
-        "price_eur": 192.28,
+        "price_usd": 207.28,
+        "price_eur": 190.7,
         "isHistory": false
       },
       {
@@ -4244,16 +4244,16 @@
       },
       {
         "rank": 17,
-        "name": "Cosmic Chasm",
-        "price_usd": 15.92,
-        "price_eur": 14.65,
+        "name": "Flipper Pinball",
+        "price_usd": 15.93,
+        "price_eur": 14.66,
         "isHistory": false
       },
       {
         "rank": 18,
-        "name": "Flipper Pinball",
-        "price_usd": 15.47,
-        "price_eur": 14.23,
+        "name": "Cosmic Chasm",
+        "price_usd": 15.92,
+        "price_eur": 14.65,
         "isHistory": false
       },
       {
@@ -4736,8 +4736,8 @@
       {
         "rank": 6,
         "name": "Jet Pac [ROM Cartridge]",
-        "price_usd": 137.18,
-        "price_eur": 126.21,
+        "price_usd": 137.53,
+        "price_eur": 126.53,
         "isHistory": false
       },
       {
