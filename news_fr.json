@@ -1,6 +1,38 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "notices": [
+    {
+      "guid": "https://www.jeuxvideo.com/news/2105715/la-moitie-des-meilleurs-jeux-steam-sortent-pas-finis-et-ca-marche.htm",
+      "title": "La moitié des meilleurs jeux Steam sortent pas finis… et ça marche ",
+      "link": "https://www.jeuxvideo.com/news/2105715/la-moitie-des-meilleurs-jeux-steam-sortent-pas-finis-et-ca-marche.htm",
+      "pubDate": "Wed, 23 Sep 2026 22:20:06 +0200",
+      "contentSnippet": "Payer pour jouer à un jeu qui reconnaît lui-même ne pas être terminé pourrait sembler être une drôle d'idée. Pourtant, une bonne partie des titres les mieux accueillis cette année sur Steam ont suivi exactement ce chemin, parfois pendant plusieurs années.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179016/1790156280-1477-card.jpg"
+    },
+    {
+      "guid": "https://www.actugaming.net/?p=826608",
+      "title": "EA Sports FC 27 dévoile la deuxième Team Of The Week",
+      "link": "https://www.actugaming.net/ea-sports-fc-27-devoile-la-deuxieme-team-of-the-week-826608/",
+      "pubDate": "Wed, 23 Sep 2026 17:35:10 +0000",
+      "contentSnippet": "ActuGaming.net\nEA Sports FC 27 dévoile la deuxième Team Of The Week\n\nEA Sports FC 27 vient d’annoncer la deuxième Team Of The Week. Comme chaque année, […]\nL'article EA Sports FC 27 dévoile la deuxième Team Of The Week est disponible sur ActuGaming.net",
+      "thumbnail": "https://static.actugaming.net/media/2026/07/ea-sports-fc-27.jpg"
+    },
+    {
+      "guid": "https://www.actugaming.net/?p=826605",
+      "title": "Un nouveau brevet déposé par Microsoft fait beaucoup réagir, puisqu’il propose d’afficher de la pub dans vos jeux à des moments clés",
+      "link": "https://www.actugaming.net/un-nouveau-brevet-depose-par-microsoft-fait-beaucoup-reagir-puisquil-propose-dafficher-de-la-pub-dans-vos-jeux-a-des-moments-cles-826605/",
+      "pubDate": "Wed, 23 Sep 2026 17:06:02 +0000",
+      "contentSnippet": "ActuGaming.net\nUn nouveau brevet déposé par Microsoft fait beaucoup réagir, puisqu’il propose d’afficher de la pub dans vos jeux à des moments clés\n\nMicrosoft n’avait vraiment pas besoin d’une polémique de plus cette semaine, mais l’image du constructeur […]\nL'article Un nouveau brevet déposé par Microsoft fait beaucoup réagir, puisqu’il propose d’afficher de la pub dans vos jeux à des moments clés est disponible sur ActuGaming.net",
+      "thumbnail": "https://static.actugaming.net/media/2026/06/fable-nouveaux-screenshots-2.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2105699/le-prochain-halo-chez-les-createurs-de-call-of-duty-c-est-pour-le-mieux.htm",
+      "title": "Le prochain Halo chez les créateurs de Call of Duty, c'est pour le mieux ?",
+      "link": "https://www.jeuxvideo.com/news/2105699/le-prochain-halo-chez-les-createurs-de-call-of-duty-c-est-pour-le-mieux.htm",
+      "pubDate": "Wed, 23 Sep 2026 18:45:08 +0200",
+      "contentSnippet": "Le transfert de Halo chez Activision marque un tournant historique pour Xbox. Entre regain de rigueur technique et risques de dénaturation, cette décision divise profondément les fans.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179015/1790153806-7556-card.jpg"
+    },
     {
       "guid": "https://www.actugaming.net/?p=826596",
       "title": "Vesna – Genshin Impact",
@@ -24,6 +56,14 @@
       "pubDate": "Wed, 23 Sep 2026 15:26:48 +0000",
       "contentSnippet": "ActuGaming.net\nShift Up a failli tomber à court de trésorerie durant le développement de Stellar Blade, qui aurait pu ne jamais voir le jour\n\nAujourd’hui, Shift Up s’est fait un nom sur la scène internationale suite au succès de […]\nL'article Shift Up a failli tomber à court de trésorerie durant le développement de Stellar Blade, qui aurait pu ne jamais voir le jour est disponible sur ActuGaming.net",
       "thumbnail": "https://static.actugaming.net/media/2026/06/stellar-blade-switch-2-3.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2105488/payer-en-sortant-sa-manette-ps5-dualsense-le-projet-fou-de-sony-devoile-par-un-brevet.htm",
+      "title": "Payer en sortant sa manette PS5 Dualsense : le projet fou de Sony dévoilé par un brevet",
+      "link": "https://www.jeuxvideo.com/news/2105488/payer-en-sortant-sa-manette-ps5-dualsense-le-projet-fou-de-sony-devoile-par-un-brevet.htm",
+      "pubDate": "Wed, 23 Sep 2026 17:15:10 +0200",
+      "contentSnippet": "Et si votre manette DualSense PS5 devenait un terminal de paiement ? Un brevet déposé par Sony décrit un système permettant de valider des achats sur le PlayStation Store en approchant simplement son smartphone de sa manette.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179007/1790074509-8381-card.jpg"
     },
     {
       "guid": "https://www.actugaming.net/?p=826587",
@@ -56,46 +96,6 @@
       "pubDate": "Wed, 23 Sep 2026 15:36:00 +0200",
       "contentSnippet": "Désormais fort de six millions d'explorateurs au compteur, le bac à sable souterrain Core Keeper s'offre un sérieux coup de jeune avec un DLC baptisé « Cavaliers des Souterrains », d'ores et déjà accessible sans débourser un centime sur consoles comme sur PC.",
       "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872168/core-keeper-gate-ses-six-millions-de-joueurs-avec-un-enorme-dlc-gratuit-4878bbfc__930_300__0-193-1740-755.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=826567",
-      "title": "Suite aux fusions et aux reventes, il ne reste plus que 3 Xbox Game Studios majeurs nommés comme tels",
-      "link": "https://www.actugaming.net/suite-aux-fusions-et-aux-reventes-il-ne-reste-plus-que-3-xbox-game-studios-majeurs-nommes-comme-tels-826567/",
-      "pubDate": "Wed, 23 Sep 2026 13:12:33 +0000",
-      "contentSnippet": "ActuGaming.net\nSuite aux fusions et aux reventes, il ne reste plus que 3 Xbox Game Studios majeurs nommés comme tels\n\nLa grande restructuration opérée par Xbox depuis quelques mois a mis à la porte plus […]\nL'article Suite aux fusions et aux reventes, il ne reste plus que 3 Xbox Game Studios majeurs nommés comme tels est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2023/08/xbox-gamescom.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=826556",
-      "title": "Le prochain StarCraft en monde ouvert ne sera pas exclusif à Xbox, sans que Blizzard n’entre dans les détails",
-      "link": "https://www.actugaming.net/le-prochain-starcraft-en-monde-ouvert-ne-sera-pas-exclusif-a-xbox-sans-que-blizzard-nentre-dans-les-details-826556/",
-      "pubDate": "Wed, 23 Sep 2026 12:40:17 +0000",
-      "contentSnippet": "ActuGaming.net\nLe prochain StarCraft en monde ouvert ne sera pas exclusif à Xbox, sans que Blizzard n’entre dans les détails\n\nEn ces temps incertains chez Xbox, l’annonce d’un nouveau StarCraft pour 2030 paraît être un […]\nL'article Le prochain StarCraft en monde ouvert ne sera pas exclusif à Xbox, sans que Blizzard n’entre dans les détails est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/09/starcraft.jpg"
-    },
-    {
-      "guid": "https://www.gamekult.com/actualite/vu-que-les-jeux-de-strategie-au-tour-par-tour-sont-a-la-mode-jetez-un-oeil-a-calame-d-un-studio-independant-francais-3050872173.html",
-      "title": "Vu que les jeux de stratégie au tour par tour sont à la mode, jetez un oeil à Calame, d'un studio indépendant français",
-      "link": "https://www.gamekult.com/actualite/vu-que-les-jeux-de-strategie-au-tour-par-tour-sont-a-la-mode-jetez-un-oeil-a-calame-d-un-studio-independant-francais-3050872173.html",
-      "pubDate": "Wed, 23 Sep 2026 14:23:00 +0200",
-      "contentSnippet": "Le jeu de stratégie au tour par tour, quoique jamais mort, bénéficie d'un petit regain de popularité ces dernières années par des tentatives nouvelles qui font grand bruit (comme Triangle Strategy ou le tout récent Fire Emblem : Fortune's Weave) ou des retours remarqués (façon Tactics Ogre Reborn ou Final Fantasy Tactics : The Ivalice Chronicles). La brèche étant ouverte, plusieurs studios français tentent actuellement d'implanter leur graine : nous avons parlé de Soverain il y a quelques mois, et voici désormais le non-moins prometteur Calame, dont une démo actuellement disponible sur Steam a bénéficié d'une grosse mise à jour la semaine passée.",
-      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872173/vu-que-les-jeux-de-strategie-au-tour-par-tour-sont-a-la-mode-jetez-un-oeil-a-calame-d-un-studio-independant-francais-2725f836__930_300__0-171-1536-666.png"
-    },
-    {
-      "guid": "https://www.gamekult.com/actualite/de-l-ombre-du-mordor-emergera-une-compilation-des-deux-jeux-de-la-licence-sur-switch-2-3050872172.html",
-      "title": "De l'Ombre du Mordor émergera une compilation des deux jeux de la licence sur Switch 2",
-      "link": "https://www.gamekult.com/actualite/de-l-ombre-du-mordor-emergera-une-compilation-des-deux-jeux-de-la-licence-sur-switch-2-3050872172.html",
-      "pubDate": "Wed, 23 Sep 2026 13:15:00 +0200",
-      "contentSnippet": "Aspyr a annoncé Middle-earth : Shadow Bundle, une compilation regroupant Middle-earth : Shadow of Mordor Game of the Year Edition et Middle-earth : Shadow of War Definitive Edition sur Nintendo Switch 2, attendue le 30 septembre prochain.",
-      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872172/de-l-ombre-du-mordor-emergera-une-compilation-des-deux-jeux-de-la-licence-sur-switch-2-8d6b75f3__930_300__0-401-3840-1643.jpg"
-    },
-    {
-      "guid": "https://www.gamekult.com/actualite/blizzard-confirme-que-le-nouveau-starcraft-prevu-pour-2030-ne-sera-pas-exclusif-sans-preciser-ou-il-ira-3050872171.html",
-      "title": "Blizzard confirme que le nouveau StarCraft (prévu pour 2030) ne sera pas exclusif, sans préciser où il ira",
-      "link": "https://www.gamekult.com/actualite/blizzard-confirme-que-le-nouveau-starcraft-prevu-pour-2030-ne-sera-pas-exclusif-sans-preciser-ou-il-ira-3050872171.html",
-      "pubDate": "Wed, 23 Sep 2026 12:03:00 +0200",
-      "contentSnippet": "Le nouveau StarCraft, annoncé lors de la BlizzCon il y a une semaine et attendu pour 2030, avait d'abord été confirmé sur Xbox, sans qu'aucune autre plateforme ne soit mentionnée. Mais Kotaku a interrogé Blizzard pour tenter d'obtenir des précisions sur ce choix de communication et sur les plateformes prévues au lancement.",
-      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872171/blizzard-confirme-que-le-nouveau-starcraft-prevu-pour-2030-ne-sera-pas-exclusif-sans-preciser-ou-il-ira-2217e85b__930_300__0-138-1888-749.jpg"
     }
   ]
 }
