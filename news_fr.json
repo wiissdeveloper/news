@@ -1,6 +1,22 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "notices": [
+    {
+      "guid": "https://www.jeuxvideo.com/news/2105990/terminer-un-jeu-a-100-sera-enfin-recompense-a-sa-juste-valeur-chez-microsoft.htm",
+      "title": "Terminer un jeu à 100% sera enfin récompensé à sa juste valeur chez Microsoft",
+      "link": "https://www.jeuxvideo.com/news/2105990/terminer-un-jeu-a-100-sera-enfin-recompense-a-sa-juste-valeur-chez-microsoft.htm",
+      "pubDate": "Thu, 24 Sep 2026 22:20:13 +0200",
+      "contentSnippet": "C’était une réclamation vieille de quinze ans. Xbox s'apprête enfin à lancer le Succès Mythique, sa propre récompense ultime pour honorer les joueurs qui finissent un titre à 100 %. Fonctionnement, rétroactivité et secrets de cette nouveauté : on vous explique tout de A à Z.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179025/1790252254-2685-card.jpg"
+    },
+    {
+      "guid": "https://www.gamekult.com/actualite/gta-6-que-diriez-vous-d-un-coffret-collector-a-400-euros-mais-sans-le-jeu-3050872201.html",
+      "title": "GTA 6 : que diriez-vous d'un coffret collector à 400 euros, mais sans le jeu ?",
+      "link": "https://www.gamekult.com/actualite/gta-6-que-diriez-vous-d-un-coffret-collector-a-400-euros-mais-sans-le-jeu-3050872201.html",
+      "pubDate": "Thu, 24 Sep 2026 20:30:00 +0200",
+      "contentSnippet": "Grand Theft Auto VI ne sera peut-être jamais disponible sur disque, mais Rockstar Games semble déterminé à compenser avec une avalanche de produits physiques. Dans la foulée de l'album qui sera tiré en CD et en vinyle, l'éditeur a levé le voile sur un coffret collector.",
+      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872201/gta-6-que-diriez-vous-d-un-coffret-collector-a-400-euros-mais-sans-le-jeu-2e10efbf__930_300__0-247-1920-869.png"
+    },
     {
       "guid": "https://www.actugaming.net/?p=826842",
       "title": "Control Resonant sort aujourd’hui et corrige l’un de ses plus gros défauts avec un premier patch",
@@ -8,6 +24,14 @@
       "pubDate": "Thu, 24 Sep 2026 16:56:23 +0000",
       "contentSnippet": "ActuGaming.net\nControl Resonant sort aujourd’hui et corrige l’un de ses plus gros défauts avec un premier patch\n\nRemedy joue gros avec Control Resonant, qui doit redresser les finances d’un studio affaibli depuis […]\nL'article Control Resonant sort aujourd’hui et corrige l’un de ses plus gros défauts avec un premier patch est disponible sur ActuGaming.net",
       "thumbnail": "https://static.actugaming.net/media/2026/07/CONTROL-Resonant_2026_06-05-26_008.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2105954/gta-aurait-pu-se-derouler-a-paris-des-informations-exclusives-ont-fuite.htm",
+      "title": "GTA aurait pu se dérouler à Paris : des informations exclusives ont fuité",
+      "link": "https://www.jeuxvideo.com/news/2105954/gta-aurait-pu-se-derouler-a-paris-des-informations-exclusives-ont-fuite.htm",
+      "pubDate": "Thu, 24 Sep 2026 18:45:10 +0200",
+      "contentSnippet": "Une fuite massive de données de 192 Go vient de révéler que Rockstar Games préparait une aventure parisienne inédite pour Grand Theft Auto V. Ce DLC solo très ambitieux a finalement été sacrifié sur l'autel de la rentabilité insolente de GTA Online.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179024/1790242444-5808-card.jpg"
     },
     {
       "guid": "https://www.actugaming.net/?p=826839",
@@ -24,6 +48,14 @@
       "pubDate": "Thu, 24 Sep 2026 18:30:00 +0200",
       "contentSnippet": "Comme souvent après l'annonce d'une vague de licenciements au sein d'un groupe comme Microsoft, il faut laisser passer un peu de temps avant de pouvoir mesurer l'ampleur des dégâts. Si l'équipe d'Halo Studios semble être la principale victime parmi les 268 postes supprimés cette semaine par Xbox, World's Edge ne s'en tire pas à bon compte non plus, loin de là.",
       "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872199/transfere-chez-activision-le-studio-d-age-of-empires-perd-la-moitie-de-son-effectif-mais-aussi-son-prochain-jeu-9b0ec918__930_300__0-81-1920-703.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/test/2106040/silent-hill-townfall-n-est-pas-ce-que-vous-croyez-il-va-vous-faire-vivre-l-enfer.htm",
+      "title": "Test Silent Hill : Townfall sur PC et PS5",
+      "link": "https://www.jeuxvideo.com/test/2106040/silent-hill-townfall-n-est-pas-ce-que-vous-croyez-il-va-vous-faire-vivre-l-enfer.htm",
+      "pubDate": "Thu, 24 Sep 2026 17:38:11 +0200",
+      "contentSnippet": "Loin de son emblématique brouillard américain, Silent Hill: Townfall pose ses valises sur les côtes écossaises pour une relecture viscérale de la saga culte. En confiant cette itération sous Unreal Engine 5 au studio britannique No Code, Konami fait le pari d'un survival-horror en vue subjective, où...",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179026/1790257753-9827-card.jpg"
     },
     {
       "guid": "https://www.actugaming.net/?p=826822",
@@ -64,38 +96,6 @@
       "pubDate": "Thu, 24 Sep 2026 14:02:45 +0000",
       "contentSnippet": "ActuGaming.net\nSur Steam, Quake Champions n’est plus gratuit, il faudra désormais payer découvrir le jeu\n\nDésormais bien à la peine suite aux récents changements opérés par Xbox au sein du […]\nL'article Sur Steam, Quake Champions n’est plus gratuit, il faudra désormais payer découvrir le jeu est disponible sur ActuGaming.net",
       "thumbnail": "https://static.actugaming.net/media/2017/05/quake-champions-ranger.png"
-    },
-    {
-      "guid": "https://www.jeuxvideo.com/news/2105758/les-personnes-entre-45-et-54-ans-qui-jouent-aux-jeux-video-ont-un-comportement-different-des-autres-quand-ils-decouvrent-de-nouveaux-titres.htm",
-      "title": "Les personnes entre 45 et 54 ans qui jouent aux jeux vidéo ont un comportement différent des autres quand ils découvrent de nouveaux titres",
-      "link": "https://www.jeuxvideo.com/news/2105758/les-personnes-entre-45-et-54-ans-qui-jouent-aux-jeux-video-ont-un-comportement-different-des-autres-quand-ils-decouvrent-de-nouveaux-titres.htm",
-      "pubDate": "Thu, 24 Sep 2026 16:00:09 +0200",
-      "contentSnippet": "Ces dernières années, on a facilement identifié le fait que le marketing vidéoludique privilégie souvent les réseaux sociaux et la viralité auprès des plus jeunes. Désormais, ce constat est d'autant plus fort car, selon une étude de GameDiscoverCo, il existe un véritable fossé générationnel. En effet,...",
-      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179017/1790168783-2571-card.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=723805",
-      "title": "Pictos Clair Obscur: Expedition 33 : où tous les trouver ?",
-      "link": "https://www.actugaming.net/emplacement-pictos-clair-obscur-expedition-33-723805/",
-      "pubDate": "Thu, 24 Sep 2026 13:49:58 +0000",
-      "contentSnippet": "ActuGaming.net\nPictos Clair Obscur: Expedition 33 : où tous les trouver ?\n\nClair Obscur: Expedition 33 dispose d’un système tellement riche qu’il en est presque déboussolant tant […]\nL'article Pictos Clair Obscur: Expedition 33 : où tous les trouver ? est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2025/04/clair-obscur-expedition-33-test-screenshot-25.jpg"
-    },
-    {
-      "guid": "https://www.gamekult.com/actualite/xbox-bientot-des-pubs-entre-chaque-partie-3050872196.html",
-      "title": "Xbox : bientôt des pubs entre chaque partie ?",
-      "link": "https://www.gamekult.com/actualite/xbox-bientot-des-pubs-entre-chaque-partie-3050872196.html",
-      "pubDate": "Thu, 24 Sep 2026 15:48:00 +0200",
-      "contentSnippet": "Alors que l'image de Xbox continue d'être écornée par les vagues successives de licenciement et le passage d'Halo sous pavillon Activision, la marque au X vert continue de susciter la polémique avec un nouveau brevet, qui propose de financer les sessions des joueurs à l'aide de publicités insérées au chausse-pied dans les temps morts de vos jeux. Comment est-ce que ça pourrait mal tourner ?",
-      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872196/xbox-bientot-des-pubs-entre-chaque-partie-5c98f98b__930_300__0-366-2000-1009.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=826628",
-      "title": "Infergon dans Aniimo, comment débloquer la dernière évolution de Mandibouille ?",
-      "link": "https://www.actugaming.net/infergon-dans-aniimo-comment-debloquer-la-derniere-evolution-de-mandibouille-826628/",
-      "pubDate": "Thu, 24 Sep 2026 13:24:09 +0000",
-      "contentSnippet": "ActuGaming.net\nInfergon dans Aniimo, comment débloquer la dernière évolution de Mandibouille ?\n\nDans Aniimo, il y a les normaux, les Alphas mais aussi les Omégas. Ces Aniimo […]\nL'article Infergon dans Aniimo, comment débloquer la dernière évolution de Mandibouille ? est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/09/aniimo-guide-infergon-1.jpg"
     }
   ]
 }
