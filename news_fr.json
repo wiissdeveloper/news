@@ -1,6 +1,46 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "notices": [
+    {
+      "guid": "https://www.jeuxvideo.com/news/2106147/the-witcher-3-remastered-le-comparatif-des-graphismes-qui-fait-polemique.htm",
+      "title": "The Witcher 3 Remastered : le comparatif des graphismes qui fait polémique",
+      "link": "https://www.jeuxvideo.com/news/2106147/the-witcher-3-remastered-le-comparatif-des-graphismes-qui-fait-polemique.htm",
+      "pubDate": "Fri, 25 Sep 2026 22:20:08 +0200",
+      "contentSnippet": "Annoncée comme une célébration gratuite du chef-d'œuvre de CD Projekt Red, la version remastérisée de The Witcher 3 se retrouve au cœur d'une vive tempête. La diffusion des premières séquences de gameplay comparatives a provoqué la colère de nombreux joueurs, qui accusent cette mise à jour de trahir...",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179033/1790331087-4920-card.png"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2106144/le-plus-gros-defaut-de-call-of-duty-vient-enfin-d-etre-corrige.htm",
+      "title": "Le plus gros défaut de Call of Duty vient enfin d'être corrigé",
+      "link": "https://www.jeuxvideo.com/news/2106144/le-plus-gros-defaut-de-call-of-duty-vient-enfin-d-etre-corrige.htm",
+      "pubDate": "Fri, 25 Sep 2026 21:40:10 +0200",
+      "contentSnippet": "Annoncé officiellement par Activision, un nouveau bouton de filtrage visuel va révolutionner l'expérience de jeu dans Call of Duty: Warzone. Cette option permettra enfin aux joueurs d'occulter les cosmétiques loufoques de leurs adversaires pour retrouver une ambiance militaire réaliste.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179033/1790328694-6578-card.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2106138/rockstar-se-moque-t-il-des-joueurs-la-collector-de-gta-6-fait-polemique.htm",
+      "title": "Rockstar se moque-t-il des joueurs ? La collector de GTA 6 fait polémique",
+      "link": "https://www.jeuxvideo.com/news/2106138/rockstar-se-moque-t-il-des-joueurs-la-collector-de-gta-6-fait-polemique.htm",
+      "pubDate": "Fri, 25 Sep 2026 20:10:15 +0200",
+      "contentSnippet": "L'annonce officielle du coffret collector de GTA 6 a déclenché un véritable séisme d'indignation chez les joueurs. Proposé au prix hallucinant de 400 euros (sans même inclure le jeu!), ce pack baptisé Vice City Collection suscite une vague de colère sans précédent contre Rockstar Games.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179033/1790327335-1030-card.jpg"
+    },
+    {
+      "guid": "https://www.actugaming.net/?p=826984",
+      "title": "EA Sports FC 27 dévoile la première équipe Destined for Glory",
+      "link": "https://www.actugaming.net/ea-sports-fc-27-devoile-la-premiere-equipe-destined-for-glory-826984/",
+      "pubDate": "Fri, 25 Sep 2026 18:00:26 +0000",
+      "contentSnippet": "ActuGaming.net\nEA Sports FC 27 dévoile la première équipe Destined for Glory\n\nEA Sports FC 27 nous propose la première équipe de la toute première promotion, Destined […]\nL'article EA Sports FC 27 dévoile la première équipe Destined for Glory est disponible sur ActuGaming.net",
+      "thumbnail": "https://static.actugaming.net/media/2026/09/affiche-destined-for-glory-ea-sports-fc-27.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2106104/the-witcher-4-15-ans-de-travail-quasiment-jete-a-la-poubelle-mais-ce-n-est-pas-la-faute-de-cyberpunk-2077.htm",
+      "title": "The Witcher 4 : 15 ans de travail quasiment jeté à la poubelle, mais \"ce n'est pas la faute de Cyberpunk 2077\"",
+      "link": "https://www.jeuxvideo.com/news/2106104/the-witcher-4-15-ans-de-travail-quasiment-jete-a-la-poubelle-mais-ce-n-est-pas-la-faute-de-cyberpunk-2077.htm",
+      "pubDate": "Fri, 25 Sep 2026 18:45:10 +0200",
+      "contentSnippet": "En officialisant l'abandon du REDengine, son moteur graphique interne utilisé depuis The Witcher 2 (2011), au profit de l'Unreal Engine 5 d'Epic Games pour The Witcher 4, le studio polonais CD Projekt RED a pris une décision radicale. Une transition majeure qui signifie jeter près de 15 ans d'investissements...",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179032/1790324344-2594-card.jpg"
+    },
     {
       "guid": "https://www.gamekult.com/actualite/tres-leger-en-contenu-efootball-kick-off-sur-switch-2-s-enrichit-d-un-mode-league-gratuitement-3050872214.html",
       "title": "Communiqué de presse - Très léger en contenu, eFootball Kick Off sur Switch 2 s'enrichit d'un mode League gratuitement",
@@ -26,6 +66,14 @@
       "thumbnail": "https://static.actugaming.net/media/2026/09/dressmaker.jpg"
     },
     {
+      "guid": "https://www.jeuxvideo.com/news/2106031/enfin-jouable-gratuitement-sur-nintendo-switch-ce-jeu-d-action-note-16-20-est-un-incontournable.htm",
+      "title": "Enfin jouable gratuitement sur Nintendo Switch, ce jeu d'action noté 16/20 est un incontournable",
+      "link": "https://www.jeuxvideo.com/news/2106031/enfin-jouable-gratuitement-sur-nintendo-switch-ce-jeu-d-action-note-16-20-est-un-incontournable.htm",
+      "pubDate": "Fri, 25 Sep 2026 17:15:09 +0200",
+      "contentSnippet": "Proposé gratuitement aux abonnés Nintendo Switch Online dans le cadre des Jeux à l'essai, cette pépite de l'action-plateforme est à ne surtout pas manquer. Reçu avec un très beau 16/20 dans nos colonnes, le jeu d'Ubisoft Montpellier a tout du hit incontournable.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179026/1790257043-9459-card.jpg"
+    },
+    {
       "guid": "https://www.actugaming.net/?p=826944",
       "title": "ARC Raiders va aussi se mettre au PvE avec un matchmaking dédié qui sera temporairement disponible en octobre",
       "link": "https://www.actugaming.net/arc-raiders-va-aussi-se-mettre-au-pve-avec-un-matchmaking-dedie-qui-sera-temporairement-disponible-en-octobre-826944/",
@@ -48,54 +96,6 @@
       "pubDate": "Fri, 25 Sep 2026 16:00:12 +0200",
       "contentSnippet": "Saga incontournable du jeu vidéo née sur la première PlayStation, Ace Combat s'apprête de nouveau à embraser les cieux. En attendant l’ouverture des serveurs publics pour se mesurer aux pilotes du monde entier, nous avons pu boucler la campagne solo. Ace Combat 8 : Wings of Theve parvient-il à renouveler...",
       "thumbnail": "https://image.jeuxvideo.com/medias-lg/179017/1790166307-6490-card.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=826899",
-      "title": "Le trophée Platine de Final Fantasy VII Revelation sera bien moins difficile à obtenir que celui de Rebirth",
-      "link": "https://www.actugaming.net/le-trophee-platine-de-final-fantasy-vii-revelation-sera-bien-moins-difficile-a-obtenir-que-celui-de-rebirth-826899/",
-      "pubDate": "Fri, 25 Sep 2026 12:48:40 +0000",
-      "contentSnippet": "ActuGaming.net\nLe trophée Platine de Final Fantasy VII Revelation sera bien moins difficile à obtenir que celui de Rebirth\n\nOn l’a compris, Final Fantasy VII Revelation sera un jeu massif, puisque pour tout voir, […]\nL'article Le trophée Platine de Final Fantasy VII Revelation sera bien moins difficile à obtenir que celui de Rebirth est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/08/Final-Fantasy-VII-Revelation.jpg"
-    },
-    {
-      "guid": "https://www.jeuxvideo.com/news/2105266/un-tutoriel-de-30-heures-ce-developpeur-tacle-les-rpg-recents-et-son-souci-c-est-qu-ils-sont-amusants-quand-on-arrive-a-la-fin.htm",
-      "title": "« Un tutoriel de 30 heures » : Ce développeur tacle les RPG récents et son souci, c’est qu’ils sont amusants… quand on arrive à la fin !",
-      "link": "https://www.jeuxvideo.com/news/2105266/un-tutoriel-de-30-heures-ce-developpeur-tacle-les-rpg-recents-et-son-souci-c-est-qu-ils-sont-amusants-quand-on-arrive-a-la-fin.htm",
-      "pubDate": "Fri, 25 Sep 2026 14:15:23 +0200",
-      "contentSnippet": "Un développeur de jeux vidéo, à l’origine de l’un des cartons de ces dernières années, avait pris la parole pour tacler les jeux de rôle actuels. Selon lui, l’amusement qu’ils sont censés procurer n’arrive que bien trop tard et c’est pour cette raison qu’ils les comparent à de longs tutoriels : un souci...",
-      "thumbnail": "https://image.jeuxvideo.com/medias-lg/178999/1789993274-7399-card.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=826886",
-      "title": "Bungie fait le point sur l’avenir de Marathon et les mises à jour à venir, qui apporteront un mode PvE permanent",
-      "link": "https://www.actugaming.net/bungie-fait-le-point-sur-lavenir-de-marathon-et-les-mises-a-jour-a-venir-qui-apporteront-un-mode-pve-permanent-826886/",
-      "pubDate": "Fri, 25 Sep 2026 10:17:26 +0000",
-      "contentSnippet": "ActuGaming.net\nBungie fait le point sur l’avenir de Marathon et les mises à jour à venir, qui apporteront un mode PvE permanent\n\nCette semaine aura été placée sous le signe du mea culpa chez Bungie. Le studio […]\nL'article Bungie fait le point sur l’avenir de Marathon et les mises à jour à venir, qui apporteront un mode PvE permanent est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/09/Marathon.jpg"
-    },
-    {
-      "guid": "https://www.gamekult.com/actualite/le-miracle-armed-fantasia-presente-comme-le-successeur-spirituel-de-wild-arms-n-aura-finalement-pas-lieu-3050872208.html",
-      "title": "Le miracle Armed Fantasia, présenté comme le successeur spirituel de Wild Arms, n'aura finalement pas lieu",
-      "link": "https://www.gamekult.com/actualite/le-miracle-armed-fantasia-presente-comme-le-successeur-spirituel-de-wild-arms-n-aura-finalement-pas-lieu-3050872208.html",
-      "pubDate": "Fri, 25 Sep 2026 11:49:00 +0200",
-      "contentSnippet": "Digital Bros a acté l'abandon définitif du développement d'Armed Fantasia dans ses résultats financiers les plus récents. Le groupe italien, maison mère de 505 Games, cite des révisions successives du gameplay, l'évolution des conditions de marché et les coûts additionnels nécessaires pour achever le RPG comme raisons principales de cette décision.",
-      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872208/le-miracle-armed-fantasia-presente-comme-le-successeur-spirituel-de-wild-arms-n-aura-finalement-pas-lieu-2945f6b8__930_300__0-133-1920-754.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=826882",
-      "title": "Armed Fantasia, le successeur spirituel de Wild Arms, voit ses finances être coupées, le projet pourrait ne jamais voir le jour",
-      "link": "https://www.actugaming.net/armed-fantasia-le-successeur-spirituel-de-wild-arms-voit-ses-finances-etre-coupees-le-projet-pourrait-ne-jamais-voir-le-jour-826882/",
-      "pubDate": "Fri, 25 Sep 2026 09:37:48 +0000",
-      "contentSnippet": "ActuGaming.net\nArmed Fantasia, le successeur spirituel de Wild Arms, voit ses finances être coupées, le projet pourrait ne jamais voir le jour\n\nS’il fallait définitivement tirer un trait sur un retour de Wild Arms, les fans de […]\nL'article Armed Fantasia, le successeur spirituel de Wild Arms, voit ses finances être coupées, le projet pourrait ne jamais voir le jour est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2022/08/Armed-Fantasia_20220825_02.jpg"
-    },
-    {
-      "guid": "https://www.jeuxvideo.com/news/2106106/meme-les-fans-de-zelda-n-y-comprennent-plus-rien-alors-nintendo-a-mis-a-jour-la-timeline-de-la-serie.htm",
-      "title": "Même les fans de Zelda n'y comprennent plus rien, alors Nintendo a mis à jour la timeline de la série",
-      "link": "https://www.jeuxvideo.com/news/2106106/meme-les-fans-de-zelda-n-y-comprennent-plus-rien-alors-nintendo-a-mis-a-jour-la-timeline-de-la-serie.htm",
-      "pubDate": "Fri, 25 Sep 2026 11:00:21 +0200",
-      "contentSnippet": "Comprendre la chronologie de The Legend of Zelda a toujours relevé du véritable casse-tête. Alors que le récent remake d'Ocarina of Time refait parler de lui, Nintendo a discrètement remis à jour sa frise officielle pour tenter de clarifier la position de Breath of the Wild et Tears of the Kingdom.",
-      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179032/1790323338-4213-card.jpg"
     }
   ]
 }
