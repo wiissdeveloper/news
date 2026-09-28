@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27",
+  "updated": "2026-09-28",
   "systems": {
     "3do": [
       {
@@ -219,8 +219,8 @@
       {
         "rank": 11,
         "name": "Out of Control",
-        "price_usd": 602.25,
-        "price_eur": 554.07,
+        "price_usd": 601.12,
+        "price_eur": 553.03,
         "isHistory": false
       },
       {
@@ -254,8 +254,8 @@
       {
         "rank": 16,
         "name": "The Music Machine",
-        "price_usd": 368.03,
-        "price_eur": 338.59,
+        "price_usd": 369.04,
+        "price_eur": 339.52,
         "isHistory": false
       },
       {
@@ -291,8 +291,8 @@
       {
         "rank": 1,
         "name": "Scramble [Homebrew]",
-        "price_usd": 453.1,
-        "price_eur": 416.85,
+        "price_usd": 451.78,
+        "price_eur": 415.64,
         "isHistory": false
       },
       {
@@ -680,8 +680,8 @@
       {
         "rank": 16,
         "name": "Battlezone 2000",
-        "price_usd": 74.03,
-        "price_eur": 68.11,
+        "price_usd": 74.85,
+        "price_eur": 68.86,
         "isHistory": false
       },
       {
@@ -901,23 +901,23 @@
       },
       {
         "rank": 7,
+        "name": "Illbleed",
+        "price_usd": 191.95,
+        "price_eur": 176.59,
+        "isHistory": false
+      },
+      {
+        "rank": 8,
         "name": "SCART Cable",
         "price_usd": 187.5,
         "price_eur": 172.5,
         "isHistory": false
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "Speed Devils [Clean Cover]",
         "price_usd": 185,
         "price_eur": 170.2,
-        "isHistory": false
-      },
-      {
-        "rank": 9,
-        "name": "Illbleed",
-        "price_usd": 168.75,
-        "price_eur": 155.25,
         "isHistory": false
       },
       {
@@ -1058,8 +1058,8 @@
       {
         "rank": 9,
         "name": "Omoikkiri Tanteidan Haado Gumi",
-        "price_usd": 58.51,
-        "price_eur": 53.83,
+        "price_usd": 58.34,
+        "price_eur": 53.67,
         "isHistory": false
       },
       {
@@ -1100,8 +1100,8 @@
       {
         "rank": 15,
         "name": "Kick Challenger: Air Foot",
-        "price_usd": 41.52,
-        "price_eur": 38.2,
+        "price_usd": 41.5,
+        "price_eur": 38.18,
         "isHistory": false
       },
       {
@@ -1114,8 +1114,8 @@
       {
         "rank": 17,
         "name": "BurgerTime",
-        "price_usd": 40.23,
-        "price_eur": 37.01,
+        "price_usd": 40.2,
+        "price_eur": 36.98,
         "isHistory": false
       },
       {
@@ -1213,14 +1213,14 @@
       },
       {
         "rank": 11,
-        "name": "Makaimura [Box Cart]",
+        "name": "Bubble Bobble 2",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
       },
       {
         "rank": 12,
-        "name": "Bubble Bobble 2",
+        "name": "Makaimura [Box Cart]",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
@@ -1334,14 +1334,14 @@
       },
       {
         "rank": 8,
-        "name": "Analogue Pocket [Supreme Red]",
+        "name": "Analogue Pocket [Black Anodized]",
         "price_usd": 700,
         "price_eur": 644,
         "isHistory": false
       },
       {
         "rank": 9,
-        "name": "Analogue Pocket [Black Anodized]",
+        "name": "Analogue Pocket [Supreme Red]",
         "price_usd": 700,
         "price_eur": 644,
         "isHistory": false
@@ -1398,27 +1398,27 @@
       {
         "rank": 17,
         "name": "Analogue Pocket [Transparent Clear]",
-        "price_usd": 502.3,
-        "price_eur": 462.12,
+        "price_usd": 502.14,
+        "price_eur": 461.97,
         "isHistory": false
       },
       {
         "rank": 18,
-        "name": "Analogue Pocket [Berry]",
-        "price_usd": 500,
-        "price_eur": 460,
-        "isHistory": false
-      },
-      {
-        "rank": 19,
         "name": "Analogue Pocket [Grape]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
       },
       {
-        "rank": 20,
+        "rank": 19,
         "name": "Analogue Pocket [Red]",
+        "price_usd": 500,
+        "price_eur": 460,
+        "isHistory": false
+      },
+      {
+        "rank": 20,
+        "name": "Analogue Pocket [Berry]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
@@ -1612,8 +1612,8 @@
       {
         "rank": 7,
         "name": "Pine Creek [Collector's Edition]",
-        "price_usd": 319.02,
-        "price_eur": 293.5,
+        "price_usd": 319.06,
+        "price_eur": 293.54,
         "isHistory": false
       },
       {
@@ -1675,8 +1675,8 @@
       {
         "rank": 16,
         "name": "Pokemon Crystal",
-        "price_usd": 159.98,
-        "price_eur": 147.18,
+        "price_usd": 153.37,
+        "price_eur": 141.1,
         "isHistory": false
       },
       {
@@ -1774,14 +1774,14 @@
       },
       {
         "rank": 10,
-        "name": "Tails' Adventure",
-        "price_usd": 82.48,
-        "price_eur": 75.88,
+        "name": "Sega Game Gear [Majesco Revision]",
+        "price_usd": 80,
+        "price_eur": 73.6,
         "isHistory": false
       },
       {
         "rank": 11,
-        "name": "Sega Game Gear [Majesco Revision]",
+        "name": "Tails' Adventure",
         "price_usd": 80,
         "price_eur": 73.6,
         "isHistory": false
@@ -1802,16 +1802,16 @@
       },
       {
         "rank": 14,
-        "name": "Defenders of Oasis",
-        "price_usd": 50.07,
-        "price_eur": 46.06,
+        "name": "Shining Force Sword of Hajya",
+        "price_usd": 50,
+        "price_eur": 46,
         "isHistory": false
       },
       {
         "rank": 15,
-        "name": "Shining Force Sword of Hajya",
-        "price_usd": 50,
-        "price_eur": 46,
+        "name": "Defenders of Oasis",
+        "price_usd": 48.66,
+        "price_eur": 44.77,
         "isHistory": false
       },
       {
@@ -1830,23 +1830,23 @@
       },
       {
         "rank": 18,
+        "name": "Gear Master Converter",
+        "price_usd": 42.81,
+        "price_eur": 39.39,
+        "isHistory": false
+      },
+      {
+        "rank": 19,
         "name": "Bubble Bobble",
         "price_usd": 42,
         "price_eur": 38.64,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 20,
         "name": "Fatal Fury Special",
         "price_usd": 41.22,
         "price_eur": 37.92,
-        "isHistory": false
-      },
-      {
-        "rank": 20,
-        "name": "Gear Master Converter",
-        "price_usd": 40.69,
-        "price_eur": 37.43,
         "isHistory": false
       }
     ],
@@ -2296,8 +2296,8 @@
       {
         "rank": 3,
         "name": "Nintendo 64 007 Goldeneye Value Pack",
-        "price_usd": 743.52,
-        "price_eur": 684.04,
+        "price_usd": 739.01,
+        "price_eur": 679.89,
         "isHistory": false
       },
       {
@@ -2394,8 +2394,8 @@
       {
         "rank": 17,
         "name": "Nintendo 64 System [Super Mario 64 Bundle]",
-        "price_usd": 174.51,
-        "price_eur": 160.55,
+        "price_usd": 175.39,
+        "price_eur": 161.36,
         "isHistory": false
       },
       {
@@ -2432,8 +2432,8 @@
       {
         "rank": 2,
         "name": "Pokemon [Not for Resale Regigigas and Shaymin]",
-        "price_usd": 2685.52,
-        "price_eur": 2470.68,
+        "price_usd": 2685.29,
+        "price_eur": 2470.47,
         "isHistory": false
       },
       {
@@ -2516,8 +2516,8 @@
       {
         "rank": 14,
         "name": "Seattle Mariners Nintendo DS Lite",
-        "price_usd": 728.73,
-        "price_eur": 670.43,
+        "price_usd": 674.99,
+        "price_eur": 620.99,
         "isHistory": false
       },
       {
@@ -2529,14 +2529,14 @@
       },
       {
         "rank": 16,
-        "name": "Pokemon [Legendary Not For Resale Y90E]",
+        "name": "Pokemon Legendary Distribution",
         "price_usd": 600,
         "price_eur": 552,
         "isHistory": false
       },
       {
         "rank": 17,
-        "name": "Pokemon Legendary Distribution",
+        "name": "Pokemon [Legendary Not For Resale Y90E]",
         "price_usd": 600,
         "price_eur": 552,
         "isHistory": false
@@ -2793,22 +2793,22 @@
       {
         "rank": 13,
         "name": "Bubble Bath Babes",
-        "price_usd": 1660.66,
-        "price_eur": 1527.81,
+        "price_usd": 1700,
+        "price_eur": 1564,
         "isHistory": false
       },
       {
         "rank": 14,
-        "name": "Flintstones Surprise at Dinosaur Peak",
-        "price_usd": 1282,
-        "price_eur": 1179.44,
+        "name": "Power Pad Test Cartridge",
+        "price_usd": 1277.96,
+        "price_eur": 1175.72,
         "isHistory": false
       },
       {
         "rank": 15,
-        "name": "Power Pad Test Cartridge",
-        "price_usd": 1277.96,
-        "price_eur": 1175.72,
+        "name": "Flintstones Surprise at Dinosaur Peak",
+        "price_usd": 1261.5,
+        "price_eur": 1160.58,
         "isHistory": false
       },
       {
@@ -2835,8 +2835,8 @@
       {
         "rank": 19,
         "name": "Panic Restaurant",
-        "price_usd": 1098.75,
-        "price_eur": 1010.85,
+        "price_usd": 1093.33,
+        "price_eur": 1005.86,
         "isHistory": false
       },
       {
@@ -3144,8 +3144,8 @@
       {
         "rank": 2,
         "name": "NEC PC-FX Console",
-        "price_usd": 284.74,
-        "price_eur": 261.96,
+        "price_usd": 302.82,
+        "price_eur": 278.59,
         "isHistory": false
       },
       {
@@ -3221,8 +3221,8 @@
       {
         "rank": 13,
         "name": "Der Langrisser FX",
-        "price_usd": 100.22,
-        "price_eur": 92.2,
+        "price_usd": 100.27,
+        "price_eur": 92.25,
         "isHistory": false
       },
       {
@@ -3313,23 +3313,23 @@
       },
       {
         "rank": 6,
-        "name": "Koudelka",
-        "price_usd": 242.99,
-        "price_eur": 223.55,
-        "isHistory": false
-      },
-      {
-        "rank": 7,
         "name": "Shadow Tower",
         "price_usd": 241.25,
         "price_eur": 221.95,
         "isHistory": false
       },
       {
-        "rank": 8,
+        "rank": 7,
         "name": "Persona Revelations Series",
         "price_usd": 239.97,
         "price_eur": 220.77,
+        "isHistory": false
+      },
+      {
+        "rank": 8,
+        "name": "Koudelka",
+        "price_usd": 229.95,
+        "price_eur": 211.55,
         "isHistory": false
       },
       {
@@ -3420,14 +3420,14 @@
     "ps2": [
       {
         "rank": 1,
-        "name": "PlayStation 2 System [Blue Automotive Edition]",
+        "name": "PlayStation 2 System [Yellow Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
       },
       {
         "rank": 2,
-        "name": "PlayStation 2 System [Yellow Automotive Edition]",
+        "name": "PlayStation 2 System [Blue Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
@@ -3484,8 +3484,8 @@
       {
         "rank": 10,
         "name": "Rule of Rose",
-        "price_usd": 713.17,
-        "price_eur": 656.12,
+        "price_usd": 713.38,
+        "price_eur": 656.31,
         "isHistory": false
       },
       {
@@ -3498,8 +3498,8 @@
       {
         "rank": 12,
         "name": "Resident Evil 4 Chainsaw Controller",
-        "price_usd": 490.77,
-        "price_eur": 451.51,
+        "price_usd": 490.59,
+        "price_eur": 451.34,
         "isHistory": false
       },
       {
@@ -3584,8 +3584,8 @@
       {
         "rank": 4,
         "name": "PSP 2000 Limited Edition God of War [Red]",
-        "price_usd": 219.99,
-        "price_eur": 202.39,
+        "price_usd": 232.5,
+        "price_eur": 213.9,
         "isHistory": false
       },
       {
@@ -3817,15 +3817,15 @@
       {
         "rank": 17,
         "name": "WWF Raw",
-        "price_usd": 56.78,
-        "price_eur": 52.24,
+        "price_usd": 55.34,
+        "price_eur": 50.91,
         "isHistory": false
       },
       {
         "rank": 18,
         "name": "Toughman Contest",
-        "price_usd": 55.67,
-        "price_eur": 51.22,
+        "price_usd": 55.13,
+        "price_eur": 50.72,
         "isHistory": false
       },
       {
@@ -4345,8 +4345,8 @@
       {
         "rank": 11,
         "name": "3D Tetris",
-        "price_usd": 169.02,
-        "price_eur": 155.5,
+        "price_usd": 165,
+        "price_eur": 151.8,
         "isHistory": false
       },
       {
@@ -4678,8 +4678,8 @@
       {
         "rank": 18,
         "name": "Gunpey Ex",
-        "price_usd": 74.6,
-        "price_eur": 68.63,
+        "price_usd": 73.9,
+        "price_eur": 67.99,
         "isHistory": false
       },
       {
@@ -4798,30 +4798,30 @@
       },
       {
         "rank": 15,
-        "name": "Pit-Fighter",
-        "price_usd": 85.78,
-        "price_eur": 78.92,
-        "isHistory": false
-      },
-      {
-        "rank": 16,
         "name": "Sinclair ZX Spectrum 128K +2 Computer",
         "price_usd": 85,
         "price_eur": 78.2,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 16,
         "name": "Spellbound Dizzy",
         "price_usd": 83.97,
         "price_eur": 77.25,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 17,
         "name": "Backgammon [ROM Cartridge]",
         "price_usd": 81.51,
         "price_eur": 74.99,
+        "isHistory": false
+      },
+      {
+        "rank": 18,
+        "name": "Pit-Fighter",
+        "price_usd": 74.39,
+        "price_eur": 68.44,
         "isHistory": false
       },
       {
