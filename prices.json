@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28",
+  "updated": "2026-09-29",
   "systems": {
     "3do": [
       {
@@ -225,23 +225,23 @@
       },
       {
         "rank": 12,
-        "name": "Color Bar Generator",
-        "price_usd": 576,
-        "price_eur": 529.92,
-        "isHistory": false
-      },
-      {
-        "rank": 13,
         "name": "Malagai",
         "price_usd": 575,
         "price_eur": 529,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 13,
         "name": "Copy Cart",
         "price_usd": 500,
         "price_eur": 460,
+        "isHistory": false
+      },
+      {
+        "rank": 14,
+        "name": "Color Bar Generator",
+        "price_usd": 468.51,
+        "price_eur": 431.03,
         "isHistory": false
       },
       {
@@ -717,8 +717,8 @@
       {
         "rank": 1,
         "name": "Atari Jaguar Pro Controler",
-        "price_usd": 531.1,
-        "price_eur": 488.61,
+        "price_usd": 701.71,
+        "price_eur": 645.57,
         "isHistory": false
       },
       {
@@ -901,37 +901,37 @@
       },
       {
         "rank": 7,
+        "name": "Cannon Spike",
+        "price_usd": 195.25,
+        "price_eur": 179.63,
+        "isHistory": false
+      },
+      {
+        "rank": 8,
         "name": "Illbleed",
         "price_usd": 191.95,
         "price_eur": 176.59,
         "isHistory": false
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "SCART Cable",
         "price_usd": 187.5,
         "price_eur": 172.5,
         "isHistory": false
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "Speed Devils [Clean Cover]",
         "price_usd": 185,
         "price_eur": 170.2,
         "isHistory": false
       },
       {
-        "rank": 10,
-        "name": "Cannon Spike",
-        "price_usd": 150,
-        "price_eur": 138,
-        "isHistory": false
-      },
-      {
         "rank": 11,
         "name": "Sega Dreamcast Console",
-        "price_usd": 144.98,
-        "price_eur": 133.38,
+        "price_usd": 162.25,
+        "price_eur": 149.27,
         "isHistory": false
       },
       {
@@ -1213,14 +1213,14 @@
       },
       {
         "rank": 11,
-        "name": "Bubble Bobble 2",
+        "name": "Makaimura [Box Cart]",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
       },
       {
         "rank": 12,
-        "name": "Makaimura [Box Cart]",
+        "name": "Bubble Bobble 2",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
@@ -1611,16 +1611,16 @@
       },
       {
         "rank": 7,
-        "name": "Pine Creek [Collector's Edition]",
-        "price_usd": 319.06,
-        "price_eur": 293.54,
+        "name": "Resident Evil Gaiden",
+        "price_usd": 323.52,
+        "price_eur": 297.64,
         "isHistory": false
       },
       {
         "rank": 8,
-        "name": "Resident Evil Gaiden",
-        "price_usd": 310.71,
-        "price_eur": 285.85,
+        "name": "Pine Creek [Collector's Edition]",
+        "price_usd": 319.06,
+        "price_eur": 293.54,
         "isHistory": false
       },
       {
@@ -1674,37 +1674,37 @@
       },
       {
         "rank": 16,
+        "name": "Space Marauder",
+        "price_usd": 162.78,
+        "price_eur": 149.76,
+        "isHistory": false
+      },
+      {
+        "rank": 17,
         "name": "Pokemon Crystal",
         "price_usd": 153.37,
         "price_eur": 141.1,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 18,
         "name": "Gameshark [Special Edition for Pokemon Crystal]",
         "price_usd": 150,
         "price_eur": 138,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 19,
         "name": "Tommy Hilfiger Gameboy Color",
         "price_usd": 136.31,
         "price_eur": 125.41,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 20,
         "name": "Pokemon Special Edition Gameboy Color System",
         "price_usd": 132.5,
         "price_eur": 121.9,
-        "isHistory": false
-      },
-      {
-        "rank": 20,
-        "name": "Metal Gear Solid",
-        "price_usd": 130,
-        "price_eur": 119.6,
         "isHistory": false
       }
     ],
@@ -1774,14 +1774,14 @@
       },
       {
         "rank": 10,
-        "name": "Sega Game Gear [Majesco Revision]",
+        "name": "Tails' Adventure",
         "price_usd": 80,
         "price_eur": 73.6,
         "isHistory": false
       },
       {
         "rank": 11,
-        "name": "Tails' Adventure",
+        "name": "Sega Game Gear [Majesco Revision]",
         "price_usd": 80,
         "price_eur": 73.6,
         "isHistory": false
@@ -1910,8 +1910,8 @@
       {
         "rank": 9,
         "name": "Crusader of Centy",
-        "price_usd": 477,
-        "price_eur": 438.84,
+        "price_usd": 500,
+        "price_eur": 460,
         "isHistory": false
       },
       {
@@ -2117,8 +2117,8 @@
       {
         "rank": 18,
         "name": "OutRun [Blue Label]",
-        "price_usd": 52.58,
-        "price_eur": 48.37,
+        "price_usd": 52.76,
+        "price_eur": 48.54,
         "isHistory": false
       },
       {
@@ -2352,8 +2352,8 @@
       {
         "rank": 11,
         "name": "Doctor V64",
-        "price_usd": 256.12,
-        "price_eur": 235.63,
+        "price_usd": 258.75,
+        "price_eur": 238.05,
         "isHistory": false
       },
       {
@@ -2366,8 +2366,8 @@
       {
         "rank": 13,
         "name": "Nintendo 64 Fire Orange",
-        "price_usd": 226.37,
-        "price_eur": 208.26,
+        "price_usd": 225.98,
+        "price_eur": 207.9,
         "isHistory": false
       },
       {
@@ -2530,8 +2530,8 @@
       {
         "rank": 16,
         "name": "Pokemon Legendary Distribution",
-        "price_usd": 600,
-        "price_eur": 552,
+        "price_usd": 608.05,
+        "price_eur": 559.41,
         "isHistory": false
       },
       {
@@ -3449,8 +3449,8 @@
       {
         "rank": 5,
         "name": "PlayStation 2 System [White Automotive Edition]",
-        "price_usd": 1691.98,
-        "price_eur": 1556.62,
+        "price_usd": 1688.49,
+        "price_eur": 1553.41,
         "isHistory": false
       },
       {
@@ -4052,16 +4052,16 @@
       },
       {
         "rank": 10,
-        "name": "Demon's Crest",
-        "price_usd": 243.39,
-        "price_eur": 223.92,
+        "name": "Super Chase HQ",
+        "price_usd": 228.34,
+        "price_eur": 210.07,
         "isHistory": false
       },
       {
         "rank": 11,
-        "name": "Super Chase HQ",
-        "price_usd": 228.34,
-        "price_eur": 210.07,
+        "name": "Demon's Crest",
+        "price_usd": 226.57,
+        "price_eur": 208.44,
         "isHistory": false
       },
       {
@@ -4359,8 +4359,8 @@
       {
         "rank": 13,
         "name": "Flashboy+",
-        "price_usd": 147.1,
-        "price_eur": 135.33,
+        "price_usd": 146.59,
+        "price_eur": 134.86,
         "isHistory": false
       },
       {
@@ -4400,14 +4400,14 @@
       },
       {
         "rank": 19,
-        "name": "SD Gundam Dimension Wars [Homebrew]",
+        "name": "Wario Land",
         "price_usd": 65,
         "price_eur": 59.8,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "Wario Land",
+        "name": "SD Gundam Dimension Wars [Homebrew]",
         "price_usd": 65,
         "price_eur": 59.8,
         "isHistory": false
@@ -4580,8 +4580,8 @@
       {
         "rank": 4,
         "name": "Super Robot Taisen Compact 3",
-        "price_usd": 152.92,
-        "price_eur": 140.69,
+        "price_usd": 152.89,
+        "price_eur": 140.66,
         "isHistory": false
       },
       {
