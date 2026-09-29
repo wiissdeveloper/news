@@ -1,6 +1,86 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "notices": [
+    {
+      "guid": "https://gamerant.com/pokemon-tcg-delta-reign-promo-cards/",
+      "title": "Pokemon TCG Reveals 4 New Delta Reign Promo Cards",
+      "link": "https://gamerant.com/pokemon-tcg-delta-reign-promo-cards/",
+      "pubDate": "Tue, 29 Sep 2026 03:30:13 GMT",
+      "contentSnippet": "The Pokemon Trading Card Game officially showcases a set of four exclusive promo cards players can pick up from the upcoming Delta Reign expansion.",
+      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/pokemon-tcg-delta-reign-promos.jpg"
+    },
+    {
+      "guid": "https://gamerant.com/final-fantasy-14-till-dawn-my-tears-flow-album/",
+      "title": "Final Fantasy 14: Till Dawn My Tears Flow Officially Announced",
+      "link": "https://gamerant.com/final-fantasy-14-till-dawn-my-tears-flow-album/",
+      "pubDate": "Tue, 29 Sep 2026 03:00:13 GMT",
+      "contentSnippet": "Square Enix announces Final Fantasy 14: Till Dawn My Tears Flow, revealing details on the launch, its release window, and more.",
+      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/final-fantasy-14-alisae-thoughtful.jpg"
+    },
+    {
+      "guid": "https://gamerant.com/pc-games-like-vampire-survivors-minecraft-voxie-survivor/",
+      "title": "New Action Roguelike PC Game is Essentially Minecraft Meets Vampire Survivors",
+      "link": "https://gamerant.com/pc-games-like-vampire-survivors-minecraft-voxie-survivor/",
+      "pubDate": "Tue, 29 Sep 2026 02:00:23 GMT",
+      "contentSnippet": "An upcoming action roguelike game combines the art style of Minecraft with the Bullet Heaven mechanics of Vampire Survivors.",
+      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/voxie-survivors-press-screenshot-6.jpg"
+    },
+    {
+      "guid": "https://gamerant.com/neverness-to-everness-nte-1-4-when-release-date-time-countdown-come-out/",
+      "title": "NTE 1.4 Release Time & Countdown (Neverness to Everness)",
+      "link": "https://gamerant.com/neverness-to-everness-nte-1-4-when-release-date-time-countdown-come-out/",
+      "pubDate": "Tue, 29 Sep 2026 01:47:54 GMT",
+      "contentSnippet": "Here's when you can expect the NTE 1.4 release date to pull on Blackbird's debut banner or Lacrimosa's rerun banner.",
+      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/neverness-to-everness-nte-1-4-when-release-date-time-countdown-come-out-blackbird-banner-release-nte-1-4-release-date-time-countdown.jpg"
+    },
+    {
+      "guid": "https://gamerant.com/dino-bones-museum-steam-game-like-pokemon-jurassic-park/",
+      "title": "New Steam Game is Like Pokemon Snap Meets Jurassic Park",
+      "link": "https://gamerant.com/dino-bones-museum-steam-game-like-pokemon-jurassic-park/",
+      "pubDate": "Tue, 29 Sep 2026 01:00:14 GMT",
+      "contentSnippet": "A new game on Steam mixes Pokemon Snap's exploration and observation with Jurassic Park's Dinosaur themes, all in a distinctly cozy package.",
+      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/jurassic-park-pokemon-snap-dinobones-tidy-up-the-museum-game-rant.jpg"
+    },
+    {
+      "guid": "https://gamerant.com/the-witcher-and-open-world-rpg-games-perfect-from-beginning-to-end/",
+      "title": "The Witcher 3 & Other Open-World RPGs Perfect From Start To Finish",
+      "link": "https://gamerant.com/the-witcher-and-open-world-rpg-games-perfect-from-beginning-to-end/",
+      "pubDate": "Tue, 29 Sep 2026 00:45:13 GMT",
+      "contentSnippet": "Open-world RPGs often collapse into padding and repetition, but these games remain compelling from beginning to end.",
+      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/witcher-5-open-world-rpgs-perfect-from-beginning-to-end.jpg"
+    },
+    {
+      "guid": "svUdFErkFVRSPpobJH42b",
+      "title": " I can't stop comparing the dialogue from the original, messy FF7 localization and its vastly improved fan translation ",
+      "link": "https://www.pcgamer.com/games/final-fantasy/i-cant-stop-comparing-the-dialogue-from-the-original-messy-ff7-localization-and-its-vastly-improved-fan-translation/",
+      "pubDate": "Tue, 29 Sep 2026 00:05:26 +0000",
+      "contentSnippet": "The Shinra Archaeology Cut of FF7 gives the game the treatment Square Enix's official PC release deserved.",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/XxracgYTs8VSKq3SeMyHJ-1920-80.jpg"
+    },
+    {
+      "guid": "jxfaP2GLCLznF7EXP3i9HD",
+      "title": " Double Fine's first game since being dumped by Xbox will be out in just 2 weeks ",
+      "link": "https://www.pcgamer.com/games/racing/double-fines-first-game-since-being-dumped-by-xbox-will-be-out-in-just-2-weeks/",
+      "pubDate": "Mon, 28 Sep 2026 22:00:44 +0000",
+      "contentSnippet": "I don't know what I expected, but Thank You Bus Driver sure isn't it. It does look like fun, though.",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/MJ6deZUbpaUkXtjkAUa3FJ-1920-80.jpg"
+    },
+    {
+      "guid": "cDxakbYbBfYuv9YZaqBeMj",
+      "title": " World of Warcraft: Forever players find black market NPC who sells a 15-day movement speed buff and other rare items that nobody can afford yet ",
+      "link": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-find-black-market-npc-who-sells-a-15-day-movement-speed-buff-and-other-rare-items-that-nobody-can-afford-yet/",
+      "pubDate": "Mon, 28 Sep 2026 21:09:12 +0000",
+      "contentSnippet": "Blizzard is also using it to get ahead of price inflation.",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/uWEo4ZYPWjBoJMPvS4hyf6-1920-80.jpg"
+    },
+    {
+      "guid": "9fmcNdTSLNQMhuv8aUzmAk",
+      "title": " A 'fundamental' update for this 34-year-old survival game is coming in October ",
+      "link": "https://www.pcgamer.com/games/survival-crafting/a-fundamental-update-for-this-34-year-old-survival-game-is-coming-in-october/",
+      "pubDate": "Mon, 28 Sep 2026 20:28:16 +0000",
+      "contentSnippet": "Are you ready to make some socks?",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/3ayXte6GYW9KU8yA3cUEqB-1920-80.jpg"
+    },
     {
       "guid": "fQJz6zmJw7rPmHU5Dyuxqh",
       "title": " Steam's tidying game trend is about to get the haunted meat it's been missing ",
@@ -10,92 +90,12 @@
       "thumbnail": "https://cdn.mos.cms.futurecdn.net/dLob2vkUPv3TjrM4QAfqyU-1920-80.jpg"
     },
     {
-      "guid": "https://gamerant.com/pokemon-mcdonalds-tcg-cards-november-2026/",
-      "title": "New Exclusive Pokemon Release Formally Revealed for November",
-      "link": "https://gamerant.com/pokemon-mcdonalds-tcg-cards-november-2026/",
-      "pubDate": "Mon, 28 Sep 2026 19:01:13 GMT",
-      "contentSnippet": "Fans of the Pokemon franchise have something exciting to look forward to in the month of November, according to a newly revealed leak.",
-      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/pokemon-cards-return-to-mcdonalds.jpg"
-    },
-    {
-      "guid": "https://gamerant.com/gta-6-advanced-weather-confirmed/",
-      "title": "GTA 6 Officially Confirms Advanced Weather System",
-      "link": "https://gamerant.com/gta-6-advanced-weather-confirmed/",
-      "pubDate": "Mon, 28 Sep 2026 18:46:34 GMT",
-      "contentSnippet": "Grand Theft Auto 6 teases more details about the game's weather system, hinting at some of the advanced depictions of Florida's unpredictable weather.",
-      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/grand-theft-auto-6-advanced-weather.jpg"
-    },
-    {
-      "guid": "https://gamerant.com/mega-man-recharged-collection-humble-bundle/",
-      "title": "Mega Man Fans Only Have Limited Time to Get Incredible Bundle",
-      "link": "https://gamerant.com/mega-man-recharged-collection-humble-bundle/",
-      "pubDate": "Mon, 28 Sep 2026 18:30:13 GMT",
-      "contentSnippet": "Fans of Mega Man can score a huge deal of some of the most popular games in the franchise, but the deal is only available for a limited time.",
-      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/mega-man-fans-only-have-limited-time-to-get-incredible-bundle-gamerant-feature.jpg"
-    },
-    {
-      "guid": "https://gamerant.com/best-fps-games-overshadowed-by-bigger-releases-deserved-better-ranked/",
-      "title": "Best FPS Games That Were Overshadowed By Bigger Releases, Ranked",
-      "link": "https://gamerant.com/best-fps-games-overshadowed-by-bigger-releases-deserved-better-ranked/",
-      "pubDate": "Mon, 28 Sep 2026 18:15:13 GMT",
-      "contentSnippet": "Some seriously stacked release windows buried these great FPS titles, and even though they're beloved by fans, they deserved better recognition.",
-      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/09/best-fps-games-that-were-overshadowed-by-bigger-releases-but-deserved-better.jpg"
-    },
-    {
-      "guid": "https://gamerant.com/witcher-3-remastered-steam-deck/",
-      "title": "The Witcher 3 Remastered Shows First Look at Steam Deck Gameplay",
-      "link": "https://gamerant.com/witcher-3-remastered-steam-deck/",
-      "pubDate": "Mon, 28 Sep 2026 18:00:14 GMT",
-      "contentSnippet": "The Witcher 3 Remastered gets its first bit of Steam Deck gameplay, showing how well it runs on the handheld compared to the original version.",
-      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/09/witcher-3-remastered-steam-deck-feature.jpg"
-    },
-    {
       "guid": "j7H4NQFDk33DFtx53hK3rf",
       "title": " I have broken GTA 5 by installing so many mods that the game only launches in windowed mode now ",
       "link": "https://www.pcgamer.com/games/grand-theft-auto/i-have-broken-gta-5-by-installing-so-many-mods-that-the-game-only-launches-in-windowed-mode-now/",
       "pubDate": "Mon, 28 Sep 2026 17:49:04 +0000",
       "contentSnippet": "Which I'm taking as a… win?",
       "thumbnail": "https://cdn.mos.cms.futurecdn.net/a4ntzTUYmbfqVpqeLijoTR-1920-80.jpg"
-    },
-    {
-      "guid": "MutvKsL8Fg6FXECpprdCuQ",
-      "title": " The writer of The Witcher 3's best quest has returned to CD Projekt after a decade away ",
-      "link": "https://www.pcgamer.com/games/the-witcher/the-writer-of-the-witcher-3s-best-quest-has-returned-to-cd-projekt-after-a-decade-away/",
-      "pubDate": "Mon, 28 Sep 2026 17:22:38 +0000",
-      "contentSnippet": "After stops at Techland and GSC Game World, Karolina Stachyra is back to where it all began.",
-      "thumbnail": "https://cdn.mos.cms.futurecdn.net/r4YEJkGdgjTDBqwW5SwbUW-1920-80.jpg"
-    },
-    {
-      "guid": "kHjYQARGFVXrLWHK25o7FY",
-      "title": " October Prime Day gaming keyboard deals ",
-      "link": "https://www.pcgamer.com/hardware/gaming-keyboards/best-prime-day-gaming-keyboard-deals/",
-      "pubDate": "Mon, 28 Sep 2026 15:33:48 +0000",
-      "contentSnippet": "Gaming keyboards are a pretty Big Deal (Days) around here.",
-      "thumbnail": "https://cdn.mos.cms.futurecdn.net/rj6tL2sRZkZdtMrXecrGJ3-1920-80.jpg"
-    },
-    {
-      "guid": "127684",
-      "title": "New God Of War Laufey Weapon Revealed Alongside Pre-Order Details\n",
-      "link": "https://gameinformer.com/2026/09/28/new-god-of-war-laufey-weapon-revealed-alongside-pre-order-details",
-      "pubDate": "Mon, 28 Sep 2026 10:24:00 CDT",
-      "contentSnippet": "Santa Monica Studio has revealed new combat details for God of War Laufey, chiefly a new weapon for the titular protagonist. With the game slated to launch in February, pre-order details and a Digital Deluxe Edition have also been announced.\nGod of War Laufey stars Kratos' wife, Faye, as she battles to liberate and survive the Everywhen, the afterlife of the Gods, after she dies at the beginning of God of War (2018). A PlayStation Blog post reveals a new weapon for Faye alongside her sword: the Serpent’s Bow. This mythical bow gives Faye a ranged option to keep foes at bay, and its quickness allows players to weave arrow shots into their melee attack strings. Short clips posted on the blog show Faye knocking opponents in mid-air and peppering them with a few quick arrows before resuming her melee combo. \nHolding down the fire button charges precision shots to target weak points that can hinder enemy movement and offense. Charging shots also allows Faye to notch and unleash up to five arrows at once. Faye also has an arsenal of arrow types, including rapid-fire, explosive, and multi-targeting options. The Serpent Bow can also be customized by equipping scales that alter its appearance and performance. \nGod of War Laufey pre-orders open tomorrow, September 29, and include the following items. According to the blog post, items with an asterisk are denoted as \"Unlock in-game items via story progression.\"\nLast Wish Armor Set*\nPhranque Golden Leaves Appearance* (cosmetic) \nIn-game resource pack\n\n\n\n\n\n\n  \n          \n                  \n              \n              \n                  \n\n  \n\n\n  \n  \n  \n\n\nA Digital Deluxe Edition, which currently has no listed price, includes the following bonuses:\n\nDark Alchemy Armor Set*\nDark Alchemy Blade* \nDark Alchemy Bow Scales*\nDark Alchemy Catalyst*\nIn-Game Resource Pack\nDigital Mini Artbook \nOfficial God of War Laufey Digital Soundtrack\n\nGod of War Laufey launches on February 16 for PlayStation 5.",
-      "thumbnail": "https://gameinformer.com/sites/default/files/styles/body_default/public/2026/08/31/8c847a6e/god-of-war-laufey-wm-screenshot-battle-en-30may26.jpg.webp"
-    },
-    {
-      "guid": "ukLfP4dts3ejg5hut2MpjC",
-      "title": " Vignette vs chromatic aberration - which is worse? ",
-      "link": "https://www.pcgamer.com/hardware/vignette-vs-chromatic-aberration-which-is-worse/",
-      "pubDate": "Mon, 28 Sep 2026 14:09:20 +0000",
-      "contentSnippet": "It's time for round 2 of our worst graphical effects in games tournament.",
-      "thumbnail": "https://cdn.mos.cms.futurecdn.net/udGmGabdA3BgDNfAV9BnCP-1920-80.png"
-    },
-    {
-      "guid": "DpQ8P8QRZKyquhjyAvtzVT",
-      "title": " October Prime Day gaming mouse deals ",
-      "link": "https://www.pcgamer.com/hardware/gaming-mice/best-prime-day-gaming-mouse-deals/",
-      "pubDate": "Mon, 28 Sep 2026 13:33:10 +0000",
-      "contentSnippet": "These Big Deal Days could deliver some serious peripheral discounts.",
-      "thumbnail": "https://cdn.mos.cms.futurecdn.net/Q8oSk3zQUGsBXY2zk6PGek-1920-80.jpg"
     }
   ]
 }
