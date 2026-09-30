@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29",
+  "updated": "2026-09-30",
   "systems": {
     "3do": [
       {
@@ -26,8 +26,8 @@
       {
         "rank": 4,
         "name": "Lucienne's Quest",
-        "price_usd": 324.52,
-        "price_eur": 298.56,
+        "price_usd": 325.33,
+        "price_eur": 299.3,
         "isHistory": false
       },
       {
@@ -89,8 +89,8 @@
       {
         "rank": 13,
         "name": "Mind Teazzer",
-        "price_usd": 141.29,
-        "price_eur": 129.99,
+        "price_usd": 141.26,
+        "price_eur": 129.96,
         "isHistory": false
       },
       {
@@ -354,8 +354,8 @@
       {
         "rank": 10,
         "name": "K.C. Munchkin [Homebrew]",
-        "price_usd": 160.27,
-        "price_eur": 147.45,
+        "price_usd": 160.5,
+        "price_eur": 147.66,
         "isHistory": false
       },
       {
@@ -396,8 +396,8 @@
       {
         "rank": 16,
         "name": "Commando",
-        "price_usd": 124.79,
-        "price_eur": 114.81,
+        "price_usd": 124.72,
+        "price_eur": 114.74,
         "isHistory": false
       },
       {
@@ -468,8 +468,8 @@
       {
         "rank": 6,
         "name": "Crystal Castles",
-        "price_usd": 157.88,
-        "price_eur": 145.25,
+        "price_usd": 151.98,
+        "price_eur": 139.82,
         "isHistory": false
       },
       {
@@ -850,8 +850,8 @@
       {
         "rank": 20,
         "name": "Worms",
-        "price_usd": 122.08,
-        "price_eur": 112.31,
+        "price_usd": 122.1,
+        "price_eur": 112.33,
         "isHistory": false
       }
     ],
@@ -1334,14 +1334,14 @@
       },
       {
         "rank": 8,
-        "name": "Analogue Pocket [Black Anodized]",
+        "name": "Analogue Pocket [Supreme Red]",
         "price_usd": 700,
         "price_eur": 644,
         "isHistory": false
       },
       {
         "rank": 9,
-        "name": "Analogue Pocket [Supreme Red]",
+        "name": "Analogue Pocket [Black Anodized]",
         "price_usd": 700,
         "price_eur": 644,
         "isHistory": false
@@ -1404,14 +1404,14 @@
       },
       {
         "rank": 18,
-        "name": "Analogue Pocket [Grape]",
+        "name": "Analogue Pocket [Red]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
       },
       {
         "rank": 19,
-        "name": "Analogue Pocket [Red]",
+        "name": "Analogue Pocket [Grape]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
@@ -1789,8 +1789,8 @@
       {
         "rank": 12,
         "name": "Cosmic Spacehead",
-        "price_usd": 77.42,
-        "price_eur": 71.23,
+        "price_usd": 77.01,
+        "price_eur": 70.85,
         "isHistory": false
       },
       {
@@ -1830,23 +1830,23 @@
       },
       {
         "rank": 18,
+        "name": "Fatal Fury Special",
+        "price_usd": 47.48,
+        "price_eur": 43.68,
+        "isHistory": false
+      },
+      {
+        "rank": 19,
         "name": "Gear Master Converter",
         "price_usd": 42.81,
         "price_eur": 39.39,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 20,
         "name": "Bubble Bobble",
         "price_usd": 42,
         "price_eur": 38.64,
-        "isHistory": false
-      },
-      {
-        "rank": 20,
-        "name": "Fatal Fury Special",
-        "price_usd": 41.22,
-        "price_eur": 37.92,
         "isHistory": false
       }
     ],
@@ -2182,8 +2182,8 @@
       {
         "rank": 7,
         "name": "Alien Soldier",
-        "price_usd": 225,
-        "price_eur": 207,
+        "price_usd": 226.08,
+        "price_eur": 207.99,
         "isHistory": false
       },
       {
@@ -2537,8 +2537,8 @@
       {
         "rank": 17,
         "name": "Pokemon [Legendary Not For Resale Y90E]",
-        "price_usd": 600,
-        "price_eur": 552,
+        "price_usd": 600.42,
+        "price_eur": 552.39,
         "isHistory": false
       },
       {
@@ -3100,8 +3100,8 @@
       {
         "rank": 16,
         "name": "Tatsujin",
-        "price_usd": 242.93,
-        "price_eur": 223.5,
+        "price_usd": 242.62,
+        "price_eur": 223.21,
         "isHistory": false
       },
       {
@@ -3307,8 +3307,8 @@
       {
         "rank": 5,
         "name": "The Misadventures of Tron Bonne",
-        "price_usd": 249,
-        "price_eur": 229.08,
+        "price_usd": 249.99,
+        "price_eur": 229.99,
         "isHistory": false
       },
       {
@@ -3420,14 +3420,14 @@
     "ps2": [
       {
         "rank": 1,
-        "name": "PlayStation 2 System [Yellow Automotive Edition]",
+        "name": "PlayStation 2 System [Blue Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
       },
       {
         "rank": 2,
-        "name": "PlayStation 2 System [Blue Automotive Edition]",
+        "name": "PlayStation 2 System [Yellow Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
@@ -3540,8 +3540,8 @@
       {
         "rank": 18,
         "name": ".hack Quarantine",
-        "price_usd": 307.69,
-        "price_eur": 283.07,
+        "price_usd": 304.98,
+        "price_eur": 280.58,
         "isHistory": false
       },
       {
@@ -3647,8 +3647,8 @@
       {
         "rank": 13,
         "name": "PSP 3000 Limited Edition Metal Gear Version [Green]",
-        "price_usd": 161.09,
-        "price_eur": 148.2,
+        "price_usd": 161.25,
+        "price_eur": 148.35,
         "isHistory": false
       },
       {
@@ -3661,8 +3661,8 @@
       {
         "rank": 15,
         "name": "Legend of Heroes: Trails in the Sky [Premium Edition]",
-        "price_usd": 159.63,
-        "price_eur": 146.86,
+        "price_usd": 159.49,
+        "price_eur": 146.73,
         "isHistory": false
       },
       {
@@ -3695,9 +3695,9 @@
       },
       {
         "rank": 20,
-        "name": "PSP 3000",
-        "price_usd": 137.77,
-        "price_eur": 126.75,
+        "name": "PSP 2000 Limited Edition Star Wars Battlefront Version [White]",
+        "price_usd": 133.72,
+        "price_eur": 123.02,
         "isHistory": false
       }
     ],
@@ -3726,8 +3726,8 @@
       {
         "rank": 4,
         "name": "Motherbase",
-        "price_usd": 221.62,
-        "price_eur": 203.89,
+        "price_usd": 219.66,
+        "price_eur": 202.09,
         "isHistory": false
       },
       {
