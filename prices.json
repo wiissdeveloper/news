@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30",
+  "updated": "2026-10-01",
   "systems": {
     "3do": [
       {
@@ -170,8 +170,8 @@
       {
         "rank": 4,
         "name": "Eli's Ladder",
-        "price_usd": 1512.42,
-        "price_eur": 1391.43,
+        "price_usd": 1511.91,
+        "price_eur": 1390.96,
         "isHistory": false
       },
       {
@@ -752,8 +752,8 @@
       {
         "rank": 6,
         "name": "Atari Karts",
-        "price_usd": 211.58,
-        "price_eur": 194.65,
+        "price_usd": 212.04,
+        "price_eur": 195.08,
         "isHistory": false
       },
       {
@@ -1213,14 +1213,14 @@
       },
       {
         "rank": 11,
-        "name": "Makaimura [Box Cart]",
+        "name": "Bubble Bobble 2",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
       },
       {
         "rank": 12,
-        "name": "Bubble Bobble 2",
+        "name": "Makaimura [Box Cart]",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
@@ -1286,8 +1286,8 @@
       {
         "rank": 1,
         "name": "Gold Nintendo Power 100 Gameboy Pocket",
-        "price_usd": 1636.43,
-        "price_eur": 1505.52,
+        "price_usd": 1638.05,
+        "price_eur": 1507.01,
         "isHistory": false
       },
       {
@@ -1356,8 +1356,8 @@
       {
         "rank": 11,
         "name": "Amazing Tater",
-        "price_usd": 696.95,
-        "price_eur": 641.19,
+        "price_usd": 675.83,
+        "price_eur": 621.76,
         "isHistory": false
       },
       {
@@ -1411,16 +1411,16 @@
       },
       {
         "rank": 19,
-        "name": "Analogue Pocket [Grape]",
+        "name": "Analogue Pocket [Berry]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "Analogue Pocket [Berry]",
-        "price_usd": 500,
-        "price_eur": 460,
+        "name": "Analogue Pocket [Glow in the Dark]",
+        "price_usd": 499.99,
+        "price_eur": 459.99,
         "isHistory": false
       }
     ],
@@ -1519,8 +1519,8 @@
       {
         "rank": 14,
         "name": "Gameboy Advance Console & E-Reader Bundle",
-        "price_usd": 356.38,
-        "price_eur": 327.87,
+        "price_usd": 384.28,
+        "price_eur": 353.54,
         "isHistory": false
       },
       {
@@ -1682,8 +1682,8 @@
       {
         "rank": 17,
         "name": "Pokemon Crystal",
-        "price_usd": 153.37,
-        "price_eur": 141.1,
+        "price_usd": 150.48,
+        "price_eur": 138.44,
         "isHistory": false
       },
       {
@@ -1837,16 +1837,16 @@
       },
       {
         "rank": 19,
-        "name": "Gear Master Converter",
-        "price_usd": 42.81,
-        "price_eur": 39.39,
+        "name": "Super Star Wars: Return of the Jedi",
+        "price_usd": 47.22,
+        "price_eur": 43.44,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "Bubble Bobble",
-        "price_usd": 42,
-        "price_eur": 38.64,
+        "name": "Gear Master Converter",
+        "price_usd": 42.81,
+        "price_eur": 39.39,
         "isHistory": false
       }
     ],
@@ -1861,8 +1861,8 @@
       {
         "rank": 2,
         "name": "Outback Joey",
-        "price_usd": 3504.87,
-        "price_eur": 3224.48,
+        "price_usd": 3503.98,
+        "price_eur": 3223.66,
         "isHistory": false
       },
       {
@@ -2282,8 +2282,8 @@
       {
         "rank": 1,
         "name": "Zelda Majora's Mask [Adventure Set]",
-        "price_usd": 1742.22,
-        "price_eur": 1602.84,
+        "price_usd": 1742.18,
+        "price_eur": 1602.81,
         "isHistory": false
       },
       {
@@ -2979,8 +2979,8 @@
       {
         "rank": 19,
         "name": "Picture Puzzle",
-        "price_usd": 54.99,
-        "price_eur": 50.59,
+        "price_usd": 55.49,
+        "price_eur": 51.05,
         "isHistory": false
       },
       {
@@ -3397,37 +3397,37 @@
       },
       {
         "rank": 18,
-        "name": "Tales of Destiny 2",
-        "price_usd": 151.53,
-        "price_eur": 139.41,
-        "isHistory": false
-      },
-      {
-        "rank": 19,
         "name": "Elemental Gearbolt",
         "price_usd": 151.21,
         "price_eur": 139.11,
         "isHistory": false
       },
       {
-        "rank": 20,
+        "rank": 19,
         "name": "Lunar 2 Eternal Blue Complete [Collector's Edition]",
         "price_usd": 150,
         "price_eur": 138,
+        "isHistory": false
+      },
+      {
+        "rank": 20,
+        "name": "Pink Panther Pinkadelic Pursuit",
+        "price_usd": 149.99,
+        "price_eur": 137.99,
         "isHistory": false
       }
     ],
     "ps2": [
       {
         "rank": 1,
-        "name": "PlayStation 2 System [Blue Automotive Edition]",
+        "name": "PlayStation 2 System [Yellow Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
       },
       {
         "rank": 2,
-        "name": "PlayStation 2 System [Yellow Automotive Edition]",
+        "name": "PlayStation 2 System [Blue Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
@@ -3442,8 +3442,8 @@
       {
         "rank": 4,
         "name": "Playstation 2 Development Tool",
-        "price_usd": 1779.75,
-        "price_eur": 1637.37,
+        "price_usd": 1777.58,
+        "price_eur": 1635.37,
         "isHistory": false
       },
       {
@@ -3563,8 +3563,8 @@
       {
         "rank": 1,
         "name": "The Hilton Family",
-        "price_usd": 1310.36,
-        "price_eur": 1205.53,
+        "price_usd": 1310.59,
+        "price_eur": 1205.74,
         "isHistory": false
       },
       {
@@ -3990,8 +3990,8 @@
       {
         "rank": 1,
         "name": "Donkey Kong Country [5-Game Crate]",
-        "price_usd": 1458.97,
-        "price_eur": 1342.25,
+        "price_usd": 1457.27,
+        "price_eur": 1340.69,
         "isHistory": false
       },
       {
@@ -4045,37 +4045,37 @@
       },
       {
         "rank": 9,
+        "name": "Knights of the Round",
+        "price_usd": 246.84,
+        "price_eur": 227.09,
+        "isHistory": false
+      },
+      {
+        "rank": 10,
         "name": "The Firemen",
         "price_usd": 244.45,
         "price_eur": 224.89,
         "isHistory": false
       },
       {
-        "rank": 10,
+        "rank": 11,
         "name": "Super Chase HQ",
         "price_usd": 228.34,
         "price_eur": 210.07,
         "isHistory": false
       },
       {
-        "rank": 11,
+        "rank": 12,
         "name": "Demon's Crest",
         "price_usd": 226.57,
         "price_eur": 208.44,
         "isHistory": false
       },
       {
-        "rank": 12,
+        "rank": 13,
         "name": "Hagane The Final Conflict",
         "price_usd": 220.25,
         "price_eur": 202.63,
-        "isHistory": false
-      },
-      {
-        "rank": 13,
-        "name": "Knights of the Round",
-        "price_usd": 217.63,
-        "price_eur": 200.22,
         "isHistory": false
       },
       {
@@ -4116,8 +4116,8 @@
       {
         "rank": 19,
         "name": "Whirlo",
-        "price_usd": 195.31,
-        "price_eur": 179.69,
+        "price_usd": 195.86,
+        "price_eur": 180.19,
         "isHistory": false
       },
       {
@@ -4168,8 +4168,8 @@
       {
         "rank": 6,
         "name": "Berzerk",
-        "price_usd": 29.15,
-        "price_eur": 26.82,
+        "price_usd": 30.31,
+        "price_eur": 27.89,
         "isHistory": false
       },
       {
@@ -4217,8 +4217,8 @@
       {
         "rank": 13,
         "name": "WebWarp",
-        "price_usd": 20.06,
-        "price_eur": 18.46,
+        "price_usd": 20.08,
+        "price_eur": 18.47,
         "isHistory": false
       },
       {
@@ -4244,16 +4244,16 @@
       },
       {
         "rank": 17,
-        "name": "Cosmic Chasm",
-        "price_usd": 15.97,
-        "price_eur": 14.69,
+        "name": "Flipper Pinball",
+        "price_usd": 16.53,
+        "price_eur": 15.21,
         "isHistory": false
       },
       {
         "rank": 18,
-        "name": "Flipper Pinball",
-        "price_usd": 15.93,
-        "price_eur": 14.66,
+        "name": "Cosmic Chasm",
+        "price_usd": 15.97,
+        "price_eur": 14.69,
         "isHistory": false
       },
       {
@@ -4338,8 +4338,8 @@
       {
         "rank": 10,
         "name": "Virtual Lab [Homebrew]",
-        "price_usd": 178.94,
-        "price_eur": 164.62,
+        "price_usd": 179,
+        "price_eur": 164.68,
         "isHistory": false
       },
       {
@@ -4736,8 +4736,8 @@
       {
         "rank": 6,
         "name": "Jet Pac [ROM Cartridge]",
-        "price_usd": 137.53,
-        "price_eur": 126.53,
+        "price_usd": 137.82,
+        "price_eur": 126.79,
         "isHistory": false
       },
       {
