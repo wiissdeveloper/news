@@ -1,6 +1,22 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "notices": [
+    {
+      "guid": "https://www.gamekult.com/actualite/forza-horizon-2-ou-comment-des-artisans-anglais-ont-sauve-la-xbox-one-du-naufrage-3050872305.html",
+      "title": "Mémoire cash - Forza Horizon 2 ou comment des artisans anglais ont sauvé la Xbox One du naufrage",
+      "link": "https://www.gamekult.com/actualite/forza-horizon-2-ou-comment-des-artisans-anglais-ont-sauve-la-xbox-one-du-naufrage-3050872305.html",
+      "pubDate": "Sat, 03 Oct 2026 06:01:00 +0200",
+      "contentSnippet": "Souvenons-nous du champ de ruines qu'était l'écosystème Xbox en 2014. Après l'inénarrable Don Mattrick, le traumatisme du « TV, TV, TV », le forcing d'une caméra Kinect imposée qui gonflait le prix de la console de cent euros face à la PS4 et un Forza Motorsport 5 rachitique essoré par les microtransactions, la marque buvait la tasse. Phil Spencer venait tout juste de récupérer les clés d'un camion en flammes. Et c'est là, au milieu du marasme, qu'une bande de mercenaires basée à Leamington Spa a débarqué pour administrer la plus belle claque mécanique de la génération : Forza Horizon 2.",
+      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872305/forza-horizon-2-ou-comment-des-artisans-anglais-ont-sauve-la-xbox-one-du-naufrage-dd28a1c6__930_300__0-320-1920-941.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2106970/la-console-de-jeu-grand-public-la-plus-chere-de-tous-les-temps-est-sorti-en-1990-en-euros-de-2026-elle-serait-facture-1300.htm",
+      "title": "La console de jeu grand public la plus chère de tous les temps est sorti en 1990. En euros de 2026, elle serait facturée 1300€",
+      "link": "https://www.jeuxvideo.com/news/2106970/la-console-de-jeu-grand-public-la-plus-chere-de-tous-les-temps-est-sorti-en-1990-en-euros-de-2026-elle-serait-facture-1300.htm",
+      "pubDate": "Fri, 02 Oct 2026 21:40:09 +0200",
+      "contentSnippet": "Bien avant les consoles vendues à plus de 700 ou 800 €, un constructeur japonais avait poussé le concept de machine haut de gamme beaucoup plus loin. Au début des années 1990, il fallait dépenser une petite fortune pour s'offrir cette console, sans même parler du prix de ses jeux.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179086/1790857572-7379-card.jpg"
+    },
     {
       "guid": "https://www.actugaming.net/?p=827987",
       "title": "Test Gears of War: E-Day – Un retour aux sources brutal et spectaculaire",
@@ -80,22 +96,6 @@
       "pubDate": "Fri, 02 Oct 2026 16:03:00 +0200",
       "contentSnippet": "Si vous aimez l'esthétique de Marathon mais que son gameplay extraction shooter vous lasse, alors peut-être que le rythme effréné du FPS roguelite VOID/BREAKER vous séduira. Il sort d'accès anticipé le mois prochain.",
       "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872303/void-breaker-des-balles-des-lasers-et-du-roguelite-ca-sort-d-acces-anticipe-tres-bientot-f1f1e9b5__930_300__0-391-1900-1004.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=828094",
-      "title": "Krafton annule son extraction-shooter PUBG: Black Budget avant son lancement",
-      "link": "https://www.actugaming.net/krafton-annule-son-extraction-shooter-pubg-black-budget-avant-son-lancement-828094/",
-      "pubDate": "Fri, 02 Oct 2026 14:02:13 +0000",
-      "contentSnippet": "ActuGaming.net\nKrafton annule son extraction-shooter PUBG: Black Budget avant son lancement\n\nAvec les changements apportés à Marathon et Arc Raiders, on commencerait presque à se dire […]\nL'article Krafton annule son extraction-shooter PUBG: Black Budget avant son lancement est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2025/11/PUBG-Black-Budget-1.jpeg"
-    },
-    {
-      "guid": "https://www.jeuxvideo.com/news/2106933/jouer-gratuitement-et-sans-limitation-de-duree-a-final-fantasy-xi-c-est-desormais-possible-jusqu-au-niveau-75.htm",
-      "title": "Jouer gratuitement et sans limitation de durée à Final Fantasy XI, c'est désormais possible jusqu'au niveau 75",
-      "link": "https://www.jeuxvideo.com/news/2106933/jouer-gratuitement-et-sans-limitation-de-duree-a-final-fantasy-xi-c-est-desormais-possible-jusqu-au-niveau-75.htm",
-      "pubDate": "Fri, 02 Oct 2026 16:00:10 +0200",
-      "contentSnippet": "Square Enix dépoussière l'offre d'essai de son premier MMORPG, Final Fantasy XI Online. En supprimant la limite de temps et en réhaussant le niveau maximum au palier 75, l'éditeur offre une aventure colossale aux nostalgiques et curieux de Vana'diel.",
-      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179085/1790847210-3978-card.jpg"
     }
   ]
 }
