@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03",
+  "updated": "2026-10-04",
   "systems": {
     "3do": [
       {
@@ -340,8 +340,8 @@
       {
         "rank": 8,
         "name": "Super Pac-Man [Homebrew]",
-        "price_usd": 191.19,
-        "price_eur": 175.89,
+        "price_usd": 191.03,
+        "price_eur": 175.75,
         "isHistory": false
       },
       {
@@ -524,8 +524,8 @@
       {
         "rank": 14,
         "name": "Super Zaxxon",
-        "price_usd": 103.54,
-        "price_eur": 95.26,
+        "price_usd": 104.12,
+        "price_eur": 95.79,
         "isHistory": false
       },
       {
@@ -589,8 +589,8 @@
       {
         "rank": 3,
         "name": "Atari Lynx Console",
-        "price_usd": 180.02,
-        "price_eur": 165.62,
+        "price_usd": 180.01,
+        "price_eur": 165.61,
         "isHistory": false
       },
       {
@@ -759,8 +759,8 @@
       {
         "rank": 7,
         "name": "AirCars",
-        "price_usd": 194.33,
-        "price_eur": 178.78,
+        "price_usd": 194.36,
+        "price_eur": 178.81,
         "isHistory": false
       },
       {
@@ -829,8 +829,8 @@
       {
         "rank": 17,
         "name": "Black Lamp",
-        "price_usd": 141.06,
-        "price_eur": 129.78,
+        "price_usd": 141.34,
+        "price_eur": 130.03,
         "isHistory": false
       },
       {
@@ -895,8 +895,8 @@
       {
         "rank": 6,
         "name": "Sega Dreamcast Sports Edition Console",
-        "price_usd": 209,
-        "price_eur": 192.28,
+        "price_usd": 202.5,
+        "price_eur": 186.3,
         "isHistory": false
       },
       {
@@ -944,8 +944,8 @@
       {
         "rank": 13,
         "name": "Giga Wing 2",
-        "price_usd": 134.69,
-        "price_eur": 123.91,
+        "price_usd": 136.7,
+        "price_eur": 125.76,
         "isHistory": false
       },
       {
@@ -1016,8 +1016,8 @@
       {
         "rank": 3,
         "name": "All One",
-        "price_usd": 105.83,
-        "price_eur": 97.36,
+        "price_usd": 105.65,
+        "price_eur": 97.2,
         "isHistory": false
       },
       {
@@ -1128,8 +1128,8 @@
       {
         "rank": 19,
         "name": "Electrician",
-        "price_usd": 37.38,
-        "price_eur": 34.39,
+        "price_usd": 37.32,
+        "price_eur": 34.33,
         "isHistory": false
       },
       {
@@ -1200,20 +1200,20 @@
       {
         "rank": 9,
         "name": "Seirei Densetsu Lickle",
-        "price_usd": 292.25,
-        "price_eur": 268.87,
+        "price_usd": 292.44,
+        "price_eur": 269.04,
         "isHistory": false
       },
       {
         "rank": 10,
-        "name": "Bubble Bobble 2",
+        "name": "Makaimura [Box Cart]",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
       },
       {
         "rank": 11,
-        "name": "Makaimura [Box Cart]",
+        "name": "Bubble Bobble 2",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
@@ -1221,8 +1221,8 @@
       {
         "rank": 12,
         "name": "Akumajou Dracula",
-        "price_usd": 265.24,
-        "price_eur": 244.02,
+        "price_usd": 263.27,
+        "price_eur": 242.21,
         "isHistory": false
       },
       {
@@ -1404,14 +1404,14 @@
       },
       {
         "rank": 18,
-        "name": "Analogue Pocket [Red]",
+        "name": "Analogue Pocket [Berry]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
       },
       {
         "rank": 19,
-        "name": "Analogue Pocket [Berry]",
+        "name": "Analogue Pocket [Red]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
@@ -1540,8 +1540,8 @@
       {
         "rank": 17,
         "name": "Ninja Five O",
-        "price_usd": 299,
-        "price_eur": 275.08,
+        "price_usd": 299.99,
+        "price_eur": 275.99,
         "isHistory": false
       },
       {
@@ -1560,9 +1560,9 @@
       },
       {
         "rank": 20,
-        "name": "GBA Micro [20th Anniversary Edition]",
-        "price_usd": 234.41,
-        "price_eur": 215.66,
+        "name": "Eon Ticket",
+        "price_usd": 230,
+        "price_eur": 211.6,
         "isHistory": false
       }
     ],
@@ -1647,8 +1647,8 @@
       {
         "rank": 12,
         "name": "Hamtaro Ham-Hams Unite! [Not For Resale]",
-        "price_usd": 185.82,
-        "price_eur": 170.95,
+        "price_usd": 186.33,
+        "price_eur": 171.42,
         "isHistory": false
       },
       {
@@ -1768,8 +1768,8 @@
       {
         "rank": 9,
         "name": "EverDrive GG X7",
-        "price_usd": 84.49,
-        "price_eur": 77.73,
+        "price_usd": 84.54,
+        "price_eur": 77.78,
         "isHistory": false
       },
       {
@@ -1795,37 +1795,37 @@
       },
       {
         "rank": 13,
+        "name": "Defenders of Oasis",
+        "price_usd": 55.71,
+        "price_eur": 51.25,
+        "isHistory": false
+      },
+      {
+        "rank": 14,
         "name": "Urban Strike",
         "price_usd": 55.66,
         "price_eur": 51.21,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 15,
         "name": "Sega Game Gear Handheld",
         "price_usd": 52.56,
         "price_eur": 48.36,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 16,
         "name": "Arena Maze of Death",
         "price_usd": 50.21,
         "price_eur": 46.19,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 17,
         "name": "Shining Force Sword of Hajya",
         "price_usd": 50,
         "price_eur": 46,
-        "isHistory": false
-      },
-      {
-        "rank": 17,
-        "name": "Defenders of Oasis",
-        "price_usd": 48.66,
-        "price_eur": 44.77,
         "isHistory": false
       },
       {
@@ -1945,8 +1945,8 @@
       {
         "rank": 14,
         "name": "Sega Nomad",
-        "price_usd": 335.88,
-        "price_eur": 309.01,
+        "price_usd": 310,
+        "price_eur": 285.2,
         "isHistory": false
       },
       {
@@ -2026,8 +2026,8 @@
       {
         "rank": 5,
         "name": "Sega Master System Console",
-        "price_usd": 146.2,
-        "price_eur": 134.5,
+        "price_usd": 150,
+        "price_eur": 138,
         "isHistory": false
       },
       {
@@ -2082,15 +2082,15 @@
       {
         "rank": 13,
         "name": "Phantasy Star",
-        "price_usd": 72.37,
-        "price_eur": 66.58,
+        "price_usd": 77.87,
+        "price_eur": 71.64,
         "isHistory": false
       },
       {
         "rank": 14,
         "name": "Alf",
-        "price_usd": 70.68,
-        "price_eur": 65.03,
+        "price_usd": 70.79,
+        "price_eur": 65.13,
         "isHistory": false
       },
       {
@@ -2110,8 +2110,8 @@
       {
         "rank": 17,
         "name": "King's Quest",
-        "price_usd": 63.2,
-        "price_eur": 58.14,
+        "price_usd": 62.68,
+        "price_eur": 57.67,
         "isHistory": false
       },
       {
@@ -2765,8 +2765,8 @@
       {
         "rank": 9,
         "name": "Little Samson",
-        "price_usd": 2599.99,
-        "price_eur": 2391.99,
+        "price_usd": 2610.18,
+        "price_eur": 2401.37,
         "isHistory": false
       },
       {
@@ -2799,16 +2799,16 @@
       },
       {
         "rank": 14,
-        "name": "Power Pad Test Cartridge",
-        "price_usd": 1277.96,
-        "price_eur": 1175.72,
+        "name": "Flintstones Surprise at Dinosaur Peak",
+        "price_usd": 1281.22,
+        "price_eur": 1178.72,
         "isHistory": false
       },
       {
         "rank": 15,
-        "name": "Flintstones Surprise at Dinosaur Peak",
-        "price_usd": 1261.5,
-        "price_eur": 1160.58,
+        "name": "Power Pad Test Cartridge",
+        "price_usd": 1277.96,
+        "price_eur": 1175.72,
         "isHistory": false
       },
       {
@@ -2985,9 +2985,9 @@
       },
       {
         "rank": 20,
-        "name": "Dive Alert Matt's Version",
-        "price_usd": 44.06,
-        "price_eur": 40.54,
+        "name": "Dark Arms: Beast Buster 1999",
+        "price_usd": 45.59,
+        "price_eur": 41.94,
         "isHistory": false
       }
     ],
@@ -3016,8 +3016,8 @@
       {
         "rank": 4,
         "name": "PC Engine GT",
-        "price_usd": 568.73,
-        "price_eur": 523.23,
+        "price_usd": 568.55,
+        "price_eur": 523.07,
         "isHistory": false
       },
       {
@@ -3057,16 +3057,16 @@
       },
       {
         "rank": 10,
-        "name": "PC Engine Shuttle",
-        "price_usd": 320,
-        "price_eur": 294.4,
+        "name": "XE-1 HE Pro",
+        "price_usd": 325.44,
+        "price_eur": 299.4,
         "isHistory": false
       },
       {
         "rank": 11,
-        "name": "XE-1 HE Pro",
-        "price_usd": 301.63,
-        "price_eur": 277.5,
+        "name": "PC Engine Shuttle",
+        "price_usd": 320,
+        "price_eur": 294.4,
         "isHistory": false
       },
       {
@@ -3363,8 +3363,8 @@
       {
         "rank": 13,
         "name": "Silent Hill",
-        "price_usd": 179.85,
-        "price_eur": 165.46,
+        "price_usd": 177.5,
+        "price_eur": 163.3,
         "isHistory": false
       },
       {
@@ -3705,8 +3705,8 @@
       {
         "rank": 1,
         "name": "Sega 32X Unit",
-        "price_usd": 451.8,
-        "price_eur": 415.66,
+        "price_usd": 451.68,
+        "price_eur": 415.55,
         "isHistory": false
       },
       {
@@ -3923,44 +3923,44 @@
       },
       {
         "rank": 12,
-        "name": "Fire Emblem: Thracia 776",
-        "price_usd": 273.5,
-        "price_eur": 251.62,
-        "isHistory": false
-      },
-      {
-        "rank": 13,
         "name": "Love Quest",
         "price_usd": 255,
         "price_eur": 234.6,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 13,
         "name": "Yokai Buster",
         "price_usd": 229.02,
         "price_eur": 210.7,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 14,
         "name": "Metal Slader Glory",
         "price_usd": 228.42,
         "price_eur": 210.15,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 15,
         "name": "Iron Commando",
         "price_usd": 227.65,
         "price_eur": 209.44,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 16,
         "name": "Sutte Hakkun",
         "price_usd": 223,
         "price_eur": 205.16,
+        "isHistory": false
+      },
+      {
+        "rank": 17,
+        "name": "Fire Emblem: Thracia 776",
+        "price_usd": 217.82,
+        "price_eur": 200.39,
         "isHistory": false
       },
       {
@@ -4046,8 +4046,8 @@
       {
         "rank": 9,
         "name": "Daze Before Christmas",
-        "price_usd": 255.77,
-        "price_eur": 235.31,
+        "price_usd": 255.51,
+        "price_eur": 235.07,
         "isHistory": false
       },
       {
@@ -4066,23 +4066,23 @@
       },
       {
         "rank": 12,
-        "name": "Super Chase HQ",
-        "price_usd": 228.34,
-        "price_eur": 210.07,
-        "isHistory": false
-      },
-      {
-        "rank": 13,
         "name": "Demon's Crest",
         "price_usd": 226.57,
         "price_eur": 208.44,
         "isHistory": false
       },
       {
+        "rank": 13,
+        "name": "Super Chase HQ",
+        "price_usd": 226.35,
+        "price_eur": 208.24,
+        "isHistory": false
+      },
+      {
         "rank": 14,
         "name": "Hagane The Final Conflict",
-        "price_usd": 220.25,
-        "price_eur": 202.63,
+        "price_usd": 213.91,
+        "price_eur": 196.8,
         "isHistory": false
       },
       {
@@ -4252,8 +4252,8 @@
       {
         "rank": 18,
         "name": "Cosmic Chasm",
-        "price_usd": 15.97,
-        "price_eur": 14.69,
+        "price_usd": 16,
+        "price_eur": 14.72,
         "isHistory": false
       },
       {
@@ -4316,16 +4316,16 @@
       },
       {
         "rank": 7,
-        "name": "Waterworld",
-        "price_usd": 220,
-        "price_eur": 202.4,
+        "name": "Wario Land [Not For Resale]",
+        "price_usd": 209.97,
+        "price_eur": 193.17,
         "isHistory": false
       },
       {
         "rank": 8,
-        "name": "Wario Land [Not For Resale]",
-        "price_usd": 209.97,
-        "price_eur": 193.17,
+        "name": "Waterworld",
+        "price_usd": 207.02,
+        "price_eur": 190.46,
         "isHistory": false
       },
       {
@@ -4480,36 +4480,36 @@
       {
         "rank": 10,
         "name": "WonderSwan Skeleton Pink",
-        "price_usd": 86.52,
-        "price_eur": 79.6,
+        "price_usd": 86.42,
+        "price_eur": 79.51,
         "isHistory": false
       },
       {
         "rank": 11,
-        "name": "Final Lap 2000",
+        "name": "Ochan no Oekaki Logic",
         "price_usd": 80,
         "price_eur": 73.6,
         "isHistory": false
       },
       {
         "rank": 12,
+        "name": "Final Lap 2000",
+        "price_usd": 80,
+        "price_eur": 73.6,
+        "isHistory": false
+      },
+      {
+        "rank": 13,
         "name": "WonderSwan Metalic Blue",
         "price_usd": 76,
         "price_eur": 69.92,
         "isHistory": false
       },
       {
-        "rank": 13,
+        "rank": 14,
         "name": "Rockman & Forte",
         "price_usd": 75.02,
         "price_eur": 69.02,
-        "isHistory": false
-      },
-      {
-        "rank": 14,
-        "name": "Cho Aniki: Otoko no Tamafuda",
-        "price_usd": 75,
-        "price_eur": 69,
         "isHistory": false
       },
       {
@@ -4521,37 +4521,37 @@
       },
       {
         "rank": 16,
+        "name": "Cho Aniki: Otoko no Tamafuda",
+        "price_usd": 75,
+        "price_eur": 69,
+        "isHistory": false
+      },
+      {
+        "rank": 17,
         "name": "Uzumaki: Denshi Kaiki Hen",
         "price_usd": 67.91,
         "price_eur": 62.48,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 18,
         "name": "Kaze no Klonoa: Moonlight Museum",
         "price_usd": 67.25,
         "price_eur": 61.87,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 19,
         "name": "Clock Tower for WonderSwan",
         "price_usd": 61.55,
         "price_eur": 56.63,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 20,
         "name": "Tokon Retsuden Prowrestling",
         "price_usd": 60,
         "price_eur": 55.2,
-        "isHistory": false
-      },
-      {
-        "rank": 20,
-        "name": "Ring Infinity",
-        "price_usd": 55,
-        "price_eur": 50.6,
         "isHistory": false
       }
     ],
@@ -4573,8 +4573,8 @@
       {
         "rank": 3,
         "name": "Golden Axe",
-        "price_usd": 197.87,
-        "price_eur": 182.04,
+        "price_usd": 198,
+        "price_eur": 182.16,
         "isHistory": false
       },
       {
@@ -4771,8 +4771,8 @@
       {
         "rank": 11,
         "name": "Hungry Horace [ROM Cartridge]",
-        "price_usd": 93.31,
-        "price_eur": 85.85,
+        "price_usd": 93.36,
+        "price_eur": 85.89,
         "isHistory": false
       },
       {
