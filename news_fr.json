@@ -1,6 +1,46 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "notices": [
+    {
+      "guid": "https://www.gamekult.com/actualite/onimusha-2-samurai-s-destiny-l-excellence-de-capcom-dans-toute-sa-splendeur-3050872212.html",
+      "title": "Mémoire cash - Onimusha 2 : Samurai's Destiny, l'excellence de Capcom dans toute sa splendeur",
+      "link": "https://www.gamekult.com/actualite/onimusha-2-samurai-s-destiny-l-excellence-de-capcom-dans-toute-sa-splendeur-3050872212.html",
+      "pubDate": "Sun, 04 Oct 2026 06:01:00 +0200",
+      "contentSnippet": "Alors que Onimusha : Way of the Sword vient de relancer la franchise avec maestria (déjà le million de ventes !), prenons un moment pour revenir sur l'excellent Onimusha 2 : Samurai's Destiny, souvent considéré comme le sommet de la franchise par les amateurs. Voilà tout juste 24 ans qu'il est venu dans les bacs français, et grâce à son récent remaster, il n'a (presque) pas pris une ride. À condition d'aimer les contrôles à l'ancienne.",
+      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872212/memoire-onimusha-2-729fa421__930_300__0-215-3840-1455.jpg"
+    },
+    {
+      "guid": "https://www.actugaming.net/?p=828245",
+      "title": "RuneScape 4 officialisé : après avoir lancé DragonWilds sur consoles, Jagex fait de grosses annonces pour la suite du MMORPG",
+      "link": "https://www.actugaming.net/runescape-jagex-festival-annonces-828245/",
+      "pubDate": "Sat, 03 Oct 2026 20:09:45 +0000",
+      "contentSnippet": "ActuGaming.net\nRuneScape 4 officialisé : après avoir lancé DragonWilds sur consoles, Jagex fait de grosses annonces pour la suite du MMORPG\n\nCe week-end se tenait le RuneFest, un événement réunissant les fans de l’univers RuneScape, parfait […]\nL'article RuneScape 4 officialisé : après avoir lancé DragonWilds sur consoles, Jagex fait de grosses annonces pour la suite du MMORPG est disponible sur ActuGaming.net",
+      "thumbnail": "https://static.actugaming.net/media/2025/04/Runescape-dragonwilds.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2107019/27-ans-apres-la-sortie-de-ce-jeu-sur-pc-ps1-et-n64-des-fans-viennent-d-ajouter-un-mode-multijoueur.htm",
+      "title": "27 ans après la sortie de ce jeu sur PC, PS1 et N64, des fans viennent d'ajouter un mode multijoueur",
+      "link": "https://www.jeuxvideo.com/news/2107019/27-ans-apres-la-sortie-de-ce-jeu-sur-pc-ps1-et-n64-des-fans-viennent-d-ajouter-un-mode-multijoueur.htm",
+      "pubDate": "Sat, 03 Oct 2026 19:20:07 +0200",
+      "contentSnippet": "27 ans après la sortie du jeu original, ce jeu de course culte revient dans un remake gratuit jouable sur navigateur et PC, intégrant du multijoueur en ligne, des raccourcis restaurés et un dépoussiérage technique complet.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179086/1790859916-8270-card.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2105842/the-witcher-3-liste-des-dlc-et-extensions-et-l-ordre-dans-lesquels-les-faire.htm",
+      "title": "The witcher 3 : Liste des DLC et extensions et l'ordre dans lesquels les faire",
+      "link": "https://www.jeuxvideo.com/news/2105842/the-witcher-3-liste-des-dlc-et-extensions-et-l-ordre-dans-lesquels-les-faire.htm",
+      "pubDate": "Sat, 03 Oct 2026 19:15:06 +0200",
+      "contentSnippet": "Du moindre équipement offert lors du lancement jusqu'aux imposantes aventures de Geralt de Riv à Toussaint, le chef-d'œuvre de CD Projekt RED bénéficie d'un contenu colossal. Découvrez la liste exhaustive de l'ensemble des DLC gratuits, des trois extensions majeures et des ajouts récents de l'édition...",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179019/1790189292-9155-card.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2107249/des-centaines-d-euros-a-gagner-skins-badges-comment-connaitre-la-valeur-de-vos-items-sur-steam.htm",
+      "title": "Des centaines d'euros à gagner : skins, badges, comment connaître la valeur de vos items sur Steam",
+      "link": "https://www.jeuxvideo.com/news/2107249/des-centaines-d-euros-a-gagner-skins-badges-comment-connaitre-la-valeur-de-vos-items-sur-steam.htm",
+      "pubDate": "Sat, 03 Oct 2026 18:45:07 +0200",
+      "contentSnippet": "Avez-vous déjà pensé que votre bibliothèque Steam pouvait cacher un petit trésor ? Sans même le savoir, vous accumulez des cartes, skins et objets cosmétiques capables de financer vos prochains jeux ou du matériel.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179095/1790946092-1514-card.jpg"
+    },
     {
       "guid": "https://www.actugaming.net/?p=827103",
       "title": "Danzard Aniimo, où trouver la créature pour l’événement à durée limitée « Découverte d’Aniimo » ?",
@@ -10,12 +50,28 @@
       "thumbnail": "https://static.actugaming.net/media/2026/10/aniimo-capture-danzard-menu-evenement.jpg"
     },
     {
+      "guid": "https://www.jeuxvideo.com/news/2107069/26-ans-apres-sa-sortie-cette-console-de-jeu-est-victime-d-une-grave-panne-son-condensateur-peut-fuir-et-endommager-la-carte-mere.htm",
+      "title": "26 ans après sa sortie, cette console de jeu est victime d'une grave panne : son condensateur peut fuir et endommager la carte mère",
+      "link": "https://www.jeuxvideo.com/news/2107069/26-ans-apres-sa-sortie-cette-console-de-jeu-est-victime-d-une-grave-panne-son-condensateur-peut-fuir-et-endommager-la-carte-mere.htm",
+      "pubDate": "Sat, 03 Oct 2026 17:15:07 +0200",
+      "contentSnippet": "Les consoles rétro sont de plus en plus recherchées et appréciées. Hélas, les conserver dans un bon état n’est pas toujours évident… Plus d'un quart de siècle après son lancement, l'un des systèmes les plus emblématiques des années 2000 fait face à un risque de panne majeur. Et pour cause, caché sur...",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179087/1790868138-4192-card.jpg"
+    },
+    {
       "guid": "https://www.actugaming.net/?p=827726",
       "title": "8BitDo annonce des périphériques consacrés aux 30 ans de Tomb Raider et à Gears of War: E-Day, toutes les infos et comment les précommander",
       "link": "https://www.actugaming.net/8bitdo-annonce-des-peripheriques-consacres-aux-30-ans-de-tomb-raider-et-a-gears-of-war-e-day-toutes-les-infos-et-comment-les-precommander-827726/",
       "pubDate": "Sat, 03 Oct 2026 14:03:50 +0000",
       "contentSnippet": "ActuGaming.net\n8BitDo annonce des périphériques consacrés aux 30 ans de Tomb Raider et à Gears of War: E-Day, toutes les infos et comment les précommander\n\nDans quelques semaines, Tomb Raider fêtera ses 30 ans. 3 décennies de jeux vidéo, de […]\nL'article 8BitDo annonce des périphériques consacrés aux 30 ans de Tomb Raider et à Gears of War: E-Day, toutes les infos et comment les précommander est disponible sur ActuGaming.net",
       "thumbnail": "https://static.actugaming.net/media/2026/10/8bitdo-peripheriques-tomb-raider-2.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2107256/mais-pourquoi-tous-les-jeux-video-fusionnent-depuis-quelques-jours.htm",
+      "title": "Mais pourquoi tous les jeux vidéo fusionnent depuis quelques jours ? ",
+      "link": "https://www.jeuxvideo.com/news/2107256/mais-pourquoi-tous-les-jeux-video-fusionnent-depuis-quelques-jours.htm",
+      "pubDate": "Sat, 03 Oct 2026 16:00:07 +0200",
+      "contentSnippet": "Depuis le début de semaine, vous avez probablement remarqué sur vos réseaux sociaux une avalanche de vidéos gaming assez étonnantes. Un joueur de Minecraft arpentant GTA 5 ou Cyberpunk avec ses creepers et ses bloc de TNT fonctionnels. Amusante et plutôt avancée comme modification de jeu. Mais tout ça...",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179095/1790948746-4591-card.jpg"
     },
     {
       "guid": "https://www.jeuxvideo.com/news/2106345/il-y-a-28-ans-playstation-allait-accueillir-le-jeu-video-le-plus-violent-de-l-histoire-avant-qu-ea-n-annule-tout.htm",
@@ -40,62 +96,6 @@
       "pubDate": "Sat, 03 Oct 2026 11:15:00 +0200",
       "contentSnippet": "Ubisoft a certes décalé Rayman Legends Retold de deux mois au dernier moment, mais c'est pour la bonne cause : celle d'un lancement réussi et de fans comblés. En tout cas, c'est la visée du studio français qui vient aussi de mettre en lumière la Launch Edition du jeu, avec une jolie pique envoyée à Rockstar par la même occasion.",
       "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872235/rayman-legends-retold-ubisoft-devoile-l-edition-de-lancement-et-tacle-gta-6-au-passage-8952ca2a__930_300__0-339-1920-959.png"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=828222",
-      "title": "EA Sports FC 27 dévoile la deuxième équipe Destined for Glory",
-      "link": "https://www.actugaming.net/ea-sports-fc-27-devoile-la-deuxieme-equipe-destined-for-glory-828222/",
-      "pubDate": "Sat, 03 Oct 2026 08:49:01 +0000",
-      "contentSnippet": "ActuGaming.net\nEA Sports FC 27 dévoile la deuxième équipe Destined for Glory\n\nEA Sports FC 27 nous propose la deuxième équipe de la toute première promotion, Destined […]\nL'article EA Sports FC 27 dévoile la deuxième équipe Destined for Glory est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/09/affiche-destined-for-glory-ea-sports-fc-27.jpg"
-    },
-    {
-      "guid": "https://www.jeuxvideo.com/news/2105855/ps6-les-rumeurs-vont-bon-train-sur-sa-puissance-plus-rapide-qu-une-rtx-5080.htm",
-      "title": "PS6 : Les rumeurs vont bon train sur sa puissance, plus rapide qu'une RTX 5080 ?",
-      "link": "https://www.jeuxvideo.com/news/2105855/ps6-les-rumeurs-vont-bon-train-sur-sa-puissance-plus-rapide-qu-une-rtx-5080.htm",
-      "pubDate": "Sat, 03 Oct 2026 10:30:06 +0200",
-      "contentSnippet": "Depuis quelques jours, la planète jeu vidéo s'enflamme autour de la future console de salon de Sony, la bien nommée PlayStation 6. La future console aurait 80 TFLOPS de puissance de calcul ? Faut-il y croire ? Spoiler : pas vraiment…",
-      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179018/1790177397-8551-card.jpg"
-    },
-    {
-      "guid": "https://www.gamekult.com/actualite/voici-cath-bowie-la-streameuse-fortnite-la-plus-agee-du-monde-qui-vante-tous-les-bienfaits-du-jeu-video-3050872233.html",
-      "title": "Voici Cath Bowie, la streameuse Fortnite la plus âgée du monde, qui vante tous les bienfaits du jeu vidéo ",
-      "link": "https://www.gamekult.com/actualite/voici-cath-bowie-la-streameuse-fortnite-la-plus-agee-du-monde-qui-vante-tous-les-bienfaits-du-jeu-video-3050872233.html",
-      "pubDate": "Sat, 03 Oct 2026 09:01:00 +0200",
-      "contentSnippet": "À 78 ans, elle vient tout juste de décrocher le record du monde de la streameuse Fortnite la plus âgée au monde : son petit nom, c'est Cath Bowie et elle nous vient d'Inverurie, en Écosse. C'est aussi une véritable OG du jeu, puisqu'elle streame le jeu d'Epic Games depuis sa sortie en 2017.",
-      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872233/voici-cath-bowie-la-streameuse-fortnite-la-plus-agee-du-monde-qui-rentre-dans-le-guinness-des-records-d3003338__930_300__0-5-1238-405.png"
-    },
-    {
-      "guid": "https://www.gamekult.com/actualite/the-witcher-3-remastered-sur-switch-2-faut-il-repondre-a-l-appel-de-la-nouvelle-partie-3050872306.html",
-      "title": "Tournez manette - The Witcher 3 Remastered sur Switch 2 : faut-il répondre à l'appel de la nouvelle partie ?",
-      "link": "https://www.gamekult.com/actualite/the-witcher-3-remastered-sur-switch-2-faut-il-repondre-a-l-appel-de-la-nouvelle-partie-3050872306.html",
-      "pubDate": "Sat, 03 Oct 2026 08:03:00 +0200",
-      "contentSnippet": "Sept ans après un premier portage hybride quelque peu bancal (c'est le moins que l'on puisse dire), The Witcher 3 revient sur Switch 2 grâce à sa version Remastered, plus fluide, nettement plus jolie et mieux pensée pour le jeu nomade. Mais si vous avez déjà de la bouteille, y a-t-il vraiment là de quoi repasser au bar ?",
-      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872306/the-witcher-3-remastered-sur-switch-2-faut-il-repondre-a-l-appel-de-la-nouvelle-partie-090bf66b__930_300__0-394-1920-1014.jpg"
-    },
-    {
-      "guid": "https://www.gamekult.com/actualite/forza-horizon-2-ou-comment-des-artisans-anglais-ont-sauve-la-xbox-one-du-naufrage-3050872305.html",
-      "title": "Mémoire cash - Forza Horizon 2 ou comment des artisans anglais ont sauvé la Xbox One du naufrage",
-      "link": "https://www.gamekult.com/actualite/forza-horizon-2-ou-comment-des-artisans-anglais-ont-sauve-la-xbox-one-du-naufrage-3050872305.html",
-      "pubDate": "Sat, 03 Oct 2026 06:01:00 +0200",
-      "contentSnippet": "Souvenons-nous du champ de ruines qu'était l'écosystème Xbox en 2014. Après l'inénarrable Don Mattrick, le traumatisme du « TV, TV, TV », le forcing d'une caméra Kinect imposée qui gonflait le prix de la console de cent euros face à la PS4 et un Forza Motorsport 5 rachitique essoré par les microtransactions, la marque buvait la tasse. Phil Spencer venait tout juste de récupérer les clés d'un camion en flammes. Et c'est là, au milieu du marasme, qu'une bande de mercenaires basée à Leamington Spa a débarqué pour administrer la plus belle claque mécanique de la génération : Forza Horizon 2.",
-      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872305/forza-horizon-2-ou-comment-des-artisans-anglais-ont-sauve-la-xbox-one-du-naufrage-dd28a1c6__930_300__0-320-1920-941.jpg"
-    },
-    {
-      "guid": "https://www.jeuxvideo.com/news/2106970/la-console-de-jeu-grand-public-la-plus-chere-de-tous-les-temps-est-sorti-en-1990-en-euros-de-2026-elle-serait-facture-1300.htm",
-      "title": "La console de jeu grand public la plus chère de tous les temps est sorti en 1990. En euros de 2026, elle serait facturée 1300€",
-      "link": "https://www.jeuxvideo.com/news/2106970/la-console-de-jeu-grand-public-la-plus-chere-de-tous-les-temps-est-sorti-en-1990-en-euros-de-2026-elle-serait-facture-1300.htm",
-      "pubDate": "Fri, 02 Oct 2026 21:40:09 +0200",
-      "contentSnippet": "Bien avant les consoles vendues à plus de 700 ou 800 €, un constructeur japonais avait poussé le concept de machine haut de gamme beaucoup plus loin. Au début des années 1990, il fallait dépenser une petite fortune pour s'offrir cette console, sans même parler du prix de ses jeux.",
-      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179086/1790857572-7379-card.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=827987",
-      "title": "Test Gears of War: E-Day – Un retour aux sources brutal et spectaculaire",
-      "link": "https://www.actugaming.net/test-gears-of-war-e-day-review-827987/",
-      "pubDate": "Fri, 02 Oct 2026 17:30:14 +0000",
-      "contentSnippet": "ActuGaming.net\nTest Gears of War: E-Day – Un retour aux sources brutal et spectaculaire\n\nVingt ans après avoir popularisé le genre du cover shooter TPS, Gears of War revient […]\nL'article Test Gears of War: E-Day – Un retour aux sources brutal et spectaculaire est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/06/gears-of-wars-e-day-key-art.jpg"
     }
   ]
 }
