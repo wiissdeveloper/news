@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05",
+  "updated": "2026-10-06",
   "systems": {
     "3do": [
       {
@@ -54,8 +54,8 @@
       {
         "rank": 8,
         "name": "3DO FZ-1 Console",
-        "price_usd": 266.28,
-        "price_eur": 244.98,
+        "price_usd": 268.5,
+        "price_eur": 247.02,
         "isHistory": false
       },
       {
@@ -312,8 +312,8 @@
       {
         "rank": 4,
         "name": "Tank Command",
-        "price_usd": 307.11,
-        "price_eur": 282.54,
+        "price_usd": 310.49,
+        "price_eur": 285.65,
         "isHistory": false
       },
       {
@@ -325,16 +325,16 @@
       },
       {
         "rank": 6,
-        "name": "Beef Drop [Homebrew]",
-        "price_usd": 202.25,
-        "price_eur": 186.07,
+        "name": "b*nQ [Homebrew]",
+        "price_usd": 203.41,
+        "price_eur": 187.14,
         "isHistory": false
       },
       {
         "rank": 7,
-        "name": "b*nQ [Homebrew]",
-        "price_usd": 199.72,
-        "price_eur": 183.74,
+        "name": "Beef Drop [Homebrew]",
+        "price_usd": 202.25,
+        "price_eur": 186.07,
         "isHistory": false
       },
       {
@@ -374,14 +374,14 @@
       },
       {
         "rank": 13,
-        "name": "Moon Cresta [Homebrew]",
+        "name": "Serpentine [Homebrew]",
         "price_usd": 140,
         "price_eur": 128.8,
         "isHistory": false
       },
       {
         "rank": 14,
-        "name": "Serpentine [Homebrew]",
+        "name": "Moon Cresta [Homebrew]",
         "price_usd": 140,
         "price_eur": 128.8,
         "isHistory": false
@@ -410,8 +410,8 @@
       {
         "rank": 18,
         "name": "Klax [Homebrew]",
-        "price_usd": 120.42,
-        "price_eur": 110.79,
+        "price_usd": 119.64,
+        "price_eur": 110.07,
         "isHistory": false
       },
       {
@@ -517,8 +517,8 @@
       {
         "rank": 13,
         "name": "Atari 400 Console",
-        "price_usd": 108.93,
-        "price_eur": 100.22,
+        "price_usd": 107.01,
+        "price_eur": 98.45,
         "isHistory": false
       },
       {
@@ -930,8 +930,8 @@
       {
         "rank": 11,
         "name": "Sega Dreamcast Console",
-        "price_usd": 145,
-        "price_eur": 133.4,
+        "price_usd": 140,
+        "price_eur": 128.8,
         "isHistory": false
       },
       {
@@ -993,8 +993,8 @@
       {
         "rank": 20,
         "name": "Resident Evil 2",
-        "price_usd": 94.88,
-        "price_eur": 87.29,
+        "price_usd": 94.69,
+        "price_eur": 87.11,
         "isHistory": false
       }
     ],
@@ -1321,8 +1321,8 @@
       {
         "rank": 6,
         "name": "Analogue Pocket [Natural Anodized]",
-        "price_usd": 855.2,
-        "price_eur": 786.78,
+        "price_usd": 844.27,
+        "price_eur": 776.73,
         "isHistory": false
       },
       {
@@ -1363,8 +1363,8 @@
       {
         "rank": 12,
         "name": "Analogue Pocket [Transparent Green]",
-        "price_usd": 542.47,
-        "price_eur": 499.07,
+        "price_usd": 543.11,
+        "price_eur": 499.66,
         "isHistory": false
       },
       {
@@ -1404,14 +1404,14 @@
       },
       {
         "rank": 18,
-        "name": "Analogue Pocket [Berry]",
+        "name": "Analogue Pocket [Red]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
       },
       {
         "rank": 19,
-        "name": "Analogue Pocket [Red]",
+        "name": "Analogue Pocket [Berry]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
@@ -1712,8 +1712,8 @@
       {
         "rank": 1,
         "name": "Sega Game Gear [Super Sonic Sports Pack]",
-        "price_usd": 277.95,
-        "price_eur": 255.71,
+        "price_usd": 277.81,
+        "price_eur": 255.59,
         "isHistory": false
       },
       {
@@ -1733,8 +1733,8 @@
       {
         "rank": 4,
         "name": "Blue Sega Game Gear",
-        "price_usd": 146.98,
-        "price_eur": 135.22,
+        "price_usd": 146.79,
+        "price_eur": 135.05,
         "isHistory": false
       },
       {
@@ -1810,8 +1810,8 @@
       {
         "rank": 15,
         "name": "Arena Maze of Death",
-        "price_usd": 50.21,
-        "price_eur": 46.19,
+        "price_usd": 50.52,
+        "price_eur": 46.48,
         "isHistory": false
       },
       {
@@ -1902,9 +1902,9 @@
       },
       {
         "rank": 8,
-        "name": "Sega Genesis CDx Console",
-        "price_usd": 524.53,
-        "price_eur": 482.57,
+        "name": "Analogue Mega Sg [White]",
+        "price_usd": 532,
+        "price_eur": 489.44,
         "isHistory": false
       },
       {
@@ -1916,16 +1916,16 @@
       },
       {
         "rank": 10,
-        "name": "Spiderman Maximum Carnage [Collector's Edition]",
-        "price_usd": 450,
-        "price_eur": 414,
+        "name": "Sega Genesis CDx Console",
+        "price_usd": 480,
+        "price_eur": 441.6,
         "isHistory": false
       },
       {
         "rank": 11,
-        "name": "Analogue Mega Sg [White]",
-        "price_usd": 420,
-        "price_eur": 386.4,
+        "name": "Spiderman Maximum Carnage [Collector's Edition]",
+        "price_usd": 450,
+        "price_eur": 414,
         "isHistory": false
       },
       {
@@ -2004,16 +2004,16 @@
       },
       {
         "rank": 2,
-        "name": "Golden Axe Warrior",
-        "price_usd": 174.52,
-        "price_eur": 160.56,
+        "name": "Sega Master System II Console",
+        "price_usd": 183.22,
+        "price_eur": 168.56,
         "isHistory": false
       },
       {
         "rank": 3,
-        "name": "Sega Master System II Console",
-        "price_usd": 158.07,
-        "price_eur": 145.42,
+        "name": "Golden Axe Warrior",
+        "price_usd": 174.52,
+        "price_eur": 160.56,
         "isHistory": false
       },
       {
@@ -2467,8 +2467,8 @@
       {
         "rank": 7,
         "name": "Pokemon [Not for Resale Deoxys]",
-        "price_usd": 1614.94,
-        "price_eur": 1485.74,
+        "price_usd": 1614.3,
+        "price_eur": 1485.16,
         "isHistory": false
       },
       {
@@ -2523,8 +2523,8 @@
       {
         "rank": 15,
         "name": "Nintendo DSi Development Kit [Panda]",
-        "price_usd": 656.3,
-        "price_eur": 603.8,
+        "price_usd": 656.02,
+        "price_eur": 603.54,
         "isHistory": false
       },
       {
@@ -2551,8 +2551,8 @@
       {
         "rank": 19,
         "name": "Pokemon Meloetta Distribution Cartridge",
-        "price_usd": 300.99,
-        "price_eur": 276.91,
+        "price_usd": 301.14,
+        "price_eur": 277.05,
         "isHistory": false
       },
       {
@@ -2909,8 +2909,8 @@
       {
         "rank": 9,
         "name": "Pocket Reversi",
-        "price_usd": 84.87,
-        "price_eur": 78.08,
+        "price_usd": 84.49,
+        "price_eur": 77.73,
         "isHistory": false
       },
       {
@@ -3477,8 +3477,8 @@
       {
         "rank": 9,
         "name": "Kuon",
-        "price_usd": 814.63,
-        "price_eur": 749.46,
+        "price_usd": 813.94,
+        "price_eur": 748.82,
         "isHistory": false
       },
       {
@@ -3519,8 +3519,8 @@
       {
         "rank": 15,
         "name": "Obscure",
-        "price_usd": 380,
-        "price_eur": 349.6,
+        "price_usd": 381.58,
+        "price_eur": 351.05,
         "isHistory": false
       },
       {
@@ -3540,8 +3540,8 @@
       {
         "rank": 18,
         "name": ".hack Quarantine",
-        "price_usd": 304.98,
-        "price_eur": 280.58,
+        "price_usd": 300.99,
+        "price_eur": 276.91,
         "isHistory": false
       },
       {
@@ -3654,8 +3654,8 @@
       {
         "rank": 14,
         "name": "PSP 3000 Limited Edition Ratchet & Clank Version",
-        "price_usd": 161.02,
-        "price_eur": 148.14,
+        "price_usd": 160.96,
+        "price_eur": 148.08,
         "isHistory": false
       },
       {
@@ -3875,8 +3875,8 @@
       {
         "rank": 5,
         "name": "Fire Emblem: Thracia 776 [Deluxe Pack]",
-        "price_usd": 444,
-        "price_eur": 408.48,
+        "price_usd": 431.5,
+        "price_eur": 396.98,
         "isHistory": false
       },
       {
@@ -4310,8 +4310,8 @@
       {
         "rank": 6,
         "name": "Red Alarm [Not for Resale]",
-        "price_usd": 299.89,
-        "price_eur": 275.9,
+        "price_usd": 299.9,
+        "price_eur": 275.91,
         "isHistory": false
       },
       {
@@ -4692,8 +4692,8 @@
       {
         "rank": 20,
         "name": "Guilty Gear Petit",
-        "price_usd": 66.33,
-        "price_eur": 61.02,
+        "price_usd": 66.69,
+        "price_eur": 61.35,
         "isHistory": false
       }
     ],
