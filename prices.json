@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "systems": {
     "3do": [
       {
@@ -26,8 +26,8 @@
       {
         "rank": 4,
         "name": "Lucienne's Quest",
-        "price_usd": 325.33,
-        "price_eur": 299.3,
+        "price_usd": 300,
+        "price_eur": 276,
         "isHistory": false
       },
       {
@@ -89,8 +89,8 @@
       {
         "rank": 13,
         "name": "Mind Teazzer",
-        "price_usd": 141.26,
-        "price_eur": 129.96,
+        "price_usd": 141.13,
+        "price_eur": 129.84,
         "isHistory": false
       },
       {
@@ -212,8 +212,8 @@
       {
         "rank": 10,
         "name": "Out of Control",
-        "price_usd": 601.12,
-        "price_eur": 553.03,
+        "price_usd": 600.56,
+        "price_eur": 552.52,
         "isHistory": false
       },
       {
@@ -361,8 +361,8 @@
       {
         "rank": 11,
         "name": "K.C. Munchkin [Homebrew]",
-        "price_usd": 160.5,
-        "price_eur": 147.66,
+        "price_usd": 160.72,
+        "price_eur": 147.86,
         "isHistory": false
       },
       {
@@ -395,37 +395,37 @@
       },
       {
         "rank": 16,
-        "name": "Commando",
-        "price_usd": 124.72,
-        "price_eur": 114.74,
-        "isHistory": false
-      },
-      {
-        "rank": 17,
         "name": "Astro Fighter [Homebrew]",
         "price_usd": 124,
         "price_eur": 114.08,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 17,
         "name": "Klax [Homebrew]",
         "price_usd": 119.64,
         "price_eur": 110.07,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 18,
         "name": "Ikari Warriors",
         "price_usd": 119.11,
         "price_eur": 109.58,
         "isHistory": false
       },
       {
-        "rank": 20,
+        "rank": 19,
         "name": "Missing In Action [Homebrew]",
         "price_usd": 113.19,
         "price_eur": 104.13,
+        "isHistory": false
+      },
+      {
+        "rank": 20,
+        "name": "Midnight Mutants",
+        "price_usd": 110.49,
+        "price_eur": 101.65,
         "isHistory": false
       }
     ],
@@ -717,8 +717,8 @@
       {
         "rank": 1,
         "name": "Atari Jaguar Pro Controler",
-        "price_usd": 701.71,
-        "price_eur": 645.57,
+        "price_usd": 889.38,
+        "price_eur": 818.23,
         "isHistory": false
       },
       {
@@ -814,14 +814,14 @@
       },
       {
         "rank": 15,
-        "name": "Rayman",
+        "name": "Beast Busters",
         "price_usd": 149.99,
         "price_eur": 137.99,
         "isHistory": false
       },
       {
         "rank": 16,
-        "name": "Beast Busters",
+        "name": "Rayman",
         "price_usd": 149.99,
         "price_eur": 137.99,
         "isHistory": false
@@ -1072,8 +1072,8 @@
       {
         "rank": 11,
         "name": "Metroid",
-        "price_usd": 43.99,
-        "price_eur": 40.47,
+        "price_usd": 47.46,
+        "price_eur": 43.66,
         "isHistory": false
       },
       {
@@ -1334,14 +1334,14 @@
       },
       {
         "rank": 8,
-        "name": "Analogue Pocket [Supreme Red]",
+        "name": "Analogue Pocket [Black Anodized]",
         "price_usd": 700,
         "price_eur": 644,
         "isHistory": false
       },
       {
         "rank": 9,
-        "name": "Analogue Pocket [Black Anodized]",
+        "name": "Analogue Pocket [Supreme Red]",
         "price_usd": 700,
         "price_eur": 644,
         "isHistory": false
@@ -1383,23 +1383,23 @@
       },
       {
         "rank": 15,
+        "name": "Analogue Pocket [Transparent Clear]",
+        "price_usd": 512.5,
+        "price_eur": 471.5,
+        "isHistory": false
+      },
+      {
+        "rank": 16,
         "name": "Analogue Pocket Transparent Blue",
         "price_usd": 510,
         "price_eur": 469.2,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 17,
         "name": "Analogue Pocket [Orange Spice]",
         "price_usd": 502.73,
         "price_eur": 462.51,
-        "isHistory": false
-      },
-      {
-        "rank": 17,
-        "name": "Analogue Pocket [Transparent Clear]",
-        "price_usd": 502.14,
-        "price_eur": 461.97,
         "isHistory": false
       },
       {
@@ -1560,151 +1560,151 @@
       },
       {
         "rank": 20,
-        "name": "GBA Micro Silver",
-        "price_usd": 236.98,
-        "price_eur": 218.02,
+        "name": "Eon Ticket",
+        "price_usd": 230,
+        "price_eur": 211.6,
         "isHistory": false
       }
     ],
     "gbc": [
       {
         "rank": 1,
+        "name": "ModRetro Chromatic [Auduril]",
+        "price_usd": 1000,
+        "price_eur": 920,
+        "isHistory": false
+      },
+      {
+        "rank": 2,
         "name": "Pokemon Crystal [Not For Resale]",
         "price_usd": 763.13,
         "price_eur": 702.08,
         "isHistory": false
       },
       {
-        "rank": 2,
+        "rank": 3,
         "name": "Shantae",
-        "price_usd": 703.19,
-        "price_eur": 646.93,
+        "price_usd": 701.39,
+        "price_eur": 645.28,
         "isHistory": false
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "Singer Izek 1500",
         "price_usd": 551.25,
         "price_eur": 507.15,
         "isHistory": false
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "Pokemon Silver [Not for Resale]",
         "price_usd": 487.5,
         "price_eur": 448.5,
         "isHistory": false
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "GameBoy Color Kiwi Pokemon Crystal Limited",
         "price_usd": 470,
         "price_eur": 432.4,
         "isHistory": false
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "Pokemon Gold [Not For Resale]",
         "price_usd": 390.84,
         "price_eur": 359.57,
         "isHistory": false
       },
       {
-        "rank": 7,
-        "name": "Resident Evil Gaiden",
-        "price_usd": 321.74,
-        "price_eur": 296,
-        "isHistory": false
-      },
-      {
         "rank": 8,
         "name": "Pine Creek [Collector's Edition]",
-        "price_usd": 319.06,
-        "price_eur": 293.54,
+        "price_usd": 319.12,
+        "price_eur": 293.59,
         "isHistory": false
       },
       {
         "rank": 9,
+        "name": "Resident Evil Gaiden",
+        "price_usd": 302.75,
+        "price_eur": 278.53,
+        "isHistory": false
+      },
+      {
+        "rank": 10,
         "name": "Analogue Pocket [Green]",
         "price_usd": 250,
         "price_eur": 230,
         "isHistory": false
       },
       {
-        "rank": 10,
+        "rank": 11,
         "name": "GameBoy Color Tech Demo",
         "price_usd": 239,
         "price_eur": 219.88,
         "isHistory": false
       },
       {
-        "rank": 11,
+        "rank": 12,
         "name": "Zelda Oracle of Seasons [Not for Resale]",
         "price_usd": 210,
         "price_eur": 193.2,
         "isHistory": false
       },
       {
-        "rank": 12,
+        "rank": 13,
         "name": "Space Marauder",
         "price_usd": 201.31,
         "price_eur": 185.21,
         "isHistory": false
       },
       {
-        "rank": 13,
+        "rank": 14,
         "name": "Hamtaro Ham-Hams Unite! [Not For Resale]",
         "price_usd": 186.33,
         "price_eur": 171.42,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 15,
         "name": "The Year After [Collector's Edition]",
         "price_usd": 175.78,
         "price_eur": 161.72,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 16,
         "name": "Survival Kids",
         "price_usd": 169.99,
         "price_eur": 156.39,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 17,
         "name": "Bomberman Quest",
         "price_usd": 169.8,
         "price_eur": 156.22,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 18,
         "name": "Modretro Chromatic [GameStop]",
         "price_usd": 165.25,
         "price_eur": 152.03,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 19,
         "name": "Gameshark [Special Edition for Pokemon Crystal]",
         "price_usd": 150,
         "price_eur": 138,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 20,
         "name": "Pokemon Crystal",
         "price_usd": 150,
         "price_eur": 138,
-        "isHistory": false
-      },
-      {
-        "rank": 20,
-        "name": "Pokemon Special Edition Gameboy Color System",
-        "price_usd": 141.31,
-        "price_eur": 130.01,
         "isHistory": false
       }
     ],
@@ -2116,23 +2116,23 @@
       },
       {
         "rank": 18,
+        "name": "Montezuma's Revenge",
+        "price_usd": 60.15,
+        "price_eur": 55.34,
+        "isHistory": false
+      },
+      {
+        "rank": 19,
         "name": "OutRun [Blue Label]",
         "price_usd": 52.76,
         "price_eur": 48.54,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 20,
         "name": "Silver Valley [Homebrew]",
         "price_usd": 50.15,
         "price_eur": 46.14,
-        "isHistory": false
-      },
-      {
-        "rank": 20,
-        "name": "Ghouls N Ghosts",
-        "price_usd": 47.88,
-        "price_eur": 44.05,
         "isHistory": false
       }
     ],
@@ -2182,8 +2182,8 @@
       {
         "rank": 7,
         "name": "Alien Soldier",
-        "price_usd": 226.08,
-        "price_eur": 207.99,
+        "price_usd": 225.54,
+        "price_eur": 207.5,
         "isHistory": false
       },
       {
@@ -2296,8 +2296,8 @@
       {
         "rank": 3,
         "name": "Nintendo 64 007 Goldeneye Value Pack",
-        "price_usd": 739.01,
-        "price_eur": 679.89,
+        "price_usd": 734.66,
+        "price_eur": 675.89,
         "isHistory": false
       },
       {
@@ -2352,8 +2352,8 @@
       {
         "rank": 11,
         "name": "Doctor V64",
-        "price_usd": 258.75,
-        "price_eur": 238.05,
+        "price_usd": 257.44,
+        "price_eur": 236.84,
         "isHistory": false
       },
       {
@@ -2366,8 +2366,8 @@
       {
         "rank": 13,
         "name": "Nintendo 64 Fire Orange",
-        "price_usd": 225.98,
-        "price_eur": 207.9,
+        "price_usd": 225.6,
+        "price_eur": 207.55,
         "isHistory": false
       },
       {
@@ -2431,16 +2431,16 @@
       },
       {
         "rank": 2,
-        "name": "Pokemon [Not for Resale Regigigas and Shaymin]",
-        "price_usd": 2685.29,
-        "price_eur": 2470.47,
+        "name": "Zelda Twilight Princess [Preview Trailer]",
+        "price_usd": 2675.01,
+        "price_eur": 2461.01,
         "isHistory": false
       },
       {
         "rank": 3,
-        "name": "Zelda Twilight Princess [Preview Trailer]",
-        "price_usd": 2675.01,
-        "price_eur": 2461.01,
+        "name": "Pokemon [Not for Resale Regigigas and Shaymin]",
+        "price_usd": 2592.42,
+        "price_eur": 2385.03,
         "isHistory": false
       },
       {
@@ -2516,8 +2516,8 @@
       {
         "rank": 14,
         "name": "Seattle Mariners Nintendo DS Lite",
-        "price_usd": 674.99,
-        "price_eur": 620.99,
+        "price_usd": 712.23,
+        "price_eur": 655.25,
         "isHistory": false
       },
       {
@@ -3285,30 +3285,30 @@
       },
       {
         "rank": 2,
+        "name": "Elemental Gearbolt Assassin Case",
+        "price_usd": 9294.82,
+        "price_eur": 8551.23,
+        "isHistory": false
+      },
+      {
+        "rank": 3,
         "name": "Syphon Filter 3 [911 Edition]",
         "price_usd": 599.99,
         "price_eur": 551.99,
         "isHistory": false
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "Persona 2 Eternal Punishment",
         "price_usd": 330,
         "price_eur": 303.6,
         "isHistory": false
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "Tail Concerto",
         "price_usd": 302.43,
         "price_eur": 278.24,
-        "isHistory": false
-      },
-      {
-        "rank": 5,
-        "name": "Shadow Tower",
-        "price_usd": 269.99,
-        "price_eur": 248.39,
         "isHistory": false
       },
       {
@@ -3341,79 +3341,79 @@
       },
       {
         "rank": 10,
+        "name": "Shadow Tower",
+        "price_usd": 227.48,
+        "price_eur": 209.28,
+        "isHistory": false
+      },
+      {
+        "rank": 11,
         "name": "Clock Tower 2",
         "price_usd": 224.96,
         "price_eur": 206.96,
         "isHistory": false
       },
       {
-        "rank": 11,
+        "rank": 12,
         "name": "Valkyrie Profile",
         "price_usd": 208.83,
         "price_eur": 192.12,
         "isHistory": false
       },
       {
-        "rank": 12,
+        "rank": 13,
         "name": "PSOne LCD Screen",
         "price_usd": 179.95,
         "price_eur": 165.55,
         "isHistory": false
       },
       {
-        "rank": 13,
+        "rank": 14,
         "name": "Silent Hill",
         "price_usd": 177.5,
         "price_eur": 163.3,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 15,
         "name": "REDANT 5 LCD Monitor",
         "price_usd": 162.37,
         "price_eur": 149.38,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 16,
         "name": "Klonoa Door to Phantomile",
         "price_usd": 160,
         "price_eur": 147.2,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 17,
         "name": "Xenogears [Greatest Hits]",
         "price_usd": 156.76,
         "price_eur": 144.22,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 18,
         "name": "Batman Forever Arcade",
         "price_usd": 155.75,
         "price_eur": 143.29,
         "isHistory": false
       },
       {
-        "rank": 18,
-        "name": "Elemental Gearbolt",
-        "price_usd": 150.95,
-        "price_eur": 138.87,
-        "isHistory": false
-      },
-      {
         "rank": 19,
-        "name": "Lunar 2 Eternal Blue Complete [Collector's Edition]",
-        "price_usd": 150,
-        "price_eur": 138,
+        "name": "Pink Panther Pinkadelic Pursuit",
+        "price_usd": 152.93,
+        "price_eur": 140.7,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "Pink Panther Pinkadelic Pursuit",
-        "price_usd": 149.99,
-        "price_eur": 137.99,
+        "name": "Elemental Gearbolt",
+        "price_usd": 150.95,
+        "price_eur": 138.87,
         "isHistory": false
       }
     ],
@@ -3477,8 +3477,8 @@
       {
         "rank": 9,
         "name": "Kuon",
-        "price_usd": 813.94,
-        "price_eur": 748.82,
+        "price_usd": 849.99,
+        "price_eur": 781.99,
         "isHistory": false
       },
       {
@@ -3519,8 +3519,8 @@
       {
         "rank": 15,
         "name": "Obscure",
-        "price_usd": 381.58,
-        "price_eur": 351.05,
+        "price_usd": 381.69,
+        "price_eur": 351.15,
         "isHistory": false
       },
       {
@@ -3540,8 +3540,8 @@
       {
         "rank": 18,
         "name": "Silent Hill: Shattered Memories",
-        "price_usd": 310.67,
-        "price_eur": 285.82,
+        "price_usd": 313.13,
+        "price_eur": 288.08,
         "isHistory": false
       },
       {
@@ -3597,14 +3597,14 @@
       },
       {
         "rank": 6,
-        "name": "Shin Megami Tensei: Persona 2: Innocent Sin [Limited Edition]",
+        "name": "PSP 3000 Limited Edition Rock Band Version",
         "price_usd": 200,
         "price_eur": 184,
         "isHistory": false
       },
       {
         "rank": 7,
-        "name": "PSP 3000 Limited Edition Rock Band Version",
+        "name": "Shin Megami Tensei: Persona 2: Innocent Sin [Limited Edition]",
         "price_usd": 200,
         "price_eur": 184,
         "isHistory": false
@@ -4073,23 +4073,23 @@
       },
       {
         "rank": 13,
-        "name": "Demon's Crest",
-        "price_usd": 226.57,
-        "price_eur": 208.44,
-        "isHistory": false
-      },
-      {
-        "rank": 14,
         "name": "Super Chase HQ",
         "price_usd": 226.35,
         "price_eur": 208.24,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 14,
         "name": "Hagane The Final Conflict",
         "price_usd": 213.91,
         "price_eur": 196.8,
+        "isHistory": false
+      },
+      {
+        "rank": 15,
+        "name": "Demon's Crest",
+        "price_usd": 213.88,
+        "price_eur": 196.77,
         "isHistory": false
       },
       {
@@ -4359,8 +4359,8 @@
       {
         "rank": 13,
         "name": "Flashboy+",
-        "price_usd": 146.59,
-        "price_eur": 134.86,
+        "price_usd": 147.72,
+        "price_eur": 135.9,
         "isHistory": false
       },
       {
@@ -4514,14 +4514,14 @@
       },
       {
         "rank": 15,
-        "name": "WonderSwan Skeleton Green",
+        "name": "Cho Aniki: Otoko no Tamafuda",
         "price_usd": 75,
         "price_eur": 69,
         "isHistory": false
       },
       {
         "rank": 16,
-        "name": "Cho Aniki: Otoko no Tamafuda",
+        "name": "WonderSwan Skeleton Green",
         "price_usd": 75,
         "price_eur": 69,
         "isHistory": false
@@ -4536,8 +4536,8 @@
       {
         "rank": 18,
         "name": "Uzumaki: Denshi Kaiki Hen",
-        "price_usd": 67.91,
-        "price_eur": 62.48,
+        "price_usd": 70,
+        "price_eur": 64.4,
         "isHistory": false
       },
       {
@@ -4678,8 +4678,8 @@
       {
         "rank": 18,
         "name": "Gunpey Ex",
-        "price_usd": 73.9,
-        "price_eur": 67.99,
+        "price_usd": 73.55,
+        "price_eur": 67.67,
         "isHistory": false
       },
       {
@@ -4819,23 +4819,23 @@
       },
       {
         "rank": 18,
-        "name": "Pit-Fighter",
-        "price_usd": 74.39,
-        "price_eur": 68.44,
-        "isHistory": false
-      },
-      {
-        "rank": 19,
         "name": "Skull & Crossbones",
         "price_usd": 70.73,
         "price_eur": 65.07,
         "isHistory": false
       },
       {
-        "rank": 20,
+        "rank": 19,
         "name": "Live Ammo [+3 Disk]",
         "price_usd": 63.22,
         "price_eur": 58.16,
+        "isHistory": false
+      },
+      {
+        "rank": 20,
+        "name": "Batty",
+        "price_usd": 62.02,
+        "price_eur": 57.06,
         "isHistory": false
       }
     ]
