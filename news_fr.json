@@ -1,6 +1,30 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "notices": [
+    {
+      "guid": "https://www.gamekult.com/actualite/rejouer-au-premier-fallout-aujourd-hui-c-est-s-exposer-a-un-enfer-d-ergonomie-3050872358.html",
+      "title": "Mémoire cash - Rejouer au premier Fallout aujourd'hui, c'est s'exposer à un enfer d'ergonomie",
+      "link": "https://www.gamekult.com/actualite/rejouer-au-premier-fallout-aujourd-hui-c-est-s-exposer-a-un-enfer-d-ergonomie-3050872358.html",
+      "pubDate": "Sat, 10 Oct 2026 06:01:00 +0200",
+      "contentSnippet": "La mythologie a fait son œuvre. Presque trente ans de rétrospectives larmoyantes ont fini par sacraliser le premier Fallout (sorti en octobre 1997) comme l'alpha et l'oméga du RPG occidental. L'écriture mature, la liberté folle, l'ambiance crasseuse, tout y est. Sauf que la nostalgie a un incroyable talent pour le refoulement et relancer le bébé d'Interplay aujourd'hui, c'est se prendre le mur du réel à 130 km/h. On vient chercher un monument d'acide et de cynisme, on se retrouve à batailler contre une interface qui tient de la punition corporelle.",
+      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872358/rejouer-au-premier-fallout-c-est-s-exposer-a-un-enfer-d-ergonomie-613f59cc__930_300__0-459-1920-1080.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2108063/comment-les-studios-japonais-se-preparent-t-ils-a-la-guerre-contre-l-ia-capcom-sega-et-level-5-etablissent-tous-des-regles-mais.htm",
+      "title": "Comment les studios japonais se préparent-t-ils à la guerre contre l'IA ? Capcom, SEGA et Level 5 établissent tous des règles, mais...",
+      "link": "https://www.jeuxvideo.com/news/2108063/comment-les-studios-japonais-se-preparent-t-ils-a-la-guerre-contre-l-ia-capcom-sega-et-level-5-etablissent-tous-des-regles-mais.htm",
+      "pubDate": "Fri, 09 Oct 2026 22:20:10 +0200",
+      "contentSnippet": "Face à la déferlante de l'intelligence artificielle générative dans la création numérique, les grands studios de jeux vidéo japonais mettent en place des règles strictes. Alors que plus de 85% des développeurs au Japon l'utilisent désormais au quotidien, des éditeurs comme SEGA, Capcom et Level-5 tentent...",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179139/1791386333-6780-card.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2108044/mec-sors-un-peu-plus-imaginez-etre-tellement-devoue-a-la-creation-de-jeux-video-que-vous-pensez-que-britney-spears-est-une-arme-de-rpg.htm",
+      "title": "\"Mec, sors un peu plus\" Imaginez être tellement dévoué à la création de jeux vidéo que vous pensez que Britney Spears est une arme de RPG",
+      "link": "https://www.jeuxvideo.com/news/2108044/mec-sors-un-peu-plus-imaginez-etre-tellement-devoue-a-la-creation-de-jeux-video-que-vous-pensez-que-britney-spears-est-une-arme-de-rpg.htm",
+      "pubDate": "Fri, 09 Oct 2026 21:40:12 +0200",
+      "contentSnippet": "À la charnière des années 1990 et 2000, Tim Cain a offert à l’industrie du jeu vidéo plusieurs créations marquantes qui restent encore aujourd’hui des références. Fallout, Arcanum, Vampire: The Masquerade - Bloodlines, ça vous parle ? Eh bien, sachez que le programmeur a été très, très impliqué.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179138/1791381612-3937-card.jpg"
+    },
     {
       "guid": "https://www.actugaming.net/?p=829044",
       "title": "EA Sports FC 27 dévoile la première équipe Future Stars",
@@ -8,6 +32,14 @@
       "pubDate": "Fri, 09 Oct 2026 17:42:40 +0000",
       "contentSnippet": "ActuGaming.net\nEA Sports FC 27 dévoile la première équipe Future Stars\n\nEA Sports FC 27 nous propose la première équipe de la promotion Future Stars. Les […]\nL'article EA Sports FC 27 dévoile la première équipe Future Stars est disponible sur ActuGaming.net",
       "thumbnail": "https://static.actugaming.net/media/2026/10/ea-sports-fc-27-future-stars-affiche.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2108261/gta-6-a-paris-comment-grand-theft-auto-6-donne-une-lecon-a-tous-les-autres-jeux-video.htm",
+      "title": "GTA 6 à Paris : comment Grand Theft Auto 6 donne une leçon à tous les autres jeux vidéo",
+      "link": "https://www.jeuxvideo.com/news/2108261/gta-6-a-paris-comment-grand-theft-auto-6-donne-une-lecon-a-tous-les-autres-jeux-video.htm",
+      "pubDate": "Fri, 09 Oct 2026 18:45:09 +0200",
+      "contentSnippet": "Rockstar Games repousse encore une fois les limites de l'industrie avec la campagne de communication de Grand Theft Auto VI. Entre détournement d'infrastructures urbaines et partenariats sportifs inédits, découvrez comment l'éditeur américain impose un rouleau compresseur marketing que personne ne peut...",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179147/1791467874-4004-card.jpg"
     },
     {
       "guid": "https://www.actugaming.net/?p=829031",
@@ -64,38 +96,6 @@
       "pubDate": "Fri, 09 Oct 2026 12:50:09 +0200",
       "contentSnippet": "Si vous pensiez que déraper sur le chat vocal de Fortnite ne risquait de vous coûter qu'un simple ban temporaire, détrompez-vous. Epic Games a récemment transmis les enregistrements vocaux d'un joueur au FBI, entraînant son arrestation à domicile.",
       "thumbnail": "https://image.jeuxvideo.com/medias-lg/179146/1791462614-4025-card.jpg"
-    },
-    {
-      "guid": "https://www.jeuxvideo.com/videos/chroniques/2108337/la-nouvelle-mise-a-jour-de-la-ps5-rend-la-ps5-pro-inutile.htm",
-      "title": "La nouvelle mise à jour de la PS5 rend la PS5 Pro inutile ?",
-      "link": "https://www.jeuxvideo.com/videos/chroniques/2108337/la-nouvelle-mise-a-jour-de-la-ps5-rend-la-ps5-pro-inutile.htm",
-      "pubDate": "Fri, 09 Oct 2026 11:33:09 +0200",
-      "contentSnippet": "Une récente mise à jour de la PS5 pourrait bien rebattre les cartes face à la PS5 Pro. Grâce à une nouvelle technologie d'amélioration graphique par intelligence artificielle, la console classique promet de se rapprocher de sa grande sœur.",
-      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179154/1791537082-5651-card.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=828985",
-      "title": "Après son rôle dans Clair Obscur: Expedition 33, Charlie Cox sera présent dans un jeu SEGA",
-      "link": "https://www.actugaming.net/apres-son-role-dans-clair-obscur-expedition-33-charlie-cox-sera-present-dans-un-jeu-sega-828985/",
-      "pubDate": "Fri, 09 Oct 2026 09:19:48 +0000",
-      "contentSnippet": "ActuGaming.net\nAprès son rôle dans Clair Obscur: Expedition 33, Charlie Cox sera présent dans un jeu SEGA\n\nL’expérience de Charlie Cox sur Clair Obscur: Expedition 33 a été tout à fait particulière […]\nL'article Après son rôle dans Clair Obscur: Expedition 33, Charlie Cox sera présent dans un jeu SEGA est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2025/12/clair-obscur-expedition-33.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=828972",
-      "title": "La version PS5 de Forza Horizon 6 sortira bien en janvier, la première extension du jeu est aussi en route",
-      "link": "https://www.actugaming.net/la-version-ps5-de-forza-horizon-6-sortira-bien-en-janvier-la-premiere-extension-du-jeu-est-aussi-en-route-828972/",
-      "pubDate": "Fri, 09 Oct 2026 08:27:27 +0000",
-      "contentSnippet": "ActuGaming.net\nLa version PS5 de Forza Horizon 6 sortira bien en janvier, la première extension du jeu est aussi en route\n\nMême s’il a commencé à rétropédaler sur la sortie de ses jeux sur d’autres plateformes, […]\nL'article La version PS5 de Forza Horizon 6 sortira bien en janvier, la première extension du jeu est aussi en route est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/01/forza-horizon-6-screenshot-05.jpg"
-    },
-    {
-      "guid": "https://www.jeuxvideo.com/news/2108314/arc-raiders-est-gratuit-sur-pc-ps5-et-xbox-pour-une-duree-limitee-pourquoi-vous-devez-absolument-y-jouer.htm",
-      "title": "ARC Raiders est gratuit sur PC, PS5 et Xbox pour une durée limitée : pourquoi vous devez absolument y jouer",
-      "link": "https://www.jeuxvideo.com/news/2108314/arc-raiders-est-gratuit-sur-pc-ps5-et-xbox-pour-une-duree-limitee-pourquoi-vous-devez-absolument-y-jouer.htm",
-      "pubDate": "Fri, 09 Oct 2026 10:22:25 +0200",
-      "contentSnippet": "Vous hésitiez encore à vous lancer dans ARC Raiders ? Le jeu de tir multijoueur d'Embark Studios vous offre une occasion en or de découvrir son univers sans débourser un centime. Et avec l'arrivée d'une mise à jour particulièrement ambitieuse, difficile de trouver meilleur moment pour tenter l'aventure.",
-      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179153/1791533702-4360-card.jpg"
     }
   ]
 }
