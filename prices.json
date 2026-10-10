@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "systems": {
     "3do": [
       {
@@ -240,8 +240,8 @@
       {
         "rank": 14,
         "name": "Color Bar Generator",
-        "price_usd": 468.51,
-        "price_eur": 431.03,
+        "price_usd": 463.31,
+        "price_eur": 426.25,
         "isHistory": false
       },
       {
@@ -467,23 +467,23 @@
       },
       {
         "rank": 6,
-        "name": "Crystal Castles",
-        "price_usd": 151.98,
-        "price_eur": 139.82,
-        "isHistory": false
-      },
-      {
-        "rank": 7,
         "name": "The Educator",
         "price_usd": 150,
         "price_eur": 138,
         "isHistory": false
       },
       {
-        "rank": 8,
+        "rank": 7,
         "name": "Atari 410 Program Recorder",
         "price_usd": 147.63,
         "price_eur": 135.82,
+        "isHistory": false
+      },
+      {
+        "rank": 8,
+        "name": "Crystal Castles",
+        "price_usd": 145.5,
+        "price_eur": 133.86,
         "isHistory": false
       },
       {
@@ -850,8 +850,8 @@
       {
         "rank": 20,
         "name": "Worms",
-        "price_usd": 122.1,
-        "price_eur": 112.33,
+        "price_usd": 122.11,
+        "price_eur": 112.34,
         "isHistory": false
       }
     ],
@@ -895,8 +895,8 @@
       {
         "rank": 6,
         "name": "Sega Dreamcast Sports Edition Console",
-        "price_usd": 202.31,
-        "price_eur": 186.13,
+        "price_usd": 202.22,
+        "price_eur": 186.04,
         "isHistory": false
       },
       {
@@ -1078,65 +1078,65 @@
       },
       {
         "rank": 12,
+        "name": "Legend of Zelda",
+        "price_usd": 44.99,
+        "price_eur": 41.39,
+        "isHistory": false
+      },
+      {
+        "rank": 13,
         "name": "Clu Clu Land",
         "price_usd": 42.99,
         "price_eur": 39.55,
         "isHistory": false
       },
       {
-        "rank": 13,
+        "rank": 14,
         "name": "Dracula II",
         "price_usd": 42.49,
         "price_eur": 39.09,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 15,
         "name": "Panic Space",
         "price_usd": 42.26,
         "price_eur": 38.88,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 16,
         "name": "Kick Challenger: Air Foot",
         "price_usd": 41.47,
         "price_eur": 38.15,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 17,
         "name": "Time Twist: Rekishi no Katasumi de [Kouhen]",
         "price_usd": 41.06,
         "price_eur": 37.78,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 18,
         "name": "BurgerTime",
         "price_usd": 40.16,
         "price_eur": 36.95,
         "isHistory": false
       },
       {
-        "rank": 18,
-        "name": "Akumajou Dracula",
-        "price_usd": 39.99,
-        "price_eur": 36.79,
-        "isHistory": false
-      },
-      {
         "rank": 19,
-        "name": "Electrician",
-        "price_usd": 37.32,
-        "price_eur": 34.33,
+        "name": "Akumajou Dracula",
+        "price_usd": 38.5,
+        "price_eur": 35.42,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "Yume Koujou: Doki Doki Panic",
-        "price_usd": 36.85,
-        "price_eur": 33.9,
+        "name": "Electrician",
+        "price_usd": 37.32,
+        "price_eur": 34.33,
         "isHistory": false
       }
     ],
@@ -1206,14 +1206,14 @@
       },
       {
         "rank": 10,
-        "name": "Makaimura [Box Cart]",
+        "name": "Bubble Bobble 2",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
       },
       {
         "rank": 11,
-        "name": "Bubble Bobble 2",
+        "name": "Makaimura [Box Cart]",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
@@ -1248,16 +1248,16 @@
       },
       {
         "rank": 16,
-        "name": "Pyokotan no Dai Meiro",
-        "price_usd": 229.88,
-        "price_eur": 211.49,
+        "name": "Bio Miracle Bokutte Upa",
+        "price_usd": 230.13,
+        "price_eur": 211.72,
         "isHistory": false
       },
       {
         "rank": 17,
-        "name": "Bio Miracle Bokutte Upa",
-        "price_usd": 225.65,
-        "price_eur": 207.6,
+        "name": "Pyokotan no Dai Meiro",
+        "price_usd": 229.88,
+        "price_eur": 211.49,
         "isHistory": false
       },
       {
@@ -1404,14 +1404,14 @@
       },
       {
         "rank": 18,
-        "name": "Analogue Pocket [Berry]",
+        "name": "Analogue Pocket [Red]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
       },
       {
         "rank": 19,
-        "name": "Analogue Pocket [Red]",
+        "name": "Analogue Pocket [Berry]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
@@ -1695,14 +1695,14 @@
       },
       {
         "rank": 19,
-        "name": "Gameshark [Special Edition for Pokemon Crystal]",
-        "price_usd": 150,
-        "price_eur": 138,
+        "name": "Pokemon Crystal",
+        "price_usd": 152,
+        "price_eur": 139.84,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "Pokemon Crystal",
+        "name": "Gameshark [Special Edition for Pokemon Crystal]",
         "price_usd": 150,
         "price_eur": 138,
         "isHistory": false
@@ -1789,15 +1789,15 @@
       {
         "rank": 12,
         "name": "Cosmic Spacehead",
-        "price_usd": 77.01,
-        "price_eur": 70.85,
+        "price_usd": 76.69,
+        "price_eur": 70.55,
         "isHistory": false
       },
       {
         "rank": 13,
         "name": "Defenders of Oasis",
-        "price_usd": 55.71,
-        "price_eur": 51.25,
+        "price_usd": 57.13,
+        "price_eur": 52.56,
         "isHistory": false
       },
       {
@@ -1817,8 +1817,8 @@
       {
         "rank": 16,
         "name": "Shining Force Sword of Hajya",
-        "price_usd": 50,
-        "price_eur": 46,
+        "price_usd": 49.5,
+        "price_eur": 45.54,
         "isHistory": false
       },
       {
@@ -1861,8 +1861,8 @@
       {
         "rank": 2,
         "name": "Outback Joey",
-        "price_usd": 3503.98,
-        "price_eur": 3223.66,
+        "price_usd": 3503.08,
+        "price_eur": 3222.83,
         "isHistory": false
       },
       {
@@ -2393,16 +2393,16 @@
       },
       {
         "rank": 17,
-        "name": "Nintendo 64 System [Super Mario 64 Bundle]",
-        "price_usd": 175.39,
-        "price_eur": 161.36,
+        "name": "Conker's Bad Fur Day",
+        "price_usd": 177.69,
+        "price_eur": 163.47,
         "isHistory": false
       },
       {
         "rank": 18,
-        "name": "Conker's Bad Fur Day",
-        "price_usd": 174.64,
-        "price_eur": 160.67,
+        "name": "Nintendo 64 System [Super Mario 64 Bundle]",
+        "price_usd": 175.39,
+        "price_eur": 161.36,
         "isHistory": false
       },
       {
@@ -3100,8 +3100,8 @@
       {
         "rank": 16,
         "name": "Tatsujin",
-        "price_usd": 242.62,
-        "price_eur": 223.21,
+        "price_usd": 242.38,
+        "price_eur": 222.99,
         "isHistory": false
       },
       {
@@ -3420,14 +3420,14 @@
     "ps2": [
       {
         "rank": 1,
-        "name": "PlayStation 2 System [Blue Automotive Edition]",
+        "name": "PlayStation 2 System [Yellow Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
       },
       {
         "rank": 2,
-        "name": "PlayStation 2 System [Yellow Automotive Edition]",
+        "name": "PlayStation 2 System [Blue Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
@@ -3726,8 +3726,8 @@
       {
         "rank": 4,
         "name": "Motherbase",
-        "price_usd": 219.66,
-        "price_eur": 202.09,
+        "price_usd": 218.33,
+        "price_eur": 200.86,
         "isHistory": false
       },
       {
@@ -3923,37 +3923,37 @@
       },
       {
         "rank": 12,
+        "name": "Fire Emblem: Thracia 776",
+        "price_usd": 268,
+        "price_eur": 246.56,
+        "isHistory": false
+      },
+      {
+        "rank": 13,
         "name": "Love Quest",
         "price_usd": 255,
         "price_eur": 234.6,
         "isHistory": false
       },
       {
-        "rank": 13,
+        "rank": 14,
         "name": "Yokai Buster",
         "price_usd": 229.02,
         "price_eur": 210.7,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 15,
         "name": "Metal Slader Glory",
         "price_usd": 228.42,
         "price_eur": 210.15,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 16,
         "name": "Sutte Hakkun",
         "price_usd": 224,
         "price_eur": 206.08,
-        "isHistory": false
-      },
-      {
-        "rank": 16,
-        "name": "Fire Emblem: Thracia 776",
-        "price_usd": 217.82,
-        "price_eur": 200.39,
         "isHistory": false
       },
       {
@@ -3990,8 +3990,8 @@
       {
         "rank": 1,
         "name": "Donkey Kong Country [5-Game Crate]",
-        "price_usd": 1457.27,
-        "price_eur": 1340.69,
+        "price_usd": 1456.42,
+        "price_eur": 1339.91,
         "isHistory": false
       },
       {
@@ -4338,8 +4338,8 @@
       {
         "rank": 10,
         "name": "Virtual Lab [Homebrew]",
-        "price_usd": 179,
-        "price_eur": 164.68,
+        "price_usd": 179.07,
+        "price_eur": 164.74,
         "isHistory": false
       },
       {
@@ -4400,16 +4400,16 @@
       },
       {
         "rank": 19,
-        "name": "Wario Land",
+        "name": "SD Gundam Dimension Wars [Homebrew]",
         "price_usd": 65,
         "price_eur": 59.8,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "SD Gundam Dimension Wars [Homebrew]",
-        "price_usd": 65,
-        "price_eur": 59.8,
+        "name": "Wario Land",
+        "price_usd": 62.12,
+        "price_eur": 57.15,
         "isHistory": false
       }
     ],
@@ -4580,8 +4580,8 @@
       {
         "rank": 4,
         "name": "Super Robot Taisen Compact 3",
-        "price_usd": 152.89,
-        "price_eur": 140.66,
+        "price_usd": 152.87,
+        "price_eur": 140.64,
         "isHistory": false
       },
       {
