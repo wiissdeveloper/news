@@ -1,6 +1,46 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "notices": [
+    {
+      "guid": "https://www.gamekult.com/actualite/pris-en-etau-a-cause-de-la-crise-de-la-memoire-le-marche-du-pc-chute-de-20-sur-un-an-3050872402.html",
+      "title": "Pris en étau à cause de la crise de la mémoire, le marché du PC chute de 20 % sur un an",
+      "link": "https://www.gamekult.com/actualite/pris-en-etau-a-cause-de-la-crise-de-la-memoire-le-marche-du-pc-chute-de-20-sur-un-an-3050872402.html",
+      "pubDate": "Mon, 12 Oct 2026 07:35:00 +0200",
+      "contentSnippet": "Puisque nous sommes un média spécialisé dans le jeu vidéo, nous avons tendance à surtout parler de l'impact de la crise de la mémoire sur les consoles en tous genres. Mais évidemment, le marché du PC est tout aussi concerné (sans compter le fait qu'une crise affecte évidemment les joueurs également). Ainsi, selon les résultats préliminaires publiés par IDC le 8 octobre dernier, les livraisons mondiales de PC ont reculé de 20,1 % sur un an au troisième trimestre 2026, à 62,7 millions d’unités.",
+      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872402/pris-en-etau-a-cause-de-la-crise-de-la-memoire-le-marche-du-pc-chute-de-20-sur-un-an-161a27b2__930_300__0-701-4380-2108.jpg"
+    },
+    {
+      "guid": "https://www.gamekult.com/actualite/en-attendant-ace-attorney-7-retour-sur-les-origines-de-la-serie-culte-pour-son-25e-anniversaire-3050872307.html",
+      "title": "Mémoire cash - En attendant Ace Attorney 7, retour sur les origines de la série culte pour son 25e anniversaire",
+      "link": "https://www.gamekult.com/actualite/en-attendant-ace-attorney-7-retour-sur-les-origines-de-la-serie-culte-pour-son-25e-anniversaire-3050872307.html",
+      "pubDate": "Mon, 12 Oct 2026 06:00:00 +0200",
+      "contentSnippet": "En France, il a fallu attendre le 31 mars 2006 pour découvrir la franchise Ace Attorney grâce à l'arrivée des premières plaidoiries de Maître Wright sur Nintendo DS. C'était il y a 20 ans, déjà. Mais au Japon, c'est bien le 12 octobre 2001, sur Game Boy Advance, que le génial Shu Takumi avait donné naissance à ce qui est devenu une série fleuve, l'un des rendez-vous les plus appréciés par les amateurs d'enquêtes narratives. Nous fêtons donc bien en ce jour le 25e anniversaire d'Ace Attorney.",
+      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872307/memoire-ace-attorney-62348d09__930_300__0-245-2000-890.png"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2108030/le-comparatif-entre-gta-vice-city-et-gta-6-montre-plusieurs-choses-interessantes.htm",
+      "title": "Le comparatif entre GTA Vice City et GTA 6 montre plusieurs choses intéressantes",
+      "link": "https://www.jeuxvideo.com/news/2108030/le-comparatif-entre-gta-vice-city-et-gta-6-montre-plusieurs-choses-interessantes.htm",
+      "pubDate": "Sun, 11 Oct 2026 22:20:07 +0200",
+      "contentSnippet": "Vingt-quatre ans séparent la sortie de GTA Vice City de l'arrivée très attendue de GTA 6. En comparant les environnements des deux jeux, difficile de ne pas mesurer l'impressionnant bond technologique réalisé par Rockstar Games pour donner vie à sa vision de la Floride.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179154/1791536747-6384-card.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2108501/30-d-opinion-positive-comment-xbox-beneficie-des-polemiques-de-sony-pour-revenir-dans-la-guerre-des-consoles.htm",
+      "title": "30% d'opinion positive : comment Xbox bénéficie des polémiques de Sony pour revenir dans la guerre des consoles",
+      "link": "https://www.jeuxvideo.com/news/2108501/30-d-opinion-positive-comment-xbox-beneficie-des-polemiques-de-sony-pour-revenir-dans-la-guerre-des-consoles.htm",
+      "pubDate": "Sun, 11 Oct 2026 20:10:07 +0200",
+      "contentSnippet": "Après avoir frôlé la chute libre et essuyé un plus bas historique, la division gaming de Microsoft esquisse un début de redressement.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179156/1791556543-1012-card.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2108224/un-qui-pilote-l-autre-qui-hurle-ce-jeu-inde-est-la-pour-vous-faire-peter-un-cable-avec-vos-amis.htm",
+      "title": "Un qui pilote, l'autre qui hurle : ce jeu indé est là pour vous faire péter un câble avec vos amis",
+      "link": "https://www.jeuxvideo.com/news/2108224/un-qui-pilote-l-autre-qui-hurle-ce-jeu-inde-est-la-pour-vous-faire-peter-un-cable-avec-vos-amis.htm",
+      "pubDate": "Sun, 11 Oct 2026 18:45:07 +0200",
+      "contentSnippet": "Imaginez que les directives que vous donnez en voiture soient la seule chose que le conducteur ait pour se guider, ne pouvant pas voir la route ? Eh bien, c’est le concept déjanté de ce futur jeu Steam jouable à deux et qui promet de mettre votre couple ou amitié en péril…",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179146/1791464454-5485-card.jpg"
+    },
     {
       "guid": "https://www.gamekult.com/actualite/dans-pokemon-rouge-bleu-le-perso-est-immobile-c-est-le-monde-autour-de-lui-qui-se-deplace-3050872380.html",
       "title": "Dans Pokémon Rouge/Bleu, le perso est immobile : c'est le monde autour de lui qui se déplace",
@@ -24,22 +64,6 @@
       "pubDate": "Sun, 11 Oct 2026 09:07:00 +0200",
       "contentSnippet": "Les Jeux Asiatiques, c'est un peu le grand challenger des Jeux olympiques : la compétition existe depuis 1951, elle a lieu tous les quatre ans, rassemble environ douze mille sportifs internationaux… mais ne concerne que l'Asie, comme son nom l'indique très justement. Pour la première fois, l'édition 2026 a accueilli une nouvelle discipline : Puyo Puyo, puzzle game iconique de Sega, consolidant encore un peu plus le championnat dans le domaine esportif.",
       "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872359/l-un-des-nouveaux-grands-champions-de-l-esport-est-un-japonais-de-11-ans-6d55a162__930_300__0-208-1368-650.jpg"
-    },
-    {
-      "guid": "https://www.jeuxvideo.com/news/2108262/cette-serie-de-jeux-video-est-passee-de-16-20-sur-ps2-a-8-20-sur-ps3-comment-une-telle-catastrophe-a-t-elle-ete-possible.htm",
-      "title": "Cette série de jeux vidéo est passée de 16/20 sur PS2 à 8/20 sur PS3 : comment une telle catastrophe a-t-elle été possible ?",
-      "link": "https://www.jeuxvideo.com/news/2108262/cette-serie-de-jeux-video-est-passee-de-16-20-sur-ps2-a-8-20-sur-ps3-comment-une-telle-catastrophe-a-t-elle-ete-possible.htm",
-      "pubDate": "Sat, 10 Oct 2026 18:45:08 +0200",
-      "contentSnippet": "Portée par un créateur de légende et sublimée sur PS2, la franchise Genji devait être le fleuron de Sony à l'ère HD… mais tout ne s’est pas passé comme prévu.",
-      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179147/1791467761-7158-card.jpg"
-    },
-    {
-      "guid": "https://www.jeuxvideo.com/videos/chroniques/2107838/le-nouveau-fleau-du-jeu-video.htm",
-      "title": "Le nouveau fléau du jeu vidéo",
-      "link": "https://www.jeuxvideo.com/videos/chroniques/2107838/le-nouveau-fleau-du-jeu-video.htm",
-      "pubDate": "Sat, 10 Oct 2026 17:00:07 +0200",
-      "contentSnippet": "Se faire plagier son jeu est une chose, mais voir des clones générés par intelligence artificielle sortir avant même l'original relève du véritable cauchemar pour les développeurs.",
-      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179130/1791295859-3448-card.jpg"
     },
     {
       "guid": "https://www.gamekult.com/actualite/halo-1-dans-un-navigateur-web-avec-du-multi-a-128-joueurs-oui-c-est-possible-3050872324.html",
@@ -72,30 +96,6 @@
       "pubDate": "Sat, 10 Oct 2026 06:01:00 +0200",
       "contentSnippet": "La mythologie a fait son œuvre. Presque trente ans de rétrospectives larmoyantes ont fini par sacraliser le premier Fallout (sorti en octobre 1997) comme l'alpha et l'oméga du RPG occidental. L'écriture mature, la liberté folle, l'ambiance crasseuse, tout y est. Sauf que la nostalgie a un incroyable talent pour le refoulement et relancer le bébé d'Interplay aujourd'hui, c'est se prendre le mur du réel à 130 km/h. On vient chercher un monument d'acide et de cynisme, on se retrouve à batailler contre une interface qui tient de la punition corporelle.",
       "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872358/rejouer-au-premier-fallout-c-est-s-exposer-a-un-enfer-d-ergonomie-613f59cc__930_300__0-459-1920-1080.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=829044",
-      "title": "EA Sports FC 27 dévoile la première équipe Future Stars",
-      "link": "https://www.actugaming.net/ea-sports-fc-27-devoile-la-premiere-equipe-future-stars-829044/",
-      "pubDate": "Fri, 09 Oct 2026 17:42:40 +0000",
-      "contentSnippet": "ActuGaming.net\nEA Sports FC 27 dévoile la première équipe Future Stars\n\nEA Sports FC 27 nous propose la première équipe de la promotion Future Stars. Les […]\nL'article EA Sports FC 27 dévoile la première équipe Future Stars est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/10/ea-sports-fc-27-future-stars-affiche.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=829031",
-      "title": "Rainbow Six Mobile s’arrêtera début 2027, soit moins d’un an après son lancement définitif",
-      "link": "https://www.actugaming.net/rainbow-six-mobile-arret-debut-2027-829031/",
-      "pubDate": "Fri, 09 Oct 2026 16:45:08 +0000",
-      "contentSnippet": "ActuGaming.net\nRainbow Six Mobile s’arrêtera début 2027, soit moins d’un an après son lancement définitif\n\nLe marché du jeu mobile est plus que jamais un endroit privilégié pour les éditeurs, […]\nL'article Rainbow Six Mobile s’arrêtera début 2027, soit moins d’un an après son lancement définitif est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2025/01/rainbow-six-mobile.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=829023",
-      "title": "L’animé Ghost of Tsushima: Legends prend son temps et ne sera finalement diffusé qu’en 2028",
-      "link": "https://www.actugaming.net/ghost-of-tsushima-legends-finalement-diffuse-2028-829023/",
-      "pubDate": "Fri, 09 Oct 2026 15:36:17 +0000",
-      "contentSnippet": "ActuGaming.net\nL’animé Ghost of Tsushima: Legends prend son temps et ne sera finalement diffusé qu’en 2028\n\nAlors que Xbox a déclaré tout récemment remettre le pied pour de bon dans les […]\nL'article L’animé Ghost of Tsushima: Legends prend son temps et ne sera finalement diffusé qu’en 2028 est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/07/ghost-of-tsushima.webp"
     }
   ]
 }
