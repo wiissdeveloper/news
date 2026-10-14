@@ -1,6 +1,22 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "notices": [
+    {
+      "guid": "https://www.jeuxvideo.com/news/2108824/red-dead-redemption-2-l-edition-ultime-du-genial-monde-ouvert-de-rockstar-est-a-80-sur-pc.htm",
+      "title": "Red Dead Redemption 2 : l'édition ultime du génial monde ouvert de Rockstar est à -80% sur PC",
+      "link": "https://www.jeuxvideo.com/news/2108824/red-dead-redemption-2-l-edition-ultime-du-genial-monde-ouvert-de-rockstar-est-a-80-sur-pc.htm",
+      "pubDate": "Tue, 13 Oct 2026 22:20:10 +0200",
+      "contentSnippet": "C'est LA promo de l'automne à ne pas rater : Red Dead Redemption II dans son édition ultime à -80% sur Steam. Si vous êtes passés complètement à côté du titre génial de Rockstar, c'est l'occasion de vous plonger dans cet univers ultra-organique.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179189/1791885500-9003-card.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2108827/no-man-s-sky-sur-smartphone-telechargement-gratuit-et-moins-de-5-go-mais-attention.htm",
+      "title": "No Man's Sky sur smartphone : téléchargement gratuit et moins de 5 Go, mais attention !",
+      "link": "https://www.jeuxvideo.com/news/2108827/no-man-s-sky-sur-smartphone-telechargement-gratuit-et-moins-de-5-go-mais-attention.htm",
+      "pubDate": "Tue, 13 Oct 2026 20:10:09 +0200",
+      "contentSnippet": "Faire tenir 18 trillions de planètes dans notre poche sans faire fondre notre téléphone ni siphonner nos forfaits data, c'est le pari fou d'Hello Games. No Man's Sky débarque sur iOS, et son portage de 5 Go pourrait bien donner une leçon magistrale à toute l'industrie mobile.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179188/1791884149-6370-card.jpg"
+    },
     {
       "guid": "https://www.actugaming.net/?p=829304",
       "title": "Asha Sharma promet qu’elle veut aussi de nouvelles licences pour Xbox, même si elle mise surtout sur les grosses séries",
@@ -80,22 +96,6 @@
       "pubDate": "Tue, 13 Oct 2026 16:28:31 +0200",
       "contentSnippet": "On vous apprend comment gagner de l'argent avec votre compte Steam. Une méthode dont vous ne connaissiez même pas l'existence.",
       "thumbnail": "https://image.jeuxvideo.com/medias-lg/179188/1791880260-7039-card.jpg"
-    },
-    {
-      "guid": "https://www.gamekult.com/actualite/gta-6-sera-t-il-disponible-sur-pc-plus-tot-qu-on-ne-l-imagine-3050872431.html",
-      "title": "GTA 6 sera-t-il disponible sur PC plus tôt qu'on ne l'imagine ?",
-      "link": "https://www.gamekult.com/actualite/gta-6-sera-t-il-disponible-sur-pc-plus-tot-qu-on-ne-l-imagine-3050872431.html",
-      "pubDate": "Tue, 13 Oct 2026 16:14:00 +0200",
-      "contentSnippet": "Si le développement d'une version PC de Grand Theft Auto VI ne fait aucun doute, Take-Two Interactive et Rockstar Games ont toujours pris soin de rester le plus évasifs possible sur le sujet. Pourtant, une source solide rapporte désormais que cette version PC ne serait en retard que de quelques mois sur la sortie sur consoles.",
-      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872431/gta-6-sera-t-il-disponible-sur-pc-plus-tot-qu-on-ne-l-imagine-018532eb__930_300__0-328-3840-1562.jpg"
-    },
-    {
-      "guid": "https://www.jeuxvideo.com/news/2108633/refonte-de-l-application-xbox-sur-pc-ce-qui-change-sur-la-plate-forme-de-jeux-video.htm",
-      "title": "Refonte de l’application Xbox sur PC : ce qui change sur la plate-forme de jeux vidéo",
-      "link": "https://www.jeuxvideo.com/news/2108633/refonte-de-l-application-xbox-sur-pc-ce-qui-change-sur-la-plate-forme-de-jeux-video.htm",
-      "pubDate": "Tue, 13 Oct 2026 16:00:10 +0200",
-      "contentSnippet": "Longtemps critiquée pour sa lenteur et sa gourmandise en ressources, l'application Xbox sur PC prépare sa métamorphose. Sous le nom de code Garrison, Microsoft orchestre une refonte technique majeure destinée à unifier l'expérience sur Windows 11 et séduire les joueurs PC.",
-      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179180/1791796020-8801-card.jpg"
     }
   ]
 }
