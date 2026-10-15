@@ -1,6 +1,14 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "notices": [
+    {
+      "guid": "https://it.ign.com/bully/228594/dan-houser-rivela-le-difficolta-incontrate-da-rockstar-nella-realizzazione-di-bully",
+      "title": "Dan Houser rivela le difficoltà incontrate da Rockstar nella realizzazione di Bully",
+      "link": "https://it.ign.com/bully/228594/dan-houser-rivela-le-difficolta-incontrate-da-rockstar-nella-realizzazione-di-bully",
+      "pubDate": "Wed, 14 Oct 2026 16:28:50 +0000",
+      "contentSnippet": "Un percorso complicato.\nPresentato come una versione su scala ridotta e meno esplicita di GTA, Bully è stato accolto con grande successo dalla critica; tuttavia, il percorso verso il lancio è stato tutt’altro che facile.",
+      "thumbnail": "https://sm.ign.com/ign_it/news/d/dan-houser/dan-houser-reveals-rockstars-struggle-to-make-bully_hzk9.jpg"
+    },
     {
       "guid": "https://it.ign.com/lll/228580/aion-2-e-cinder-city-il-futuro-degli-mmo-secondo-ncsoft",
       "title": "AION 2 e Cinder City: il futuro degli MMO secondo NCSoft",
@@ -24,6 +32,14 @@
       "pubDate": "Wed, 14 Oct 2026 14:01:05 +0000",
       "contentSnippet": "Il successo dell'operazione non sorprende.\nGrande successo per la beta di World of Warcraft: Forever, con oltre un milione di personaggi.",
       "thumbnail": "https://sm.ign.com/ign_it/photo/default/wow-forever-scenic-announce-raceclass-newcombos-054-17898060_u8eg.jpg"
+    },
+    {
+      "guid": "https://it.ign.com/the-legend-of-zelda-ocarina-of-time-remake/228596/the-legend-of-zelda-ocarina-of-time-trailer-panoramico-del-remake",
+      "title": "The Legend of Zelda: Ocarina of Time - Trailer panoramico del remake",
+      "link": "https://it.ign.com/the-legend-of-zelda-ocarina-of-time-remake/228596/the-legend-of-zelda-ocarina-of-time-trailer-panoramico-del-remake",
+      "pubDate": "Wed, 14 Oct 2026 13:05:35 +0000",
+      "contentSnippet": "In esclusiva su Nintendo Switch 2.",
+      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/blob_qxs3.png"
     },
     {
       "guid": "https://it.ign.com/the-legend-of-zelda-ocarina-of-time-remake/228450/the-legend-of-zelda-ocarina-of-time-abbiamo-provato-il-remake-piu-atteso-dellanno",
@@ -80,22 +96,6 @@
       "pubDate": "Wed, 14 Oct 2026 09:30:32 +0000",
       "contentSnippet": "Giocare ovunque!\nMicrosoft lancia una nuova iniziativa volta a rendere i videogiochi accessibili a un pubblico più ampio, e in più contesti, con particolare attenzione ai browser.",
       "thumbnail": "https://sm.ign.com/ign_it/news/x/xbox-annou/xbox-announces-xbox-labs-aimed-in-part-at-getting-improved-o_8zuv.jpg"
-    },
-    {
-      "guid": "https://it.ign.com/offerte-amazon-videogiochi-sconti/228563/planet-zoo-2-e-gia-in-super-offerta-su-instant-gaming",
-      "title": "Planet Zoo 2 è già in super offerta su Instant Gaming",
-      "link": "https://it.ign.com/offerte-amazon-videogiochi-sconti/228563/planet-zoo-2-e-gia-in-super-offerta-su-instant-gaming",
-      "pubDate": "Wed, 14 Oct 2026 08:03:33 +0000",
-      "contentSnippet": "Il titolo di Frontier Developments è disponibile da ieri.\nPlanet Zoo 2, il simulatore di zoo targato Frontier Developments, è già in sconto.",
-      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/blob_zv6h.jpg"
-    },
-    {
-      "guid": "https://it.ign.com/xbox/228564/idxbox-showcase-torna-il-20-ottobre",
-      "title": "ID@Xbox Showcase torna il 20 ottobre",
-      "link": "https://it.ign.com/xbox/228564/idxbox-showcase-torna-il-20-ottobre",
-      "pubDate": "Wed, 14 Oct 2026 07:30:32 +0000",
-      "contentSnippet": "Presenti all'appello oltre venti giochi.\nIGN e Xbox uniscono le forze per offrirvi una nuovissima edizione dello showcase ID@Xbox.",
-      "thumbnail": "https://sm.ign.com/ign_it/preview/i/idxbox-sho/idxbox-showcase-returns-in-october-with-20-games_uyak.jpg"
     }
   ]
 }
