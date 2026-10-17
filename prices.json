@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16",
+  "updated": "2026-10-17",
   "systems": {
     "3do": [
       {
@@ -54,8 +54,8 @@
       {
         "rank": 8,
         "name": "3DO FZ-1 Console",
-        "price_usd": 268.5,
-        "price_eur": 247.02,
+        "price_usd": 268.41,
+        "price_eur": 246.94,
         "isHistory": false
       },
       {
@@ -888,15 +888,15 @@
       {
         "rank": 5,
         "name": "Cannon Spike",
-        "price_usd": 209.68,
-        "price_eur": 192.91,
+        "price_usd": 209.28,
+        "price_eur": 192.54,
         "isHistory": false
       },
       {
         "rank": 6,
         "name": "Sega Dreamcast Sports Edition Console",
-        "price_usd": 202.22,
-        "price_eur": 186.04,
+        "price_usd": 202.17,
+        "price_eur": 186,
         "isHistory": false
       },
       {
@@ -1404,14 +1404,14 @@
       },
       {
         "rank": 18,
-        "name": "Analogue Pocket [Berry]",
+        "name": "Analogue Pocket [Red]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
       },
       {
         "rank": 19,
-        "name": "Analogue Pocket [Red]",
+        "name": "Analogue Pocket [Berry]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
@@ -1767,14 +1767,14 @@
       },
       {
         "rank": 9,
-        "name": "Sega Game Gear [Majesco Revision]",
-        "price_usd": 80,
-        "price_eur": 73.6,
+        "name": "Tails' Adventure",
+        "price_usd": 82.58,
+        "price_eur": 75.97,
         "isHistory": false
       },
       {
         "rank": 10,
-        "name": "Tails' Adventure",
+        "name": "Sega Game Gear [Majesco Revision]",
         "price_usd": 80,
         "price_eur": 73.6,
         "isHistory": false
@@ -1803,8 +1803,8 @@
       {
         "rank": 14,
         "name": "Defenders of Oasis",
-        "price_usd": 57.13,
-        "price_eur": 52.56,
+        "price_usd": 58.12,
+        "price_eur": 53.47,
         "isHistory": false
       },
       {
@@ -1830,23 +1830,23 @@
       },
       {
         "rank": 18,
+        "name": "Super Star Wars: Return of the Jedi",
+        "price_usd": 49,
+        "price_eur": 45.08,
+        "isHistory": false
+      },
+      {
+        "rank": 19,
         "name": "Offical Game Gear Bag",
         "price_usd": 47.76,
         "price_eur": 43.94,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 20,
         "name": "Fatal Fury Special",
         "price_usd": 47.48,
         "price_eur": 43.68,
-        "isHistory": false
-      },
-      {
-        "rank": 20,
-        "name": "Super Star Wars: Return of the Jedi",
-        "price_usd": 46.09,
-        "price_eur": 42.4,
         "isHistory": false
       }
     ],
@@ -1944,16 +1944,16 @@
       },
       {
         "rank": 14,
-        "name": "Sega Nomad",
-        "price_usd": 310,
-        "price_eur": 285.2,
+        "name": "Sega Genesis Speakers",
+        "price_usd": 300,
+        "price_eur": 276,
         "isHistory": false
       },
       {
         "rank": 15,
-        "name": "Sega Genesis Speakers",
-        "price_usd": 300,
-        "price_eur": 276,
+        "name": "Sega Nomad",
+        "price_usd": 299.99,
+        "price_eur": 275.99,
         "isHistory": false
       },
       {
@@ -2394,8 +2394,8 @@
       {
         "rank": 17,
         "name": "Conker's Bad Fur Day",
-        "price_usd": 177.69,
-        "price_eur": 163.47,
+        "price_usd": 176.41,
+        "price_eur": 162.3,
         "isHistory": false
       },
       {
@@ -2467,8 +2467,8 @@
       {
         "rank": 7,
         "name": "Pokemon [Not for Resale Deoxys]",
-        "price_usd": 1614.3,
-        "price_eur": 1485.16,
+        "price_usd": 1920.21,
+        "price_eur": 1766.59,
         "isHistory": false
       },
       {
@@ -2551,8 +2551,8 @@
       {
         "rank": 19,
         "name": "Pokemon Meloetta Distribution Cartridge",
-        "price_usd": 301.14,
-        "price_eur": 277.05,
+        "price_usd": 301.28,
+        "price_eur": 277.18,
         "isHistory": false
       },
       {
@@ -3136,23 +3136,23 @@
     "pcfx": [
       {
         "rank": 1,
+        "name": "Chip Chan Kick",
+        "price_usd": 334.62,
+        "price_eur": 307.85,
+        "isHistory": false
+      },
+      {
+        "rank": 2,
         "name": "NEC PC-FX Console",
         "price_usd": 303.9,
         "price_eur": 279.59,
         "isHistory": false
       },
       {
-        "rank": 2,
+        "rank": 3,
         "name": "Cutie Honey FX",
         "price_usd": 269.99,
         "price_eur": 248.39,
-        "isHistory": false
-      },
-      {
-        "rank": 3,
-        "name": "Chip Chan Kick",
-        "price_usd": 252.98,
-        "price_eur": 232.74,
         "isHistory": false
       },
       {
@@ -3590,14 +3590,14 @@
       },
       {
         "rank": 5,
-        "name": "PSP 3000 Limited Edition Rock Band Version",
+        "name": "Shin Megami Tensei: Persona 2: Innocent Sin [Limited Edition]",
         "price_usd": 200,
         "price_eur": 184,
         "isHistory": false
       },
       {
         "rank": 6,
-        "name": "Shin Megami Tensei: Persona 2: Innocent Sin [Limited Edition]",
+        "name": "PSP 3000 Limited Edition Rock Band Version",
         "price_usd": 200,
         "price_eur": 184,
         "isHistory": false
@@ -4116,8 +4116,8 @@
       {
         "rank": 19,
         "name": "Aero the Acro-Bat 2",
-        "price_usd": 196.79,
-        "price_eur": 181.05,
+        "price_usd": 196.65,
+        "price_eur": 180.92,
         "isHistory": false
       },
       {
@@ -4275,8 +4275,8 @@
       {
         "rank": 1,
         "name": "Jack Bros.",
-        "price_usd": 898.39,
-        "price_eur": 826.52,
+        "price_usd": 897.94,
+        "price_eur": 826.1,
         "isHistory": false
       },
       {
@@ -4331,8 +4331,8 @@
       {
         "rank": 9,
         "name": "Bound High",
-        "price_usd": 180.51,
-        "price_eur": 166.07,
+        "price_usd": 179.41,
+        "price_eur": 165.06,
         "isHistory": false
       },
       {
