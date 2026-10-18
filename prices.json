@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17",
+  "updated": "2026-10-18",
   "systems": {
     "3do": [
       {
@@ -75,8 +75,8 @@
       {
         "rank": 11,
         "name": "Panasonic 3DO FZ-1",
-        "price_usd": 211.66,
-        "price_eur": 194.73,
+        "price_usd": 211.46,
+        "price_eur": 194.54,
         "isHistory": false
       },
       {
@@ -124,8 +124,8 @@
       {
         "rank": 18,
         "name": "American Laser Games Game Gun",
-        "price_usd": 125.08,
-        "price_eur": 115.07,
+        "price_usd": 125.04,
+        "price_eur": 115.04,
         "isHistory": false
       },
       {
@@ -673,8 +673,8 @@
       {
         "rank": 15,
         "name": "Battlezone 2000",
-        "price_usd": 75.26,
-        "price_eur": 69.24,
+        "price_usd": 75.46,
+        "price_eur": 69.42,
         "isHistory": false
       },
       {
@@ -971,9 +971,9 @@
       },
       {
         "rank": 17,
-        "name": "Skies of Arcadia",
-        "price_usd": 102.2,
-        "price_eur": 94.02,
+        "name": "The House of the Dead 2 [Gun Bundle]",
+        "price_usd": 105.56,
+        "price_eur": 97.12,
         "isHistory": false
       },
       {
@@ -1058,8 +1058,8 @@
       {
         "rank": 9,
         "name": "Omoikkiri Tanteidan Haado Gumi",
-        "price_usd": 58.17,
-        "price_eur": 53.52,
+        "price_usd": 58,
+        "price_eur": 53.36,
         "isHistory": false
       },
       {
@@ -1114,8 +1114,8 @@
       {
         "rank": 17,
         "name": "BurgerTime",
-        "price_usd": 40.16,
-        "price_eur": 36.95,
+        "price_usd": 40.13,
+        "price_eur": 36.92,
         "isHistory": false
       },
       {
@@ -1186,8 +1186,8 @@
       {
         "rank": 7,
         "name": "Twin Famicom AN-505",
-        "price_usd": 302.49,
-        "price_eur": 278.29,
+        "price_usd": 302.23,
+        "price_eur": 278.05,
         "isHistory": false
       },
       {
@@ -1404,14 +1404,14 @@
       },
       {
         "rank": 18,
-        "name": "Analogue Pocket [Red]",
+        "name": "Analogue Pocket [Berry]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
       },
       {
         "rank": 19,
-        "name": "Analogue Pocket [Berry]",
+        "name": "Analogue Pocket [Red]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
@@ -1463,8 +1463,8 @@
       {
         "rank": 6,
         "name": "Visteon Gameboy Advance Console",
-        "price_usd": 821.08,
-        "price_eur": 755.39,
+        "price_usd": 806.07,
+        "price_eur": 741.58,
         "isHistory": false
       },
       {
@@ -1612,8 +1612,8 @@
       {
         "rank": 7,
         "name": "Pokemon Gold [Not For Resale]",
-        "price_usd": 390.84,
-        "price_eur": 359.57,
+        "price_usd": 390.39,
+        "price_eur": 359.16,
         "isHistory": false
       },
       {
@@ -1796,8 +1796,8 @@
       {
         "rank": 13,
         "name": "Sega Game Gear Handheld",
-        "price_usd": 67.52,
-        "price_eur": 62.12,
+        "price_usd": 67.79,
+        "price_eur": 62.37,
         "isHistory": false
       },
       {
@@ -2054,36 +2054,36 @@
       {
         "rank": 9,
         "name": "Master EverDrive X7",
-        "price_usd": 105.96,
-        "price_eur": 97.48,
+        "price_usd": 105.24,
+        "price_eur": 96.82,
         "isHistory": false
       },
       {
         "rank": 10,
-        "name": "Phantasy Star",
-        "price_usd": 80.07,
-        "price_eur": 73.66,
-        "isHistory": false
-      },
-      {
-        "rank": 11,
         "name": "Alex Kidd in Shinobi World [Blue Label]",
         "price_usd": 80,
         "price_eur": 73.6,
         "isHistory": false
       },
       {
-        "rank": 12,
+        "rank": 11,
         "name": "Chapolim x Dracula: Um Duelo Assustador",
         "price_usd": 79.99,
         "price_eur": 73.59,
         "isHistory": false
       },
       {
-        "rank": 13,
+        "rank": 12,
         "name": "Power Supply",
         "price_usd": 78,
         "price_eur": 71.76,
+        "isHistory": false
+      },
+      {
+        "rank": 13,
+        "name": "Phantasy Star",
+        "price_usd": 76.15,
+        "price_eur": 70.06,
         "isHistory": false
       },
       {
@@ -2266,8 +2266,8 @@
       {
         "rank": 19,
         "name": "Flink",
-        "price_usd": 111.35,
-        "price_eur": 102.44,
+        "price_usd": 110.96,
+        "price_eur": 102.08,
         "isHistory": false
       },
       {
@@ -2432,8 +2432,8 @@
       {
         "rank": 2,
         "name": "Zelda Twilight Princess [Preview Trailer]",
-        "price_usd": 2675.01,
-        "price_eur": 2461.01,
+        "price_usd": 2673.65,
+        "price_eur": 2459.76,
         "isHistory": false
       },
       {
@@ -2509,8 +2509,8 @@
       {
         "rank": 13,
         "name": "Pokemon [Not for Resale Secret Egg]",
-        "price_usd": 823.26,
-        "price_eur": 757.4,
+        "price_usd": 822.49,
+        "price_eur": 756.69,
         "isHistory": false
       },
       {
@@ -2558,8 +2558,8 @@
       {
         "rank": 20,
         "name": "Pokemon White Nintendo DSi System",
-        "price_usd": 279.4,
-        "price_eur": 257.05,
+        "price_usd": 280,
+        "price_eur": 257.6,
         "isHistory": false
       }
     ],
@@ -2827,23 +2827,23 @@
       },
       {
         "rank": 18,
+        "name": "Panic Restaurant",
+        "price_usd": 1149.99,
+        "price_eur": 1057.99,
+        "isHistory": false
+      },
+      {
+        "rank": 19,
         "name": "Power Blade 2",
         "price_usd": 1122.33,
         "price_eur": 1032.54,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 20,
         "name": "Joystick Test Cartridge",
         "price_usd": 1108.33,
         "price_eur": 1019.66,
-        "isHistory": false
-      },
-      {
-        "rank": 20,
-        "name": "Panic Restaurant",
-        "price_usd": 1093.33,
-        "price_eur": 1005.86,
         "isHistory": false
       }
     ],
@@ -3078,23 +3078,23 @@
       },
       {
         "rank": 13,
-        "name": "PC Engine Duo-R",
-        "price_usd": 269.03,
-        "price_eur": 247.51,
+        "name": "PC Engine Duo System",
+        "price_usd": 285.99,
+        "price_eur": 263.11,
         "isHistory": false
       },
       {
         "rank": 14,
-        "name": "Gunhed Special Version",
-        "price_usd": 249.98,
-        "price_eur": 229.98,
+        "name": "PC Engine Duo-R",
+        "price_usd": 269.99,
+        "price_eur": 248.39,
         "isHistory": false
       },
       {
         "rank": 15,
-        "name": "PC Engine Duo System",
-        "price_usd": 249.71,
-        "price_eur": 229.73,
+        "name": "Gunhed Special Version",
+        "price_usd": 249.98,
+        "price_eur": 229.98,
         "isHistory": false
       },
       {
@@ -3221,8 +3221,8 @@
       {
         "rank": 13,
         "name": "Der Langrisser FX",
-        "price_usd": 100.32,
-        "price_eur": 92.29,
+        "price_usd": 100.36,
+        "price_eur": 92.33,
         "isHistory": false
       },
       {
@@ -3314,8 +3314,8 @@
       {
         "rank": 6,
         "name": "The Misadventures of Tron Bonne",
-        "price_usd": 249.99,
-        "price_eur": 229.99,
+        "price_usd": 249.5,
+        "price_eur": 229.54,
         "isHistory": false
       },
       {
@@ -3363,15 +3363,15 @@
       {
         "rank": 13,
         "name": "Valkyrie Profile",
-        "price_usd": 192.5,
-        "price_eur": 177.1,
+        "price_usd": 190.12,
+        "price_eur": 174.91,
         "isHistory": false
       },
       {
         "rank": 14,
         "name": "PSOne LCD Screen",
-        "price_usd": 179.95,
-        "price_eur": 165.55,
+        "price_usd": 179.28,
+        "price_eur": 164.94,
         "isHistory": false
       },
       {
@@ -3398,8 +3398,8 @@
       {
         "rank": 18,
         "name": "Batman Forever Arcade",
-        "price_usd": 155.75,
-        "price_eur": 143.29,
+        "price_usd": 156.25,
+        "price_eur": 143.75,
         "isHistory": false
       },
       {
@@ -3412,8 +3412,8 @@
       {
         "rank": 20,
         "name": "Elemental Gearbolt",
-        "price_usd": 150.82,
-        "price_eur": 138.75,
+        "price_usd": 150.64,
+        "price_eur": 138.59,
         "isHistory": false
       }
     ],
@@ -3477,8 +3477,8 @@
       {
         "rank": 9,
         "name": "Kuon",
-        "price_usd": 837.5,
-        "price_eur": 770.5,
+        "price_usd": 829.41,
+        "price_eur": 763.06,
         "isHistory": false
       },
       {
@@ -3512,8 +3512,8 @@
       {
         "rank": 14,
         "name": "Haunting Ground",
-        "price_usd": 441.43,
-        "price_eur": 406.12,
+        "price_usd": 440.72,
+        "price_eur": 405.46,
         "isHistory": false
       },
       {
@@ -3816,16 +3816,16 @@
       },
       {
         "rank": 17,
-        "name": "Toughman Contest",
-        "price_usd": 54.86,
-        "price_eur": 50.47,
+        "name": "WWF Raw",
+        "price_usd": 54.61,
+        "price_eur": 50.24,
         "isHistory": false
       },
       {
         "rank": 18,
-        "name": "WWF Raw",
-        "price_usd": 54.61,
-        "price_eur": 50.24,
+        "name": "Toughman Contest",
+        "price_usd": 51.31,
+        "price_eur": 47.21,
         "isHistory": false
       },
       {
@@ -4345,8 +4345,8 @@
       {
         "rank": 11,
         "name": "3D Tetris",
-        "price_usd": 164.38,
-        "price_eur": 151.23,
+        "price_usd": 170,
+        "price_eur": 156.4,
         "isHistory": false
       },
       {
@@ -4394,8 +4394,8 @@
       {
         "rank": 18,
         "name": "Nester's Funky Bowling",
-        "price_usd": 87.71,
-        "price_eur": 80.69,
+        "price_usd": 83.68,
+        "price_eur": 76.99,
         "isHistory": false
       },
       {
@@ -4550,8 +4550,8 @@
       {
         "rank": 20,
         "name": "WonderSwan Skeleton Black",
-        "price_usd": 54.19,
-        "price_eur": 49.85,
+        "price_usd": 54.23,
+        "price_eur": 49.89,
         "isHistory": false
       }
     ],
@@ -4650,8 +4650,8 @@
       {
         "rank": 14,
         "name": "WonderSwan Color Crystal Orange",
-        "price_usd": 90.98,
-        "price_eur": 83.7,
+        "price_usd": 92.37,
+        "price_eur": 84.98,
         "isHistory": false
       },
       {
