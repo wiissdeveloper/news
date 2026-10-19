@@ -1,6 +1,14 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "notices": [
+    {
+      "guid": "https://www.hobbyconsolas.com/videojuegos/7-juegos-imprescindibles-ps5-ps4-oferta-formato-fisico-digital-que-tienen-entre-80-93-nota-metacritic_7050091_0.html",
+      "title": "\n         7 juegos imprescindibles de PS5 y PS4 en oferta en formato físico y digital que tienen entre 80 y 93 de nota en Metacritic \n    ",
+      "link": "https://www.hobbyconsolas.com/videojuegos/7-juegos-imprescindibles-ps5-ps4-oferta-formato-fisico-digital-que-tienen-entre-80-93-nota-metacritic_7050091_0.html",
+      "pubDate": "Sun, 18 Oct 2026 19:00:00 +0200",
+      "contentSnippet": "Descubre hasta 7 juegos imprescindibles para PS5 y PS4 de oferta en formato físico y digital que puedes aprovechar ahora en descuento y con entre 80 y 93 de nota en Metacritic.",
+      "thumbnail": "https://imagenes.hobbyconsolas.com/files/image_1920_1080/uploads/imagenes/2025/09/24/6904b13417b15.jpeg"
+    },
     {
       "guid": "https://www.hobbyconsolas.com/videojuegos/the-blood-of-dawnwalker-tendra-mas-mil-cambios-con-1-1-juego-como-su-nueva-dificultad-acariciar-animales-pero-sigue-faltando-algo-clave_7050121_0.html",
       "title": "\n         The Blood of Dawnwalker tendrá más de mil cambios con la 1.1 del juego, como su nueva dificultad y acariciar animales, pero sigue faltando algo clave \n    ",
@@ -88,14 +96,6 @@
       "pubDate": "Sun, 18 Oct 2026 08:15:00 GMT",
       "contentSnippet": "The Witcher 3: Wild Hunt Remastered amplía su duración con un mod que añade contratos ilimitados y que ya se encuentra disponible.\nDesde su lanzamiento reciente, CD Projekt se encuentra trabajando en mejorar The Witcher 3: Wild Hunt Remastered, atendiendo a las demandas de los jugadores y aquellos aspectos más mejorables. De hecho, ya han lanzado una actualización que mejora algunos aspectos en PS5, además de que trabajan en optimizar la versión de Nintendo Switch 2.\nY no hay que olvidar la integración con mods desarrollados por la comunidad, con algunos que ya son compatibles, acabando con miles de errores. Dentro de ellos, nos hacemos eco de uno nuevo que no está diseñado para tal fin, pero que seguro que llama la atención de los fans: tiene que ver con los contratos de brujo.\n\n\nUn mod para hacer contratos sin fin en The Witcher 3: Wild Hunt Remastered\n\nLos contratos son misiones secundarias que nos enfrentan a distintas criaturas con el objetivo de obtener mejores recompensas. Ahora un modder, blibby84, ha lanzado un mod que añade contratos generados de manera procedural y que parecen en el tablón de anuncios de Velen, Novigrad y Skellige. Básicamente permite hacer contratos de monstruos infinitos y repetibles que se presentan de forma aleatoria.\nSe trata de una manera de alargar la duración del juego más allá de la campaña, así como habilitar la posibilidad de obtener dinero adicional. Estos contratos aparecen cada 72 horas y los monstruos planteados siempre presentan un nivel similar al nuestro, con recompensas que varían dependiendo de la diferencia de nivel.\nEl mod en cuestión fue publicado hace un par de semanas y recibe el nombre de Witcher's Work. Si quieres conocer todos los detalles, puedes consultar la descripción del mismo en Nexus Mods, donde se encuentran las instrucciones para su descarga e instalación.",
       "thumbnail": "https://media.vandal.net/m/10-2026/16/202610161127144_1.jpg"
-    },
-    {
-      "guid": "vandal/noticias/2026291002",
-      "title": "Sony patenta un sistema que permitirá a los espectadores interactuar y guiar a un 'streamer'",
-      "link": "https://vandal.elespanol.com/noticia/2026291002/sony-patenta-un-sistema-que-permitira-a-los-espectadores-interactuar-y-guiar-a-un-streamer/",
-      "pubDate": "Sun, 18 Oct 2026 07:45:00 GMT",
-      "contentSnippet": "Sony ha registrado una patente que describe cómo los espectadores podrían influir en la partida de un jugador, controlar un cursor o modificar el entorno.\nSony ha registrado una patente que permitiría a los espectadores interactuar directamente con un streamer, sea en Twitch u otras plataformas de vídeo. Aunque ya existen mecánicas similares, la patente habla de un cursor y otras maneras de transmitir emociones al jugador que retransmite la partida.\nLa patente describe las interacciones de los espectadores con emojis o respuestas hápticas, y la posibilidad de mostrar un cursor con el que se podría guiar al stramer, sea para resolver puzles, indicar la mejor ruta en una mazmorra, señalar puntos débiles de un jefe o dónde disparar.\n\n\nCada partida sería única dependiendo de los espectadores \n\nUn detalle interesante es que la patente no hace referencia sólo a PlayStation, sino que cubre a otros fabricantes, cascos de realidad virtual o aumentada, portátiles y móviles. \"En ciertas implementaciones de ejemplo, la salida puede incluir la presentación del cursor con una apariencia asociada a un contexto del juego\", dice el texto legal.\nLa patente también indica que no consiste sólo en superponer iconos o el cursor, los espectadores también podrían modificar el entorno en tiempo real, crear puentes o manipular objetos para modificar la partida del streamer, sea en un sentido u otro -ayudar al jugador o complicar la partida-.\n\nPor supuesto, esta patente -como muchas otras muchas- no tiene por qué hacerse realidad. En abril Sony patentó un sistema para cambiar los sonidos según los gustos del jugador y en julio se encontró un sistema de refrigeración que podría tener aplicación en PlayStation 6 o la versión portátil.",
-      "thumbnail": "https://media.vandal.net/m/10-2026/14/202610141155840_1.jpg"
     }
   ]
 }

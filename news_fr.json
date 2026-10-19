@@ -1,6 +1,38 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "notices": [
+    {
+      "guid": "https://www.jeuxvideo.com/news/2108964/le-meilleur-joueur-de-super-mario-bros-au-monde-a-battu-son-propre-record-plus-de-40-ans-apres-la-sortie-du-jeu-on-est-a-0-2-seconde-de-la-perfection.htm",
+      "title": "Le meilleur joueur de Super Mario Bros au monde a battu son propre record. Plus de 40 ans après la sortie du jeu, on est à 0,2 seconde de la perfection",
+      "link": "https://www.jeuxvideo.com/news/2108964/le-meilleur-joueur-de-super-mario-bros-au-monde-a-battu-son-propre-record-plus-de-40-ans-apres-la-sortie-du-jeu-on-est-a-0-2-seconde-de-la-perfection.htm",
+      "pubDate": "Sun, 18 Oct 2026 22:20:08 +0200",
+      "contentSnippet": "Un nouveau record sur le mythique jeu Super Mario Bros est tombé et c’est un événement majeur. La performance vient du meilleur joueur du jeu depuis cinq ans. Ce nouveau chrono rapproche encore plus ce speedrun de la perfection.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179191/1791906757-1232-card.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2109496/en-1998-en-pleine-folie-pokemon-la-nintendo-64-a-fait-parler-des-milliers-d-enfants-a-une-ia-pikachu.htm",
+      "title": "En 1998, en pleine folie Pokémon, la Nintendo 64 a fait parler des milliers d'enfants à une IA Pikachu",
+      "link": "https://www.jeuxvideo.com/news/2109496/en-1998-en-pleine-folie-pokemon-la-nintendo-64-a-fait-parler-des-milliers-d-enfants-a-une-ia-pikachu.htm",
+      "pubDate": "Sun, 18 Oct 2026 20:10:11 +0200",
+      "contentSnippet": "En 1998, en pleine folie Pokémon, Nintendo et le studio Ambrella ont lancé Hey You, Pikachu ! sur Nintendo 64. Fourni avec un microphone dédié branché sur la console, le jeu permettait de contrôler Pikachu directement par la voix !",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179216/1792162151-6943-card.jpg"
+    },
+    {
+      "guid": "https://www.gamekult.com/actualite/faire-tourner-super-mario-64-sur-une-super-nintendo-c-est-fait-3050872470.html",
+      "title": "Faire tourner Super Mario 64 sur une Super Nintendo, c'est fait ",
+      "link": "https://www.gamekult.com/actualite/faire-tourner-super-mario-64-sur-une-super-nintendo-c-est-fait-3050872470.html",
+      "pubDate": "Sun, 18 Oct 2026 17:46:00 +0200",
+      "contentSnippet": "On vous avait déjà parlé de Tobi, un développeur et bidouilleur expert qui avait réussi à jouer à Minecraft sur une Game Boy Color : l'homme vient de réitérer l'impossible, à savoir porter nativement Super Mario 64 sur une SNES. Ça parait impensable, et ce n'est même pas de la décompilation.",
+      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872470/faire-tourner-super-mario-64-sur-une-super-nintendo-c-est-fait-e51d33d3__930_300__0-114-1327-542.png"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2109307/40-ans-apres-on-decouvre-enfin-l-astuce-nes-secrete-qui-aurait-sauve-l-enfance-de-milliers-de-joueurs.htm",
+      "title": "40 ans après, on découvre enfin l'astuce NES secrète qui aurait sauvé l'enfance de milliers de joueurs",
+      "link": "https://www.jeuxvideo.com/news/2109307/40-ans-apres-on-decouvre-enfin-l-astuce-nes-secrete-qui-aurait-sauve-l-enfance-de-milliers-de-joueurs.htm",
+      "pubDate": "Sun, 18 Oct 2026 16:00:08 +0200",
+      "contentSnippet": "Pendant près de quarante ans, de nombreux joueurs de Super Mario Bros. ont subi le terrible écran Game Over, synonyme de retour impitoyable au premier niveau. Pourtant, une simple manipulation permettait de reprendre l’aventure là où elle s’était arrêtée. Un secret bien gardé qui vient de refaire surface.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179208/1792075073-7483-card.jpg"
+    },
     {
       "guid": "https://www.jeuxvideo.com/news/2109258/the-elder-scrolls-6-inaccessible-aux-joueurs-playstation-cette-enquete-relance-le-debat-et-on-comprend-pourquoi.htm",
       "title": "The Elder Scrolls 6 inaccessible aux joueurs PlayStation ? Cette enquête relance le débat... et on comprend pourquoi ",
@@ -64,38 +96,6 @@
       "pubDate": "Sat, 17 Oct 2026 18:00:00 +0200",
       "contentSnippet": "Il fut un temps où Rockstar ne s'appelait pas Rockstar mais DMA Design, et où Grand Theft Auto n'était pas encore GTA, mais un jeu d'action linéaire. Lors d'un panel à la Scottish Game Developers Association’s Games Day 2026 qui s'est tenu à Dundee en Écosse, plusieurs membres importants de l'équipe originelle sont revenus sur les prémices du projet avec quelques sympathiques anecdotes.",
       "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872446/si-gta-est-en-monde-ouvert-c-est-parce-que-rockstar-avait-la-flemme-de-faire-un-menu-de-missions-383d5721__930_300__0-140-1024-470.jpg"
-    },
-    {
-      "guid": "https://www.jeuxvideo.com/news/2109207/ce-jeu-pourrait-me-faire-acheter-la-switch-2-c-est-un-tour-de-force.htm",
-      "title": "Ce jeu pourrait me faire acheter la Switch 2... C'est un tour de force !",
-      "link": "https://www.jeuxvideo.com/news/2109207/ce-jeu-pourrait-me-faire-acheter-la-switch-2-c-est-un-tour-de-force.htm",
-      "pubDate": "Sat, 17 Oct 2026 17:15:10 +0200",
-      "contentSnippet": "La Nintendo Switch 2 est une excellente console, mais elle n'est pas faite pour moi. C'est du moins ce que je pensais avant de découvrir un jeu vidéo d'horreur coopératif qui pourrait bien me faire changer d'avis. Et le plus surprenant dans cette histoire, c'est qu'il s'agit d'une création française....",
-      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179206/1792064050-4646-card.jpg"
-    },
-    {
-      "guid": "https://www.jeuxvideo.com/news/2109411/pourquoi-gta-4-sur-ps3-a-t-il-un-filtre-jaune-pipi.htm",
-      "title": "Pourquoi GTA 4 sur PS3 a-t-il un filtre jaune pipi ?",
-      "link": "https://www.jeuxvideo.com/news/2109411/pourquoi-gta-4-sur-ps3-a-t-il-un-filtre-jaune-pipi.htm",
-      "pubDate": "Sat, 17 Oct 2026 16:00:10 +0200",
-      "contentSnippet": "Sorti en 2008, GTA IV a marqué une génération, mais les joueurs PS3 s'en souviennent pour un détail visuel précis : une teinte jaunâtre omniprésente. Décryptage technique de ce rendu poisseux, fruit des limites matérielles du processeur de Sony face aux ambitions du moteur de Rockstar.",
-      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179215/1792154976-4046-card.png"
-    },
-    {
-      "guid": "https://www.jeuxvideo.com/news/2109417/nintendo-confirme-qu-ils-continuent-le-format-physique-enfin-pour-le-moment-et-tant-que-les-joueurs-en-acheteront.htm",
-      "title": "Nintendo confirme qu’ils continuent le format physique, enfin… pour le moment et tant que les joueurs en achèteront",
-      "link": "https://www.jeuxvideo.com/news/2109417/nintendo-confirme-qu-ils-continuent-le-format-physique-enfin-pour-le-moment-et-tant-que-les-joueurs-en-acheteront.htm",
-      "pubDate": "Sat, 17 Oct 2026 14:50:09 +0200",
-      "contentSnippet": "Alors que Sony prépare la fin définitive des disques sur PlayStation, Nintendo confirme le maintien des cartouches sur Switch 2. Une stratégie rassurante guidée par la demande des joueurs, mais qui cache de vraies nuances économiques.",
-      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179214/1792144915-1869-card.jpg"
-    },
-    {
-      "guid": "https://www.gamekult.com/actualite/bien-avant-od-il-y-avait-p-t-le-silent-hill-de-hideo-kojima-revient-d-entre-les-morts-sur-pc-3050872432.html",
-      "title": "Bien avant OD, il y avait P.T. : le Silent Hill de Hideo Kojima revient d'entre les morts sur PC ",
-      "link": "https://www.gamekult.com/actualite/bien-avant-od-il-y-avait-p-t-le-silent-hill-de-hideo-kojima-revient-d-entre-les-morts-sur-pc-3050872432.html",
-      "pubDate": "Sat, 17 Oct 2026 11:03:00 +0200",
-      "contentSnippet": "Hideo Kojima et l'horreur, c'est une histoire d'amour qui dure depuis plus de dix ans, mais qui avait débuté dans les pleurs et la déception. En 2014, le créateur japonais sortait P.T. sur PlayStation 4, avant de divorcer pour de bon avec Konami : la démo de Silent Hills se voyait alors retirée du Store, reléguée rapidement au rang de mythe vidéoludique, très difficilement accessible.",
-      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872432/bien-avant-od-il-y-avait-p-t-le-silent-hill-de-hideo-kojima-revient-d-entre-les-morts-sur-pc-4dd04c9d__930_300__0-43-1600-559.jpg"
     }
   ]
 }
