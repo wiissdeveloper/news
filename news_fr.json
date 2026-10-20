@@ -1,6 +1,22 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "notices": [
+    {
+      "guid": "https://www.jeuxvideo.com/news/2109740/pgw-2026-playground-edition-monster-hunter-call-of-duty-modern-warfare-4-quels-titres-seront-presents.htm",
+      "title": "PGW 2026 Playground Edition : Monster Hunter, Call of Duty : Modern Warfare 4... quels titres seront présents ?",
+      "link": "https://www.jeuxvideo.com/news/2109740/pgw-2026-playground-edition-monster-hunter-call-of-duty-modern-warfare-4-quels-titres-seront-presents.htm",
+      "pubDate": "Mon, 19 Oct 2026 21:40:08 +0200",
+      "contentSnippet": "La Paris Games Week 2026 fait peau neuve avec son concept de Playground Edition. Entre exclusivités manette en main, compétitions acharnées et conférences de pointe, ce 15e anniversaire redéfinit le rendez-vous incontournable des joueurs français.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179242/1792416287-8878-card.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2109484/activision-se-moque-de-zelda-les-chiffres-ne-mentent-pas-call-of-duty-est-le-challenger-de-gta-6.htm",
+      "title": "Activision se moque de Zelda : les chiffres ne mentent pas, Call of Duty est le challenger de GTA 6 ",
+      "link": "https://www.jeuxvideo.com/news/2109484/activision-se-moque-de-zelda-les-chiffres-ne-mentent-pas-call-of-duty-est-le-challenger-de-gta-6.htm",
+      "pubDate": "Mon, 19 Oct 2026 20:10:12 +0200",
+      "contentSnippet": "Pour l'éditeur américain, Call of Duty : Modern Warfare 4 s'imposera aux côtés de GTA 6 comme l'un des deux véritables mastodontes de l'industrie, reléguant le retour de Link au second plan.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179240/1792402166-310-card.jpg"
+    },
     {
       "guid": "https://www.actugaming.net/?p=829968",
       "title": "Nintendo admet avoir sous-estimé la demande autour de l’édition Zelda: Ocarina of Time de la Switch 2",
@@ -80,22 +96,6 @@
       "pubDate": "Mon, 19 Oct 2026 13:38:02 +0000",
       "contentSnippet": "ActuGaming.net\nJuste avant le début du Steam Next Fest, la crainte des jeux générés par IA sur Steam grandit chez les créateurs indépendants\n\nComme tous les trimestres, Valve sort la carte du Steam Next Fest pour nous donner […]\nL'article Juste avant le début du Steam Next Fest, la crainte des jeux générés par IA sur Steam grandit chez les créateurs indépendants est disponible sur ActuGaming.net",
       "thumbnail": "https://static.actugaming.net/media/2026/10/revamp-official-reveal-trailer_r7vb.1280.webp"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=829895",
-      "title": "Saros : La mise à jour gratuite Zenith, ajoutant notamment un Boss Rush et du New Game Plus, est disponible",
-      "link": "https://www.actugaming.net/saros-mise-a-jour-gratuite-zenith-boss-rush-new-game-plus-disponible-829895/",
-      "pubDate": "Mon, 19 Oct 2026 13:31:49 +0000",
-      "contentSnippet": "ActuGaming.net\nSaros : La mise à jour gratuite Zenith, ajoutant notamment un Boss Rush et du New Game Plus, est disponible\n\nÀ sa sortie, Saros a brillé de mille feux en proposant surtout un gameplay encore […]\nL'article Saros : La mise à jour gratuite Zenith, ajoutant notamment un Boss Rush et du New Game Plus, est disponible est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/04/saros.webp"
-    },
-    {
-      "guid": "https://www.gamekult.com/actualite/windrose-une-zone-volcanique-des-armes-lourdes-et-uen-refonte-de-la-customisation-pour-l-extension-ashlands-3050872508.html",
-      "title": "Windrose : une zone volcanique, des armes lourdes et une refonte de la customisation pour l'extension Ashlands ",
-      "link": "https://www.gamekult.com/actualite/windrose-une-zone-volcanique-des-armes-lourdes-et-uen-refonte-de-la-customisation-pour-l-extension-ashlands-3050872508.html",
-      "pubDate": "Mon, 19 Oct 2026 14:59:00 +0200",
-      "contentSnippet": "Le jeu de survie pirate Windrose va s'enrichir d'une nouvelle mise à jour majeure baptisée Ashlands d'ici la fin de l'année. Les développeurs promettent un biome volcanique inédit et une refonte de la personnalisation navale.",
-      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872508/windrose-kraken-express-annonce-ashlands-une-mise-a-jour-volcanique-pour-cet-hiver-95af0e11__930_300__0-88-1920-710.jpg"
     }
   ]
 }
