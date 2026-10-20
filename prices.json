@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19",
+  "updated": "2026-10-20",
   "systems": {
     "3do": [
       {
@@ -240,8 +240,8 @@
       {
         "rank": 14,
         "name": "Color Bar Generator",
-        "price_usd": 463.31,
-        "price_eur": 426.25,
+        "price_usd": 463.54,
+        "price_eur": 426.46,
         "isHistory": false
       },
       {
@@ -978,14 +978,14 @@
       },
       {
         "rank": 18,
-        "name": "JoJo's Bizarre Adventure",
+        "name": "Sega Dreamcast Arcade Stick",
         "price_usd": 100,
         "price_eur": 92,
         "isHistory": false
       },
       {
         "rank": 19,
-        "name": "Sega Dreamcast Arcade Stick",
+        "name": "JoJo's Bizarre Adventure",
         "price_usd": 100,
         "price_eur": 92,
         "isHistory": false
@@ -1072,8 +1072,8 @@
       {
         "rank": 11,
         "name": "Metroid",
-        "price_usd": 47.46,
-        "price_eur": 43.66,
+        "price_usd": 47.44,
+        "price_eur": 43.64,
         "isHistory": false
       },
       {
@@ -1525,16 +1525,16 @@
       },
       {
         "rank": 15,
-        "name": "Car Battler Joe",
-        "price_usd": 301.02,
-        "price_eur": 276.94,
+        "name": "Ninja Five O",
+        "price_usd": 312.5,
+        "price_eur": 287.5,
         "isHistory": false
       },
       {
         "rank": 16,
-        "name": "Gameboy Advance SP [Groudon Edition]",
-        "price_usd": 300,
-        "price_eur": 276,
+        "name": "Car Battler Joe",
+        "price_usd": 301.02,
+        "price_eur": 276.94,
         "isHistory": false
       },
       {
@@ -1546,9 +1546,9 @@
       },
       {
         "rank": 18,
-        "name": "Ninja Five O",
-        "price_usd": 299.99,
-        "price_eur": 275.99,
+        "name": "Gameboy Advance SP [Groudon Edition]",
+        "price_usd": 300,
+        "price_eur": 276,
         "isHistory": false
       },
       {
@@ -2124,8 +2124,8 @@
       {
         "rank": 19,
         "name": "OutRun [Blue Label]",
-        "price_usd": 52.94,
-        "price_eur": 48.7,
+        "price_usd": 53.1,
+        "price_eur": 48.85,
         "isHistory": false
       },
       {
@@ -3100,8 +3100,8 @@
       {
         "rank": 16,
         "name": "Tatsujin",
-        "price_usd": 242.38,
-        "price_eur": 222.99,
+        "price_usd": 248.93,
+        "price_eur": 229.02,
         "isHistory": false
       },
       {
@@ -3286,8 +3286,8 @@
       {
         "rank": 2,
         "name": "Elemental Gearbolt Assassin Case",
-        "price_usd": 9294.82,
-        "price_eur": 8551.23,
+        "price_usd": 9291.69,
+        "price_eur": 8548.35,
         "isHistory": false
       },
       {
@@ -3355,16 +3355,16 @@
       },
       {
         "rank": 12,
-        "name": "Silent Hill",
-        "price_usd": 199.6,
-        "price_eur": 183.63,
+        "name": "Valkyrie Profile",
+        "price_usd": 190.12,
+        "price_eur": 174.91,
         "isHistory": false
       },
       {
         "rank": 13,
-        "name": "Valkyrie Profile",
-        "price_usd": 190.12,
-        "price_eur": 174.91,
+        "name": "Silent Hill",
+        "price_usd": 179.99,
+        "price_eur": 165.59,
         "isHistory": false
       },
       {
@@ -3420,14 +3420,14 @@
     "ps2": [
       {
         "rank": 1,
-        "name": "PlayStation 2 System [Yellow Automotive Edition]",
+        "name": "PlayStation 2 System [Blue Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
       },
       {
         "rank": 2,
-        "name": "PlayStation 2 System [Blue Automotive Edition]",
+        "name": "PlayStation 2 System [Yellow Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
@@ -3512,8 +3512,8 @@
       {
         "rank": 14,
         "name": "Haunting Ground",
-        "price_usd": 440.72,
-        "price_eur": 405.46,
+        "price_usd": 457.5,
+        "price_eur": 420.9,
         "isHistory": false
       },
       {
@@ -3590,14 +3590,14 @@
       },
       {
         "rank": 5,
-        "name": "Shin Megami Tensei: Persona 2: Innocent Sin [Limited Edition]",
+        "name": "PSP 3000 Limited Edition Rock Band Version",
         "price_usd": 200,
         "price_eur": 184,
         "isHistory": false
       },
       {
         "rank": 6,
-        "name": "PSP 3000 Limited Edition Rock Band Version",
+        "name": "Shin Megami Tensei: Persona 2: Innocent Sin [Limited Edition]",
         "price_usd": 200,
         "price_eur": 184,
         "isHistory": false
@@ -3654,8 +3654,8 @@
       {
         "rank": 14,
         "name": "PSP 3000 Limited Edition Metal Gear Version [Green]",
-        "price_usd": 161.28,
-        "price_eur": 148.38,
+        "price_usd": 161.29,
+        "price_eur": 148.39,
         "isHistory": false
       },
       {
@@ -3668,8 +3668,8 @@
       {
         "rank": 16,
         "name": "Legend of Heroes: Trails in the Sky [Premium Edition]",
-        "price_usd": 159.35,
-        "price_eur": 146.6,
+        "price_usd": 159.99,
+        "price_eur": 147.19,
         "isHistory": false
       },
       {
@@ -3726,8 +3726,8 @@
       {
         "rank": 4,
         "name": "Motherbase",
-        "price_usd": 218.33,
-        "price_eur": 200.86,
+        "price_usd": 217.33,
+        "price_eur": 199.94,
         "isHistory": false
       },
       {
@@ -3924,8 +3924,8 @@
       {
         "rank": 12,
         "name": "Fire Emblem: Thracia 776",
-        "price_usd": 268,
-        "price_eur": 246.56,
+        "price_usd": 270.73,
+        "price_eur": 249.07,
         "isHistory": false
       },
       {
@@ -3944,44 +3944,44 @@
       },
       {
         "rank": 15,
-        "name": "Yokai Buster",
-        "price_usd": 229.02,
-        "price_eur": 210.7,
-        "isHistory": false
-      },
-      {
-        "rank": 16,
         "name": "Sutte Hakkun",
         "price_usd": 224,
         "price_eur": 206.08,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 16,
         "name": "Hyper Iria",
         "price_usd": 209.99,
         "price_eur": 193.19,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 17,
         "name": "The Amazing Spiderman: Lethal Foes",
         "price_usd": 208.26,
         "price_eur": 191.6,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 18,
         "name": "Undercover Cops",
         "price_usd": 204.21,
         "price_eur": 187.87,
         "isHistory": false
       },
       {
-        "rank": 20,
+        "rank": 19,
         "name": "Deae Tonosama Appare Ichiban",
         "price_usd": 199.99,
         "price_eur": 183.99,
+        "isHistory": false
+      },
+      {
+        "rank": 20,
+        "name": "Super Star Wars: Return of the Jedi",
+        "price_usd": 199,
+        "price_eur": 183.08,
         "isHistory": false
       }
     ],
@@ -3990,8 +3990,8 @@
       {
         "rank": 1,
         "name": "Donkey Kong Country [5-Game Crate]",
-        "price_usd": 1456.42,
-        "price_eur": 1339.91,
+        "price_usd": 1455.99,
+        "price_eur": 1339.51,
         "isHistory": false
       },
       {
@@ -4161,8 +4161,8 @@
       {
         "rank": 5,
         "name": "Spike",
-        "price_usd": 31.11,
-        "price_eur": 28.62,
+        "price_usd": 31.76,
+        "price_eur": 29.22,
         "isHistory": false
       },
       {
@@ -4338,8 +4338,8 @@
       {
         "rank": 10,
         "name": "Virtual Lab [Homebrew]",
-        "price_usd": 179.07,
-        "price_eur": 164.74,
+        "price_usd": 179.13,
+        "price_eur": 164.8,
         "isHistory": false
       },
       {
@@ -4573,8 +4573,8 @@
       {
         "rank": 3,
         "name": "Super Robot Taisen Compact 3",
-        "price_usd": 152.87,
-        "price_eur": 140.64,
+        "price_usd": 152.85,
+        "price_eur": 140.62,
         "isHistory": false
       },
       {
