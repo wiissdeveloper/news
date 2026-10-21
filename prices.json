@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20",
+  "updated": "2026-10-21",
   "systems": {
     "3do": [
       {
@@ -850,8 +850,8 @@
       {
         "rank": 20,
         "name": "Worms",
-        "price_usd": 122.11,
-        "price_eur": 112.34,
+        "price_usd": 122.12,
+        "price_eur": 112.35,
         "isHistory": false
       }
     ],
@@ -880,37 +880,37 @@
       },
       {
         "rank": 4,
+        "name": "Illbleed",
+        "price_usd": 232.24,
+        "price_eur": 213.66,
+        "isHistory": false
+      },
+      {
+        "rank": 5,
         "name": "AirForce Delta [Not For Resale]",
         "price_usd": 230,
         "price_eur": 211.6,
         "isHistory": false
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "Cannon Spike",
         "price_usd": 209.28,
         "price_eur": 192.54,
         "isHistory": false
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "Sega Dreamcast Sports Edition Console",
         "price_usd": 202.17,
         "price_eur": 186,
         "isHistory": false
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "VM2",
         "price_usd": 200,
         "price_eur": 184,
-        "isHistory": false
-      },
-      {
-        "rank": 8,
-        "name": "Illbleed",
-        "price_usd": 196.25,
-        "price_eur": 180.55,
         "isHistory": false
       },
       {
@@ -971,21 +971,21 @@
       },
       {
         "rank": 17,
+        "name": "JoJo's Bizarre Adventure",
+        "price_usd": 112.25,
+        "price_eur": 103.27,
+        "isHistory": false
+      },
+      {
+        "rank": 18,
         "name": "The House of the Dead 2 [Gun Bundle]",
         "price_usd": 105.56,
         "price_eur": 97.12,
         "isHistory": false
       },
       {
-        "rank": 18,
-        "name": "Sega Dreamcast Arcade Stick",
-        "price_usd": 100,
-        "price_eur": 92,
-        "isHistory": false
-      },
-      {
         "rank": 19,
-        "name": "JoJo's Bizarre Adventure",
+        "name": "Sega Dreamcast Arcade Stick",
         "price_usd": 100,
         "price_eur": 92,
         "isHistory": false
@@ -1349,8 +1349,8 @@
       {
         "rank": 10,
         "name": "Analogue Pocket [Indigo Anodized]",
-        "price_usd": 699,
-        "price_eur": 643.08,
+        "price_usd": 691.04,
+        "price_eur": 635.76,
         "isHistory": false
       },
       {
@@ -1404,14 +1404,14 @@
       },
       {
         "rank": 18,
-        "name": "Analogue Pocket [Red]",
+        "name": "Analogue Pocket [Berry]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
       },
       {
         "rank": 19,
-        "name": "Analogue Pocket [Berry]",
+        "name": "Analogue Pocket [Red]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
@@ -2082,8 +2082,8 @@
       {
         "rank": 13,
         "name": "Phantasy Star",
-        "price_usd": 76.15,
-        "price_eur": 70.06,
+        "price_usd": 77.62,
+        "price_eur": 71.41,
         "isHistory": false
       },
       {
@@ -2282,8 +2282,8 @@
       {
         "rank": 1,
         "name": "Zelda Majora's Mask [Adventure Set]",
-        "price_usd": 1742.14,
-        "price_eur": 1602.77,
+        "price_usd": 1742.09,
+        "price_eur": 1602.72,
         "isHistory": false
       },
       {
@@ -2522,23 +2522,23 @@
       },
       {
         "rank": 15,
+        "name": "Pokemon [Legendary Not For Resale Y90E]",
+        "price_usd": 679.52,
+        "price_eur": 625.16,
+        "isHistory": false
+      },
+      {
+        "rank": 16,
         "name": "Nintendo DSi Development Kit [Panda]",
         "price_usd": 655.49,
         "price_eur": 603.05,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 17,
         "name": "Pokemon Legendary Distribution",
         "price_usd": 608.05,
         "price_eur": 559.41,
-        "isHistory": false
-      },
-      {
-        "rank": 17,
-        "name": "Pokemon [Legendary Not For Resale Y90E]",
-        "price_usd": 600.51,
-        "price_eur": 552.47,
         "isHistory": false
       },
       {
@@ -2834,16 +2834,16 @@
       },
       {
         "rank": 19,
-        "name": "Power Blade 2",
-        "price_usd": 1122.33,
-        "price_eur": 1032.54,
+        "name": "Joystick Test Cartridge",
+        "price_usd": 1108.33,
+        "price_eur": 1019.66,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "Joystick Test Cartridge",
-        "price_usd": 1108.33,
-        "price_eur": 1019.66,
+        "name": "Power Blade 2",
+        "price_usd": 1100.73,
+        "price_eur": 1012.67,
         "isHistory": false
       }
     ],
@@ -3071,58 +3071,58 @@
       },
       {
         "rank": 12,
+        "name": "Terra Cresta II",
+        "price_usd": 299.61,
+        "price_eur": 275.64,
+        "isHistory": false
+      },
+      {
+        "rank": 13,
         "name": "Bomberman '93 [Special]",
         "price_usd": 287.68,
         "price_eur": 264.67,
         "isHistory": false
       },
       {
-        "rank": 13,
+        "rank": 14,
         "name": "PC Engine Duo System",
         "price_usd": 285.99,
         "price_eur": 263.11,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 15,
         "name": "PC Engine Duo-R",
         "price_usd": 269.99,
         "price_eur": 248.39,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 16,
         "name": "Gunhed Special Version",
         "price_usd": 249.98,
         "price_eur": 229.98,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 17,
         "name": "Tatsujin",
         "price_usd": 248.93,
         "price_eur": 229.02,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 18,
         "name": "PC Engine Core Grafx Mini",
         "price_usd": 197.6,
         "price_eur": 181.79,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 19,
         "name": "Gekibo: Gekisha Boy",
         "price_usd": 190.9,
         "price_eur": 175.63,
-        "isHistory": false
-      },
-      {
-        "rank": 19,
-        "name": "Terra Cresta II",
-        "price_usd": 189.99,
-        "price_eur": 174.79,
         "isHistory": false
       },
       {
@@ -3356,8 +3356,8 @@
       {
         "rank": 12,
         "name": "Valkyrie Profile",
-        "price_usd": 190.12,
-        "price_eur": 174.91,
+        "price_usd": 212.46,
+        "price_eur": 195.46,
         "isHistory": false
       },
       {
@@ -3420,14 +3420,14 @@
     "ps2": [
       {
         "rank": 1,
-        "name": "PlayStation 2 System [Blue Automotive Edition]",
+        "name": "PlayStation 2 System [Yellow Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
       },
       {
         "rank": 2,
-        "name": "PlayStation 2 System [Yellow Automotive Edition]",
+        "name": "PlayStation 2 System [Blue Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
@@ -3442,8 +3442,8 @@
       {
         "rank": 4,
         "name": "Playstation 2 Development Tool",
-        "price_usd": 1775.56,
-        "price_eur": 1633.52,
+        "price_usd": 1773.61,
+        "price_eur": 1631.72,
         "isHistory": false
       },
       {
@@ -3477,15 +3477,15 @@
       {
         "rank": 9,
         "name": "Kuon",
-        "price_usd": 829.41,
-        "price_eur": 763.06,
+        "price_usd": 805,
+        "price_eur": 740.6,
         "isHistory": false
       },
       {
         "rank": 10,
         "name": "Rule of Rose",
-        "price_usd": 615.14,
-        "price_eur": 565.93,
+        "price_usd": 649.99,
+        "price_eur": 597.99,
         "isHistory": false
       },
       {
@@ -3539,16 +3539,16 @@
       },
       {
         "rank": 18,
-        "name": ".hack Quarantine",
-        "price_usd": 314.97,
-        "price_eur": 289.77,
+        "name": "Playstation 2 Gran Turismo 3 Console Bundle",
+        "price_usd": 299.99,
+        "price_eur": 275.99,
         "isHistory": false
       },
       {
         "rank": 19,
-        "name": "Playstation 2 Gran Turismo 3 Console Bundle",
-        "price_usd": 299.99,
-        "price_eur": 275.99,
+        "name": ".hack Quarantine",
+        "price_usd": 296.12,
+        "price_eur": 272.43,
         "isHistory": false
       },
       {
@@ -3563,8 +3563,8 @@
       {
         "rank": 1,
         "name": "The Hilton Family",
-        "price_usd": 1310.83,
-        "price_eur": 1205.96,
+        "price_usd": 1311.04,
+        "price_eur": 1206.16,
         "isHistory": false
       },
       {
@@ -3590,14 +3590,14 @@
       },
       {
         "rank": 5,
-        "name": "PSP 3000 Limited Edition Rock Band Version",
+        "name": "Shin Megami Tensei: Persona 2: Innocent Sin [Limited Edition]",
         "price_usd": 200,
         "price_eur": 184,
         "isHistory": false
       },
       {
         "rank": 6,
-        "name": "Shin Megami Tensei: Persona 2: Innocent Sin [Limited Edition]",
+        "name": "PSP 3000 Limited Edition Rock Band Version",
         "price_usd": 200,
         "price_eur": 184,
         "isHistory": false
@@ -4053,8 +4053,8 @@
       {
         "rank": 10,
         "name": "Knights of the Round",
-        "price_usd": 251.33,
-        "price_eur": 231.22,
+        "price_usd": 250.31,
+        "price_eur": 230.29,
         "isHistory": false
       },
       {
@@ -4088,8 +4088,8 @@
       {
         "rank": 15,
         "name": "Captain Commando",
-        "price_usd": 208,
-        "price_eur": 191.36,
+        "price_usd": 208.81,
+        "price_eur": 192.11,
         "isHistory": false
       },
       {
@@ -4146,30 +4146,30 @@
       },
       {
         "rank": 3,
+        "name": "Berzerk",
+        "price_usd": 33.03,
+        "price_eur": 30.39,
+        "isHistory": false
+      },
+      {
+        "rank": 4,
         "name": "Fortress Of Narzod",
         "price_usd": 32.93,
         "price_eur": 30.3,
         "isHistory": false
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "Blitz",
         "price_usd": 32.78,
         "price_eur": 30.16,
         "isHistory": false
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "Spike",
         "price_usd": 31.76,
         "price_eur": 29.22,
-        "isHistory": false
-      },
-      {
-        "rank": 6,
-        "name": "Berzerk",
-        "price_usd": 30.31,
-        "price_eur": 27.89,
         "isHistory": false
       },
       {
