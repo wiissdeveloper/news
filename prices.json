@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21",
+  "updated": "2026-10-22",
   "systems": {
     "3do": [
       {
@@ -170,8 +170,8 @@
       {
         "rank": 4,
         "name": "Eli's Ladder",
-        "price_usd": 1511.43,
-        "price_eur": 1390.52,
+        "price_usd": 1510.99,
+        "price_eur": 1390.11,
         "isHistory": false
       },
       {
@@ -423,9 +423,9 @@
       },
       {
         "rank": 20,
-        "name": "Midnight Mutants",
-        "price_usd": 110,
-        "price_eur": 101.2,
+        "name": "Commando",
+        "price_usd": 112.76,
+        "price_eur": 103.74,
         "isHistory": false
       }
     ],
@@ -895,8 +895,8 @@
       {
         "rank": 6,
         "name": "Cannon Spike",
-        "price_usd": 209.28,
-        "price_eur": 192.54,
+        "price_usd": 209.08,
+        "price_eur": 192.35,
         "isHistory": false
       },
       {
@@ -957,16 +957,16 @@
       },
       {
         "rank": 15,
-        "name": "Code Breaker",
-        "price_usd": 129.99,
-        "price_eur": 119.59,
+        "name": "NEO XYX",
+        "price_usd": 127,
+        "price_eur": 116.84,
         "isHistory": false
       },
       {
         "rank": 16,
-        "name": "NEO XYX",
-        "price_usd": 127,
-        "price_eur": 116.84,
+        "name": "Code Breaker",
+        "price_usd": 119.99,
+        "price_eur": 110.39,
         "isHistory": false
       },
       {
@@ -1206,14 +1206,14 @@
       },
       {
         "rank": 10,
-        "name": "Makaimura [Box Cart]",
+        "name": "Bubble Bobble 2",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
       },
       {
         "rank": 11,
-        "name": "Bubble Bobble 2",
+        "name": "Makaimura [Box Cart]",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
@@ -1286,8 +1286,8 @@
       {
         "rank": 1,
         "name": "Gold Nintendo Power 100 Gameboy Pocket",
-        "price_usd": 1639.03,
-        "price_eur": 1507.91,
+        "price_usd": 1639.52,
+        "price_eur": 1508.36,
         "isHistory": false
       },
       {
@@ -1356,8 +1356,8 @@
       {
         "rank": 11,
         "name": "Amazing Tater",
-        "price_usd": 677.66,
-        "price_eur": 623.45,
+        "price_usd": 679.1,
+        "price_eur": 624.77,
         "isHistory": false
       },
       {
@@ -1519,8 +1519,8 @@
       {
         "rank": 14,
         "name": "Gameboy Advance Console & E-Reader Bundle",
-        "price_usd": 388.92,
-        "price_eur": 357.81,
+        "price_usd": 391.22,
+        "price_eur": 359.92,
         "isHistory": false
       },
       {
@@ -1539,14 +1539,14 @@
       },
       {
         "rank": 17,
-        "name": "Drill Dozer [Not for Resale]",
+        "name": "Gameboy Advance SP [Groudon Edition]",
         "price_usd": 300,
         "price_eur": 276,
         "isHistory": false
       },
       {
         "rank": 18,
-        "name": "Gameboy Advance SP [Groudon Edition]",
+        "name": "Drill Dozer [Not for Resale]",
         "price_usd": 300,
         "price_eur": 276,
         "isHistory": false
@@ -1675,8 +1675,8 @@
       {
         "rank": 16,
         "name": "Survival Kids",
-        "price_usd": 169.99,
-        "price_eur": 156.39,
+        "price_usd": 169.6,
+        "price_eur": 156.03,
         "isHistory": false
       },
       {
@@ -1689,8 +1689,8 @@
       {
         "rank": 18,
         "name": "Pokemon Crystal",
-        "price_usd": 156.41,
-        "price_eur": 143.9,
+        "price_usd": 155,
+        "price_eur": 142.6,
         "isHistory": false
       },
       {
@@ -1816,16 +1816,16 @@
       },
       {
         "rank": 16,
-        "name": "Arena Maze of Death",
-        "price_usd": 50.41,
-        "price_eur": 46.38,
+        "name": "Shining Force Sword of Hajya",
+        "price_usd": 52.77,
+        "price_eur": 48.55,
         "isHistory": false
       },
       {
         "rank": 17,
-        "name": "Shining Force Sword of Hajya",
-        "price_usd": 49.5,
-        "price_eur": 45.54,
+        "name": "Arena Maze of Death",
+        "price_usd": 50.41,
+        "price_eur": 46.38,
         "isHistory": false
       },
       {
@@ -1861,8 +1861,8 @@
       {
         "rank": 2,
         "name": "Outback Joey",
-        "price_usd": 3503.08,
-        "price_eur": 3222.83,
+        "price_usd": 3502.22,
+        "price_eur": 3222.04,
         "isHistory": false
       },
       {
@@ -2338,8 +2338,8 @@
       {
         "rank": 9,
         "name": "San Francisco Rush 2049",
-        "price_usd": 279.68,
-        "price_eur": 257.31,
+        "price_usd": 276.39,
+        "price_eur": 254.28,
         "isHistory": false
       },
       {
@@ -2895,8 +2895,8 @@
       {
         "rank": 7,
         "name": "The Last Blade",
-        "price_usd": 97.96,
-        "price_eur": 90.12,
+        "price_usd": 99.3,
+        "price_eur": 91.36,
         "isHistory": false
       },
       {
@@ -2995,8 +2995,8 @@
       {
         "rank": 1,
         "name": "PC Engine LT",
-        "price_usd": 2469.18,
-        "price_eur": 2271.65,
+        "price_usd": 1990,
+        "price_eur": 1830.8,
         "isHistory": false
       },
       {
@@ -3030,8 +3030,8 @@
       {
         "rank": 6,
         "name": "SuperGrafx Console",
-        "price_usd": 472.98,
-        "price_eur": 435.14,
+        "price_usd": 469.14,
+        "price_eur": 431.61,
         "isHistory": false
       },
       {
@@ -3341,14 +3341,14 @@
       },
       {
         "rank": 10,
-        "name": "PSOne Slim Console with LCD Screen Combo",
+        "name": "Shadow Tower",
         "price_usd": 225,
         "price_eur": 207,
         "isHistory": false
       },
       {
         "rank": 11,
-        "name": "Shadow Tower",
+        "name": "PSOne Slim Console with LCD Screen Combo",
         "price_usd": 225,
         "price_eur": 207,
         "isHistory": false
@@ -3420,14 +3420,14 @@
     "ps2": [
       {
         "rank": 1,
-        "name": "PlayStation 2 System [Yellow Automotive Edition]",
+        "name": "PlayStation 2 System [Blue Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
       },
       {
         "rank": 2,
-        "name": "PlayStation 2 System [Blue Automotive Edition]",
+        "name": "PlayStation 2 System [Yellow Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
@@ -3435,8 +3435,8 @@
       {
         "rank": 3,
         "name": "PlayStation 2 Debugging Station",
-        "price_usd": 1933.38,
-        "price_eur": 1778.71,
+        "price_usd": 1935.12,
+        "price_eur": 1780.31,
         "isHistory": false
       },
       {
@@ -3462,16 +3462,16 @@
       },
       {
         "rank": 7,
-        "name": "Sony Bravia [KDL-22PX300]",
-        "price_usd": 1273.67,
-        "price_eur": 1171.78,
+        "name": "50 Cent Bulletproof [Promotional Miniature Vest]",
+        "price_usd": 1085.53,
+        "price_eur": 998.69,
         "isHistory": false
       },
       {
         "rank": 8,
-        "name": "50 Cent Bulletproof [Promotional Miniature Vest]",
-        "price_usd": 1085.53,
-        "price_eur": 998.69,
+        "name": "Sony Bravia [KDL-22PX300]",
+        "price_usd": 994.3,
+        "price_eur": 914.76,
         "isHistory": false
       },
       {
@@ -3996,135 +3996,135 @@
       },
       {
         "rank": 2,
+        "name": "Donkey Kong Country 2: Diddy's Kong Quest [Pirate Pak]",
+        "price_usd": 1264.14,
+        "price_eur": 1163.01,
+        "isHistory": false
+      },
+      {
+        "rank": 3,
         "name": "Mega Man X3",
         "price_usd": 609.21,
         "price_eur": 560.47,
         "isHistory": false
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "Starwing Competition",
         "price_usd": 445.82,
         "price_eur": 410.15,
         "isHistory": false
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "Super Nintendo [Super Mario 5 Stars Pack]",
         "price_usd": 406.89,
         "price_eur": 374.34,
         "isHistory": false
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "Donkey Kong Country Crate",
         "price_usd": 399.49,
         "price_eur": 367.53,
         "isHistory": false
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "Super Nintendo System [Mario All-Stars Set]",
         "price_usd": 339.28,
         "price_eur": 312.14,
         "isHistory": false
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "Battlestation II",
         "price_usd": 286.35,
         "price_eur": 263.44,
         "isHistory": false
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "X-Zone",
         "price_usd": 263.14,
         "price_eur": 242.09,
         "isHistory": false
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "Daze Before Christmas",
         "price_usd": 255.41,
         "price_eur": 234.98,
         "isHistory": false
       },
       {
-        "rank": 10,
+        "rank": 11,
         "name": "Knights of the Round",
         "price_usd": 250.31,
         "price_eur": 230.29,
         "isHistory": false
       },
       {
-        "rank": 11,
+        "rank": 12,
         "name": "The Firemen",
         "price_usd": 243.22,
         "price_eur": 223.76,
         "isHistory": false
       },
       {
-        "rank": 12,
+        "rank": 13,
         "name": "Final Fight 3",
         "price_usd": 234.36,
         "price_eur": 215.61,
         "isHistory": false
       },
       {
-        "rank": 13,
+        "rank": 14,
         "name": "Super Chase HQ",
         "price_usd": 228.36,
         "price_eur": 210.09,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 15,
         "name": "Demon's Crest",
         "price_usd": 213.88,
         "price_eur": 196.77,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 16,
         "name": "Captain Commando",
         "price_usd": 208.81,
         "price_eur": 192.11,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 17,
         "name": "Cool World",
         "price_usd": 205.55,
         "price_eur": 189.11,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 18,
         "name": "Castlevania: Vampire's Kiss",
         "price_usd": 205.2,
         "price_eur": 188.78,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 19,
         "name": "Hagane The Final Conflict",
         "price_usd": 205,
         "price_eur": 188.6,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 20,
         "name": "Aero the Acro-Bat 2",
         "price_usd": 196.65,
         "price_eur": 180.92,
-        "isHistory": false
-      },
-      {
-        "rank": 20,
-        "name": "Whirlo",
-        "price_usd": 196.63,
-        "price_eur": 180.9,
         "isHistory": false
       }
     ],
@@ -4175,8 +4175,8 @@
       {
         "rank": 7,
         "name": "Solar Quest",
-        "price_usd": 23.98,
-        "price_eur": 22.06,
+        "price_usd": 23.95,
+        "price_eur": 22.03,
         "isHistory": false
       },
       {
@@ -4245,8 +4245,8 @@
       {
         "rank": 17,
         "name": "Flipper Pinball",
-        "price_usd": 16.65,
-        "price_eur": 15.32,
+        "price_usd": 16.76,
+        "price_eur": 15.42,
         "isHistory": false
       },
       {
@@ -4671,8 +4671,8 @@
       {
         "rank": 17,
         "name": "Wonder Swan Color",
-        "price_usd": 80.75,
-        "price_eur": 74.29,
+        "price_usd": 80.22,
+        "price_eur": 73.8,
         "isHistory": false
       },
       {
