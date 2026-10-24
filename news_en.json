@@ -1,6 +1,78 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "notices": [
+    {
+      "guid": "https://gamerant.com/monopoly-go-champions-reign-rewards-and-milestones/",
+      "title": "Monopoly GO Champion's Reign Rewards and Milestones",
+      "link": "https://gamerant.com/monopoly-go-champions-reign-rewards-and-milestones/",
+      "pubDate": "Fri, 23 Oct 2026 23:07:41 GMT",
+      "contentSnippet": "The Champion's Reign Monopoly GO event features a lot of Monster Mash tokens, dice, and other rewards. Here's everything you can earn.",
+      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/untitled-design-3.jpg"
+    },
+    {
+      "guid": "3oLMhWLxR4sUFv6ayUZ43g",
+      "title": " Why private equity acquisitions like the one that just claimed BioWare are so dreaded ",
+      "link": "https://www.pcgamer.com/gaming-industry/why-private-equity-acquisitions-like-the-one-that-just-claimed-bioware-are-so-dreaded/",
+      "pubDate": "Fri, 23 Oct 2026 22:46:50 +0000",
+      "contentSnippet": "BioWare is just the latest casualty in a long history of private equity carnage.",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/VcinT8UXinhzfqDjA8Wi2F-1920-80.png"
+    },
+    {
+      "guid": "https://gamerant.com/zelda-ocarina-of-time-remake-open-world-games/",
+      "title": "7 Open-World Masterpieces That Show What Zelda: Ocarina of Time Remake Could Have Been, Ranked",
+      "link": "https://gamerant.com/zelda-ocarina-of-time-remake-open-world-games/",
+      "pubDate": "Fri, 23 Oct 2026 22:45:16 GMT",
+      "contentSnippet": "Seven open-world masterpieces show how Ocarina of Time Remake could have reimagined Hyrule without losing what made the original special.",
+      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/mashup-of-elden-ring-the-elder-scrolls-5-skyrim-and-the-legend-of-zelda-ocarina-of-time-remake-death-mountain.jpg"
+    },
+    {
+      "guid": "https://gamerant.com/free-games-right-now-castlevania/",
+      "title": "Gamers Have Until October 23 to Claim Konami Game Completely Free of Charge",
+      "link": "https://gamerant.com/free-games-right-now-castlevania/",
+      "pubDate": "Fri, 23 Oct 2026 22:32:11 GMT",
+      "contentSnippet": "Gamers only have a limited amount of time remaining, until October 23, to claim a classic Konami game completely free of charge.",
+      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/konami-logo-over-blurred-background.jpg"
+    },
+    {
+      "guid": "https://gamerant.com/steam-free-games-promotion-october-radiant-exodus/",
+      "title": "9/10 Survival FPS Game on Steam Is Free to Keep for a Limited Time",
+      "link": "https://gamerant.com/steam-free-games-promotion-october-radiant-exodus/",
+      "pubDate": "Fri, 23 Oct 2026 22:30:17 GMT",
+      "contentSnippet": "Steam users can benefit from a time-limited offer to add a highly rated first-person shooter game to their libraries at no additional cost.",
+      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/10/steam-free-games-october-radiant-exodus-gamerant.jpg"
+    },
+    {
+      "guid": "FKrNvv6r9HpLVttFajQKKf",
+      "title": " Based on player data, Capcom's pretty happy with the difficulty level of Onimusha: Way of the Sword: 'We think it's hit the right spot' ",
+      "link": "https://www.pcgamer.com/games/action/based-on-player-data-capcoms-pretty-happy-with-the-difficulty-level-of-onimusha-way-of-the-sword-we-think-its-hit-the-right-spot/",
+      "pubDate": "Fri, 23 Oct 2026 21:43:44 +0000",
+      "contentSnippet": "Too easy, too hard, or just right?",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/m9jozBeHDcZQTCMZLJkNLd-1920-80.png"
+    },
+    {
+      "guid": "jSPN9ofbdnFeDsLFA99i86",
+      "title": " It's our new daily game fixation and we all stink at it: Can you guess how much used cars cost? ",
+      "link": "https://www.pcgamer.com/games/puzzle/its-our-new-daily-game-fixation-and-we-all-stink-at-it-can-you-guess-how-much-used-cars-cost/",
+      "pubDate": "Fri, 23 Oct 2026 19:37:16 +0000",
+      "contentSnippet": "Like Wordle, but it's about pricing used cars.",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/CkSRofcVfRDVfyHuKaQrYi-1920-80.jpg"
+    },
+    {
+      "guid": "748ycdMz8xzSo7KqmtWPjR",
+      "title": " Creative Assembly exec pins the blame for the Shogun 2 remaster mess on someone else: 'This was not a Creative Assembly developed game' ",
+      "link": "https://www.pcgamer.com/games/strategy/creative-assembly-exec-pins-the-blame-for-the-shogun-2-remaster-mess-on-someone-else-this-was-not-a-creative-assembly-developed-game/",
+      "pubDate": "Fri, 23 Oct 2026 19:35:17 +0000",
+      "contentSnippet": "Roger Collum says Creative Assembly was \"focused on our next big projects,\" and didn't pay enough attention to the work being done by an \"external developer.\"",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/RHZVhJS7mGHS2pRTD7rBsk-1920-80.jpg"
+    },
+    {
+      "guid": "biGG8zuUYjUQviUCNND5uc",
+      "title": " 'I'm forever grateful to BioWare': 16 game developers share the moment a BioWare game inspired them to join the industry ",
+      "link": "https://www.pcgamer.com/gaming-industry/im-forever-grateful-to-bioware-16-game-developers-share-the-moment-a-bioware-game-inspired-them-to-join-the-industry/",
+      "pubDate": "Fri, 23 Oct 2026 17:56:29 +0000",
+      "contentSnippet": "BioWare was the catalyst for a generation of game development careers.",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/5bSRVE6nkVSLTztwHnEjg6-1920-80.jpg"
+    },
     {
       "guid": "2LZABHaMmMRLLFS7VB4b7Q",
       "title": " Abyssal Lapidary is making the social media rounds and I can confirm cutting gemstones is just as satisfying as it looks ",
@@ -18,84 +90,12 @@
       "thumbnail": "https://cdn.mos.cms.futurecdn.net/qdwbNhnYukyfzRi4GZNyGD-1920-80.jpg"
     },
     {
-      "guid": "https://gamerant.com/mass-effect-5-universe-story-geth-leak/",
-      "title": "Mass Effect 5 Story Details Leaked Online",
-      "link": "https://gamerant.com/mass-effect-5-universe-story-geth-leak/",
-      "pubDate": "Fri, 23 Oct 2026 16:25:18 GMT",
-      "contentSnippet": "A content creator allegedly involved in the development of Mass Effect Universe speaks up about the game.",
-      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/mass_effect_geth_3840x2160.jpg"
-    },
-    {
       "guid": "Zo5jWoHG99RpL75Bywmk4N",
       "title": " AMD says the re-release of the Ryzen 7 5800X3D was 'like a final gift to our loyal [AM4] users' and it was CEO Dr. Lisa Su who first came up with the idea ",
       "link": "https://www.pcgamer.com/hardware/processors/amd-says-the-re-release-of-the-ryzen-7-5800x3d-was-like-a-final-gift-to-our-loyal-am4-users-and-it-was-ceo-dr-lisa-su-who-first-came-up-with-the-idea/",
       "pubDate": "Fri, 23 Oct 2026 16:11:07 +0000",
       "contentSnippet": "It timed itself rather nicely with the deepening memory crisis, too.",
       "thumbnail": "https://cdn.mos.cms.futurecdn.net/94RkNNoBUmy3PmPVpQQR2d-1920-80.jpg"
-    },
-    {
-      "guid": "https://gamerant.com/lego-dc-comics-67011-daily-planet-2027-set-details-leak/",
-      "title": "Iconic DC Comics Location Finally Getting LEGO Treatment in 2027",
-      "link": "https://gamerant.com/lego-dc-comics-67011-daily-planet-2027-set-details-leak/",
-      "pubDate": "Fri, 23 Oct 2026 16:00:17 GMT",
-      "contentSnippet": "A new rumor from a credible source points to LEGO expanding its superhero lineup with one of DC Comics' most recognizable locations in 2027.",
-      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/lego-superman-minifigure-next-to-lego-logo.jpg"
-    },
-    {
-      "guid": "https://gamerant.com/stupid-never-dies-all-boss-fights/",
-      "title": "All Bosses in Stupid Never Dies",
-      "link": "https://gamerant.com/stupid-never-dies-all-boss-fights/",
-      "pubDate": "Fri, 23 Oct 2026 15:48:02 GMT",
-      "contentSnippet": "Found out more about every boss fight you will encounter in Stupid Never Dies, along with tips to beat each one.",
-      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/stupid-never-dies-all-bosses.jpg"
-    },
-    {
-      "guid": "https://gamerant.com/david-gaider-dragon-age-bioware-closure/",
-      "title": "David Gaider Addresses BioWare Closure",
-      "link": "https://gamerant.com/david-gaider-dragon-age-bioware-closure/",
-      "pubDate": "Fri, 23 Oct 2026 15:00:17 GMT",
-      "contentSnippet": "The lead writer of the Dragon Age trilogy, David Gaider, weighs in on EA's recent closure of the BioWare game studio, and shares some memories.",
-      "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/dragon-age-inquisition-cassandra.jpg"
-    },
-    {
-      "guid": "pCDMPdvNNq86PAfzofnyzF",
-      "title": " In a rare instance of good news, Philips has announced the world's first 36-inch, 260 Hz gaming monitor. So that's nice ",
-      "link": "https://www.pcgamer.com/hardware/gaming-monitors/in-a-rare-instance-of-good-news-philips-has-announced-the-worlds-first-36-inch-260-hz-gaming-monitor-so-thats-nice/",
-      "pubDate": "Fri, 23 Oct 2026 14:55:41 +0000",
-      "contentSnippet": "Let's all look upon it with wonder.",
-      "thumbnail": "https://cdn.mos.cms.futurecdn.net/zkJfqJuJFshsSF7f9nfBba-1920-80.jpg"
-    },
-    {
-      "guid": "szrTr7EiFwCkvz2VRjmkeZ",
-      "title": " LG UltraGear Evo 52G930B Evo gaming monitor review ",
-      "link": "https://www.pcgamer.com/hardware/gaming-monitors/lg-ultragear-evo-52g930b-review/",
-      "pubDate": "Fri, 23 Oct 2026 14:31:50 +0000",
-      "contentSnippet": "LG's new 52-inch ultrawide 5K2K monster monitor is surprisingly old school.",
-      "thumbnail": "https://cdn.mos.cms.futurecdn.net/UvxifFiGG6tWy5R9jXnv8E-1920-80.jpg"
-    },
-    {
-      "guid": "XhutYN95iVo6wgEMe82ecY",
-      "title": " Asus ROG Rapture GT-BN98 router review ",
-      "link": "https://www.pcgamer.com/hardware/networking/asus-rog-rapture-gt-bn98-review/",
-      "pubDate": "Fri, 23 Oct 2026 09:53:57 +0000",
-      "contentSnippet": "Asus delivers the first Wi-Fi 8 router.",
-      "thumbnail": "https://cdn.mos.cms.futurecdn.net/vXHNRot9UMxVM2PJRxBi4j-1920-80.jpg"
-    },
-    {
-      "guid": "BDyTaQPdCdggekvid2fbVX",
-      "title": " A public outing of severe and unfixed Linux kernel vulnerabilities should have you thinking of updating your SteamOS or other distros to beta branches ",
-      "link": "https://www.pcgamer.com/hardware/a-public-outing-of-severe-and-unfixed-linux-kernel-vulnerabilities-should-have-you-thinking-of-updating-your-steamos-or-other-distros-to-beta-branches/",
-      "pubDate": "Fri, 23 Oct 2026 09:26:40 +0000",
-      "contentSnippet": "The accidental reveal of unpatched vulnerabilities as high as 9 on the CVSS score chart is a little worrisome.",
-      "thumbnail": "https://cdn.mos.cms.futurecdn.net/7EimC87J9aoLbZEbfWBX9H-1920-80.jpg"
-    },
-    {
-      "guid": "Sj2Ra9wjGDMhnbXcutoLec",
-      "title": " My GOTY is $7 and has 253 Steam reviews ",
-      "link": "https://www.pcgamer.com/games/racing/my-goty-is-usd7-and-has-253-steam-reviews/",
-      "pubDate": "Thu, 22 Oct 2026 22:29:10 +0000",
-      "contentSnippet": "Stuntboost is a racing game for FPS movement sickos.",
-      "thumbnail": "https://cdn.mos.cms.futurecdn.net/Vo86zsDQwNRKRhdfHbVscG-1920-80.jpg"
     }
   ]
 }
