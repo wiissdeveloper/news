@@ -1,6 +1,46 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "notices": [
+    {
+      "guid": "https://www.hobbyconsolas.com/branded/protege-movil-game_7053381_5.html",
+      "title": "\n         No importa dónde lo compraste: protege tu móvil en GAME \n    ",
+      "link": "https://www.hobbyconsolas.com/branded/protege-movil-game_7053381_5.html",
+      "pubDate": "Tue, 27 Oct 2026 05:00:00 +0100",
+      "contentSnippet": "GAME ofrece la protección de móviles, dispositivos, consolas o periféricos, independientemente de dónde y cuándo los hayas adquirido. Y, además, acumulando puntos para tus próximas compras.",
+      "thumbnail": "https://imagenes.hobbyconsolas.com/files/image_1920_1080/uploads/imagenes/2026/10/26/6adf370d7d60e3-52764545.jpeg"
+    },
+    {
+      "guid": "https://www.hobbyconsolas.com/videojuegos/nintendo-tiene-una-clausula-para-impedir-que-los-juegos-nintendo-switch-2-tarjeta-llave-tengan-ediciones-con-cartuchos-verdad-segun-una-conocida-tienda_7053714_0.html",
+      "title": "\n         Nintendo tiene una cláusula para impedir que los juegos de Nintendo Switch 2 en tarjeta llave tengan ediciones con cartuchos \"de verdad\", según una conocida tienda \n    ",
+      "link": "https://www.hobbyconsolas.com/videojuegos/nintendo-tiene-una-clausula-para-impedir-que-los-juegos-nintendo-switch-2-tarjeta-llave-tengan-ediciones-con-cartuchos-verdad-segun-una-conocida-tienda_7053714_0.html",
+      "pubDate": "Mon, 26 Oct 2026 21:55:43 +0100",
+      "contentSnippet": "Un mandato de Nintendo impide que los títulos de Switch 2 en formato Key-Card salgan a la venta en versiones de cartucho que incluyan el juego en su interior.",
+      "thumbnail": "https://imagenes.hobbyconsolas.com/files/image_1920_1080/uploads/imagenes/2026/10/26/6adfbe3a303c93-33842420.jpeg"
+    },
+    {
+      "guid": "https://www.hobbyconsolas.com/videojuegos/analisis-end-of-abyss-un-interesante-cruce-entre-dead-space-little-nightmares_7053663_0.html",
+      "title": "\n         Análisis de End of Abyss, un interesante cruce entre Dead Space y Little Nightmares \n    ",
+      "link": "https://www.hobbyconsolas.com/videojuegos/analisis-end-of-abyss-un-interesante-cruce-entre-dead-space-little-nightmares_7053663_0.html",
+      "pubDate": "Mon, 26 Oct 2026 20:01:57 +0100",
+      "contentSnippet": "Análisis y opinión de End of Abyss, la aventura de ciencia ficción que bebe de clásicos como Dead Space, pero con el sello de veteranos de Tarsier Games.",
+      "thumbnail": "https://imagenes.hobbyconsolas.com/files/image_1920_1080/uploads/imagenes/2026/10/26/6adf961487cd25-95375989.jpeg"
+    },
+    {
+      "guid": "https://www.hobbyconsolas.com/videojuegos/sony-atiende-con-urgencia-una-vulnerabilidad-playstation-network-que-permite-los-hackers-explotar-las-cuentas-familiares_7053669_0.html",
+      "title": "\n         Sony atiende con urgencia una vulnerabilidad de PlayStation Network que permite a los hackers explotar las cuentas familiares \n    ",
+      "link": "https://www.hobbyconsolas.com/videojuegos/sony-atiende-con-urgencia-una-vulnerabilidad-playstation-network-que-permite-los-hackers-explotar-las-cuentas-familiares_7053669_0.html",
+      "pubDate": "Mon, 26 Oct 2026 19:45:00 +0100",
+      "contentSnippet": "Un nuevo hackeo afecta a PS5 y PS4, por medio de las cuentas familiares de Sony y un exploit que permite a los hackers añadirse como miembros infantiles.",
+      "thumbnail": "https://imagenes.hobbyconsolas.com/files/image_1920_1080/uploads/imagenes/2026/10/26/6adf9c108e32b0-69950786.jpeg"
+    },
+    {
+      "guid": "https://www.hobbyconsolas.com/videojuegos/assassin-s-creed-black-flag-resynced-detalla-las-novedades-su-ultima-gran-actualizacion-con-nuevo-juego-dificultad-pesadilla-nuevas-animaciones-mucho-mas_7053653_0.html",
+      "title": "\n         Assassin's Creed Black Flag Resynced detalla las novedades de su última gran actualización con nuevo juego+, dificultad Pesadilla, nuevas animaciones y mucho más \n    ",
+      "link": "https://www.hobbyconsolas.com/videojuegos/assassin-s-creed-black-flag-resynced-detalla-las-novedades-su-ultima-gran-actualizacion-con-nuevo-juego-dificultad-pesadilla-nuevas-animaciones-mucho-mas_7053653_0.html",
+      "pubDate": "Mon, 26 Oct 2026 19:30:00 +0100",
+      "contentSnippet": "Ubisoft anuncia las novedades detalladas de la actualización 1.0.8 de Assassin's Creed Black Flag Resynced, que agrega nuevo juego+, dificultad Pesadilla, nuevas animaciones y ejecuciones, easter eggs, recompensas y mucho más.",
+      "thumbnail": "https://imagenes.hobbyconsolas.com/files/image_1920_1080/uploads/imagenes/2026/10/26/6adf9354403ca9-00589266.jpeg"
+    },
     {
       "guid": "vandal/noticias/2026299033",
       "title": "Problemas en Steam: múltiples usuarios informan de que un extraño error les impide acceder a sus cuentas",
@@ -8,14 +48,6 @@
       "pubDate": "Mon, 26 Oct 2026 17:38:00 GMT",
       "contentSnippet": "Un gran número de jugadores de Steam están informando de que no logran conectarse con sus cuentas, aunque el servicio sigue operativo.\nMúltiples usuarios están informando de que están sufriendo diversos problemas con Steam, los cuáles han persistido desde hace unas horas y están evitando que puedan conectarse con sus cuentas y, por lo tanto, comprar y descargar juegos.\n\nUn misterioso error\n\nEl problema se da cuando al intentar conectarnos a Steam con nuestra cuenta aparece una pantalla en la que nos indican que se están cargando nuestros datos de usuarios. Lamentablemente, una vez aparece este mensaje, los jugadores no logran avanzar y se quedan eternamente esperando.\n\nLo más extraño es que el servicio parece funcionar con normalidad y estar operativo, pero en páginas como Down Detector y Reddit los jugadores siguen informando de que no logran acceder a sus cuentas. Algunos de ellos han indicado que han podido arreglarlo cerrando la aplicación de Steam cuando sucede el error y volviéndolo a abrir como administrador, aunque esta solución no está funcionando a todo el mundo.\n\nProblem logging in to Steam\n by\nu/Tobikri99 in\nsteamsupport\n\nDe igual modo, también hay numerosos usuarios que pueden acceder a sus cuentas con total normalidad y sin problemas de ningún tipo, por lo que se desconoce qué es exactamente lo que está provocando este molesto fallo. Eso sí, algunos jugadores creen que podría estar relacionado con las compras y descargas de los juegos, aunque no deja de ser mera especulación.\nEn estos momentos, Valve no se ha pronunciado al respecto. En el caso de que haya alguna actualización oficial sobre este problema que está dejando hoy a muchos jugadores sin poder disfrutar de su biblioteca de juegos, os lo haremos saber tan pronto como se haga pública.",
       "thumbnail": "https://media.vandal.net/m/10-2026/26/2026102618375547_1.jpg"
-    },
-    {
-      "guid": "https://www.hobbyconsolas.com/videojuegos/sucker-punch-despide-26-empleados-como-parte-una-reestructuracion-interna-pesar-exito-ghost-of-yotei-ps5_7053637_0.html",
-      "title": "\n         Sucker Punch despide a 26 empleados como parte de una reestructuración interna, a pesar del éxito de Ghost of Yotei en PS5 \n    ",
-      "link": "https://www.hobbyconsolas.com/videojuegos/sucker-punch-despide-26-empleados-como-parte-una-reestructuracion-interna-pesar-exito-ghost-of-yotei-ps5_7053637_0.html",
-      "pubDate": "Mon, 26 Oct 2026 18:31:07 +0100",
-      "contentSnippet": "Los creadores de Ghost of Yotei anuncian que 26 trabajadores serán despedidos, fruto de una reestructuración interna sobre la que tendremos más detalles la próxima semana.",
-      "thumbnail": "https://imagenes.hobbyconsolas.com/files/image_1920_1080/uploads/imagenes/2026/10/26/6adf8b75b3a187-00539410.jpeg"
     },
     {
       "guid": "https://www.hobbyconsolas.com/videojuegos/un-nuevo-nostalgico-anuncio-switch-2-da-primer-vistazo-ocarina-of-time-remake-modo-portatil_7053630_0.html",
@@ -42,30 +74,6 @@
       "thumbnail": "https://imagenes.hobbyconsolas.com/files/image_1920_1080/uploads/imagenes/2026/10/26/6adf75a8c55c54-45333688.jpeg"
     },
     {
-      "guid": "https://www.hobbyconsolas.com/videojuegos/konami-impone-ley-silencio-los-estudios-silent-hill-para-evitar-que-se-copien-entre-si-posibles-influencias_7053599_0.html",
-      "title": "\n         Konami impone la ley del silencio a los estudios de Silent Hill, para evitar que se copien entre sí o posibles influencias \n    ",
-      "link": "https://www.hobbyconsolas.com/videojuegos/konami-impone-ley-silencio-los-estudios-silent-hill-para-evitar-que-se-copien-entre-si-posibles-influencias_7053599_0.html",
-      "pubDate": "Mon, 26 Oct 2026 17:33:07 +0100",
-      "contentSnippet": "Con el fin de que los estudios encargados de Silent Hill no “cojan prestadas” ideas de sus juegos, Konami dictamina un secretismo absoluto en cada proyecto.",
-      "thumbnail": "https://imagenes.hobbyconsolas.com/files/image_1920_1080/uploads/imagenes/2026/10/26/6adf7fec926668-84848531.jpeg"
-    },
-    {
-      "guid": "https://www.hobbyconsolas.com/videojuegos/marketing-gta-6-se-estrena-espana-con-clasico-entre-barcelona-real-madrid-juego-rockstar-estuvo-presente-camp-nou_7053583_0.html",
-      "title": "\n         El marketing de GTA 6 se estrena en España con el Clásico entre el Barcelona y el Real Madrid: el juego de Rockstar estuvo presente en el Camp Nou \n    ",
-      "link": "https://www.hobbyconsolas.com/videojuegos/marketing-gta-6-se-estrena-espana-con-clasico-entre-barcelona-real-madrid-juego-rockstar-estuvo-presente-camp-nou_7053583_0.html",
-      "pubDate": "Mon, 26 Oct 2026 17:30:00 +0100",
-      "contentSnippet": "Rockstar acordó con LaLiga que el panel de GTA 6 apareciera en el Camp Nou, en pleno partido entre el Barcelona y el Real Madrid, como estreno del marketing del juego en nuestro país.",
-      "thumbnail": "https://imagenes.hobbyconsolas.com/files/image_1920_1080/uploads/imagenes/2026/10/26/6adf776e36e311-05338788.jpeg"
-    },
-    {
-      "guid": "https://www.hobbyconsolas.com/videojuegos/cyberpunk-2077-registra-un-nuevo-pico-usuarios-con-actualizacion-2-5-steam-un-directivo-cd-projekt-pide-mas-opiniones-para-seguir-mejorando-juego_7053558_0.html",
-      "title": "\n         Cyberpunk 2077 registra un nuevo pico de usuarios con la actualización 2.5 en Steam, y un directivo de CD Projekt pide más opiniones para seguir mejorando el juego \n    ",
-      "link": "https://www.hobbyconsolas.com/videojuegos/cyberpunk-2077-registra-un-nuevo-pico-usuarios-con-actualizacion-2-5-steam-un-directivo-cd-projekt-pide-mas-opiniones-para-seguir-mejorando-juego_7053558_0.html",
-      "pubDate": "Mon, 26 Oct 2026 16:45:00 +0100",
-      "contentSnippet": "Cyberpunk 2077 alcanza un nuevo pico de jugadores simultáneos en Steam con el lanzamiento de la actualización 2.5, mientras el directivo Pawel Sasko pide a los fans que contribuyan al feedback para mejorar el RPG.",
-      "thumbnail": "https://imagenes.hobbyconsolas.com/files/image_1920_1080/uploads/imagenes/2026/10/26/6adf71753f7af9-43802718.jpeg"
-    },
-    {
       "guid": "vandal/noticias/2026299028",
       "title": "Steam inaugura para todos los jugadores una de sus funciones más esperadas tras un año en pruebas",
       "link": "https://vandal.elespanol.com/noticia/2026299028/steam-inaugura-para-todos-los-jugadores-una-de-sus-funciones-mas-esperadas-tras-un-ano-en-pruebas/",
@@ -88,14 +96,6 @@
       "pubDate": "Mon, 26 Oct 2026 12:26:00 GMT",
       "contentSnippet": "Un partido político pide que se ayude a la salvación de BioWare, el estudio de Mass Effect y Dragon Age, que será cerrado por los nuevos dueños de Electronic Arts.\nEl cierre de BioWare ha provocado un gran impacto en los fans de Mass Effect y Dragon Age, y hay iniciativas para salvar el nuevo juego. La noticia también ha tenido su protagonismo en la política de Canadá.\nBioWare, con sede en Edmonton, estaba desarrollando un nuevo Mass Effect del que se ha filtrado un nuevo tráiler. Cuando Electronic Arts fue adquirida por un fondo de inversores el temor al cierre se extendió por el estudio especializado en juegos de rol -sus juegos de la última década han fracasado en el mercado- y se terminó por hacer oficial durante la semana pasada.\n\nLos nuevos propietarios de Electronic Arts tienen claras sus prioridades: apoyar las sagas deportivas de más éxito y recuperar algunas, pero eso deja en una posición difícil a las desarrolladoras de juegos para un jugador.\n\nUn político canadiense quiere salvar a BioWare\n\n\"Esto es el capital riesgo. Esto es lo que hace: comprar empresas, llevarlas a la ruina y desmantelarlas para obtener beneficios a corto plazo\", ha denunciado Avi Lewis, líder del partido New Democratic Party, que sugiere que los empleados deberían adquirir el estudio \"con apoyo federal\". Pese a los fracasos recientes, BioWare es un icono de la industria y referente de muchos otros estudios modernos dedicados al rol.\n\"Los desarrolladores de BioWare saben cómo gestionar el estudio. Saben cómo crear los juegos que a todos nos encantan. Debería dárseles la primera oportunidad, y el apoyo federal, para comprarlo y dirigirlo ellos mismos\", ha comentado en Bluesky.\n\nThe developers at BioWare know how to run the studio. They know how to make the games we all love. They should be given the first opportunity - and the federal support - to buy it and run it themselves.— Avi Lewis (@avilewis.ca) 21 de octubre de 2026 a las 22:55\n\nEl cierre de BioWare no es la única noticia tras hacerse efectiva la compra: se despide a 400 empleados de diversos equipos como Maxis, Full Circle o Respawn. Periodistas, analistas y exdesarrolladores de BioWare daban por seguro que este estudio sería de los primeros afectados por los recortes de la nueva directiva, un consorcio formado por PIF -el Fondo de Inversión Pública de Arabia Saudí-, Silver Lake y Affinity Partners.",
       "thumbnail": "https://media.vandal.net/m/10-2025/1/202510192674_1.jpg"
-    },
-    {
-      "guid": "https://www.hobbyconsolas.com/videojuegos/red-dead-redemption-2-cumple-hoy-8-anos-desde-su-lanzamiento-para-muchos-sigue-siendo-gran-obra-maestra-rockstar_7053355_0.html",
-      "title": "\n         Red Dead Redemption 2 cumple hoy 8 años desde su lanzamiento, y para muchos sigue siendo la gran obra maestra de Rockstar \n    ",
-      "link": "https://www.hobbyconsolas.com/videojuegos/red-dead-redemption-2-cumple-hoy-8-anos-desde-su-lanzamiento-para-muchos-sigue-siendo-gran-obra-maestra-rockstar_7053355_0.html",
-      "pubDate": "Mon, 26 Oct 2026 12:30:00 +0100",
-      "contentSnippet": "El estreno de Red Dead Redemption 2 en 2018 marcó un antes y un después en el historial gaming de Rockstar, puesto que muchos lo siguen recordando como su gran obra maestra.",
-      "thumbnail": "https://imagenes.hobbyconsolas.com/files/image_1920_1080/uploads/imagenes/2023/04/25/69017b1cde14d.jpeg"
     }
   ]
 }
