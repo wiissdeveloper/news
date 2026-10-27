@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26",
+  "updated": "2026-10-27",
   "systems": {
     "3do": [
       {
@@ -47,8 +47,8 @@
       {
         "rank": 7,
         "name": "3DO FZ-1 Console",
-        "price_usd": 268.41,
-        "price_eur": 246.94,
+        "price_usd": 269.43,
+        "price_eur": 247.88,
         "isHistory": false
       },
       {
@@ -417,8 +417,8 @@
       {
         "rank": 19,
         "name": "Klax [Homebrew]",
-        "price_usd": 119.23,
-        "price_eur": 109.69,
+        "price_usd": 119.01,
+        "price_eur": 109.49,
         "isHistory": false
       },
       {
@@ -752,8 +752,8 @@
       {
         "rank": 6,
         "name": "Atari Karts",
-        "price_usd": 211.92,
-        "price_eur": 194.97,
+        "price_usd": 211.7,
+        "price_eur": 194.76,
         "isHistory": false
       },
       {
@@ -902,8 +902,8 @@
       {
         "rank": 7,
         "name": "Cannon Spike",
-        "price_usd": 209.08,
-        "price_eur": 192.35,
+        "price_usd": 208.98,
+        "price_eur": 192.26,
         "isHistory": false
       },
       {
@@ -1064,16 +1064,16 @@
       },
       {
         "rank": 10,
-        "name": "Battle City [Homebrew]",
-        "price_usd": 50,
-        "price_eur": 46,
+        "name": "Metroid",
+        "price_usd": 52.24,
+        "price_eur": 48.06,
         "isHistory": false
       },
       {
         "rank": 11,
-        "name": "Metroid",
-        "price_usd": 47.44,
-        "price_eur": 43.64,
+        "name": "Battle City [Homebrew]",
+        "price_usd": 50,
+        "price_eur": 46,
         "isHistory": false
       },
       {
@@ -1128,8 +1128,8 @@
       {
         "rank": 19,
         "name": "Dracula II",
-        "price_usd": 39.88,
-        "price_eur": 36.69,
+        "price_usd": 39.94,
+        "price_eur": 36.74,
         "isHistory": false
       },
       {
@@ -1185,16 +1185,16 @@
       },
       {
         "rank": 7,
-        "name": "Twin Famicom AN-505",
-        "price_usd": 302.23,
-        "price_eur": 278.05,
+        "name": "Captain Saver",
+        "price_usd": 299,
+        "price_eur": 275.08,
         "isHistory": false
       },
       {
         "rank": 8,
-        "name": "Captain Saver",
-        "price_usd": 299,
-        "price_eur": 275.08,
+        "name": "Twin Famicom AN-505",
+        "price_usd": 292.85,
+        "price_eur": 269.42,
         "isHistory": false
       },
       {
@@ -1206,14 +1206,14 @@
       },
       {
         "rank": 10,
-        "name": "Bubble Bobble 2",
+        "name": "Makaimura [Box Cart]",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
       },
       {
         "rank": 11,
-        "name": "Makaimura [Box Cart]",
+        "name": "Bubble Bobble 2",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
@@ -1334,14 +1334,14 @@
       },
       {
         "rank": 8,
-        "name": "Analogue Pocket [Black Anodized]",
+        "name": "Analogue Pocket [Supreme Red]",
         "price_usd": 700,
         "price_eur": 644,
         "isHistory": false
       },
       {
         "rank": 9,
-        "name": "Analogue Pocket [Supreme Red]",
+        "name": "Analogue Pocket [Black Anodized]",
         "price_usd": 700,
         "price_eur": 644,
         "isHistory": false
@@ -1404,14 +1404,14 @@
       },
       {
         "rank": 18,
-        "name": "Analogue Pocket [Red]",
+        "name": "Analogue Pocket [Berry]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
       },
       {
         "rank": 19,
-        "name": "Analogue Pocket [Berry]",
+        "name": "Analogue Pocket [Red]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
@@ -1462,16 +1462,16 @@
       },
       {
         "rank": 6,
-        "name": "Visteon Gameboy Advance Console",
-        "price_usd": 806.07,
-        "price_eur": 741.58,
+        "name": "Disney Channel Gameboy Advance SP",
+        "price_usd": 800,
+        "price_eur": 736,
         "isHistory": false
       },
       {
         "rank": 7,
-        "name": "Disney Channel Gameboy Advance SP",
-        "price_usd": 800,
-        "price_eur": 736,
+        "name": "Visteon Gameboy Advance Console",
+        "price_usd": 798.56,
+        "price_eur": 734.68,
         "isHistory": false
       },
       {
@@ -1689,8 +1689,8 @@
       {
         "rank": 18,
         "name": "Pokemon Crystal",
-        "price_usd": 159.55,
-        "price_eur": 146.79,
+        "price_usd": 159.48,
+        "price_eur": 146.72,
         "isHistory": false
       },
       {
@@ -1796,8 +1796,8 @@
       {
         "rank": 13,
         "name": "Defenders of Oasis",
-        "price_usd": 58.12,
-        "price_eur": 53.47,
+        "price_usd": 57.13,
+        "price_eur": 52.56,
         "isHistory": false
       },
       {
@@ -2467,8 +2467,8 @@
       {
         "rank": 7,
         "name": "Pokemon [Not for Resale Deoxys]",
-        "price_usd": 1920.21,
-        "price_eur": 1766.59,
+        "price_usd": 1919.75,
+        "price_eur": 1766.17,
         "isHistory": false
       },
       {
@@ -2551,8 +2551,8 @@
       {
         "rank": 19,
         "name": "Pokemon Meloetta Distribution Cartridge",
-        "price_usd": 301.28,
-        "price_eur": 277.18,
+        "price_usd": 301.43,
+        "price_eur": 277.32,
         "isHistory": false
       },
       {
@@ -3137,8 +3137,8 @@
       {
         "rank": 1,
         "name": "Chip Chan Kick",
-        "price_usd": 334.62,
-        "price_eur": 307.85,
+        "price_usd": 336.06,
+        "price_eur": 309.18,
         "isHistory": false
       },
       {
@@ -3390,30 +3390,30 @@
       },
       {
         "rank": 17,
-        "name": "Klonoa Door to Phantomile",
-        "price_usd": 157.87,
-        "price_eur": 145.24,
-        "isHistory": false
-      },
-      {
-        "rank": 18,
         "name": "Batman Forever Arcade",
         "price_usd": 156,
         "price_eur": 143.52,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 18,
         "name": "Xenogears [Greatest Hits]",
         "price_usd": 155.48,
         "price_eur": 143.04,
         "isHistory": false
       },
       {
-        "rank": 20,
+        "rank": 19,
         "name": "Elemental Gearbolt",
         "price_usd": 150.64,
         "price_eur": 138.59,
+        "isHistory": false
+      },
+      {
+        "rank": 20,
+        "name": "Lunar 2 Eternal Blue Complete [Collector's Edition]",
+        "price_usd": 150,
+        "price_eur": 138,
         "isHistory": false
       }
     ],
@@ -3597,14 +3597,14 @@
       },
       {
         "rank": 6,
-        "name": "PSP 3000 Limited Edition Rock Band Version",
+        "name": "Shin Megami Tensei: Persona 2: Innocent Sin [Limited Edition]",
         "price_usd": 200,
         "price_eur": 184,
         "isHistory": false
       },
       {
         "rank": 7,
-        "name": "Shin Megami Tensei: Persona 2: Innocent Sin [Limited Edition]",
+        "name": "PSP 3000 Limited Edition Rock Band Version",
         "price_usd": 200,
         "price_eur": 184,
         "isHistory": false
@@ -4259,8 +4259,8 @@
       {
         "rank": 19,
         "name": "Clean Sweep",
-        "price_usd": 14.28,
-        "price_eur": 13.14,
+        "price_usd": 14.34,
+        "price_eur": 13.19,
         "isHistory": false
       },
       {
@@ -4330,16 +4330,16 @@
       },
       {
         "rank": 9,
-        "name": "Bound High",
-        "price_usd": 179.41,
-        "price_eur": 165.06,
+        "name": "Virtual Lab [Homebrew]",
+        "price_usd": 179.13,
+        "price_eur": 164.8,
         "isHistory": false
       },
       {
         "rank": 10,
-        "name": "Virtual Lab [Homebrew]",
-        "price_usd": 179.13,
-        "price_eur": 164.8,
+        "name": "Bound High",
+        "price_usd": 178.65,
+        "price_eur": 164.36,
         "isHistory": false
       },
       {
