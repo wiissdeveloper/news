@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27",
+  "updated": "2026-10-28",
   "systems": {
     "3do": [
       {
@@ -75,8 +75,8 @@
       {
         "rank": 11,
         "name": "Panasonic 3DO FZ-1",
-        "price_usd": 211.46,
-        "price_eur": 194.54,
+        "price_usd": 207.5,
+        "price_eur": 190.9,
         "isHistory": false
       },
       {
@@ -474,23 +474,23 @@
       },
       {
         "rank": 7,
-        "name": "Atari 410 Program Recorder",
-        "price_usd": 147.63,
-        "price_eur": 135.82,
-        "isHistory": false
-      },
-      {
-        "rank": 8,
         "name": "Crystal Castles",
         "price_usd": 145,
         "price_eur": 133.4,
         "isHistory": false
       },
       {
-        "rank": 9,
+        "rank": 8,
         "name": "Atari 400 Computer System",
         "price_usd": 144.98,
         "price_eur": 133.38,
+        "isHistory": false
+      },
+      {
+        "rank": 9,
+        "name": "Atari 410 Program Recorder",
+        "price_usd": 143.08,
+        "price_eur": 131.63,
         "isHistory": false
       },
       {
@@ -673,8 +673,8 @@
       {
         "rank": 15,
         "name": "Battlezone 2000",
-        "price_usd": 75.46,
-        "price_eur": 69.42,
+        "price_usd": 75.56,
+        "price_eur": 69.52,
         "isHistory": false
       },
       {
@@ -708,8 +708,8 @@
       {
         "rank": 20,
         "name": "Desert Strike",
-        "price_usd": 62.47,
-        "price_eur": 57.47,
+        "price_usd": 65.72,
+        "price_eur": 60.46,
         "isHistory": false
       }
     ],
@@ -1058,8 +1058,8 @@
       {
         "rank": 9,
         "name": "Omoikkiri Tanteidan Haado Gumi",
-        "price_usd": 58,
-        "price_eur": 53.36,
+        "price_usd": 57.84,
+        "price_eur": 53.21,
         "isHistory": false
       },
       {
@@ -1121,8 +1121,8 @@
       {
         "rank": 18,
         "name": "BurgerTime",
-        "price_usd": 40.13,
-        "price_eur": 36.92,
+        "price_usd": 40.08,
+        "price_eur": 36.87,
         "isHistory": false
       },
       {
@@ -1533,8 +1533,8 @@
       {
         "rank": 16,
         "name": "Car Battler Joe",
-        "price_usd": 301.02,
-        "price_eur": 276.94,
+        "price_usd": 300.25,
+        "price_eur": 276.23,
         "isHistory": false
       },
       {
@@ -2040,8 +2040,8 @@
       {
         "rank": 7,
         "name": "Master Everdrive",
-        "price_usd": 112.37,
-        "price_eur": 103.38,
+        "price_usd": 112.53,
+        "price_eur": 103.53,
         "isHistory": false
       },
       {
@@ -2054,8 +2054,8 @@
       {
         "rank": 9,
         "name": "Master EverDrive X7",
-        "price_usd": 105.24,
-        "price_eur": 96.82,
+        "price_usd": 104.81,
+        "price_eur": 96.43,
         "isHistory": false
       },
       {
@@ -2259,8 +2259,8 @@
       {
         "rank": 18,
         "name": "Flink",
-        "price_usd": 110.96,
-        "price_eur": 102.08,
+        "price_usd": 110.77,
+        "price_eur": 101.91,
         "isHistory": false
       },
       {
@@ -2432,8 +2432,8 @@
       {
         "rank": 2,
         "name": "Zelda Twilight Princess [Preview Trailer]",
-        "price_usd": 2673.65,
-        "price_eur": 2459.76,
+        "price_usd": 2672.29,
+        "price_eur": 2458.51,
         "isHistory": false
       },
       {
@@ -2509,8 +2509,8 @@
       {
         "rank": 13,
         "name": "Pokemon [Not for Resale Secret Egg]",
-        "price_usd": 822.49,
-        "price_eur": 756.69,
+        "price_usd": 821.73,
+        "price_eur": 755.99,
         "isHistory": false
       },
       {
@@ -2665,22 +2665,22 @@
       {
         "rank": 15,
         "name": "SVC Chaos",
-        "price_usd": 1337.94,
-        "price_eur": 1230.9,
+        "price_usd": 1325.42,
+        "price_eur": 1219.39,
         "isHistory": false
       },
       {
         "rank": 16,
-        "name": "Vengeance Hunters [Special Edition]",
-        "price_usd": 1099,
-        "price_eur": 1011.08,
+        "name": "Matrimelee",
+        "price_usd": 1075,
+        "price_eur": 989,
         "isHistory": false
       },
       {
         "rank": 17,
-        "name": "Matrimelee",
-        "price_usd": 1075,
-        "price_eur": 989,
+        "name": "Savage Reign",
+        "price_usd": 1000,
+        "price_eur": 920,
         "isHistory": false
       },
       {
@@ -2692,16 +2692,16 @@
       },
       {
         "rank": 19,
-        "name": "Savage Reign",
-        "price_usd": 1000,
-        "price_eur": 920,
+        "name": "Neo Geo System",
+        "price_usd": 983.73,
+        "price_eur": 905.03,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "Neo Geo System",
-        "price_usd": 983.73,
-        "price_eur": 905.03,
+        "name": "Last Hope: Pink Bullets",
+        "price_usd": 900,
+        "price_eur": 828,
         "isHistory": false
       }
     ],
@@ -2821,8 +2821,8 @@
       {
         "rank": 17,
         "name": "Analogue NT Mini Noir",
-        "price_usd": 1150,
-        "price_eur": 1058,
+        "price_usd": 1156.25,
+        "price_eur": 1063.75,
         "isHistory": false
       },
       {
@@ -3044,8 +3044,8 @@
       {
         "rank": 8,
         "name": "PC Engine Duo-RX",
-        "price_usd": 448.62,
-        "price_eur": 412.73,
+        "price_usd": 449.31,
+        "price_eur": 413.37,
         "isHistory": false
       },
       {
@@ -3144,8 +3144,8 @@
       {
         "rank": 2,
         "name": "NEC PC-FX Console",
-        "price_usd": 303.9,
-        "price_eur": 279.59,
+        "price_usd": 302.82,
+        "price_eur": 278.59,
         "isHistory": false
       },
       {
@@ -3221,8 +3221,8 @@
       {
         "rank": 13,
         "name": "Der Langrisser FX",
-        "price_usd": 100.36,
-        "price_eur": 92.33,
+        "price_usd": 100.4,
+        "price_eur": 92.37,
         "isHistory": false
       },
       {
@@ -3341,16 +3341,16 @@
       },
       {
         "rank": 10,
-        "name": "Clock Tower 2",
-        "price_usd": 232.01,
-        "price_eur": 213.45,
+        "name": "Koudelka",
+        "price_usd": 232.8,
+        "price_eur": 214.18,
         "isHistory": false
       },
       {
         "rank": 11,
-        "name": "Koudelka",
-        "price_usd": 231.6,
-        "price_eur": 213.07,
+        "name": "Clock Tower 2",
+        "price_usd": 232.01,
+        "price_eur": 213.45,
         "isHistory": false
       },
       {
@@ -3363,15 +3363,15 @@
       {
         "rank": 13,
         "name": "Silent Hill",
-        "price_usd": 180,
-        "price_eur": 165.6,
+        "price_usd": 187.91,
+        "price_eur": 172.88,
         "isHistory": false
       },
       {
         "rank": 14,
         "name": "PSOne LCD Screen",
-        "price_usd": 179.28,
-        "price_eur": 164.94,
+        "price_usd": 178.9,
+        "price_eur": 164.59,
         "isHistory": false
       },
       {
@@ -3484,8 +3484,8 @@
       {
         "rank": 10,
         "name": "Rule of Rose",
-        "price_usd": 681.21,
-        "price_eur": 626.71,
+        "price_usd": 695.16,
+        "price_eur": 639.55,
         "isHistory": false
       },
       {
@@ -3689,8 +3689,8 @@
       {
         "rank": 19,
         "name": "PSP 3000 Bright Yellow",
-        "price_usd": 144.85,
-        "price_eur": 133.26,
+        "price_usd": 144.9,
+        "price_eur": 133.31,
         "isHistory": false
       },
       {
@@ -3823,16 +3823,16 @@
       },
       {
         "rank": 18,
-        "name": "Toughman Contest",
-        "price_usd": 51.31,
-        "price_eur": 47.21,
+        "name": "Metal Head",
+        "price_usd": 50.49,
+        "price_eur": 46.45,
         "isHistory": false
       },
       {
         "rank": 19,
-        "name": "Metal Head",
-        "price_usd": 50.49,
-        "price_eur": 46.45,
+        "name": "Toughman Contest",
+        "price_usd": 49.48,
+        "price_eur": 45.52,
         "isHistory": false
       },
       {
@@ -4115,16 +4115,16 @@
       },
       {
         "rank": 19,
-        "name": "Aero the Acro-Bat 2",
-        "price_usd": 196.65,
-        "price_eur": 180.92,
+        "name": "Whirlo",
+        "price_usd": 196.63,
+        "price_eur": 180.9,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "Whirlo",
-        "price_usd": 196.63,
-        "price_eur": 180.9,
+        "name": "Aero the Acro-Bat 2",
+        "price_usd": 196.52,
+        "price_eur": 180.8,
         "isHistory": false
       }
     ],
@@ -4296,8 +4296,8 @@
       {
         "rank": 4,
         "name": "Virtual Boy System",
-        "price_usd": 398.65,
-        "price_eur": 366.76,
+        "price_usd": 398.68,
+        "price_eur": 366.79,
         "isHistory": false
       },
       {
@@ -4379,16 +4379,16 @@
       },
       {
         "rank": 16,
-        "name": "Virtual Bowling [Homebrew]",
-        "price_usd": 109.99,
-        "price_eur": 101.19,
+        "name": "Virtual Boy Controller",
+        "price_usd": 110,
+        "price_eur": 101.2,
         "isHistory": false
       },
       {
         "rank": 17,
-        "name": "Virtual Boy Controller",
-        "price_usd": 99.99,
-        "price_eur": 91.99,
+        "name": "Virtual Bowling [Homebrew]",
+        "price_usd": 109.99,
+        "price_eur": 101.19,
         "isHistory": false
       },
       {
@@ -4507,14 +4507,14 @@
       },
       {
         "rank": 14,
-        "name": "Cho Aniki: Otoko no Tamafuda",
+        "name": "WonderSwan Skeleton Green",
         "price_usd": 75,
         "price_eur": 69,
         "isHistory": false
       },
       {
         "rank": 15,
-        "name": "WonderSwan Skeleton Green",
+        "name": "Cho Aniki: Otoko no Tamafuda",
         "price_usd": 75,
         "price_eur": 69,
         "isHistory": false
@@ -4642,16 +4642,16 @@
       },
       {
         "rank": 13,
-        "name": "WonderSwan Color [Final Fantasy Edition]",
-        "price_usd": 92.45,
-        "price_eur": 85.05,
+        "name": "WonderSwan Color Crystal Orange",
+        "price_usd": 94.35,
+        "price_eur": 86.8,
         "isHistory": false
       },
       {
         "rank": 14,
-        "name": "WonderSwan Color Crystal Orange",
-        "price_usd": 92.37,
-        "price_eur": 84.98,
+        "name": "WonderSwan Color [Final Fantasy Edition]",
+        "price_usd": 92.45,
+        "price_eur": 85.05,
         "isHistory": false
       },
       {
@@ -4678,8 +4678,8 @@
       {
         "rank": 18,
         "name": "Mr. Driller",
-        "price_usd": 76.01,
-        "price_eur": 69.93,
+        "price_usd": 76.07,
+        "price_eur": 69.98,
         "isHistory": false
       },
       {
@@ -4833,9 +4833,9 @@
       },
       {
         "rank": 20,
-        "name": "Captain Dynamo",
-        "price_usd": 61.98,
-        "price_eur": 57.02,
+        "name": "Deus Ex Machina",
+        "price_usd": 62.33,
+        "price_eur": 57.34,
         "isHistory": false
       }
     ]
