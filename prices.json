@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "systems": {
     "3do": [
       {
@@ -67,30 +67,30 @@
       },
       {
         "rank": 10,
-        "name": "Endlessly",
-        "price_usd": 219.5,
-        "price_eur": 201.94,
-        "isHistory": false
-      },
-      {
-        "rank": 11,
         "name": "Panasonic 3DO FZ-1",
         "price_usd": 207.5,
         "price_eur": 190.9,
         "isHistory": false
       },
       {
-        "rank": 12,
+        "rank": 11,
         "name": "3DO Console",
         "price_usd": 200,
         "price_eur": 184,
         "isHistory": false
       },
       {
-        "rank": 13,
+        "rank": 12,
         "name": "The Eye of Typhoon: Anniversary Edition",
         "price_usd": 166.03,
         "price_eur": 152.75,
+        "isHistory": false
+      },
+      {
+        "rank": 13,
+        "name": "Endlessly",
+        "price_usd": 150,
+        "price_eur": 138,
         "isHistory": false
       },
       {
@@ -212,8 +212,8 @@
       {
         "rank": 10,
         "name": "Out of Control",
-        "price_usd": 600.28,
-        "price_eur": 552.26,
+        "price_usd": 600.14,
+        "price_eur": 552.13,
         "isHistory": false
       },
       {
@@ -254,8 +254,8 @@
       {
         "rank": 16,
         "name": "The Music Machine",
-        "price_usd": 375.46,
-        "price_eur": 345.42,
+        "price_usd": 376.52,
+        "price_eur": 346.4,
         "isHistory": false
       },
       {
@@ -298,8 +298,8 @@
       {
         "rank": 2,
         "name": "Scramble [Homebrew]",
-        "price_usd": 449.19,
-        "price_eur": 413.25,
+        "price_usd": 447.93,
+        "price_eur": 412.1,
         "isHistory": false
       },
       {
@@ -361,8 +361,8 @@
       {
         "rank": 11,
         "name": "K.C. Munchkin [Homebrew]",
-        "price_usd": 160.93,
-        "price_eur": 148.06,
+        "price_usd": 161.14,
+        "price_eur": 148.25,
         "isHistory": false
       },
       {
@@ -474,16 +474,16 @@
       },
       {
         "rank": 7,
-        "name": "Crystal Castles",
-        "price_usd": 145,
-        "price_eur": 133.4,
+        "name": "Atari 400 Computer System",
+        "price_usd": 144.98,
+        "price_eur": 133.38,
         "isHistory": false
       },
       {
         "rank": 8,
-        "name": "Atari 400 Computer System",
-        "price_usd": 144.98,
-        "price_eur": 133.38,
+        "name": "Crystal Castles",
+        "price_usd": 144.55,
+        "price_eur": 132.99,
         "isHistory": false
       },
       {
@@ -828,16 +828,16 @@
       },
       {
         "rank": 17,
-        "name": "Black Lamp",
-        "price_usd": 141.92,
-        "price_eur": 130.57,
+        "name": "Jag Zombies",
+        "price_usd": 141.98,
+        "price_eur": 130.62,
         "isHistory": false
       },
       {
         "rank": 18,
-        "name": "Jag Zombies",
-        "price_usd": 141.01,
-        "price_eur": 129.73,
+        "name": "Black Lamp",
+        "price_usd": 141.92,
+        "price_eur": 130.57,
         "isHistory": false
       },
       {
@@ -936,23 +936,23 @@
       },
       {
         "rank": 12,
-        "name": "Sega Dreamcast Console",
-        "price_usd": 139.82,
-        "price_eur": 128.63,
-        "isHistory": false
-      },
-      {
-        "rank": 13,
         "name": "Sega Dreamcast Broadband Adapter",
         "price_usd": 139.48,
         "price_eur": 128.32,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 13,
         "name": "Giga Wing 2",
         "price_usd": 135.12,
         "price_eur": 124.31,
+        "isHistory": false
+      },
+      {
+        "rank": 14,
+        "name": "Sega Dreamcast Console",
+        "price_usd": 130,
+        "price_eur": 119.6,
         "isHistory": false
       },
       {
@@ -1029,23 +1029,23 @@
       },
       {
         "rank": 5,
-        "name": "Famicom Disk System Console",
-        "price_usd": 86.39,
-        "price_eur": 79.48,
-        "isHistory": false
-      },
-      {
-        "rank": 6,
         "name": "Janken Disk Jo",
         "price_usd": 84.99,
         "price_eur": 78.19,
         "isHistory": false
       },
       {
-        "rank": 7,
+        "rank": 6,
         "name": "Roger Rabbit",
         "price_usd": 78.58,
         "price_eur": 72.29,
+        "isHistory": false
+      },
+      {
+        "rank": 7,
+        "name": "Famicom Disk System Console",
+        "price_usd": 77.5,
+        "price_eur": 71.3,
         "isHistory": false
       },
       {
@@ -1206,14 +1206,14 @@
       },
       {
         "rank": 10,
-        "name": "Makaimura [Box Cart]",
+        "name": "Bubble Bobble 2",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
       },
       {
         "rank": 11,
-        "name": "Bubble Bobble 2",
+        "name": "Makaimura [Box Cart]",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
@@ -1404,14 +1404,14 @@
       },
       {
         "rank": 18,
-        "name": "Analogue Pocket [Berry]",
+        "name": "Analogue Pocket [Red]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
       },
       {
         "rank": 19,
-        "name": "Analogue Pocket [Red]",
+        "name": "Analogue Pocket [Berry]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
@@ -1539,14 +1539,14 @@
       },
       {
         "rank": 17,
-        "name": "Drill Dozer [Not for Resale]",
+        "name": "Gameboy Advance SP [Groudon Edition]",
         "price_usd": 300,
         "price_eur": 276,
         "isHistory": false
       },
       {
         "rank": 18,
-        "name": "Gameboy Advance SP [Groudon Edition]",
+        "name": "Drill Dozer [Not for Resale]",
         "price_usd": 300,
         "price_eur": 276,
         "isHistory": false
@@ -1570,8 +1570,8 @@
       {
         "rank": 1,
         "name": "ModRetro Chromatic [Auduril]",
-        "price_usd": 877.61,
-        "price_eur": 807.4,
+        "price_usd": 1100,
+        "price_eur": 1012,
         "isHistory": false
       },
       {
@@ -1782,8 +1782,8 @@
       {
         "rank": 11,
         "name": "Cosmic Spacehead",
-        "price_usd": 76.18,
-        "price_eur": 70.09,
+        "price_usd": 76.03,
+        "price_eur": 69.95,
         "isHistory": false
       },
       {
@@ -1938,8 +1938,8 @@
       {
         "rank": 13,
         "name": "MUSHA",
-        "price_usd": 349.58,
-        "price_eur": 321.61,
+        "price_usd": 346.72,
+        "price_eur": 318.98,
         "isHistory": false
       },
       {
@@ -2296,8 +2296,8 @@
       {
         "rank": 3,
         "name": "Nintendo 64 007 Goldeneye Value Pack",
-        "price_usd": 730.49,
-        "price_eur": 672.05,
+        "price_usd": 726.46,
+        "price_eur": 668.34,
         "isHistory": false
       },
       {
@@ -2359,8 +2359,8 @@
       {
         "rank": 12,
         "name": "Nintendo 64 Fire Orange",
-        "price_usd": 225.24,
-        "price_eur": 207.22,
+        "price_usd": 224.89,
+        "price_eur": 206.9,
         "isHistory": false
       },
       {
@@ -2379,16 +2379,16 @@
       },
       {
         "rank": 15,
-        "name": "Nintendo 64 Watermelon Red",
-        "price_usd": 188.56,
-        "price_eur": 173.48,
+        "name": "Zelda Ocarina Of Time [Special Edition]",
+        "price_usd": 193.96,
+        "price_eur": 178.44,
         "isHistory": false
       },
       {
         "rank": 16,
-        "name": "Zelda Ocarina Of Time [Special Edition]",
-        "price_usd": 179.62,
-        "price_eur": 165.25,
+        "name": "Nintendo 64 Watermelon Red",
+        "price_usd": 188.56,
+        "price_eur": 173.48,
         "isHistory": false
       },
       {
@@ -2431,16 +2431,16 @@
       },
       {
         "rank": 2,
-        "name": "Zelda Twilight Princess [Preview Trailer]",
-        "price_usd": 2672.29,
-        "price_eur": 2458.51,
+        "name": "Pokemon [Not for Resale Regigigas and Shaymin]",
+        "price_usd": 2684.38,
+        "price_eur": 2469.63,
         "isHistory": false
       },
       {
         "rank": 3,
-        "name": "Pokemon [Not for Resale Regigigas and Shaymin]",
-        "price_usd": 2546.21,
-        "price_eur": 2342.51,
+        "name": "Zelda Twilight Princess [Preview Trailer]",
+        "price_usd": 2672.29,
+        "price_eur": 2458.51,
         "isHistory": false
       },
       {
@@ -2516,8 +2516,8 @@
       {
         "rank": 14,
         "name": "Seattle Mariners Nintendo DS Lite",
-        "price_usd": 711.13,
-        "price_eur": 654.24,
+        "price_usd": 691.33,
+        "price_eur": 636.02,
         "isHistory": false
       },
       {
@@ -2644,8 +2644,8 @@
       {
         "rank": 12,
         "name": "Metal Slug 4",
-        "price_usd": 1767.44,
-        "price_eur": 1626.04,
+        "price_usd": 1758.03,
+        "price_eur": 1617.39,
         "isHistory": false
       },
       {
@@ -3420,14 +3420,14 @@
     "ps2": [
       {
         "rank": 1,
-        "name": "PlayStation 2 System [Yellow Automotive Edition]",
+        "name": "PlayStation 2 System [Blue Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
       },
       {
         "rank": 2,
-        "name": "PlayStation 2 System [Blue Automotive Edition]",
+        "name": "PlayStation 2 System [Yellow Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
@@ -3449,8 +3449,8 @@
       {
         "rank": 5,
         "name": "PlayStation 2 System [White Automotive Edition]",
-        "price_usd": 1682.56,
-        "price_eur": 1547.96,
+        "price_usd": 1679.97,
+        "price_eur": 1545.57,
         "isHistory": false
       },
       {
@@ -3512,8 +3512,8 @@
       {
         "rank": 14,
         "name": "Haunting Ground",
-        "price_usd": 441.05,
-        "price_eur": 405.77,
+        "price_usd": 446.2,
+        "price_eur": 410.5,
         "isHistory": false
       },
       {
@@ -3817,8 +3817,8 @@
       {
         "rank": 17,
         "name": "WWF Raw",
-        "price_usd": 54.24,
-        "price_eur": 49.9,
+        "price_usd": 54.06,
+        "price_eur": 49.74,
         "isHistory": false
       },
       {
@@ -4067,8 +4067,8 @@
       {
         "rank": 12,
         "name": "The Firemen",
-        "price_usd": 243.22,
-        "price_eur": 223.76,
+        "price_usd": 242.81,
+        "price_eur": 223.39,
         "isHistory": false
       },
       {
@@ -4359,8 +4359,8 @@
       {
         "rank": 13,
         "name": "Flashboy+",
-        "price_usd": 148.31,
-        "price_eur": 136.45,
+        "price_usd": 148.61,
+        "price_eur": 136.72,
         "isHistory": false
       },
       {
@@ -4685,8 +4685,8 @@
       {
         "rank": 19,
         "name": "Gunpey Ex",
-        "price_usd": 73.37,
-        "price_eur": 67.5,
+        "price_usd": 73.28,
+        "price_eur": 67.42,
         "isHistory": false
       },
       {
