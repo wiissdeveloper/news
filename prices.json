@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29",
+  "updated": "2026-10-30",
   "systems": {
     "3do": [
       {
@@ -240,8 +240,8 @@
       {
         "rank": 14,
         "name": "Color Bar Generator",
-        "price_usd": 463.54,
-        "price_eur": 426.46,
+        "price_usd": 479.31,
+        "price_eur": 440.97,
         "isHistory": false
       },
       {
@@ -850,8 +850,8 @@
       {
         "rank": 20,
         "name": "Worms",
-        "price_usd": 122.12,
-        "price_eur": 112.35,
+        "price_usd": 122.13,
+        "price_eur": 112.36,
         "isHistory": false
       }
     ],
@@ -881,8 +881,8 @@
       {
         "rank": 4,
         "name": "Illbleed",
-        "price_usd": 232.24,
-        "price_eur": 213.66,
+        "price_usd": 232.53,
+        "price_eur": 213.93,
         "isHistory": false
       },
       {
@@ -1349,8 +1349,8 @@
       {
         "rank": 10,
         "name": "Analogue Pocket [Indigo Anodized]",
-        "price_usd": 691.04,
-        "price_eur": 635.76,
+        "price_usd": 695.02,
+        "price_eur": 639.42,
         "isHistory": false
       },
       {
@@ -1404,14 +1404,14 @@
       },
       {
         "rank": 18,
-        "name": "Analogue Pocket [Red]",
+        "name": "Analogue Pocket [Berry]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
       },
       {
         "rank": 19,
-        "name": "Analogue Pocket [Berry]",
+        "name": "Analogue Pocket [Red]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
@@ -1619,8 +1619,8 @@
       {
         "rank": 8,
         "name": "Pine Creek [Collector's Edition]",
-        "price_usd": 319.17,
-        "price_eur": 293.64,
+        "price_usd": 319.22,
+        "price_eur": 293.68,
         "isHistory": false
       },
       {
@@ -2124,8 +2124,8 @@
       {
         "rank": 19,
         "name": "OutRun [Blue Label]",
-        "price_usd": 53.1,
-        "price_eur": 48.85,
+        "price_usd": 53.27,
+        "price_eur": 49.01,
         "isHistory": false
       },
       {
@@ -2161,8 +2161,8 @@
       {
         "rank": 4,
         "name": "The Death and Return of Superman",
-        "price_usd": 319.4,
-        "price_eur": 293.85,
+        "price_usd": 317.53,
+        "price_eur": 292.13,
         "isHistory": false
       },
       {
@@ -2401,8 +2401,8 @@
       {
         "rank": 18,
         "name": "Conker's Bad Fur Day",
-        "price_usd": 160.76,
-        "price_eur": 147.9,
+        "price_usd": 171.26,
+        "price_eur": 157.56,
         "isHistory": false
       },
       {
@@ -3286,8 +3286,8 @@
       {
         "rank": 2,
         "name": "Elemental Gearbolt Assassin Case",
-        "price_usd": 9291.69,
-        "price_eur": 8548.35,
+        "price_usd": 9288.58,
+        "price_eur": 8545.49,
         "isHistory": false
       },
       {
@@ -3356,8 +3356,8 @@
       {
         "rank": 12,
         "name": "Valkyrie Profile",
-        "price_usd": 212.46,
-        "price_eur": 195.46,
+        "price_usd": 205,
+        "price_eur": 188.6,
         "isHistory": false
       },
       {
@@ -3404,30 +3404,30 @@
       },
       {
         "rank": 19,
-        "name": "Elemental Gearbolt",
-        "price_usd": 150.64,
-        "price_eur": 138.59,
+        "name": "Silent Hill [Greatest Hits]",
+        "price_usd": 155,
+        "price_eur": 142.6,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "Lunar 2 Eternal Blue Complete [Collector's Edition]",
-        "price_usd": 150,
-        "price_eur": 138,
+        "name": "Elemental Gearbolt",
+        "price_usd": 150.64,
+        "price_eur": 138.59,
         "isHistory": false
       }
     ],
     "ps2": [
       {
         "rank": 1,
-        "name": "PlayStation 2 System [Blue Automotive Edition]",
+        "name": "PlayStation 2 System [Yellow Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
       },
       {
         "rank": 2,
-        "name": "PlayStation 2 System [Yellow Automotive Edition]",
+        "name": "PlayStation 2 System [Blue Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
@@ -3654,8 +3654,8 @@
       {
         "rank": 14,
         "name": "PSP 3000 Limited Edition Metal Gear Version [Green]",
-        "price_usd": 161.29,
-        "price_eur": 148.39,
+        "price_usd": 161.3,
+        "price_eur": 148.4,
         "isHistory": false
       },
       {
@@ -3990,8 +3990,8 @@
       {
         "rank": 1,
         "name": "Donkey Kong Country [5-Game Crate]",
-        "price_usd": 1455.99,
-        "price_eur": 1339.51,
+        "price_usd": 1455.78,
+        "price_eur": 1339.32,
         "isHistory": false
       },
       {
@@ -4230,16 +4230,16 @@
       },
       {
         "rank": 15,
-        "name": "Scramble",
-        "price_usd": 18.23,
-        "price_eur": 16.77,
+        "name": "Starship",
+        "price_usd": 17.51,
+        "price_eur": 16.11,
         "isHistory": false
       },
       {
         "rank": 16,
-        "name": "Starship",
-        "price_usd": 17.51,
-        "price_eur": 16.11,
+        "name": "Scramble",
+        "price_usd": 16.77,
+        "price_eur": 15.43,
         "isHistory": false
       },
       {
@@ -4573,8 +4573,8 @@
       {
         "rank": 3,
         "name": "Super Robot Taisen Compact 3",
-        "price_usd": 152.85,
-        "price_eur": 140.62,
+        "price_usd": 152.83,
+        "price_eur": 140.6,
         "isHistory": false
       },
       {
