@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30",
+  "updated": "2026-10-31",
   "systems": {
     "3do": [
       {
@@ -943,16 +943,16 @@
       },
       {
         "rank": 13,
-        "name": "Giga Wing 2",
-        "price_usd": 135.12,
-        "price_eur": 124.31,
+        "name": "Sega Dreamcast Console",
+        "price_usd": 137.64,
+        "price_eur": 126.63,
         "isHistory": false
       },
       {
         "rank": 14,
-        "name": "Sega Dreamcast Console",
-        "price_usd": 130,
-        "price_eur": 119.6,
+        "name": "Giga Wing 2",
+        "price_usd": 135.12,
+        "price_eur": 124.31,
         "isHistory": false
       },
       {
@@ -1248,37 +1248,37 @@
       },
       {
         "rank": 16,
-        "name": "Bio Miracle Bokutte Upa",
-        "price_usd": 233.27,
-        "price_eur": 214.61,
-        "isHistory": false
-      },
-      {
-        "rank": 17,
         "name": "Pyokotan no Dai Meiro",
         "price_usd": 229.88,
         "price_eur": 211.49,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 17,
         "name": "Metal Storm",
         "price_usd": 216.95,
         "price_eur": 199.59,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 18,
         "name": "ROB the Robot",
         "price_usd": 216.5,
         "price_eur": 199.18,
         "isHistory": false
       },
       {
-        "rank": 20,
+        "rank": 19,
         "name": "Over Horizon",
         "price_usd": 210.6,
         "price_eur": 193.75,
+        "isHistory": false
+      },
+      {
+        "rank": 20,
+        "name": "Bio Miracle Bokutte Upa",
+        "price_usd": 198.44,
+        "price_eur": 182.56,
         "isHistory": false
       }
     ],
@@ -1539,14 +1539,14 @@
       },
       {
         "rank": 17,
-        "name": "Gameboy Advance SP [Groudon Edition]",
+        "name": "Drill Dozer [Not for Resale]",
         "price_usd": 300,
         "price_eur": 276,
         "isHistory": false
       },
       {
         "rank": 18,
-        "name": "Drill Dozer [Not for Resale]",
+        "name": "Gameboy Advance SP [Groudon Edition]",
         "price_usd": 300,
         "price_eur": 276,
         "isHistory": false
@@ -1689,8 +1689,8 @@
       {
         "rank": 18,
         "name": "Pokemon Crystal",
-        "price_usd": 159.48,
-        "price_eur": 146.72,
+        "price_usd": 155.26,
+        "price_eur": 142.84,
         "isHistory": false
       },
       {
@@ -1719,8 +1719,8 @@
       {
         "rank": 2,
         "name": "Mega Man",
-        "price_usd": 248.99,
-        "price_eur": 229.07,
+        "price_usd": 258.09,
+        "price_eur": 237.44,
         "isHistory": false
       },
       {
@@ -2060,23 +2060,23 @@
       },
       {
         "rank": 10,
+        "name": "Phantasy Star",
+        "price_usd": 83.35,
+        "price_eur": 76.68,
+        "isHistory": false
+      },
+      {
+        "rank": 11,
         "name": "Alex Kidd in Shinobi World [Blue Label]",
         "price_usd": 80,
         "price_eur": 73.6,
         "isHistory": false
       },
       {
-        "rank": 11,
+        "rank": 12,
         "name": "Chapolim x Dracula: Um Duelo Assustador",
         "price_usd": 79.99,
         "price_eur": 73.59,
-        "isHistory": false
-      },
-      {
-        "rank": 12,
-        "name": "Phantasy Star",
-        "price_usd": 78.5,
-        "price_eur": 72.22,
         "isHistory": false
       },
       {
@@ -2282,8 +2282,8 @@
       {
         "rank": 1,
         "name": "Zelda Majora's Mask [Adventure Set]",
-        "price_usd": 1742.09,
-        "price_eur": 1602.72,
+        "price_usd": 1742.05,
+        "price_eur": 1602.69,
         "isHistory": false
       },
       {
@@ -3030,8 +3030,8 @@
       {
         "rank": 6,
         "name": "SuperGrafx Console",
-        "price_usd": 469.14,
-        "price_eur": 431.61,
+        "price_usd": 467.12,
+        "price_eur": 429.75,
         "isHistory": false
       },
       {
@@ -3107,8 +3107,8 @@
       {
         "rank": 17,
         "name": "Tatsujin",
-        "price_usd": 248.93,
-        "price_eur": 229.02,
+        "price_usd": 246.95,
+        "price_eur": 227.19,
         "isHistory": false
       },
       {
@@ -3321,15 +3321,15 @@
       {
         "rank": 7,
         "name": "The Misadventures of Tron Bonne",
-        "price_usd": 249.5,
-        "price_eur": 229.54,
+        "price_usd": 253.46,
+        "price_eur": 233.18,
         "isHistory": false
       },
       {
         "rank": 8,
         "name": "Shadow Tower",
-        "price_usd": 244.48,
-        "price_eur": 224.92,
+        "price_usd": 244.36,
+        "price_eur": 224.81,
         "isHistory": false
       },
       {
@@ -3435,15 +3435,15 @@
       {
         "rank": 3,
         "name": "PlayStation 2 Debugging Station",
-        "price_usd": 1935.12,
-        "price_eur": 1780.31,
+        "price_usd": 1936.78,
+        "price_eur": 1781.84,
         "isHistory": false
       },
       {
         "rank": 4,
         "name": "Playstation 2 Development Tool",
-        "price_usd": 1773.61,
-        "price_eur": 1631.72,
+        "price_usd": 1771.71,
+        "price_eur": 1629.97,
         "isHistory": false
       },
       {
@@ -3526,8 +3526,8 @@
       {
         "rank": 16,
         "name": "Silent Hill: Shattered Memories",
-        "price_usd": 359.95,
-        "price_eur": 331.15,
+        "price_usd": 343.93,
+        "price_eur": 316.42,
         "isHistory": false
       },
       {
@@ -3726,8 +3726,8 @@
       {
         "rank": 4,
         "name": "Motherbase",
-        "price_usd": 217.33,
-        "price_eur": 199.94,
+        "price_usd": 216.48,
+        "price_eur": 199.16,
         "isHistory": false
       },
       {
@@ -4102,8 +4102,8 @@
       {
         "rank": 17,
         "name": "Captain Commando",
-        "price_usd": 208.81,
-        "price_eur": 192.11,
+        "price_usd": 209.22,
+        "price_eur": 192.48,
         "isHistory": false
       },
       {
@@ -4275,8 +4275,8 @@
       {
         "rank": 1,
         "name": "Jack Bros.",
-        "price_usd": 918.86,
-        "price_eur": 845.35,
+        "price_usd": 923.4,
+        "price_eur": 849.53,
         "isHistory": false
       },
       {
@@ -4331,8 +4331,8 @@
       {
         "rank": 9,
         "name": "Virtual Lab [Homebrew]",
-        "price_usd": 179.13,
-        "price_eur": 164.8,
+        "price_usd": 179.19,
+        "price_eur": 164.85,
         "isHistory": false
       },
       {
