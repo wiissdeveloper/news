@@ -2,6 +2,22 @@
   "date": "2026-11-01",
   "notices": [
     {
+      "guid": "https://it.ign.com/ign-mixtape/228952/ign-mixtape-65-tenebris-somnia-it-ends-wordatro-e-non-solo",
+      "title": "IGN Mixtape #65: Tenebris Somnia, It Ends, Wordatro! e non solo...",
+      "link": "https://it.ign.com/ign-mixtape/228952/ign-mixtape-65-tenebris-somnia-it-ends-wordatro-e-non-solo",
+      "pubDate": "Sun, 01 Nov 2026 14:25:06 +0000",
+      "contentSnippet": "Consigli da brividi!\nNuovo appuntamento con IGN Mixtape, la rubrica dedicata ai consigli della redazione.",
+      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/titolo_yfqt.jpg"
+    },
+    {
+      "guid": "https://it.ign.com/wordatro/228956/wordatro-il-trailer-ufficiale",
+      "title": "Wordatro! - Il trailer ufficiale",
+      "link": "https://it.ign.com/wordatro/228956/wordatro-il-trailer-ufficiale",
+      "pubDate": "Sun, 01 Nov 2026 14:25:06 +0000",
+      "contentSnippet": "Alla scoperta di Wordatro!",
+      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/blob_p6fk.jpg"
+    },
+    {
       "guid": "https://it.ign.com/tekken-3/228951/ign-retro-tekken-3",
       "title": "IGN Retro: Tekken  3",
       "link": "https://it.ign.com/tekken-3/228951/ign-retro-tekken-3",
@@ -80,22 +96,6 @@
       "pubDate": "Thu, 29 Oct 2026 17:00:32 +0000",
       "contentSnippet": "RAMageddon!\nIl 2026 è stato caratterizzato da una crisi delle RAM, e secondo l'ultima relazione finanziaria di Samsung la situazione è destinata a peggiorare.",
       "thumbnail": "https://sm.ign.com/ign_it/news/r/ramageddon/ramageddon-will-only-get-worse-in-2027-according-to-samsung_dpvm.jpg"
-    },
-    {
-      "guid": "https://it.ign.com/mass-effect-next-1/228914/uno-dei-cofondatori-di-bioware-si-esprime-sulla-chiusura-dello-studio-e-sulla-cancellazione-di-mass",
-      "title": "Uno dei cofondatori di BioWare si esprime sulla chiusura dello studio e sulla cancellazione di Mass Effect",
-      "link": "https://it.ign.com/mass-effect-next-1/228914/uno-dei-cofondatori-di-bioware-si-esprime-sulla-chiusura-dello-studio-e-sulla-cancellazione-di-mass",
-      "pubDate": "Thu, 29 Oct 2026 16:25:04 +0000",
-      "contentSnippet": "\"C’è questa strana convinzione che si possano semplicemente creare giochi fantastici con persone a caso e l’intelligenza artificiale\".\nNel corso di una recente intervista, Greg Zeschuk ha commentato la chiusura dello studio.",
-      "thumbnail": "https://sm.ign.com/ign_it/news/b/bioware-co/bioware-co-founder-speaks-out-on-studio-closure-mass-effect_u29y.jpg"
-    },
-    {
-      "guid": "https://it.ign.com/gothic-1-remake/228905/il-ritorno-di-gothic-venticinque-anni-dopo",
-      "title": "Il ritorno di Gothic, venticinque anni dopo",
-      "link": "https://it.ign.com/gothic-1-remake/228905/il-ritorno-di-gothic-venticinque-anni-dopo",
-      "pubDate": "Thu, 29 Oct 2026 16:00:54 +0000",
-      "contentSnippet": "Diamo uno sguardo a come Alkimia Interactive ha pensato di rimettere a nuovo il classico del 2001.\nAlkimia Interactive ha lavorato a lungo su Gothic 1 Remake: scopriamo com'è andata e quanto la nuova versione ha in comune con l'opera originale di Piranha Bytes.",
-      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/6fc7b3b1fbd39dfccea081825fb925817b4c682a17435b50-copia_kuk3.jpg"
     }
   ]
 }
