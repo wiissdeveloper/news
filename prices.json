@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03",
+  "updated": "2026-11-04",
   "systems": {
     "3do": [
       {
@@ -232,16 +232,16 @@
       },
       {
         "rank": 13,
-        "name": "Halloween",
-        "price_usd": 487.23,
-        "price_eur": 448.25,
+        "name": "Color Bar Generator",
+        "price_usd": 479.31,
+        "price_eur": 440.97,
         "isHistory": false
       },
       {
         "rank": 14,
-        "name": "Color Bar Generator",
-        "price_usd": 479.31,
-        "price_eur": 440.97,
+        "name": "Halloween",
+        "price_usd": 460,
+        "price_eur": 423.2,
         "isHistory": false
       },
       {
@@ -395,37 +395,37 @@
       },
       {
         "rank": 16,
-        "name": "Froggie [Homebrew]",
-        "price_usd": 127.83,
-        "price_eur": 117.6,
-        "isHistory": false
-      },
-      {
-        "rank": 17,
         "name": "Astro Fighter [Homebrew]",
         "price_usd": 124,
         "price_eur": 114.08,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 17,
         "name": "Ikari Warriors",
         "price_usd": 119.78,
         "price_eur": 110.2,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 18,
         "name": "Klax [Homebrew]",
         "price_usd": 119.01,
         "price_eur": 109.49,
         "isHistory": false
       },
       {
-        "rank": 20,
+        "rank": 19,
         "name": "Commando",
         "price_usd": 113.7,
         "price_eur": 104.6,
+        "isHistory": false
+      },
+      {
+        "rank": 20,
+        "name": "Missing In Action [Homebrew]",
+        "price_usd": 113.19,
+        "price_eur": 104.13,
         "isHistory": false
       }
     ],
@@ -582,8 +582,8 @@
       {
         "rank": 2,
         "name": "Atari Lynx II Console",
-        "price_usd": 189.99,
-        "price_eur": 174.79,
+        "price_usd": 190,
+        "price_eur": 174.8,
         "isHistory": false
       },
       {
@@ -828,16 +828,16 @@
       },
       {
         "rank": 17,
-        "name": "Jag Zombies",
-        "price_usd": 141.98,
-        "price_eur": 130.62,
+        "name": "Black Lamp",
+        "price_usd": 142.05,
+        "price_eur": 130.69,
         "isHistory": false
       },
       {
         "rank": 18,
-        "name": "Black Lamp",
-        "price_usd": 141.92,
-        "price_eur": 130.57,
+        "name": "Jag Zombies",
+        "price_usd": 141.98,
+        "price_eur": 130.62,
         "isHistory": false
       },
       {
@@ -860,8 +860,8 @@
       {
         "rank": 1,
         "name": "Katana Development System",
-        "price_usd": 3190.31,
-        "price_eur": 2935.09,
+        "price_usd": 3181.75,
+        "price_eur": 2927.21,
         "isHistory": false
       },
       {
@@ -1016,8 +1016,8 @@
       {
         "rank": 3,
         "name": "All One",
-        "price_usd": 105.32,
-        "price_eur": 96.89,
+        "price_usd": 105.15,
+        "price_eur": 96.74,
         "isHistory": false
       },
       {
@@ -1200,8 +1200,8 @@
       {
         "rank": 9,
         "name": "Seirei Densetsu Lickle",
-        "price_usd": 292.03,
-        "price_eur": 268.67,
+        "price_usd": 290.93,
+        "price_eur": 267.66,
         "isHistory": false
       },
       {
@@ -1221,8 +1221,8 @@
       {
         "rank": 12,
         "name": "Akumajou Dracula",
-        "price_usd": 260.94,
-        "price_eur": 240.06,
+        "price_usd": 259.28,
+        "price_eur": 238.54,
         "isHistory": false
       },
       {
@@ -1277,8 +1277,8 @@
       {
         "rank": 20,
         "name": "Metal Slader Glory",
-        "price_usd": 198.13,
-        "price_eur": 182.28,
+        "price_usd": 197.91,
+        "price_eur": 182.08,
         "isHistory": false
       }
     ],
@@ -1321,8 +1321,8 @@
       {
         "rank": 6,
         "name": "Analogue Pocket [Natural Anodized]",
-        "price_usd": 836.07,
-        "price_eur": 769.18,
+        "price_usd": 834.7,
+        "price_eur": 767.92,
         "isHistory": false
       },
       {
@@ -1334,14 +1334,14 @@
       },
       {
         "rank": 8,
-        "name": "Analogue Pocket [Black Anodized]",
+        "name": "Analogue Pocket [Supreme Red]",
         "price_usd": 700,
         "price_eur": 644,
         "isHistory": false
       },
       {
         "rank": 9,
-        "name": "Analogue Pocket [Supreme Red]",
+        "name": "Analogue Pocket [Black Anodized]",
         "price_usd": 700,
         "price_eur": 644,
         "isHistory": false
@@ -1404,14 +1404,14 @@
       },
       {
         "rank": 18,
-        "name": "Analogue Pocket [Berry]",
+        "name": "Analogue Pocket [Red]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
       },
       {
         "rank": 19,
-        "name": "Analogue Pocket [Red]",
+        "name": "Analogue Pocket [Berry]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
@@ -1505,8 +1505,8 @@
       {
         "rank": 12,
         "name": "Gameboy Advance SP [Rayquaza Edition]",
-        "price_usd": 420,
-        "price_eur": 386.4,
+        "price_usd": 436.69,
+        "price_eur": 401.75,
         "isHistory": false
       },
       {
@@ -1532,14 +1532,14 @@
       },
       {
         "rank": 16,
-        "name": "Gameboy Advance SP [Groudon Edition]",
+        "name": "Drill Dozer [Not for Resale]",
         "price_usd": 300,
         "price_eur": 276,
         "isHistory": false
       },
       {
         "rank": 17,
-        "name": "Drill Dozer [Not for Resale]",
+        "name": "Gameboy Advance SP [Groudon Edition]",
         "price_usd": 300,
         "price_eur": 276,
         "isHistory": false
@@ -1654,15 +1654,15 @@
       {
         "rank": 13,
         "name": "Space Marauder",
-        "price_usd": 198.57,
-        "price_eur": 182.68,
+        "price_usd": 193.89,
+        "price_eur": 178.38,
         "isHistory": false
       },
       {
         "rank": 14,
         "name": "Hamtaro Ham-Hams Unite! [Not For Resale]",
-        "price_usd": 187.33,
-        "price_eur": 172.34,
+        "price_usd": 187.82,
+        "price_eur": 172.79,
         "isHistory": false
       },
       {
@@ -1761,8 +1761,8 @@
       {
         "rank": 8,
         "name": "EverDrive GG X7",
-        "price_usd": 84.63,
-        "price_eur": 77.86,
+        "price_usd": 84.67,
+        "price_eur": 77.9,
         "isHistory": false
       },
       {
@@ -1795,16 +1795,16 @@
       },
       {
         "rank": 13,
-        "name": "Defenders of Oasis",
-        "price_usd": 57.13,
-        "price_eur": 52.56,
+        "name": "Sega Game Gear Handheld",
+        "price_usd": 58.77,
+        "price_eur": 54.07,
         "isHistory": false
       },
       {
         "rank": 14,
-        "name": "Sega Game Gear Handheld",
-        "price_usd": 57,
-        "price_eur": 52.44,
+        "name": "Defenders of Oasis",
+        "price_usd": 57.13,
+        "price_eur": 52.56,
         "isHistory": false
       },
       {
@@ -1889,8 +1889,8 @@
       {
         "rank": 6,
         "name": "Sega Genesis JVC X'Eye",
-        "price_usd": 607.32,
-        "price_eur": 558.73,
+        "price_usd": 608.45,
+        "price_eur": 559.77,
         "isHistory": false
       },
       {
@@ -2168,8 +2168,8 @@
       {
         "rank": 5,
         "name": "Daze Before Christmas",
-        "price_usd": 302.5,
-        "price_eur": 278.3,
+        "price_usd": 302.86,
+        "price_eur": 278.63,
         "isHistory": false
       },
       {
@@ -2800,8 +2800,8 @@
       {
         "rank": 14,
         "name": "Power Pad Test Cartridge",
-        "price_usd": 1287.16,
-        "price_eur": 1184.19,
+        "price_usd": 1290.1,
+        "price_eur": 1186.89,
         "isHistory": false
       },
       {
@@ -3009,8 +3009,8 @@
       {
         "rank": 3,
         "name": "PC Engine GT",
-        "price_usd": 624.55,
-        "price_eur": 574.59,
+        "price_usd": 625.35,
+        "price_eur": 575.32,
         "isHistory": false
       },
       {
@@ -3058,8 +3058,8 @@
       {
         "rank": 10,
         "name": "XE-1 HE Pro",
-        "price_usd": 305.97,
-        "price_eur": 281.49,
+        "price_usd": 305.46,
+        "price_eur": 281.02,
         "isHistory": false
       },
       {
@@ -3342,8 +3342,8 @@
       {
         "rank": 10,
         "name": "Koudelka",
-        "price_usd": 233.36,
-        "price_eur": 214.69,
+        "price_usd": 233.7,
+        "price_eur": 215,
         "isHistory": false
       },
       {
@@ -3356,8 +3356,8 @@
       {
         "rank": 12,
         "name": "Silent Hill",
-        "price_usd": 185,
-        "price_eur": 170.2,
+        "price_usd": 182.5,
+        "price_eur": 167.9,
         "isHistory": false
       },
       {
@@ -3590,23 +3590,23 @@
       },
       {
         "rank": 5,
-        "name": "PSP Go Piano Black",
-        "price_usd": 202.5,
-        "price_eur": 186.3,
-        "isHistory": false
-      },
-      {
-        "rank": 6,
         "name": "PSP 3000 Limited Edition Rock Band Version",
         "price_usd": 200,
         "price_eur": 184,
         "isHistory": false
       },
       {
-        "rank": 7,
+        "rank": 6,
         "name": "PSP 3000 Limited Edition God of War Version [Black & Red]",
         "price_usd": 199.99,
         "price_eur": 183.99,
+        "isHistory": false
+      },
+      {
+        "rank": 7,
+        "name": "PSP Go Piano Black",
+        "price_usd": 196.49,
+        "price_eur": 180.77,
         "isHistory": false
       },
       {
@@ -4345,8 +4345,8 @@
       {
         "rank": 11,
         "name": "3D Tetris",
-        "price_usd": 170,
-        "price_eur": 156.4,
+        "price_usd": 176.12,
+        "price_eur": 162.03,
         "isHistory": false
       },
       {
@@ -4522,8 +4522,8 @@
       {
         "rank": 16,
         "name": "Kaze no Klonoa: Moonlight Museum",
-        "price_usd": 71.09,
-        "price_eur": 65.4,
+        "price_usd": 70.94,
+        "price_eur": 65.26,
         "isHistory": false
       },
       {
@@ -4608,8 +4608,8 @@
       {
         "rank": 8,
         "name": "Wonderswan Color Console",
-        "price_usd": 133.66,
-        "price_eur": 122.97,
+        "price_usd": 133.25,
+        "price_eur": 122.59,
         "isHistory": false
       },
       {
@@ -4708,8 +4708,8 @@
       {
         "rank": 2,
         "name": "Sinclair ZX Spectrum +2 James Bond 007 Action Pack",
-        "price_usd": 174.06,
-        "price_eur": 160.14,
+        "price_usd": 173.98,
+        "price_eur": 160.06,
         "isHistory": false
       },
       {
@@ -4757,8 +4757,8 @@
       {
         "rank": 9,
         "name": "Competition Pro Joystick",
-        "price_usd": 102.1,
-        "price_eur": 93.93,
+        "price_usd": 101.39,
+        "price_eur": 93.28,
         "isHistory": false
       },
       {
@@ -4785,8 +4785,8 @@
       {
         "rank": 13,
         "name": "Sinclair ZX Spectrum +2 Action Pack",
-        "price_usd": 87.8,
-        "price_eur": 80.78,
+        "price_usd": 88.1,
+        "price_eur": 81.05,
         "isHistory": false
       },
       {
