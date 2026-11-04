@@ -1,6 +1,22 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "notices": [
+    {
+      "guid": "https://www.jeuxvideo.com/news/2111879/le-jeu-video-phantom-blade-zero-trop-facile-pour-certains-joueurs.htm",
+      "title": "Le jeu vidéo Phantom Blade Zero trop facile pour certains joueurs ?",
+      "link": "https://www.jeuxvideo.com/news/2111879/le-jeu-video-phantom-blade-zero-trop-facile-pour-certains-joueurs.htm",
+      "pubDate": "Tue, 03 Nov 2026 22:20:05 +0100",
+      "contentSnippet": "Attendu comme le messie de l'action, Phantom Blade Zero a explosé tous les compteurs lors de son lancement. Pourtant, au-delà de son succès historique, une véritable fracture divise la communauté : le titre de S-Game a-t-il sacrifié le défi sur l'autel du spectacle visuel ?",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179363/1793634129-9879-card.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2110991/mario-kart-8-sur-ps5-gta-gratuit-sur-pc-quels-sont-les-risques-d-y-jouer-un-avocat-nous-explique.htm",
+      "title": "Mario Kart 8 sur PS5, GTA gratuit sur PC : quels sont les risques d'y jouer ? Un avocat nous explique ",
+      "link": "https://www.jeuxvideo.com/news/2110991/mario-kart-8-sur-ps5-gta-gratuit-sur-pc-quels-sont-les-risques-d-y-jouer-un-avocat-nous-explique.htm",
+      "pubDate": "Tue, 03 Nov 2026 21:40:07 +0100",
+      "contentSnippet": "Jouer à Mario Kart 8 sur PC ou télécharger GTA 6 gratuitement semble devenir à portée de clic avec l'essor des IA et de la décompilation. Mais que dit la loi française face à ce piratage 2.0 ? J'ai interrogé un avocat et il m'a parlé des risques de se tourner vers ces pratiques.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179319/1793190751-1222-card.jpg"
+    },
     {
       "guid": "https://www.actugaming.net/?p=832326",
       "title": "Xbox Game Pass : Warhammer Survivors, Tanuki: Pon’s Summer et d’autres intègrent l’abonnement",
@@ -8,6 +24,22 @@
       "pubDate": "Tue, 03 Nov 2026 19:14:10 +0000",
       "contentSnippet": "ActuGaming.net\nXbox Game Pass : Warhammer Survivors, Tanuki: Pon’s Summer et d’autres intègrent l’abonnement\n\nLe Game Pass revient dans cette première quinzaine de novembre pour nous présenter la liste […]\nL'article Xbox Game Pass : Warhammer Survivors, Tanuki: Pon’s Summer et d’autres intègrent l’abonnement est disponible sur ActuGaming.net",
       "thumbnail": "https://static.actugaming.net/media/2026/11/xbox-game-pass-novembre-2026.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2111690/carte-boussole-objet-de-boss-pourquoi-la-formule-sacree-de-zelda-ocarina-of-time-etait-aussi-son-pire-piege.htm",
+      "title": "Carte, boussole, objet de boss : pourquoi la formule sacrée de Zelda Ocarina of Time était aussi son pire piège",
+      "link": "https://www.jeuxvideo.com/news/2111690/carte-boussole-objet-de-boss-pourquoi-la-formule-sacree-de-zelda-ocarina-of-time-etait-aussi-son-pire-piege.htm",
+      "pubDate": "Tue, 03 Nov 2026 20:10:08 +0100",
+      "contentSnippet": "Considéré comme l'un des piliers fondateurs du jeu vidéo en 3D, The Legend of Zelda : Ocarina of Time a instauré une formule des donjons si efficace qu'elle est devenue intouchable pendant deux décennies. Mais en réalité, cette structure devenue trop classique cache une mécanique à double tranchant.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179362/1793615241-9730-card.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2111656/manoir-rouge-phantom-blade-zero-comment-ouvrir-la-porte.htm",
+      "title": "Manoir rouge Phantom Blade Zero : Comment ouvrir la porte ?",
+      "link": "https://www.jeuxvideo.com/news/2111656/manoir-rouge-phantom-blade-zero-comment-ouvrir-la-porte.htm",
+      "pubDate": "Tue, 03 Nov 2026 19:15:09 +0100",
+      "contentSnippet": "Le Manoir rouge est un lieu clé dans Phantom Blade Zero, mais résoudre l'énigme de la porte marionnette demande du temps, des efforts et les bons objets. Découvrez comment faire dans ce guide.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179361/1793613125-6301-card.jpg"
     },
     {
       "guid": "https://www.jeuxvideo.com/news/2112024/les-chiffres-sont-tombes-en-deux-ans-a-peine-l-ia-s-est-deja-emparee-de-la-moitie-de-nos-jeux-pc.htm",
@@ -64,38 +96,6 @@
       "pubDate": "Tue, 03 Nov 2026 15:30:16 +0000",
       "contentSnippet": "ActuGaming.net\nThe Elder Scrolls VI se nomme officiellement Sentinel, Bethesda confirme le titre de son prochain RPG\n\nEn temps normal, on aurait souhaité avoir mieux qu’un teaser et une confirmation de titre […]\nL'article The Elder Scrolls VI se nomme officiellement Sentinel, Bethesda confirme le titre de son prochain RPG est disponible sur ActuGaming.net",
       "thumbnail": "https://static.actugaming.net/media/2026/11/the-elder-scrolls-vi-sentinel.jpg"
-    },
-    {
-      "guid": "https://www.gamekult.com/actualite/gta-6-voici-exactement-quel-jour-et-a-quelle-heure-vous-pourrez-precharger-les-212-go-du-jeu-3050872744.html",
-      "title": "GTA 6 : voici exactement quel jour et à quelle heure vous pourrez précharger les 212 Go du jeu",
-      "link": "https://www.gamekult.com/actualite/gta-6-voici-exactement-quel-jour-et-a-quelle-heure-vous-pourrez-precharger-les-212-go-du-jeu-3050872744.html",
-      "pubDate": "Tue, 03 Nov 2026 16:29:00 +0100",
-      "contentSnippet": "À J-16 du plus grand événement vidéoludique de l'année (et même un peu plus que ça), Rockstar Games vient de confirmer que les joueurs ayant précommandé Grand Theft Auto VI pourront précharger le jeu dans leur console à partir du 10 novembre à minuit.",
-      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872744/gta-6-voici-exactement-quel-jour-et-a-quelle-heure-vous-pourrez-precharger-les-212-go-du-jeu-cda7c09a__930_300__0-157-3840-1391.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=832273",
-      "title": "World of Warcraft Forever : À quelle heure le MMO sera-t-il disponible en France ?",
-      "link": "https://www.actugaming.net/world-of-warcraft-forever-a-quelle-heure-le-mmo-sera-t-il-disponible-en-france-832273/",
-      "pubDate": "Tue, 03 Nov 2026 15:06:38 +0000",
-      "contentSnippet": "ActuGaming.net\nWorld of Warcraft Forever : À quelle heure le MMO sera-t-il disponible en France ?\n\nOubliez le remake d’Ocarina of Time ou GTA 6. Pour beaucoup, la vraie sortie majeure […]\nL'article World of Warcraft Forever : À quelle heure le MMO sera-t-il disponible en France ? est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/11/World-of-warcraft-forever.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=831768",
-      "title": "Test Call of Duty Modern Warfare 4 – La meilleure campagne de la quadrilogie avec un multijoueur frustrant",
-      "link": "https://www.actugaming.net/test-call-of-duty-modern-warfare-4-review-831768/",
-      "pubDate": "Tue, 03 Nov 2026 14:30:30 +0000",
-      "contentSnippet": "ActuGaming.net\nTest Call of Duty Modern Warfare 4 – La meilleure campagne de la quadrilogie avec un multijoueur frustrant\n\nAprès un troisième opus ayant terni l’image de la franchise Modern Warfare par son manque […]\nL'article Test Call of Duty Modern Warfare 4 – La meilleure campagne de la quadrilogie avec un multijoueur frustrant est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/10/maxresdefault-13.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=832263",
-      "title": "Remedy se félicite du lancement de Control Resonant, qui marque « une étape décisive » pour le studio",
-      "link": "https://www.actugaming.net/remedy-se-felicite-du-lancement-de-control-resonant-qui-marque-une-etape-decisive-pour-le-studio-832263/",
-      "pubDate": "Tue, 03 Nov 2026 13:40:52 +0000",
-      "contentSnippet": "ActuGaming.net\nRemedy se félicite du lancement de Control Resonant, qui marque « une étape décisive » pour le studio\n\nAvec tous les jeux sortis en septembre, il n’était pas certain de voir Control Resonant […]\nL'article Remedy se félicite du lancement de Control Resonant, qui marque « une étape décisive » pour le studio est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/06/control-resonant.png"
     }
   ]
 }
