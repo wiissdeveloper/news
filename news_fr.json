@@ -1,6 +1,22 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "notices": [
+    {
+      "guid": "https://www.jeuxvideo.com/news/2111358/steam-se-remplit-de-dechets-des-clones-generees-par-ia-dont-valve-ne-compte-pas-s-occuper.htm",
+      "title": "Steam se remplit de déchets : des clones générées par IA dont Valve ne compte pas s'occuper ",
+      "link": "https://www.jeuxvideo.com/news/2111358/steam-se-remplit-de-dechets-des-clones-generees-par-ia-dont-valve-ne-compte-pas-s-occuper.htm",
+      "pubDate": "Thu, 05 Nov 2026 06:05:07 +0100",
+      "contentSnippet": "Steam croule sous les nouveautés, et l'intelligence artificielle occupe une place grandissante dans les productions vidéoludiques. Entre multiplication des sorties et risques de clonage, les développeurs indépendants font face à de nouveaux défis. Une situation qui soulève des questions sur la responsabilité...",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179328/1793284357-5028-card.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2112108/jamais-il-n-aurait-mis-autant-d-argent-dans-ce-jeu-ce-developpeur-en-comprend-pas-comment-xbox-a-pu-en-mettre-autant.htm",
+      "title": "Jamais il n'aurait mis autant d'argent dans ce jeu ! Ce développeur en comprend pas comment Xbox a pu en mettre autant...",
+      "link": "https://www.jeuxvideo.com/news/2112108/jamais-il-n-aurait-mis-autant-d-argent-dans-ce-jeu-ce-developpeur-en-comprend-pas-comment-xbox-a-pu-en-mettre-autant.htm",
+      "pubDate": "Wed, 04 Nov 2026 21:40:07 +0100",
+      "contentSnippet": "Dans l'industrie du jeu vidéo marquée par les réductions budgétaires, ce genre d'aveu est rarissime. Le directeur créatif de South of Midnight admet sans détour que Microsoft n'aurait sans doute jamais dû injecter des dizaines de millions de dollars... dans son propre jeu !",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179371/1793712363-5739-card.jpg"
+    },
     {
       "guid": "https://www.gamekult.com/actualite/city-of-none-le-jeu-de-plateformes-du-cocreateur-de-celeste-confirme-son-arrivee-sur-switch-et-switch-2-3050872767.html",
       "title": "City of None : le jeu de plateformes du cocréateur de Celeste confirme son arrivée sur Switch et Switch 2",
@@ -80,22 +96,6 @@
       "pubDate": "Wed, 04 Nov 2026 16:04:41 +0000",
       "contentSnippet": "ActuGaming.net\nPhantom Blade Zero : Une nouvelle mise à jour corrige des bugs et rend l’un des boss un peu moins pénible\n\nLe succès est total pour S-Game, qui a vu son Phantom Blade Zero dépasser les […]\nL'article Phantom Blade Zero : Une nouvelle mise à jour corrige des bugs et rend l’un des boss un peu moins pénible est disponible sur ActuGaming.net",
       "thumbnail": "https://static.actugaming.net/media/2025/01/phantom-blade-zero.jpg"
-    },
-    {
-      "guid": "https://www.gamekult.com/actualite/les-jeux-xbox-game-pass-de-novembre-2026-avec-warhammer-survivors-3050872764.html",
-      "title": "Agenda - Les jeux Xbox Game Pass de novembre 2026 avec Warhammer Survivors",
-      "link": "https://www.gamekult.com/actualite/les-jeux-xbox-game-pass-de-novembre-2026-avec-warhammer-survivors-3050872764.html",
-      "pubDate": "Wed, 04 Nov 2026 16:09:00 +0100",
-      "contentSnippet": "Alors que toute l'industrie (ou presque) cherche à esquiver la fenêtre de sortie de GTA 6, partant du principe que tous les êtres vivants recensés sur la planète vont y investir temps et argent, le Game Pass du mois est bien obligé de se plier à ce calendrier de sorties un peu particulier (et surtout un peu vide). Pas d'énorme production à se mettre sous la dent mais il y a quand même l'arrivée de la ludothèque Rare dans le Game Pass Essential... et de gros départs.",
-      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872764/87f0d09b__930_300__0-78-1920-698.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=832404",
-      "title": "L’un des partenaires de Nintendo lié aux composants de cartouches de jeux Switch et Switch 2 se retire du marché",
-      "link": "https://www.actugaming.net/lun-des-partenaires-de-nintendo-sur-la-production-de-cartouches-de-jeux-switch-et-switch-2-se-retire-du-marche-832404/",
-      "pubDate": "Wed, 04 Nov 2026 15:00:38 +0000",
-      "contentSnippet": "ActuGaming.net\nL’un des partenaires de Nintendo lié aux composants de cartouches de jeux Switch et Switch 2 se retire du marché\n\nAu moment où Sony s’apprête à sortir du marché physique, on a guère envie d’entendre […]\nL'article L’un des partenaires de Nintendo lié aux composants de cartouches de jeux Switch et Switch 2 se retire du marché est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/11/cartouche-zelda-breath-of-the-wild.jpg"
     }
   ]
 }
