@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05",
+  "updated": "2026-11-06",
   "systems": {
     "3do": [
       {
@@ -12,8 +12,8 @@
       {
         "rank": 2,
         "name": "Panasonic FZ-10 Console [Gex Bundle]",
-        "price_usd": 397.14,
-        "price_eur": 365.37,
+        "price_usd": 393.15,
+        "price_eur": 361.7,
         "isHistory": false
       },
       {
@@ -410,8 +410,8 @@
       {
         "rank": 18,
         "name": "Klax [Homebrew]",
-        "price_usd": 119.01,
-        "price_eur": 109.49,
+        "price_usd": 118.88,
+        "price_eur": 109.37,
         "isHistory": false
       },
       {
@@ -752,8 +752,8 @@
       {
         "rank": 6,
         "name": "Atari Karts",
-        "price_usd": 211.7,
-        "price_eur": 194.76,
+        "price_usd": 211.41,
+        "price_eur": 194.5,
         "isHistory": false
       },
       {
@@ -909,8 +909,8 @@
       {
         "rank": 8,
         "name": "Sega Dreamcast Sports Edition Console",
-        "price_usd": 188,
-        "price_eur": 172.96,
+        "price_usd": 187.5,
+        "price_eur": 172.5,
         "isHistory": false
       },
       {
@@ -1099,16 +1099,16 @@
       },
       {
         "rank": 15,
-        "name": "Kick Challenger: Air Foot",
-        "price_usd": 41.47,
-        "price_eur": 38.15,
+        "name": "Legend of Zelda",
+        "price_usd": 41.49,
+        "price_eur": 38.17,
         "isHistory": false
       },
       {
         "rank": 16,
-        "name": "Legend of Zelda",
-        "price_usd": 41.45,
-        "price_eur": 38.13,
+        "name": "Kick Challenger: Air Foot",
+        "price_usd": 41.47,
+        "price_eur": 38.15,
         "isHistory": false
       },
       {
@@ -1206,14 +1206,14 @@
       },
       {
         "rank": 10,
-        "name": "Makaimura [Box Cart]",
-        "price_usd": 275,
-        "price_eur": 253,
+        "name": "Bubble Bobble 2",
+        "price_usd": 280,
+        "price_eur": 257.6,
         "isHistory": false
       },
       {
         "rank": 11,
-        "name": "Bubble Bobble 2",
+        "name": "Makaimura [Box Cart]",
         "price_usd": 275,
         "price_eur": 253,
         "isHistory": false
@@ -1334,14 +1334,14 @@
       },
       {
         "rank": 8,
-        "name": "Analogue Pocket [Supreme Red]",
+        "name": "Analogue Pocket [Black Anodized]",
         "price_usd": 700,
         "price_eur": 644,
         "isHistory": false
       },
       {
         "rank": 9,
-        "name": "Analogue Pocket [Black Anodized]",
+        "name": "Analogue Pocket [Supreme Red]",
         "price_usd": 700,
         "price_eur": 644,
         "isHistory": false
@@ -1404,14 +1404,14 @@
       },
       {
         "rank": 18,
-        "name": "Analogue Pocket [Red]",
+        "name": "Analogue Pocket [Berry]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
       },
       {
         "rank": 19,
-        "name": "Analogue Pocket [Berry]",
+        "name": "Analogue Pocket [Red]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
@@ -1612,8 +1612,8 @@
       {
         "rank": 7,
         "name": "Pokemon Gold [Not For Resale]",
-        "price_usd": 390.39,
-        "price_eur": 359.16,
+        "price_usd": 393.35,
+        "price_eur": 361.88,
         "isHistory": false
       },
       {
@@ -1688,16 +1688,16 @@
       },
       {
         "rank": 18,
-        "name": "Pokemon Crystal",
-        "price_usd": 157.72,
-        "price_eur": 145.1,
+        "name": "Bomberman Quest",
+        "price_usd": 157.5,
+        "price_eur": 144.9,
         "isHistory": false
       },
       {
         "rank": 19,
-        "name": "Bomberman Quest",
-        "price_usd": 157.5,
-        "price_eur": 144.9,
+        "name": "Pokemon Crystal",
+        "price_usd": 152.38,
+        "price_eur": 140.19,
         "isHistory": false
       },
       {
@@ -1719,8 +1719,8 @@
       {
         "rank": 2,
         "name": "Mega Man",
-        "price_usd": 258.09,
-        "price_eur": 237.44,
+        "price_usd": 253.49,
+        "price_eur": 233.21,
         "isHistory": false
       },
       {
@@ -1767,14 +1767,14 @@
       },
       {
         "rank": 9,
-        "name": "Tails' Adventure",
+        "name": "Sega Game Gear [Majesco Revision]",
         "price_usd": 80,
         "price_eur": 73.6,
         "isHistory": false
       },
       {
         "rank": 10,
-        "name": "Sega Game Gear [Majesco Revision]",
+        "name": "Tails' Adventure",
         "price_usd": 80,
         "price_eur": 73.6,
         "isHistory": false
@@ -2189,8 +2189,8 @@
       {
         "rank": 8,
         "name": "Ecco Jr.",
-        "price_usd": 213.25,
-        "price_eur": 196.19,
+        "price_usd": 210.81,
+        "price_eur": 193.95,
         "isHistory": false
       },
       {
@@ -2266,8 +2266,8 @@
       {
         "rank": 19,
         "name": "Flink",
-        "price_usd": 110.77,
-        "price_eur": 101.91,
+        "price_usd": 110.68,
+        "price_eur": 101.83,
         "isHistory": false
       },
       {
@@ -2467,8 +2467,8 @@
       {
         "rank": 7,
         "name": "Pokemon [Not for Resale Deoxys]",
-        "price_usd": 1919.75,
-        "price_eur": 1766.17,
+        "price_usd": 1919.11,
+        "price_eur": 1765.58,
         "isHistory": false
       },
       {
@@ -2551,8 +2551,8 @@
       {
         "rank": 19,
         "name": "Pokemon Meloetta Distribution Cartridge",
-        "price_usd": 301.43,
-        "price_eur": 277.32,
+        "price_usd": 301.57,
+        "price_eur": 277.44,
         "isHistory": false
       },
       {
@@ -3016,8 +3016,8 @@
       {
         "rank": 4,
         "name": "1941: Counter Attack",
-        "price_usd": 601.73,
-        "price_eur": 553.59,
+        "price_usd": 562.46,
+        "price_eur": 517.46,
         "isHistory": false
       },
       {
@@ -3137,8 +3137,8 @@
       {
         "rank": 1,
         "name": "Chip Chan Kick",
-        "price_usd": 336.06,
-        "price_eur": 309.18,
+        "price_usd": 336.78,
+        "price_eur": 309.84,
         "isHistory": false
       },
       {
@@ -3390,30 +3390,30 @@
       },
       {
         "rank": 17,
-        "name": "Batman Forever Arcade",
-        "price_usd": 155.75,
-        "price_eur": 143.29,
-        "isHistory": false
-      },
-      {
-        "rank": 18,
         "name": "Silent Hill [Greatest Hits]",
         "price_usd": 155,
         "price_eur": 142.6,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 18,
         "name": "Xenogears [Greatest Hits]",
         "price_usd": 154.75,
         "price_eur": 142.37,
         "isHistory": false
       },
       {
-        "rank": 20,
+        "rank": 19,
         "name": "Elemental Gearbolt",
         "price_usd": 150.64,
         "price_eur": 138.59,
+        "isHistory": false
+      },
+      {
+        "rank": 20,
+        "name": "Lunar 2 Eternal Blue Complete [Collector's Edition]",
+        "price_usd": 150,
+        "price_eur": 138,
         "isHistory": false
       }
     ],
@@ -4259,8 +4259,8 @@
       {
         "rank": 19,
         "name": "Clean Sweep",
-        "price_usd": 14.34,
-        "price_eur": 13.19,
+        "price_usd": 14.39,
+        "price_eur": 13.24,
         "isHistory": false
       },
       {
@@ -4282,8 +4282,8 @@
       {
         "rank": 2,
         "name": "HyperFlash32 eInk Flash Cartridge",
-        "price_usd": 500,
-        "price_eur": 460,
+        "price_usd": 450,
+        "price_eur": 414,
         "isHistory": false
       },
       {
@@ -4338,8 +4338,8 @@
       {
         "rank": 10,
         "name": "Bound High",
-        "price_usd": 178.65,
-        "price_eur": 164.36,
+        "price_usd": 178.08,
+        "price_eur": 163.83,
         "isHistory": false
       },
       {
@@ -4372,30 +4372,30 @@
       },
       {
         "rank": 15,
+        "name": "Nintendo Virtual Boy AC Adapter",
+        "price_usd": 121.95,
+        "price_eur": 112.19,
+        "isHistory": false
+      },
+      {
+        "rank": 16,
         "name": "Innsmouth Mansion [Homebrew]",
         "price_usd": 117.96,
         "price_eur": 108.52,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 17,
         "name": "Virtual Boy Controller",
         "price_usd": 111.32,
         "price_eur": 102.41,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 18,
         "name": "Virtual Bowling [Homebrew]",
         "price_usd": 109.99,
         "price_eur": 101.19,
-        "isHistory": false
-      },
-      {
-        "rank": 18,
-        "name": "Nintendo Virtual Boy AC Adapter",
-        "price_usd": 92.81,
-        "price_eur": 85.39,
         "isHistory": false
       },
       {
@@ -4678,8 +4678,8 @@
       {
         "rank": 18,
         "name": "Mr. Driller",
-        "price_usd": 76.07,
-        "price_eur": 69.98,
+        "price_usd": 76.3,
+        "price_eur": 70.2,
         "isHistory": false
       },
       {
@@ -4819,23 +4819,23 @@
       },
       {
         "rank": 18,
-        "name": "Skull & Crossbones",
-        "price_usd": 71.36,
-        "price_eur": 65.65,
-        "isHistory": false
-      },
-      {
-        "rank": 19,
         "name": "Live Ammo [+3 Disk]",
         "price_usd": 63.22,
         "price_eur": 58.16,
         "isHistory": false
       },
       {
-        "rank": 20,
+        "rank": 19,
         "name": "Deus Ex Machina",
         "price_usd": 62.33,
         "price_eur": 57.34,
+        "isHistory": false
+      },
+      {
+        "rank": 20,
+        "name": "Captain Dynamo",
+        "price_usd": 61.98,
+        "price_eur": 57.02,
         "isHistory": false
       }
     ]
