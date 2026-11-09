@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08",
+  "updated": "2026-11-09",
   "systems": {
     "3do": [
       {
@@ -54,8 +54,8 @@
       {
         "rank": 8,
         "name": "Lucienne's Quest",
-        "price_usd": 253,
-        "price_eur": 232.76,
+        "price_usd": 257.5,
+        "price_eur": 236.9,
         "isHistory": false
       },
       {
@@ -298,8 +298,8 @@
       {
         "rank": 2,
         "name": "Scramble [Homebrew]",
-        "price_usd": 447.93,
-        "price_eur": 412.1,
+        "price_usd": 446.67,
+        "price_eur": 410.94,
         "isHistory": false
       },
       {
@@ -361,8 +361,8 @@
       {
         "rank": 11,
         "name": "K.C. Munchkin [Homebrew]",
-        "price_usd": 161.14,
-        "price_eur": 148.25,
+        "price_usd": 161.35,
+        "price_eur": 148.44,
         "isHistory": false
       },
       {
@@ -374,14 +374,14 @@
       },
       {
         "rank": 13,
-        "name": "Serpentine [Homebrew]",
+        "name": "Moon Cresta [Homebrew]",
         "price_usd": 140,
         "price_eur": 128.8,
         "isHistory": false
       },
       {
         "rank": 14,
-        "name": "Moon Cresta [Homebrew]",
+        "name": "Serpentine [Homebrew]",
         "price_usd": 140,
         "price_eur": 128.8,
         "isHistory": false
@@ -828,16 +828,16 @@
       },
       {
         "rank": 17,
-        "name": "Black Lamp",
-        "price_usd": 142.05,
-        "price_eur": 130.69,
+        "name": "Jag Zombies",
+        "price_usd": 142.28,
+        "price_eur": 130.9,
         "isHistory": false
       },
       {
         "rank": 18,
-        "name": "Jag Zombies",
-        "price_usd": 141.98,
-        "price_eur": 130.62,
+        "name": "Black Lamp",
+        "price_usd": 142.05,
+        "price_eur": 130.69,
         "isHistory": false
       },
       {
@@ -1044,8 +1044,8 @@
       {
         "rank": 7,
         "name": "Famicom Disk System Console",
-        "price_usd": 74.97,
-        "price_eur": 68.97,
+        "price_usd": 72.49,
+        "price_eur": 66.69,
         "isHistory": false
       },
       {
@@ -1099,44 +1099,44 @@
       },
       {
         "rank": 15,
-        "name": "Legend of Zelda",
-        "price_usd": 41.49,
-        "price_eur": 38.17,
-        "isHistory": false
-      },
-      {
-        "rank": 16,
         "name": "Kick Challenger: Air Foot",
         "price_usd": 41.47,
         "price_eur": 38.15,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 16,
         "name": "Time Twist: Rekishi no Katasumi de [Kouhen]",
         "price_usd": 41.06,
         "price_eur": 37.78,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 17,
         "name": "BurgerTime",
         "price_usd": 40.05,
         "price_eur": 36.85,
         "isHistory": false
       },
       {
+        "rank": 18,
+        "name": "Legend of Zelda",
+        "price_usd": 40,
+        "price_eur": 36.8,
+        "isHistory": false
+      },
+      {
         "rank": 19,
-        "name": "Dracula II",
-        "price_usd": 39.97,
-        "price_eur": 36.77,
+        "name": "Akumajou Dracula",
+        "price_usd": 39.99,
+        "price_eur": 36.79,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "Akumajou Dracula",
-        "price_usd": 38.5,
-        "price_eur": 35.42,
+        "name": "Dracula II",
+        "price_usd": 39.97,
+        "price_eur": 36.77,
         "isHistory": false
       }
     ],
@@ -1349,8 +1349,8 @@
       {
         "rank": 10,
         "name": "Analogue Pocket [Indigo Anodized]",
-        "price_usd": 695.02,
-        "price_eur": 639.42,
+        "price_usd": 697.01,
+        "price_eur": 641.25,
         "isHistory": false
       },
       {
@@ -1532,14 +1532,14 @@
       },
       {
         "rank": 16,
-        "name": "Drill Dozer [Not for Resale]",
+        "name": "Gameboy Advance SP [Groudon Edition]",
         "price_usd": 300,
         "price_eur": 276,
         "isHistory": false
       },
       {
         "rank": 17,
-        "name": "Gameboy Advance SP [Groudon Edition]",
+        "name": "Drill Dozer [Not for Resale]",
         "price_usd": 300,
         "price_eur": 276,
         "isHistory": false
@@ -1681,23 +1681,23 @@
       },
       {
         "rank": 17,
+        "name": "Pokemon Crystal",
+        "price_usd": 158.69,
+        "price_eur": 145.99,
+        "isHistory": false
+      },
+      {
+        "rank": 18,
         "name": "Survival Kids",
         "price_usd": 157.75,
         "price_eur": 145.13,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 19,
         "name": "Bomberman Quest",
         "price_usd": 157.5,
         "price_eur": 144.9,
-        "isHistory": false
-      },
-      {
-        "rank": 19,
-        "name": "Pokemon Crystal",
-        "price_usd": 152.38,
-        "price_eur": 140.19,
         "isHistory": false
       },
       {
@@ -1945,8 +1945,8 @@
       {
         "rank": 14,
         "name": "Sega Nomad",
-        "price_usd": 320.26,
-        "price_eur": 294.64,
+        "price_usd": 320,
+        "price_eur": 294.4,
         "isHistory": false
       },
       {
@@ -2131,8 +2131,8 @@
       {
         "rank": 20,
         "name": "OutRun [Blue Label]",
-        "price_usd": 53.27,
-        "price_eur": 49.01,
+        "price_usd": 53.43,
+        "price_eur": 49.16,
         "isHistory": false
       }
     ],
@@ -3286,8 +3286,8 @@
       {
         "rank": 2,
         "name": "Elemental Gearbolt Assassin Case",
-        "price_usd": 9288.58,
-        "price_eur": 8545.49,
+        "price_usd": 9285.48,
+        "price_eur": 8542.64,
         "isHistory": false
       },
       {
@@ -3327,23 +3327,23 @@
       },
       {
         "rank": 8,
+        "name": "Koudelka",
+        "price_usd": 249.5,
+        "price_eur": 229.54,
+        "isHistory": false
+      },
+      {
+        "rank": 9,
         "name": "Persona Revelations Series",
         "price_usd": 245.99,
         "price_eur": 226.31,
         "isHistory": false
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "Shadow Tower",
         "price_usd": 242.44,
         "price_eur": 223.04,
-        "isHistory": false
-      },
-      {
-        "rank": 10,
-        "name": "Koudelka",
-        "price_usd": 233.91,
-        "price_eur": 215.2,
         "isHistory": false
       },
       {
@@ -3363,8 +3363,8 @@
       {
         "rank": 13,
         "name": "Silent Hill",
-        "price_usd": 182.5,
-        "price_eur": 167.9,
+        "price_usd": 180,
+        "price_eur": 165.6,
         "isHistory": false
       },
       {
@@ -3398,8 +3398,8 @@
       {
         "rank": 18,
         "name": "Elemental Gearbolt",
-        "price_usd": 150.64,
-        "price_eur": 138.59,
+        "price_usd": 150.49,
+        "price_eur": 138.45,
         "isHistory": false
       },
       {
@@ -3420,14 +3420,14 @@
     "ps2": [
       {
         "rank": 1,
-        "name": "PlayStation 2 System [Blue Automotive Edition]",
+        "name": "PlayStation 2 System [Yellow Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
       },
       {
         "rank": 2,
-        "name": "PlayStation 2 System [Yellow Automotive Edition]",
+        "name": "PlayStation 2 System [Blue Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
@@ -3525,16 +3525,16 @@
       },
       {
         "rank": 16,
-        "name": "PlayStation 2 System [Silver Automotive Edition]",
-        "price_usd": 323.04,
-        "price_eur": 297.2,
+        "name": "Silent Hill: Shattered Memories",
+        "price_usd": 341.33,
+        "price_eur": 314.02,
         "isHistory": false
       },
       {
         "rank": 17,
-        "name": "Silent Hill: Shattered Memories",
-        "price_usd": 310.57,
-        "price_eur": 285.72,
+        "name": "PlayStation 2 System [Silver Automotive Edition]",
+        "price_usd": 323.04,
+        "price_eur": 297.2,
         "isHistory": false
       },
       {
@@ -3668,8 +3668,8 @@
       {
         "rank": 16,
         "name": "Legend of Heroes: Trails in the Sky [Premium Edition]",
-        "price_usd": 159.99,
-        "price_eur": 147.19,
+        "price_usd": 159.81,
+        "price_eur": 147.03,
         "isHistory": false
       },
       {
@@ -3688,7 +3688,7 @@
       },
       {
         "rank": 19,
-        "name": "PSP 3000 Bright Yellow",
+        "name": "PSP 2000 Limited Edition Star Wars Battlefront Version [White]",
         "price_usd": 134.99,
         "price_eur": 124.19,
         "isHistory": false
@@ -4073,30 +4073,30 @@
       },
       {
         "rank": 13,
+        "name": "Demon's Crest",
+        "price_usd": 237.1,
+        "price_eur": 218.13,
+        "isHistory": false
+      },
+      {
+        "rank": 14,
         "name": "Final Fight 3",
         "price_usd": 235.01,
         "price_eur": 216.21,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 15,
         "name": "Super Chase HQ",
         "price_usd": 228.36,
         "price_eur": 210.09,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 16,
         "name": "Cool World",
         "price_usd": 221.47,
         "price_eur": 203.75,
-        "isHistory": false
-      },
-      {
-        "rank": 16,
-        "name": "Demon's Crest",
-        "price_usd": 213.88,
-        "price_eur": 196.77,
         "isHistory": false
       },
       {
@@ -4573,8 +4573,8 @@
       {
         "rank": 3,
         "name": "Super Robot Taisen Compact 3",
-        "price_usd": 152.83,
-        "price_eur": 140.6,
+        "price_usd": 152.81,
+        "price_eur": 140.59,
         "isHistory": false
       },
       {
