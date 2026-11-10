@@ -1,6 +1,22 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "notices": [
+    {
+      "guid": "https://www.jeuxvideo.com/news/2113031/sans-zelda-et-mario-vous-ne-joueriez-pas-a-gta-6-ni-a-aucun-jeu-en-3d-et-ce-n-est-pas-nous-qui-le-disons.htm",
+      "title": "Sans Zelda et Mario, vous ne joueriez pas à GTA 6, ni à aucun jeu en 3D ! Et ce n'est pas nous qui le disons…",
+      "link": "https://www.jeuxvideo.com/news/2113031/sans-zelda-et-mario-vous-ne-joueriez-pas-a-gta-6-ni-a-aucun-jeu-en-3d-et-ce-n-est-pas-nous-qui-le-disons.htm",
+      "pubDate": "Tue, 10 Nov 2026 06:05:08 +0100",
+      "contentSnippet": "On pourrait croire qu’il n’y a pas plus opposé que The Legend of Zelda : Ocarina of Time et GTA 6 et pourtant, les co-fondateurs de Rockstar rappellent que les jeux en 3D n’existeraient pas sans Mario et Zelda !",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179397/1793973585-9414-card.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2113360/pour-gta-6-cela-n-avait-aucun-sens-de-remplacer-les-creatifs-par-de-l-ia-le-jeu-est-une-production-artisanale-pour-le-patron-de-take-two.htm",
+      "title": "Pour GTA 6, cela n'avait aucun sens de remplacer les créatifs par de l'IA : le jeu est une \"production artisanale\" pour le patron de Take Two",
+      "link": "https://www.jeuxvideo.com/news/2113360/pour-gta-6-cela-n-avait-aucun-sens-de-remplacer-les-creatifs-par-de-l-ia-le-jeu-est-une-production-artisanale-pour-le-patron-de-take-two.htm",
+      "pubDate": "Mon, 09 Nov 2026 22:20:08 +0100",
+      "contentSnippet": "Nous sommes en 2026. Toute l'industrie vidéoludique est occupée par l'intelligence artificielle générative... Toute ? Non ! Car un studio peuplé d'irréductibles développeurs nommé Rockstar Games résiste encore et toujours à l'envahisseur algorithmique.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179424/1794235330-9076-card.jpg"
+    },
     {
       "guid": "https://www.jeuxvideo.com/news/2113344/sony-annonce-une-nouvelle-playstation-portal-voici-ses-caracteristiques.htm",
       "title": "Sony annonce une nouvelle PlayStation Portal, voici ses caractéristiques",
@@ -80,22 +96,6 @@
       "pubDate": "Mon, 09 Nov 2026 16:00:46 +0000",
       "contentSnippet": "ActuGaming.net\nSkydance : Après le rachat de Warner Bros, les licenciements commencent dans la division jeu vidéo\n\nComme Microsoft, Skydance a annoncé un grand plan de départ volontaire afin de réduire ses […]\nL'article Skydance : Après le rachat de Warner Bros, les licenciements commencent dans la division jeu vidéo est disponible sur ActuGaming.net",
       "thumbnail": "https://static.actugaming.net/media/2026/11/the-walking-dead-saints-sinners.webp"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=832899",
-      "title": "World of Warcraft: Forever enregistre un sacré record pour le MMO et rameute beaucoup d’anciens joueurs",
-      "link": "https://www.actugaming.net/world-of-warcraft-forever-enregistre-un-sacre-record-pour-le-mmo-et-rameute-beaucoup-danciens-joueurs-832899/",
-      "pubDate": "Mon, 09 Nov 2026 15:00:15 +0000",
-      "contentSnippet": "ActuGaming.net\nWorld of Warcraft: Forever enregistre un sacré record pour le MMO et rameute beaucoup d’anciens joueurs\n\nLa nostalgie a encore frappé. Blizzard a beau avoir déjà donné une deuxième jeunesse à […]\nL'article World of Warcraft: Forever enregistre un sacré record pour le MMO et rameute beaucoup d’anciens joueurs est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/09/WoW-Forever-Cinematic-Still-10-e1789295388100.jpg"
-    },
-    {
-      "guid": "https://www.jeuxvideo.com/news/2113130/ps5-on-sait-combien-la-console-a-rapporte-d-argent-en-2026-la-fin-des-disques-ne-suffira-pas-a-faire-vaciller-sony.htm",
-      "title": "PS5 : on sait combien la console a rapporté d'argent en 2026... La fin des disques ne suffira pas à faire vaciller Sony",
-      "link": "https://www.jeuxvideo.com/news/2113130/ps5-on-sait-combien-la-console-a-rapporte-d-argent-en-2026-la-fin-des-disques-ne-suffira-pas-a-faire-vaciller-sony.htm",
-      "pubDate": "Mon, 09 Nov 2026 16:00:09 +0100",
-      "contentSnippet": "PlayStation se porte bien. Entre les pétitions en ligne, les appels au boycott et les débats houleux sur les réseaux sociaux, on aurait presque pu imaginer un constructeur fragilisé par ses choix stratégiques... et bien pas du tout.  L'annonce de la disparition progressive des supports physiques d'ici...",
-      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179399/1793985569-2007-card.jpg"
     }
   ]
 }
