@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "systems": {
     "3do": [
       {
@@ -233,8 +233,8 @@
       {
         "rank": 13,
         "name": "Color Bar Generator",
-        "price_usd": 479.31,
-        "price_eur": 440.97,
+        "price_usd": 485.46,
+        "price_eur": 446.62,
         "isHistory": false
       },
       {
@@ -843,8 +843,8 @@
       {
         "rank": 19,
         "name": "Worms",
-        "price_usd": 122.13,
-        "price_eur": 112.36,
+        "price_usd": 122.14,
+        "price_eur": 112.37,
         "isHistory": false
       },
       {
@@ -894,16 +894,16 @@
       },
       {
         "rank": 6,
-        "name": "VM2",
-        "price_usd": 200,
-        "price_eur": 184,
+        "name": "Sega Dreamcast Sports Edition Console",
+        "price_usd": 201.25,
+        "price_eur": 185.15,
         "isHistory": false
       },
       {
         "rank": 7,
-        "name": "Sega Dreamcast Sports Edition Console",
-        "price_usd": 187.5,
-        "price_eur": 172.5,
+        "name": "VM2",
+        "price_usd": 200,
+        "price_eur": 184,
         "isHistory": false
       },
       {
@@ -936,16 +936,16 @@
       },
       {
         "rank": 12,
-        "name": "Sega Dreamcast Broadband Adapter",
-        "price_usd": 139.48,
-        "price_eur": 128.32,
+        "name": "Sega Dreamcast Console",
+        "price_usd": 145.64,
+        "price_eur": 133.99,
         "isHistory": false
       },
       {
         "rank": 13,
-        "name": "Sega Dreamcast Console",
-        "price_usd": 138.55,
-        "price_eur": 127.47,
+        "name": "Sega Dreamcast Broadband Adapter",
+        "price_usd": 139.48,
+        "price_eur": 128.32,
         "isHistory": false
       },
       {
@@ -1286,8 +1286,8 @@
       {
         "rank": 1,
         "name": "Gold Nintendo Power 100 Gameboy Pocket",
-        "price_usd": 1639.76,
-        "price_eur": 1508.58,
+        "price_usd": 1639.88,
+        "price_eur": 1508.69,
         "isHistory": false
       },
       {
@@ -1519,8 +1519,8 @@
       {
         "rank": 14,
         "name": "Gameboy Advance Console & E-Reader Bundle",
-        "price_usd": 392.36,
-        "price_eur": 360.97,
+        "price_usd": 391.79,
+        "price_eur": 360.45,
         "isHistory": false
       },
       {
@@ -1532,14 +1532,14 @@
       },
       {
         "rank": 16,
-        "name": "Gameboy Advance SP [Groudon Edition]",
+        "name": "Drill Dozer [Not for Resale]",
         "price_usd": 300,
         "price_eur": 276,
         "isHistory": false
       },
       {
         "rank": 17,
-        "name": "Drill Dozer [Not for Resale]",
+        "name": "Gameboy Advance SP [Groudon Edition]",
         "price_usd": 300,
         "price_eur": 276,
         "isHistory": false
@@ -1768,8 +1768,8 @@
       {
         "rank": 9,
         "name": "Tails' Adventure",
-        "price_usd": 80,
-        "price_eur": 73.6,
+        "price_usd": 80.55,
+        "price_eur": 74.11,
         "isHistory": false
       },
       {
@@ -1782,8 +1782,8 @@
       {
         "rank": 11,
         "name": "Cosmic Spacehead",
-        "price_usd": 76.03,
-        "price_eur": 69.95,
+        "price_usd": 75.91,
+        "price_eur": 69.84,
         "isHistory": false
       },
       {
@@ -1809,16 +1809,16 @@
       },
       {
         "rank": 15,
-        "name": "Shining Force Sword of Hajya",
-        "price_usd": 53.99,
-        "price_eur": 49.67,
+        "name": "Arena Maze of Death",
+        "price_usd": 52,
+        "price_eur": 47.84,
         "isHistory": false
       },
       {
         "rank": 16,
-        "name": "Arena Maze of Death",
-        "price_usd": 52,
-        "price_eur": 47.84,
+        "name": "Shining Force Sword of Hajya",
+        "price_usd": 50.2,
+        "price_eur": 46.18,
         "isHistory": false
       },
       {
@@ -1861,8 +1861,8 @@
       {
         "rank": 2,
         "name": "Outback Joey",
-        "price_usd": 3501.35,
-        "price_eur": 3221.24,
+        "price_usd": 3500.51,
+        "price_eur": 3220.47,
         "isHistory": false
       },
       {
@@ -1958,37 +1958,37 @@
       },
       {
         "rank": 16,
+        "name": "Sega Genesis [Altered Beast Bundle]",
+        "price_usd": 286.64,
+        "price_eur": 263.71,
+        "isHistory": false
+      },
+      {
+        "rank": 17,
         "name": "Paprium [Limited Edition]",
         "price_usd": 284.47,
         "price_eur": 261.71,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 18,
         "name": "Star Odyssey",
         "price_usd": 260,
         "price_eur": 239.2,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 19,
         "name": "Mega EverDrive PRO [Red]",
         "price_usd": 245,
         "price_eur": 225.4,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 20,
         "name": "Blockbuster Game Factory Blue",
         "price_usd": 208.6,
         "price_eur": 191.91,
-        "isHistory": false
-      },
-      {
-        "rank": 20,
-        "name": "Sega 32x Genesis Virtua Fighter Bundle",
-        "price_usd": 199.99,
-        "price_eur": 183.99,
         "isHistory": false
       }
     ],
@@ -2282,8 +2282,8 @@
       {
         "rank": 1,
         "name": "Zelda Majora's Mask [Adventure Set]",
-        "price_usd": 1742.05,
-        "price_eur": 1602.69,
+        "price_usd": 1742,
+        "price_eur": 1602.64,
         "isHistory": false
       },
       {
@@ -2516,8 +2516,8 @@
       {
         "rank": 14,
         "name": "Pokemon [Legendary Not For Resale Y90E]",
-        "price_usd": 679.52,
-        "price_eur": 625.16,
+        "price_usd": 675.96,
+        "price_eur": 621.88,
         "isHistory": false
       },
       {
@@ -2978,16 +2978,16 @@
       },
       {
         "rank": 19,
-        "name": "Metal Slug 1st Mission",
-        "price_usd": 53.34,
-        "price_eur": 49.07,
+        "name": "Picture Puzzle",
+        "price_usd": 52.47,
+        "price_eur": 48.27,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "Picture Puzzle",
-        "price_usd": 52.47,
-        "price_eur": 48.27,
+        "name": "Metal Slug 1st Mission",
+        "price_usd": 51.1,
+        "price_eur": 47.01,
         "isHistory": false
       }
     ],
@@ -3313,44 +3313,44 @@
       },
       {
         "rank": 6,
+        "name": "Shadow Tower",
+        "price_usd": 274.99,
+        "price_eur": 252.99,
+        "isHistory": false
+      },
+      {
+        "rank": 7,
         "name": "PSOne Slim Console with LCD Screen Combo",
         "price_usd": 255.73,
         "price_eur": 235.27,
         "isHistory": false
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "The Misadventures of Tron Bonne",
         "price_usd": 249.99,
         "price_eur": 229.99,
         "isHistory": false
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "Koudelka",
         "price_usd": 249.5,
         "price_eur": 229.54,
         "isHistory": false
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "Persona Revelations Series",
         "price_usd": 245.99,
         "price_eur": 226.31,
         "isHistory": false
       },
       {
-        "rank": 10,
-        "name": "Shadow Tower",
-        "price_usd": 242.44,
-        "price_eur": 223.04,
-        "isHistory": false
-      },
-      {
         "rank": 11,
         "name": "Clock Tower 2",
-        "price_usd": 232.01,
-        "price_eur": 213.45,
+        "price_usd": 232.5,
+        "price_eur": 213.9,
         "isHistory": false
       },
       {
@@ -3420,14 +3420,14 @@
     "ps2": [
       {
         "rank": 1,
-        "name": "PlayStation 2 System [Yellow Automotive Edition]",
+        "name": "PlayStation 2 System [Blue Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
       },
       {
         "rank": 2,
-        "name": "PlayStation 2 System [Blue Automotive Edition]",
+        "name": "PlayStation 2 System [Yellow Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
@@ -3512,8 +3512,8 @@
       {
         "rank": 14,
         "name": "Haunting Ground",
-        "price_usd": 445,
-        "price_eur": 409.4,
+        "price_usd": 420,
+        "price_eur": 386.4,
         "isHistory": false
       },
       {
@@ -3563,8 +3563,8 @@
       {
         "rank": 1,
         "name": "The Hilton Family",
-        "price_usd": 1311.27,
-        "price_eur": 1206.37,
+        "price_usd": 1311.48,
+        "price_eur": 1206.56,
         "isHistory": false
       },
       {
@@ -3653,16 +3653,16 @@
       },
       {
         "rank": 14,
-        "name": "PSP 3000 Limited Edition Ratchet & Clank Version",
-        "price_usd": 160.81,
-        "price_eur": 147.95,
+        "name": "Shin Megami Tensei: Persona 2: Innocent Sin [Limited Edition]",
+        "price_usd": 161.1,
+        "price_eur": 148.21,
         "isHistory": false
       },
       {
         "rank": 15,
-        "name": "Shin Megami Tensei: Persona 2: Innocent Sin [Limited Edition]",
-        "price_usd": 160.7,
-        "price_eur": 147.84,
+        "name": "PSP 3000 Limited Edition Ratchet & Clank Version",
+        "price_usd": 160.81,
+        "price_eur": 147.95,
         "isHistory": false
       },
       {
@@ -3688,14 +3688,14 @@
       },
       {
         "rank": 19,
-        "name": "PSP 2000 Limited Edition Star Wars Battlefront Version [White]",
+        "name": "PSP 3000 Bright Yellow",
         "price_usd": 134.99,
         "price_eur": 124.19,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "PSP 3000 Mystic Silver",
+        "name": "PSP 2000 Limited Edition Star Wars Battlefront Version [White]",
         "price_usd": 134.99,
         "price_eur": 124.19,
         "isHistory": false
@@ -3726,8 +3726,8 @@
       {
         "rank": 4,
         "name": "Motherbase",
-        "price_usd": 216.48,
-        "price_eur": 199.16,
+        "price_usd": 215.74,
+        "price_eur": 198.48,
         "isHistory": false
       },
       {
@@ -3868,8 +3868,8 @@
       {
         "rank": 4,
         "name": "Magical Pop'n",
-        "price_usd": 526.36,
-        "price_eur": 484.25,
+        "price_usd": 516.04,
+        "price_eur": 474.76,
         "isHistory": false
       },
       {
@@ -3990,8 +3990,8 @@
       {
         "rank": 1,
         "name": "Donkey Kong Country [5-Game Crate]",
-        "price_usd": 1455.78,
-        "price_eur": 1339.32,
+        "price_usd": 1455.67,
+        "price_eur": 1339.22,
         "isHistory": false
       },
       {
@@ -4331,8 +4331,8 @@
       {
         "rank": 9,
         "name": "Virtual Lab [Homebrew]",
-        "price_usd": 179.19,
-        "price_eur": 164.85,
+        "price_usd": 179.25,
+        "price_eur": 164.91,
         "isHistory": false
       },
       {
