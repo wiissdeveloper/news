@@ -1,6 +1,22 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "notices": [
+    {
+      "guid": "https://www.jeuxvideo.com/news/2114266/gta-6-votre-precommande-est-en-retard-que-faut-il-faire.htm",
+      "title": "GTA 6 : votre précommande est en retard, que faut-il faire ?",
+      "link": "https://www.jeuxvideo.com/news/2114266/gta-6-votre-precommande-est-en-retard-que-faut-il-faire.htm",
+      "pubDate": "Fri, 13 Nov 2026 22:20:08 +0100",
+      "contentSnippet": "Vous pensiez avoir l’esprit tranquille parce que vous avez effectué votre précommande de Grand Theft Auto 6 des mois à l’avance ? Rassurez-vous, vous n’étiez pas les seuls à penser ça. À quelques jours de la sortie, des témoignages et des captures d’écran de statut de commande ont afflué sur les réseaux...",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179458/1794576638-6611-card.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2114232/le-baldur-s-gate-3-de-la-sf-ce-rpg-est-le-jeu-que-j-attends-le-plus-debut-2027.htm",
+      "title": "Le Baldur's Gate 3 de la SF : ce RPG est le jeu que j'attends le plus début 2027 !",
+      "link": "https://www.jeuxvideo.com/news/2114232/le-baldur-s-gate-3-de-la-sf-ce-rpg-est-le-jeu-que-j-attends-le-plus-debut-2027.htm",
+      "pubDate": "Fri, 13 Nov 2026 21:40:08 +0100",
+      "contentSnippet": "D’un côté, Warhammer 40.000, un univers que je connais très bien. De l’autre, Baldur’s Gate 3, un jeu de rôle que je considère comme le meilleur dans sa catégorie. Quand un CRPG ambitieux promet de réunir les deux, difficile de rester de marbre. Dès l’annonce de Warhammer 40.000 : Dark Heresy, je me...",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179457/1794567029-2256-card.jpg"
+    },
     {
       "guid": "https://www.gamekult.com/actualite/god-of-war-sons-of-sparta-deboule-enfin-sur-ps4-le-metroidvania-s-enrichit-de-deux-modes-bonus-3050872969.html",
       "title": "God of War : Sons of Sparta déboule enfin sur PS4, le metroidvania s'enrichit de deux modes bonus",
@@ -80,22 +96,6 @@
       "pubDate": "Fri, 13 Nov 2026 15:15:22 +0000",
       "contentSnippet": "ActuGaming.net\nStranger Than Heaven présente en vidéo le contexte narratif de son chapitre prenant place à Kure\n\nChez SEGA et RGG Studio, on mise pas mal sur Stranger Than Heaven. Techniquement dans […]\nL'article Stranger Than Heaven présente en vidéo le contexte narratif de son chapitre prenant place à Kure est disponible sur ActuGaming.net",
       "thumbnail": "https://static.actugaming.net/media/2026/11/stranger-than-heaven-illu.jpg"
-    },
-    {
-      "guid": "https://www.gamekult.com/actualite/xbox-officialise-wolfenstein-3-machinegames-confirme-le-retour-de-b-j-blazkowicz-3050872950.html",
-      "title": "Xbox officialise Wolfenstein 3, MachineGames confirme le retour de B.J. Blazkowicz",
-      "link": "https://www.gamekult.com/actualite/xbox-officialise-wolfenstein-3-machinegames-confirme-le-retour-de-b-j-blazkowicz-3050872950.html",
-      "pubDate": "Fri, 13 Nov 2026 15:36:00 +0100",
-      "contentSnippet": "Après une longue escapade au rayon aventure avec Indiana Jones et le Cercle Ancien, le studio suédois MachineGames s'apprête à retourner à sa véritable vocation : le massacre de nazis à la chaîne. La PDG de Xbox, Asha Sharma, vient de confirmer publiquement la mise en chantier de Wolfenstein 3.",
-      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872950/xbox-officialise-wolfenstein-3-machinegames-confirme-le-retour-de-b-j-blazkowicz-7d188b54__930_300__0-320-3840-1563.jpg"
-    },
-    {
-      "guid": "https://www.jeuxvideo.com/news/2114299/xbox-la-panne-microsoft-empeche-des-milliers-de-joueurs-d-acceder-a-leurs-jeux-video.htm",
-      "title": "Xbox : la panne Microsoft empêche des milliers de joueurs d'accéder à leurs jeux vidéo",
-      "link": "https://www.jeuxvideo.com/news/2114299/xbox-la-panne-microsoft-empeche-des-milliers-de-joueurs-d-acceder-a-leurs-jeux-video.htm",
-      "pubDate": "Fri, 13 Nov 2026 15:25:37 +0100",
-      "contentSnippet": "Depuis le 12 novembre 2026, une panne mondiale frappe les infrastructures de Microsoft. Si elle affectait surtout Outlook et la suite Microsoft 365, les services Xbox Cloud Gaming sont également désormais impactés. Si bien que des joueurs se retrouvent dans l’incapacité de jouer sur leur Xbox !",
-      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179458/1794579013-4180-card.jpg"
     }
   ]
 }
