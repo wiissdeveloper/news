@@ -1,6 +1,22 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "notices": [
+    {
+      "guid": "https://www.gamesource.it/?post_type=notizie&p=1149804",
+      "title": "Annunciato League of Legends New Dawn, il grande rework del MOBA targato Riot Games",
+      "link": "https://www.gamesource.it/notizie/annunciato-league-of-legends-new-dawn-il-grande-rework-del-moba-targato-riot-games/",
+      "pubDate": "Sat, 14 Nov 2026 22:22:44 +0000",
+      "contentSnippet": "Finalmente Riot Games ha scoperchiato il vaso di Pandora: League Next è realtà e si chiama League of Legends: New Dawn, l’update che punta a portare il MOBA targato Riot allo stadio successivo, andando a cambiare il gioco dalle sue fondamenta. L’annuncio è arrivato sul palco più importante dell’anno, durante la finale dei Worlds 2026…\nContinua a leggere su GameSource",
+      "thumbnail": "https://www.gamesource.it/wp-content/uploads/2026/11/League-of-Legends-si-prepara-a-rinascere-sotto-il-nome-New-Dawn-1024x576.webp"
+    },
+    {
+      "guid": "https://www.gamesource.it/?post_type=editoriali&p=1149733",
+      "title": "Una giornata con i finalisti della Bologna Game Farm",
+      "link": "https://www.gamesource.it/editoriali/giornata-alla-bologna-game-farm/",
+      "pubDate": "Sat, 14 Nov 2026 22:02:40 +0000",
+      "contentSnippet": "Nella giornata del 12 novembre 2026 mi sono diretto a Bologna per vivere una giornata insieme ad alcuni colleghi e a vari team di sviluppo, per provare gli otto giochi selezionati per la finale della Game Farm e fare qualche chiacchierata con gli sviluppatori. L’accelerazione della BGF ha come obiettivo quello di seguire dei professionisti…\nContinua a leggere su GameSource",
+      "thumbnail": "https://www.gamesource.it/wp-content/uploads/2026/11/bologna-game-farm-giornata-12-novembre-1024x576.webp"
+    },
     {
       "guid": "https://www.gamesource.it/?post_type=notizie&p=1149770",
       "title": "Solo GTA 6 può giustificare il prezzo pieno?",
@@ -80,22 +96,6 @@
       "pubDate": "Fri, 13 Nov 2026 15:00:44 +0000",
       "contentSnippet": "Confermata la presenza di Devolver Digital, Dotemu e Team17.\nIl nuovo evento di PC Gaming presentato da Frankie Ward svelerà la classifica dei venti titoli PC più attesi, affiancata da nuovi trailer e annunci di Devolver Digital, Dotemu e Team17.",
       "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/f_gvgm.jpg"
-    },
-    {
-      "guid": "https://it.ign.com/wolfenstein-3/229199/wolfenstein-3-e-ufficialmente-in-produzione-machinegames-svela-la-prima-foto-dal-set",
-      "title": "Wolfenstein 3 è ufficialmente in produzione, MachineGames svela la prima foto dal set",
-      "link": "https://it.ign.com/wolfenstein-3/229199/wolfenstein-3-e-ufficialmente-in-produzione-machinegames-svela-la-prima-foto-dal-set",
-      "pubDate": "Fri, 13 Nov 2026 14:30:44 +0000",
-      "contentSnippet": "L'annuncio per i 25 anni di Xbox.\nLa CEO di Xbox Asha Sharma e lo studio svedese MachineGames confermano il nuovo capitolo della saga di Wolfenstein, accompagnando la notizia con una pagina della sceneggiatura.",
-      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/wolfenstein-3-ann-11-12-26-mocap_dw9s.jpg"
-    },
-    {
-      "guid": "https://it.ign.com/the-legend-of-zelda-ocarina-of-time-remake/229196/the-legend-of-zelda-ocarina-of-time-e-un-grande-remake-arriva-lelogio-del-ceo-di-take-two",
-      "title": "The Legend of Zelda: Ocarina of Time è un grande remake, arriva l'elogio del CEO di Take-Two",
-      "link": "https://it.ign.com/the-legend-of-zelda-ocarina-of-time-remake/229196/the-legend-of-zelda-ocarina-of-time-e-un-grande-remake-arriva-lelogio-del-ceo-di-take-two",
-      "pubDate": "Fri, 13 Nov 2026 13:30:32 +0000",
-      "contentSnippet": "Strauss Zelnick elogia l'esclusiva Nintendo e analizza l'impatto di GTA VI sul mercato.\nStrauss Zelnick, CEO dell'azienda che controlla Rockstar Games e GTA VI, spende belle parole per l'ultimo gioco di Nintendo.",
-      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/blob_qxs3.png"
     }
   ]
 }
