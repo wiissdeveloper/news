@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15",
+  "updated": "2026-11-16",
   "systems": {
     "3do": [
       {
@@ -410,8 +410,8 @@
       {
         "rank": 18,
         "name": "Klax [Homebrew]",
-        "price_usd": 118.88,
-        "price_eur": 109.37,
+        "price_usd": 118.8,
+        "price_eur": 109.3,
         "isHistory": false
       },
       {
@@ -717,8 +717,8 @@
       {
         "rank": 1,
         "name": "Atari Jaguar System",
-        "price_usd": 462.5,
-        "price_eur": 425.5,
+        "price_usd": 481.12,
+        "price_eur": 442.63,
         "isHistory": false
       },
       {
@@ -752,8 +752,8 @@
       {
         "rank": 6,
         "name": "Atari Karts",
-        "price_usd": 211.41,
-        "price_eur": 194.5,
+        "price_usd": 211.1,
+        "price_eur": 194.21,
         "isHistory": false
       },
       {
@@ -957,14 +957,14 @@
       },
       {
         "rank": 15,
-        "name": "JoJo's Bizarre Adventure",
+        "name": "Code Breaker",
         "price_usd": 119.99,
         "price_eur": 110.39,
         "isHistory": false
       },
       {
         "rank": 16,
-        "name": "Code Breaker",
+        "name": "JoJo's Bizarre Adventure",
         "price_usd": 119.99,
         "price_eur": 110.39,
         "isHistory": false
@@ -1363,8 +1363,8 @@
       {
         "rank": 12,
         "name": "Analogue Pocket [Transparent Green]",
-        "price_usd": 546.51,
-        "price_eur": 502.79,
+        "price_usd": 547.21,
+        "price_eur": 503.43,
         "isHistory": false
       },
       {
@@ -1404,14 +1404,14 @@
       },
       {
         "rank": 18,
-        "name": "Analogue Pocket [Red]",
+        "name": "Analogue Pocket [Berry]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
       },
       {
         "rank": 19,
-        "name": "Analogue Pocket [Berry]",
+        "name": "Analogue Pocket [Red]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
@@ -1532,14 +1532,14 @@
       },
       {
         "rank": 16,
-        "name": "Drill Dozer [Not for Resale]",
+        "name": "Gameboy Advance SP [Groudon Edition]",
         "price_usd": 300,
         "price_eur": 276,
         "isHistory": false
       },
       {
         "rank": 17,
-        "name": "Gameboy Advance SP [Groudon Edition]",
+        "name": "Drill Dozer [Not for Resale]",
         "price_usd": 300,
         "price_eur": 276,
         "isHistory": false
@@ -1612,8 +1612,8 @@
       {
         "rank": 7,
         "name": "Pokemon Gold [Not For Resale]",
-        "price_usd": 393.35,
-        "price_eur": 361.88,
+        "price_usd": 395.21,
+        "price_eur": 363.59,
         "isHistory": false
       },
       {
@@ -1768,8 +1768,8 @@
       {
         "rank": 9,
         "name": "Tails' Adventure",
-        "price_usd": 80.55,
-        "price_eur": 74.11,
+        "price_usd": 83.44,
+        "price_eur": 76.76,
         "isHistory": false
       },
       {
@@ -1796,8 +1796,8 @@
       {
         "rank": 13,
         "name": "Sega Game Gear Handheld",
-        "price_usd": 59.97,
-        "price_eur": 55.17,
+        "price_usd": 59.99,
+        "price_eur": 55.19,
         "isHistory": false
       },
       {
@@ -1903,8 +1903,8 @@
       {
         "rank": 8,
         "name": "Analogue Mega Sg [White]",
-        "price_usd": 532,
-        "price_eur": 489.44,
+        "price_usd": 530.37,
+        "price_eur": 487.94,
         "isHistory": false
       },
       {
@@ -1938,15 +1938,15 @@
       {
         "rank": 13,
         "name": "MUSHA",
-        "price_usd": 342,
-        "price_eur": 314.64,
+        "price_usd": 326.16,
+        "price_eur": 300.07,
         "isHistory": false
       },
       {
         "rank": 14,
         "name": "Sega Nomad",
-        "price_usd": 321.48,
-        "price_eur": 295.76,
+        "price_usd": 300.5,
+        "price_eur": 276.46,
         "isHistory": false
       },
       {
@@ -2189,8 +2189,8 @@
       {
         "rank": 8,
         "name": "Ecco Jr.",
-        "price_usd": 210.81,
-        "price_eur": 193.95,
+        "price_usd": 209.64,
+        "price_eur": 192.87,
         "isHistory": false
       },
       {
@@ -2394,8 +2394,8 @@
       {
         "rank": 17,
         "name": "Conker's Bad Fur Day",
-        "price_usd": 183.35,
-        "price_eur": 168.68,
+        "price_usd": 180.94,
+        "price_eur": 166.46,
         "isHistory": false
       },
       {
@@ -2439,8 +2439,8 @@
       {
         "rank": 3,
         "name": "Zelda Twilight Princess [Preview Trailer]",
-        "price_usd": 2670.94,
-        "price_eur": 2457.26,
+        "price_usd": 2669.6,
+        "price_eur": 2456.03,
         "isHistory": false
       },
       {
@@ -2551,15 +2551,15 @@
       {
         "rank": 19,
         "name": "Pokemon Meloetta Distribution Cartridge",
-        "price_usd": 301.57,
-        "price_eur": 277.44,
+        "price_usd": 301.71,
+        "price_eur": 277.57,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "Pokemon White Nintendo DSi System",
-        "price_usd": 279.4,
-        "price_eur": 257.05,
+        "name": "Mario Kart DS [Not for Resale]",
+        "price_usd": 255,
+        "price_eur": 234.6,
         "isHistory": false
       }
     ],
@@ -2909,8 +2909,8 @@
       {
         "rank": 9,
         "name": "Pocket Reversi",
-        "price_usd": 83.63,
-        "price_eur": 76.94,
+        "price_usd": 83.6,
+        "price_eur": 76.91,
         "isHistory": false
       },
       {
@@ -3016,8 +3016,8 @@
       {
         "rank": 4,
         "name": "1941: Counter Attack",
-        "price_usd": 562.46,
-        "price_eur": 517.46,
+        "price_usd": 557.55,
+        "price_eur": 512.95,
         "isHistory": false
       },
       {
@@ -3363,8 +3363,8 @@
       {
         "rank": 13,
         "name": "Silent Hill",
-        "price_usd": 180,
-        "price_eur": 165.6,
+        "price_usd": 183.94,
+        "price_eur": 169.22,
         "isHistory": false
       },
       {
@@ -3526,8 +3526,8 @@
       {
         "rank": 16,
         "name": "Obscure",
-        "price_usd": 357.1,
-        "price_eur": 328.53,
+        "price_usd": 354.91,
+        "price_eur": 326.52,
         "isHistory": false
       },
       {
@@ -3547,8 +3547,8 @@
       {
         "rank": 19,
         "name": ".hack Quarantine",
-        "price_usd": 299.84,
-        "price_eur": 275.85,
+        "price_usd": 299.95,
+        "price_eur": 275.95,
         "isHistory": false
       },
       {
@@ -3688,16 +3688,16 @@
       },
       {
         "rank": 19,
-        "name": "PSP 3000 Mystic Silver",
-        "price_usd": 138.29,
-        "price_eur": 127.23,
+        "name": "Shin Megami Tensei: Persona 2: Innocent Sin",
+        "price_usd": 142.5,
+        "price_eur": 131.1,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "PSP 2000 Limited Edition Star Wars Battlefront Version [White]",
-        "price_usd": 134.99,
-        "price_eur": 124.19,
+        "name": "PSP 3000 Mystic Silver",
+        "price_usd": 138.29,
+        "price_eur": 127.23,
         "isHistory": false
       }
     ],
@@ -3903,8 +3903,8 @@
       {
         "rank": 9,
         "name": "Ganpuru",
-        "price_usd": 307,
-        "price_eur": 282.44,
+        "price_usd": 308.16,
+        "price_eur": 283.51,
         "isHistory": false
       },
       {
@@ -4081,8 +4081,8 @@
       {
         "rank": 14,
         "name": "Final Fight 3",
-        "price_usd": 235.01,
-        "price_eur": 216.21,
+        "price_usd": 234.55,
+        "price_eur": 215.79,
         "isHistory": false
       },
       {
@@ -4296,8 +4296,8 @@
       {
         "rank": 4,
         "name": "Virtual Boy System",
-        "price_usd": 375.24,
-        "price_eur": 345.22,
+        "price_usd": 400,
+        "price_eur": 368,
         "isHistory": false
       },
       {
@@ -4338,8 +4338,8 @@
       {
         "rank": 10,
         "name": "Bound High",
-        "price_usd": 178.08,
-        "price_eur": 163.83,
+        "price_usd": 177.61,
+        "price_eur": 163.4,
         "isHistory": false
       },
       {
@@ -4373,8 +4373,8 @@
       {
         "rank": 15,
         "name": "Nintendo Virtual Boy AC Adapter",
-        "price_usd": 121.95,
-        "price_eur": 112.19,
+        "price_usd": 121.63,
+        "price_eur": 111.9,
         "isHistory": false
       },
       {
@@ -4480,8 +4480,8 @@
       {
         "rank": 10,
         "name": "WonderSwan Skeleton Pink",
-        "price_usd": 86.14,
-        "price_eur": 79.25,
+        "price_usd": 86.05,
+        "price_eur": 79.17,
         "isHistory": false
       },
       {
