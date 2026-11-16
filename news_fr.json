@@ -1,6 +1,46 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "notices": [
+    {
+      "guid": "https://www.gamekult.com/actualite/en-1995-destruction-derby-a-beugne-la-bagnole-l-etait-impeccab-3050872932.html",
+      "title": "Mémoire cash - En 1995, Destruction Derby a beugné la bagnole (l'était impeccab')",
+      "link": "https://www.gamekult.com/actualite/en-1995-destruction-derby-a-beugne-la-bagnole-l-etait-impeccab-3050872932.html",
+      "pubDate": "Mon, 16 Nov 2026 06:00:00 +0100",
+      "contentSnippet": "Ah, Destruction Derby. Aux côtés de Ridge Racer, WipEout et Battle Arena Toshinden, il n'y a pas beaucoup de titres qui respirent autant les premières heures de la PlayStation que le jeu de Psygnosis et Reflections, pionnier de la simulation de maltraitance automobile.",
+      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872932/memoire-destruction-derby-2fbd86e7__930_300__0-263-1440-727.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2114448/wow-forever-et-zelda-ocarina-of-time-sont-des-cartons-et-c-est-deprimant-pourquoi-les-vieux-jeux-video-marchent-autant.htm",
+      "title": "WoW Forever et Zelda Ocarina of Time sont des cartons et c'est déprimant : pourquoi les vieux jeux vidéo marchent autant ?",
+      "link": "https://www.jeuxvideo.com/news/2114448/wow-forever-et-zelda-ocarina-of-time-sont-des-cartons-et-c-est-deprimant-pourquoi-les-vieux-jeux-video-marchent-autant.htm",
+      "pubDate": "Sun, 15 Nov 2026 22:20:09 +0100",
+      "contentSnippet": "Le succès insolent de World of Warcraft: Forever et du remake d’Ocarina of Time confirme un repli massif de l'industrie et des joueurs vers le passé. Derrière ces triomphes commerciaux se cache pourtant une impasse culturelle inquiétante pour l'avenir de la création vidéoludique.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179476/1794758197-4661-card.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2114008/retenue-captive-pendant-521-jours-cette-ado-s-en-sort-grace-a-un-jeu-video.htm",
+      "title": "Retenue captive pendant 521 jours, cette ado s'en sort grâce à un jeu vidéo",
+      "link": "https://www.jeuxvideo.com/news/2114008/retenue-captive-pendant-521-jours-cette-ado-s-en-sort-grace-a-un-jeu-video.htm",
+      "pubDate": "Sun, 15 Nov 2026 20:10:07 +0100",
+      "contentSnippet": "Disparue depuis mai 2025 dans l'Utah, Kylie Arellano a été retrouvée vivante le 1er novembre 2026 dans l'Oregon après 521 jours de captivité. C'est en lançant un appel à l'aide lors d'une partie d'Among Us que l'adolescente a pu alerter un autre joueur et déclencher l'intervention du FBI.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179450/1794501763-7427-card.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2113568/armure-de-plates-du-vide-crimson-desert-ou-recuperer-les-5-pieces-de-cet-ensemble-et-la-grande-epee-du-vide.htm",
+      "title": "Armure de plates du vide Crimson Desert : où récupérer les 5 pièces de cet ensemble et la Grande épée du vide ?",
+      "link": "https://www.jeuxvideo.com/news/2113568/armure-de-plates-du-vide-crimson-desert-ou-recuperer-les-5-pieces-de-cet-ensemble-et-la-grande-epee-du-vide.htm",
+      "pubDate": "Sun, 15 Nov 2026 19:15:08 +0100",
+      "contentSnippet": "Avec l’arrivée du DLC Charting the Unknown de Crimson Desert, de nouveaux équipements ont fait leur apparition dans les terres de Pywel, notamment dans l’immense désert pourpre qui donne son nom au jeu. Dans cet article, on vous explique la démarche pour obtenir chacune des pièces d’armure qui composent...",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179432/1794316111-7330-card.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2114342/the-legend-of-zelda-ocarina-of-time-se-vend-deux-fois-plus-en-physique-qu-en-dematerialise-dans-ce-pays-et-ce-n-est-pas-un-hasard.htm",
+      "title": "The Legend of Zelda Ocarina of Time se vend deux fois plus en physique qu'en dématérialisé dans ce pays et ce n'est pas un hasard",
+      "link": "https://www.jeuxvideo.com/news/2114342/the-legend-of-zelda-ocarina-of-time-se-vend-deux-fois-plus-en-physique-qu-en-dematerialise-dans-ce-pays-et-ce-n-est-pas-un-hasard.htm",
+      "pubDate": "Sun, 15 Nov 2026 18:45:09 +0100",
+      "contentSnippet": "Alors que le jeu vidéo mondial bascule massivement vers le tout-numérique, le remake de The Legend of Zelda : Ocarina of Time signe un démarrage historique sur Nintendo Switch 2. Et au Japon, c’est l’édition physique qui se vend le mieux et de loin !",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179459/1794586428-1456-card.jpg"
+    },
     {
       "guid": "https://www.jeuxvideo.com/news/2114331/du-contenu-gratuit-pour-call-of-duty-mw4-minecraft-forza-horizon-6-gears-of-war-et-halo-xbox-fete-ses-25-ans-avec-plein-de-cadeaux-pour-les-joueurs.htm",
       "title": "Du contenu gratuit pour Call of Duty MW4, Minecraft, Forza Horizon 6, Gears of War et Halo : Xbox fête ses 25 ans avec plein de cadeaux pour les joueurs",
@@ -56,46 +96,6 @@
       "pubDate": "Sun, 15 Nov 2026 09:08:00 +0100",
       "contentSnippet": "Le premier raz-de-marée médiatique de la sphère vidéoludique du mois de novembre, c'est sans aucun doute le remake de Zelda : Ocarina of Time. C'est un succès critique et commercial, qui déchaîne aussi l'appétit des moddeurs qui ont réussi à porter le jeu sur PC en un rien de temps.",
       "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872922/situation-compliquee-pour-nintendo-zelda-ocarina-of-time-deja-porte-sur-pc-avec-du-multijoueur-a77f8f72__930_300__0-310-1920-930.png"
-    },
-    {
-      "guid": "https://www.gamekult.com/actualite/voici-l-arduview-la-premiere-console-100-transparente-de-la-taille-d-une-carte-bleue-3050872835.html",
-      "title": "Voici l'Arduview, la première console 100% transparente, de la taille d'une carte bleue",
-      "link": "https://www.gamekult.com/actualite/voici-l-arduview-la-premiere-console-100-transparente-de-la-taille-d-une-carte-bleue-3050872835.html",
-      "pubDate": "Sun, 15 Nov 2026 09:02:00 +0100",
-      "contentSnippet": "À la fin des années 90 et début 2000, les produits électroniques connaissent un nouvel essor avec les ordinateurs, consoles et autres manettes translucides : l'esthétique Y2K explose partout et, encore aujourd'hui, elle fait son petit effet, soit par nostalgie, soit par ce que certains définissent toujours comme la classe absolue. L'Arduview entend peut-être en être le point d'orgue.",
-      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050872835/voici-l-arduview-la-premiere-console-100-transparente-de-la-taille-d-une-carte-bleue-88601014__930_300__0-131-680-350.jpg"
-    },
-    {
-      "guid": "https://www.gamekult.com/actualite/alors-que-l-avenir-de-la-serie-s-ecrira-chez-activision-retour-sur-l-aura-du-tout-premier-halo-101-3050866624.html",
-      "title": "Mémoire cash - Alors que l'avenir de la série s'écrira chez Activision, retour sur l'aura du tout premier Halo",
-      "link": "https://www.gamekult.com/actualite/alors-que-l-avenir-de-la-serie-s-ecrira-chez-activision-retour-sur-l-aura-du-tout-premier-halo-101-3050866624.html",
-      "pubDate": "Sun, 15 Nov 2026 09:00:00 +0100",
-      "contentSnippet": "Avant de devenir un mème en armure verte, Halo a été un manifeste. Une symphonie de plasma et de solitude qui a redéfini le FPS, manette en main, et un hurlement du credo de Microsoft et Xbox en matière de jeu vidéo.",
-      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050866624/en-2001-halo-a-fait-croire-que-microsoft-et-xbox-pouvaient-sauver-le-jeu-video-8356d04e__930_300__0-0-1920-621.jpg"
-    },
-    {
-      "guid": "https://www.jeuxvideo.com/news/2114302/league-of-legends-new-dawn-la-nouvelle-version-du-jeu-phare-de-riot-games-arrive-en-2027.htm",
-      "title": "League of Legends : New Dawn, la nouvelle version du jeu phare de Riot Games, arrive en 2027",
-      "link": "https://www.jeuxvideo.com/news/2114302/league-of-legends-new-dawn-la-nouvelle-version-du-jeu-phare-de-riot-games-arrive-en-2027.htm",
-      "pubDate": "Sat, 14 Nov 2026 23:02:58 +0100",
-      "contentSnippet": "Teasée depuis près d'un an sous le nom de League Next, la prochaine grande évolution de League of Legends a enfin été dévoilée. Baptisée New Dawn, cette mise à jour d'envergure doit transformer plusieurs aspects du célèbre MOBA de Riot Games dès 2027.",
-      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179458/1794579489-3573-card.jpg"
-    },
-    {
-      "guid": "https://www.jeuxvideo.com/news/2113967/il-y-a-15-ans-le-jeu-video-qui-a-revolutionne-les-grands-rpg-solos-est-sorti-voici-pourquoi-skyrim-est-si-unique.htm",
-      "title": "Il y a 15 ans, le jeu vidéo qui a révolutionné les grands RPG solos est sorti : voici pourquoi Skyrim est si unique ",
-      "link": "https://www.jeuxvideo.com/news/2113967/il-y-a-15-ans-le-jeu-video-qui-a-revolutionne-les-grands-rpg-solos-est-sorti-voici-pourquoi-skyrim-est-si-unique.htm",
-      "pubDate": "Sat, 14 Nov 2026 22:20:07 +0100",
-      "contentSnippet": "The Elder Scrolls V : Skyrim vient de fêter son quinzième anniversaire. Pourtant, même une décennie et demie après sa sortie, ce titre culte de Bethesda reste une référence absolue en matière de RPG. Mais qu’est-ce qui le rend unique au final ? Et que peut-on attendre de son anniversaire ?",
-      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179449/1794493143-7497-card.jpg"
-    },
-    {
-      "guid": "https://www.jeuxvideo.com/news/2114280/nintendo-recrute-pour-sauver-son-passe-pourquoi-la-conservation-du-jeu-video-est-elle-un-enjeu-majeur.htm",
-      "title": "Nintendo recrute pour sauver son passé : pourquoi la conservation du jeu vidéo est-elle un enjeu majeur ?",
-      "link": "https://www.jeuxvideo.com/news/2114280/nintendo-recrute-pour-sauver-son-passe-pourquoi-la-conservation-du-jeu-video-est-elle-un-enjeu-majeur.htm",
-      "pubDate": "Sat, 14 Nov 2026 20:10:09 +0100",
-      "contentSnippet": "Que restera-t-il de nos jeux vidéo préférés dans cinquante ans ? Derrière les cartouches oubliées, les consoles vieillissantes et les serveurs qui ferment, c'est toute une partie de notre histoire culturelle qui risque de s'effacer. Et même les plus grands noms de l'industrie commencent à prendre la...",
-      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179458/1794575283-6933-card.jpg"
     }
   ]
 }
