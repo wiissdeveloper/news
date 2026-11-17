@@ -1,6 +1,22 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "notices": [
+    {
+      "guid": "https://www.gamesource.it/?post_type=notizie&p=1149941",
+      "title": "Zelda Ocarina of Time Remake è il gioco fisico più venduto",
+      "link": "https://www.gamesource.it/notizie/zelda-ocarina-of-time-remake-fisico/",
+      "pubDate": "Tue, 17 Nov 2026 06:26:33 +0000",
+      "contentSnippet": "Il remake di The Legend of Zelda: Ocarina of Time per Nintendo Switch 2 continua a macinare record. Dopo aver superato quota 5,2 milioni di copie vendute a livello mondiale nei primi quattro giorni dal lancio, il titolo Nintendo ha ottenuto un altro importante traguardo anche sul mercato statunitense. Secondo i dati diffusi da Circana…\nContinua a leggere su GameSource",
+      "thumbnail": "https://www.gamesource.it/wp-content/uploads/2026/08/Zelda-Ocarina-of-Time-Link-1024x576.webp"
+    },
+    {
+      "guid": "https://www.gamesource.it/?post_type=notizie&p=1149923",
+      "title": "League of Legends, nuovo /dev: Nuova alba a gennaio, torna Cleptomanzia e ranked da Ferro IV",
+      "link": "https://www.gamesource.it/notizie/league-of-legends-dev-blog-novembre-26/",
+      "pubDate": "Mon, 16 Nov 2026 21:21:12 +0000",
+      "contentSnippet": "Dopo il reveal sul palco dei Worlds 2026, Riot Games torna a parlare del futuro di League of Legends con un nuovo Aggiornamento /dev firmato da Pabro e Meddler. Il video mette in fila tutto quello che ci aspetta a gennaio: c’è la tabella di marcia di Nuova alba (il nome italiano di New Dawn)…\nContinua a leggere su GameSource",
+      "thumbnail": "https://www.gamesource.it/wp-content/uploads/2026/11/Pabro-e-Meddler-sono-pronti-per-mostrarci-le-novita-della-stagione-17-di-League-of-Legends-1024x576.webp"
+    },
     {
       "guid": "https://www.gamesource.it/?post_type=trucchi&p=1149861",
       "title": "Dove trovare le Grandi Fontane delle Fate in The Legend of Zelda: Ocarina of Time Remake",
@@ -80,22 +96,6 @@
       "pubDate": "Mon, 16 Nov 2026 11:30:32 +0000",
       "contentSnippet": "Approfittatene subito.\nSe non avete ancora acquistato Forza Horizon 6, sappiate che Instant Gaming offre degli ottimi sconti, anche per l'edizione Premium con i DLC.",
       "thumbnail": "https://sm.ign.com/ign_it/photo/default/forza-horizon-6-screenshot-03-en-12jan26-1779828885369_93zz.jpg"
-    },
-    {
-      "guid": "https://www.gamesource.it/?post_type=trucchi&p=1149855",
-      "title": "The Legend of Zelda: Ocarina of Time – Come ottenere gli Occhiali della Verità",
-      "link": "https://www.gamesource.it/trucchi/ocarina-of-time-occhiali-della-verita/",
-      "pubDate": "Mon, 16 Nov 2026 11:16:44 +0000",
-      "contentSnippet": "Gli Occhiali della Verità sono un oggetto molto importante per la storia di The Legend of Zelda: Ocarina of Time e non solo per essa. Infatti tale oggetto ha uno scopo ben preciso ma significativo: permette di vedere i muri o pavimenti finti e bauli invisibili alla normale vista. Si rivela dunque essenziale per esplorare…\nContinua a leggere su GameSource",
-      "thumbnail": "https://www.gamesource.it/wp-content/uploads/2026/11/the-legend-of-zelda-ocarina-of-time-occhiali-della-verita-1024x576.webp"
-    },
-    {
-      "guid": "https://it.ign.com/tomb-raider-ue5/229216/tomb-raider-legacy-of-atlantis-vende-bene-i-preordini-stanno-superando-le-aspettative",
-      "title": "Tomb Raider: Legacy of Atlantis vende bene, i preordini stanno superando le aspettative",
-      "link": "https://it.ign.com/tomb-raider-ue5/229216/tomb-raider-legacy-of-atlantis-vende-bene-i-preordini-stanno-superando-le-aspettative",
-      "pubDate": "Mon, 16 Nov 2026 11:00:38 +0000",
-      "contentSnippet": "Embracer Group si dice soddisfatta.\nIl rendiconto trimestrale di Embracer Group evidenzia preordini superiori alle stime per Tomb Raider: Legacy of Atlantis, e oltre sette milioni di visualizzazioni per l'ultimo teaser trailer.",
-      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/dggg_7mbh.jpg"
     }
   ]
 }
