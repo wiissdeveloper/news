@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17",
+  "updated": "2026-11-18",
   "systems": {
     "3do": [
       {
@@ -212,8 +212,8 @@
       {
         "rank": 10,
         "name": "Out of Control",
-        "price_usd": 600.07,
-        "price_eur": 552.06,
+        "price_usd": 600.03,
+        "price_eur": 552.03,
         "isHistory": false
       },
       {
@@ -281,9 +281,9 @@
       },
       {
         "rank": 20,
-        "name": "Parachute",
-        "price_usd": 289,
-        "price_eur": 265.88,
+        "name": "Tooth Protectors",
+        "price_usd": 298.63,
+        "price_eur": 274.74,
         "isHistory": false
       }
     ],
@@ -531,8 +531,8 @@
       {
         "rank": 15,
         "name": "Super Zaxxon",
-        "price_usd": 105.59,
-        "price_eur": 97.14,
+        "price_usd": 100.96,
+        "price_eur": 92.88,
         "isHistory": false
       },
       {
@@ -894,30 +894,30 @@
       },
       {
         "rank": 6,
+        "name": "Illbleed",
+        "price_usd": 207.38,
+        "price_eur": 190.79,
+        "isHistory": false
+      },
+      {
+        "rank": 7,
         "name": "Sega Dreamcast Sports Edition Console",
         "price_usd": 201.25,
         "price_eur": 185.15,
         "isHistory": false
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "VM2",
         "price_usd": 200,
         "price_eur": 184,
         "isHistory": false
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "SCART Cable",
         "price_usd": 187.5,
         "price_eur": 172.5,
-        "isHistory": false
-      },
-      {
-        "rank": 9,
-        "name": "Illbleed",
-        "price_usd": 185.55,
-        "price_eur": 170.71,
         "isHistory": false
       },
       {
@@ -957,14 +957,14 @@
       },
       {
         "rank": 15,
-        "name": "Code Breaker",
+        "name": "JoJo's Bizarre Adventure",
         "price_usd": 119.99,
         "price_eur": 110.39,
         "isHistory": false
       },
       {
         "rank": 16,
-        "name": "JoJo's Bizarre Adventure",
+        "name": "Code Breaker",
         "price_usd": 119.99,
         "price_eur": 110.39,
         "isHistory": false
@@ -985,16 +985,16 @@
       },
       {
         "rank": 19,
-        "name": "The House of the Dead 2 [Gun Bundle]",
-        "price_usd": 105.56,
-        "price_eur": 97.12,
+        "name": "D2",
+        "price_usd": 101.16,
+        "price_eur": 93.07,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "D2",
-        "price_usd": 101.16,
-        "price_eur": 93.07,
+        "name": "Sega Dreamcast Arcade Stick",
+        "price_usd": 100,
+        "price_eur": 92,
         "isHistory": false
       }
     ],
@@ -1058,8 +1058,8 @@
       {
         "rank": 9,
         "name": "Omoikkiri Tanteidan Haado Gumi",
-        "price_usd": 57.67,
-        "price_eur": 53.06,
+        "price_usd": 57.51,
+        "price_eur": 52.91,
         "isHistory": false
       },
       {
@@ -1114,8 +1114,8 @@
       {
         "rank": 17,
         "name": "BurgerTime",
-        "price_usd": 40.05,
-        "price_eur": 36.85,
+        "price_usd": 40.01,
+        "price_eur": 36.81,
         "isHistory": false
       },
       {
@@ -1619,15 +1619,15 @@
       {
         "rank": 8,
         "name": "Pine Creek [Collector's Edition]",
-        "price_usd": 319.26,
-        "price_eur": 293.72,
+        "price_usd": 319.31,
+        "price_eur": 293.77,
         "isHistory": false
       },
       {
         "rank": 9,
         "name": "Resident Evil Gaiden",
-        "price_usd": 283.38,
-        "price_eur": 260.71,
+        "price_usd": 278.22,
+        "price_eur": 255.96,
         "isHistory": false
       },
       {
@@ -1696,8 +1696,8 @@
       {
         "rank": 19,
         "name": "Pokemon Crystal",
-        "price_usd": 153.46,
-        "price_eur": 141.18,
+        "price_usd": 153,
+        "price_eur": 140.76,
         "isHistory": false
       },
       {
@@ -2160,23 +2160,23 @@
       },
       {
         "rank": 4,
-        "name": "The Death and Return of Superman",
-        "price_usd": 316.99,
-        "price_eur": 291.63,
-        "isHistory": false
-      },
-      {
-        "rank": 5,
         "name": "Daze Before Christmas",
         "price_usd": 303.2,
         "price_eur": 278.94,
         "isHistory": false
       },
       {
-        "rank": 6,
+        "rank": 5,
         "name": "Fatal Fury 2",
         "price_usd": 255.5,
         "price_eur": 235.06,
+        "isHistory": false
+      },
+      {
+        "rank": 6,
+        "name": "The Death and Return of Superman",
+        "price_usd": 236.07,
+        "price_eur": 217.18,
         "isHistory": false
       },
       {
@@ -2295,16 +2295,16 @@
       },
       {
         "rank": 3,
-        "name": "Nintendo 64 007 Goldeneye Value Pack",
-        "price_usd": 722.57,
-        "price_eur": 664.76,
+        "name": "Nintendo 64 1080 Snowboarding Special Value Pak",
+        "price_usd": 719.65,
+        "price_eur": 662.08,
         "isHistory": false
       },
       {
         "rank": 4,
-        "name": "Nintendo 64 1080 Snowboarding Special Value Pak",
-        "price_usd": 719.65,
-        "price_eur": 662.08,
+        "name": "Nintendo 64 007 Goldeneye Value Pack",
+        "price_usd": 718.81,
+        "price_eur": 661.31,
         "isHistory": false
       },
       {
@@ -2317,8 +2317,8 @@
       {
         "rank": 6,
         "name": "Starcraft 64",
-        "price_usd": 364.3,
-        "price_eur": 335.16,
+        "price_usd": 361.42,
+        "price_eur": 332.51,
         "isHistory": false
       },
       {
@@ -2359,8 +2359,8 @@
       {
         "rank": 12,
         "name": "Nintendo 64 Fire Orange",
-        "price_usd": 224.55,
-        "price_eur": 206.59,
+        "price_usd": 224.23,
+        "price_eur": 206.29,
         "isHistory": false
       },
       {
@@ -2537,15 +2537,15 @@
       {
         "rank": 17,
         "name": "Pokemon Legendary Distribution",
-        "price_usd": 608.04,
-        "price_eur": 559.4,
+        "price_usd": 608.03,
+        "price_eur": 559.39,
         "isHistory": false
       },
       {
         "rank": 18,
         "name": "Seattle Mariners Nintendo DS Lite",
-        "price_usd": 606.24,
-        "price_eur": 557.74,
+        "price_usd": 603.12,
+        "price_eur": 554.87,
         "isHistory": false
       },
       {
@@ -3221,8 +3221,8 @@
       {
         "rank": 13,
         "name": "Der Langrisser FX",
-        "price_usd": 100.45,
-        "price_eur": 92.41,
+        "price_usd": 100.49,
+        "price_eur": 92.45,
         "isHistory": false
       },
       {
@@ -3363,8 +3363,8 @@
       {
         "rank": 13,
         "name": "Silent Hill",
-        "price_usd": 183.94,
-        "price_eur": 169.22,
+        "price_usd": 185,
+        "price_eur": 170.2,
         "isHistory": false
       },
       {
@@ -3817,8 +3817,8 @@
       {
         "rank": 17,
         "name": "WWF Raw",
-        "price_usd": 53.97,
-        "price_eur": 49.65,
+        "price_usd": 53.92,
+        "price_eur": 49.61,
         "isHistory": false
       },
       {
@@ -3831,8 +3831,8 @@
       {
         "rank": 19,
         "name": "Toughman Contest",
-        "price_usd": 48.56,
-        "price_eur": 44.68,
+        "price_usd": 48.1,
+        "price_eur": 44.25,
         "isHistory": false
       },
       {
@@ -4073,16 +4073,16 @@
       },
       {
         "rank": 13,
-        "name": "Demon's Crest",
-        "price_usd": 237.1,
-        "price_eur": 218.13,
+        "name": "Final Fight 3",
+        "price_usd": 234.55,
+        "price_eur": 215.79,
         "isHistory": false
       },
       {
         "rank": 14,
-        "name": "Final Fight 3",
-        "price_usd": 234.55,
-        "price_eur": 215.79,
+        "name": "Demon's Crest",
+        "price_usd": 233.26,
+        "price_eur": 214.6,
         "isHistory": false
       },
       {
@@ -4123,8 +4123,8 @@
       {
         "rank": 20,
         "name": "Aero the Acro-Bat 2",
-        "price_usd": 196.4,
-        "price_eur": 180.69,
+        "price_usd": 196.28,
+        "price_eur": 180.58,
         "isHistory": false
       }
     ],
@@ -4643,8 +4643,8 @@
       {
         "rank": 13,
         "name": "WonderSwan Color Crystal Orange",
-        "price_usd": 95.73,
-        "price_eur": 88.07,
+        "price_usd": 93.82,
+        "price_eur": 86.31,
         "isHistory": false
       },
       {
@@ -4678,8 +4678,8 @@
       {
         "rank": 18,
         "name": "Gunpey Ex",
-        "price_usd": 73.24,
-        "price_eur": 67.38,
+        "price_usd": 73.22,
+        "price_eur": 67.36,
         "isHistory": false
       },
       {
