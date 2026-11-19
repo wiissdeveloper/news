@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "systems": {
     "3do": [
       {
@@ -54,8 +54,8 @@
       {
         "rank": 8,
         "name": "Lucienne's Quest",
-        "price_usd": 257.5,
-        "price_eur": 236.9,
+        "price_usd": 259.75,
+        "price_eur": 238.97,
         "isHistory": false
       },
       {
@@ -233,8 +233,8 @@
       {
         "rank": 13,
         "name": "Color Bar Generator",
-        "price_usd": 485.46,
-        "price_eur": 446.62,
+        "price_usd": 491.7,
+        "price_eur": 452.36,
         "isHistory": false
       },
       {
@@ -291,8 +291,8 @@
       {
         "rank": 1,
         "name": "Scramble [Homebrew]",
-        "price_usd": 446.67,
-        "price_eur": 410.94,
+        "price_usd": 445.44,
+        "price_eur": 409.8,
         "isHistory": false
       },
       {
@@ -873,16 +873,16 @@
       },
       {
         "rank": 3,
-        "name": "Yellow Sega Dreamcast Controller",
-        "price_usd": 233.97,
-        "price_eur": 215.25,
+        "name": "Cannon Spike",
+        "price_usd": 234.04,
+        "price_eur": 215.32,
         "isHistory": false
       },
       {
         "rank": 4,
-        "name": "Cannon Spike",
-        "price_usd": 232.26,
-        "price_eur": 213.68,
+        "name": "Yellow Sega Dreamcast Controller",
+        "price_usd": 233.97,
+        "price_eur": 215.25,
         "isHistory": false
       },
       {
@@ -894,16 +894,16 @@
       },
       {
         "rank": 6,
-        "name": "Illbleed",
-        "price_usd": 207.38,
-        "price_eur": 190.79,
+        "name": "Sega Dreamcast Sports Edition Console",
+        "price_usd": 210.91,
+        "price_eur": 194.04,
         "isHistory": false
       },
       {
         "rank": 7,
-        "name": "Sega Dreamcast Sports Edition Console",
-        "price_usd": 201.25,
-        "price_eur": 185.15,
+        "name": "Illbleed",
+        "price_usd": 207.38,
+        "price_eur": 190.79,
         "isHistory": false
       },
       {
@@ -950,30 +950,30 @@
       },
       {
         "rank": 14,
+        "name": "Sega Dreamcast Console",
+        "price_usd": 133.86,
+        "price_eur": 123.15,
+        "isHistory": false
+      },
+      {
+        "rank": 15,
         "name": "NEO XYX",
         "price_usd": 127,
         "price_eur": 116.84,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 16,
         "name": "JoJo's Bizarre Adventure",
         "price_usd": 119.99,
         "price_eur": 110.39,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 17,
         "name": "Code Breaker",
         "price_usd": 119.99,
         "price_eur": 110.39,
-        "isHistory": false
-      },
-      {
-        "rank": 17,
-        "name": "Sega Dreamcast Console",
-        "price_usd": 112.5,
-        "price_eur": 103.5,
         "isHistory": false
       },
       {
@@ -986,8 +986,8 @@
       {
         "rank": 19,
         "name": "D2",
-        "price_usd": 101.16,
-        "price_eur": 93.07,
+        "price_usd": 100.94,
+        "price_eur": 92.86,
         "isHistory": false
       },
       {
@@ -1120,7 +1120,7 @@
       },
       {
         "rank": 18,
-        "name": "Legend of Zelda",
+        "name": "Dracula II",
         "price_usd": 39.99,
         "price_eur": 36.79,
         "isHistory": false
@@ -1134,9 +1134,9 @@
       },
       {
         "rank": 20,
-        "name": "Dracula II",
-        "price_usd": 39.99,
-        "price_eur": 36.79,
+        "name": "Legend of Zelda",
+        "price_usd": 39.72,
+        "price_eur": 36.54,
         "isHistory": false
       }
     ],
@@ -1334,14 +1334,14 @@
       },
       {
         "rank": 8,
-        "name": "Analogue Pocket [Black Anodized]",
+        "name": "Analogue Pocket [Supreme Red]",
         "price_usd": 700,
         "price_eur": 644,
         "isHistory": false
       },
       {
         "rank": 9,
-        "name": "Analogue Pocket [Supreme Red]",
+        "name": "Analogue Pocket [Black Anodized]",
         "price_usd": 700,
         "price_eur": 644,
         "isHistory": false
@@ -1349,8 +1349,8 @@
       {
         "rank": 10,
         "name": "Analogue Pocket [Indigo Anodized]",
-        "price_usd": 697.01,
-        "price_eur": 641.25,
+        "price_usd": 698.01,
+        "price_eur": 642.17,
         "isHistory": false
       },
       {
@@ -1404,14 +1404,14 @@
       },
       {
         "rank": 18,
-        "name": "Analogue Pocket [Berry]",
+        "name": "Analogue Pocket [Red]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
       },
       {
         "rank": 19,
-        "name": "Analogue Pocket [Red]",
+        "name": "Analogue Pocket [Berry]",
         "price_usd": 500,
         "price_eur": 460,
         "isHistory": false
@@ -1782,8 +1782,8 @@
       {
         "rank": 11,
         "name": "Cosmic Spacehead",
-        "price_usd": 75.91,
-        "price_eur": 69.84,
+        "price_usd": 75.41,
+        "price_eur": 69.38,
         "isHistory": false
       },
       {
@@ -1844,7 +1844,7 @@
       },
       {
         "rank": 20,
-        "name": "Gear Master Converter",
+        "name": "Urban Strike",
         "price_usd": 45,
         "price_eur": 41.4,
         "isHistory": false
@@ -2310,8 +2310,8 @@
       {
         "rank": 5,
         "name": "Snowboard Kids 2",
-        "price_usd": 447.03,
-        "price_eur": 411.27,
+        "price_usd": 447.51,
+        "price_eur": 411.71,
         "isHistory": false
       },
       {
@@ -2644,8 +2644,8 @@
       {
         "rank": 12,
         "name": "Metal Slug 4",
-        "price_usd": 1753.32,
-        "price_eur": 1613.05,
+        "price_usd": 1750.97,
+        "price_eur": 1610.89,
         "isHistory": false
       },
       {
@@ -2979,8 +2979,8 @@
       {
         "rank": 19,
         "name": "Metal Slug 1st Mission",
-        "price_usd": 51.1,
-        "price_eur": 47.01,
+        "price_usd": 52.07,
+        "price_eur": 47.9,
         "isHistory": false
       },
       {
@@ -3286,8 +3286,8 @@
       {
         "rank": 2,
         "name": "Elemental Gearbolt Assassin Case",
-        "price_usd": 9285.48,
-        "price_eur": 8542.64,
+        "price_usd": 9282.42,
+        "price_eur": 8539.83,
         "isHistory": false
       },
       {
@@ -3355,16 +3355,16 @@
       },
       {
         "rank": 12,
-        "name": "Valkyrie Profile",
-        "price_usd": 199.74,
-        "price_eur": 183.76,
+        "name": "Silent Hill",
+        "price_usd": 185,
+        "price_eur": 170.2,
         "isHistory": false
       },
       {
         "rank": 13,
-        "name": "Silent Hill",
-        "price_usd": 185,
-        "price_eur": 170.2,
+        "name": "Valkyrie Profile",
+        "price_usd": 180.13,
+        "price_eur": 165.72,
         "isHistory": false
       },
       {
@@ -3398,8 +3398,8 @@
       {
         "rank": 18,
         "name": "Elemental Gearbolt",
-        "price_usd": 150.25,
-        "price_eur": 138.23,
+        "price_usd": 150.13,
+        "price_eur": 138.12,
         "isHistory": false
       },
       {
@@ -3498,8 +3498,8 @@
       {
         "rank": 12,
         "name": "Resident Evil 4 Chainsaw Controller",
-        "price_usd": 506.39,
-        "price_eur": 465.88,
+        "price_usd": 506.03,
+        "price_eur": 465.55,
         "isHistory": false
       },
       {
@@ -4245,8 +4245,8 @@
       {
         "rank": 17,
         "name": "Scramble",
-        "price_usd": 16.77,
-        "price_eur": 15.43,
+        "price_usd": 16.94,
+        "price_eur": 15.58,
         "isHistory": false
       },
       {
@@ -4331,8 +4331,8 @@
       {
         "rank": 9,
         "name": "Virtual Lab [Homebrew]",
-        "price_usd": 179.25,
-        "price_eur": 164.91,
+        "price_usd": 179.35,
+        "price_eur": 165,
         "isHistory": false
       },
       {
