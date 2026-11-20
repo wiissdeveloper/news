@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "systems": {
     "3do": [
       {
@@ -353,16 +353,16 @@
       },
       {
         "rank": 10,
-        "name": "Beef Drop [Homebrew]",
-        "price_usd": 165,
-        "price_eur": 151.8,
+        "name": "K.C. Munchkin [Homebrew]",
+        "price_usd": 168.27,
+        "price_eur": 154.81,
         "isHistory": false
       },
       {
         "rank": 11,
-        "name": "K.C. Munchkin [Homebrew]",
-        "price_usd": 161.35,
-        "price_eur": 148.44,
+        "name": "Beef Drop [Homebrew]",
+        "price_usd": 165,
+        "price_eur": 151.8,
         "isHistory": false
       },
       {
@@ -495,16 +495,16 @@
       },
       {
         "rank": 10,
-        "name": "Crystal Castles",
-        "price_usd": 136.74,
-        "price_eur": 125.8,
+        "name": "Scramble",
+        "price_usd": 133.2,
+        "price_eur": 122.54,
         "isHistory": false
       },
       {
         "rank": 11,
-        "name": "Scramble",
-        "price_usd": 133.2,
-        "price_eur": 122.54,
+        "name": "Crystal Castles",
+        "price_usd": 132.85,
+        "price_eur": 122.22,
         "isHistory": false
       },
       {
@@ -829,8 +829,8 @@
       {
         "rank": 17,
         "name": "Jag Zombies",
-        "price_usd": 142.28,
-        "price_eur": 130.9,
+        "price_usd": 142.84,
+        "price_eur": 131.41,
         "isHistory": false
       },
       {
@@ -843,8 +843,8 @@
       {
         "rank": 19,
         "name": "Worms",
-        "price_usd": 122.14,
-        "price_eur": 112.37,
+        "price_usd": 122.15,
+        "price_eur": 112.38,
         "isHistory": false
       },
       {
@@ -901,16 +901,16 @@
       },
       {
         "rank": 7,
-        "name": "Illbleed",
-        "price_usd": 207.38,
-        "price_eur": 190.79,
+        "name": "VM2",
+        "price_usd": 200,
+        "price_eur": 184,
         "isHistory": false
       },
       {
         "rank": 8,
-        "name": "VM2",
-        "price_usd": 200,
-        "price_eur": 184,
+        "name": "Illbleed",
+        "price_usd": 199.99,
+        "price_eur": 183.99,
         "isHistory": false
       },
       {
@@ -979,8 +979,8 @@
       {
         "rank": 18,
         "name": "Resident Evil 2",
-        "price_usd": 109.95,
-        "price_eur": 101.15,
+        "price_usd": 119.95,
+        "price_eur": 110.35,
         "isHistory": false
       },
       {
@@ -1286,8 +1286,8 @@
       {
         "rank": 1,
         "name": "Gold Nintendo Power 100 Gameboy Pocket",
-        "price_usd": 1639.88,
-        "price_eur": 1508.69,
+        "price_usd": 1640,
+        "price_eur": 1508.8,
         "isHistory": false
       },
       {
@@ -1526,8 +1526,8 @@
       {
         "rank": 15,
         "name": "Gameboy Advance Console & E-Reader Bundle",
-        "price_usd": 391.79,
-        "price_eur": 360.45,
+        "price_usd": 391.51,
+        "price_eur": 360.19,
         "isHistory": false
       },
       {
@@ -1539,14 +1539,14 @@
       },
       {
         "rank": 17,
-        "name": "Gameboy Advance SP [Groudon Edition]",
+        "name": "Drill Dozer [Not for Resale]",
         "price_usd": 300,
         "price_eur": 276,
         "isHistory": false
       },
       {
         "rank": 18,
-        "name": "Drill Dozer [Not for Resale]",
+        "name": "Gameboy Advance SP [Groudon Edition]",
         "price_usd": 300,
         "price_eur": 276,
         "isHistory": false
@@ -1823,16 +1823,16 @@
       },
       {
         "rank": 17,
-        "name": "Offical Game Gear Bag",
-        "price_usd": 47.76,
-        "price_eur": 43.94,
+        "name": "Crystal Warriors",
+        "price_usd": 48.5,
+        "price_eur": 44.62,
         "isHistory": false
       },
       {
         "rank": 18,
-        "name": "Crystal Warriors",
-        "price_usd": 47,
-        "price_eur": 43.24,
+        "name": "Offical Game Gear Bag",
+        "price_usd": 47.76,
+        "price_eur": 43.94,
         "isHistory": false
       },
       {
@@ -2282,8 +2282,8 @@
       {
         "rank": 1,
         "name": "Zelda Majora's Mask [Adventure Set]",
-        "price_usd": 1742,
-        "price_eur": 1602.64,
+        "price_usd": 1741.96,
+        "price_eur": 1602.6,
         "isHistory": false
       },
       {
@@ -2678,14 +2678,14 @@
       },
       {
         "rank": 17,
-        "name": "Savage Reign",
+        "name": "King of Fighters 2003",
         "price_usd": 1000,
         "price_eur": 920,
         "isHistory": false
       },
       {
         "rank": 18,
-        "name": "King of Fighters 2003",
+        "name": "Savage Reign",
         "price_usd": 1000,
         "price_eur": 920,
         "isHistory": false
@@ -2937,8 +2937,8 @@
       {
         "rank": 13,
         "name": "Crush Roller",
-        "price_usd": 66.59,
-        "price_eur": 61.26,
+        "price_usd": 67.3,
+        "price_eur": 61.92,
         "isHistory": false
       },
       {
@@ -3420,14 +3420,14 @@
     "ps2": [
       {
         "rank": 1,
-        "name": "PlayStation 2 System [Yellow Automotive Edition]",
+        "name": "PlayStation 2 System [Blue Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
       },
       {
         "rank": 2,
-        "name": "PlayStation 2 System [Blue Automotive Edition]",
+        "name": "PlayStation 2 System [Yellow Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
@@ -3477,8 +3477,8 @@
       {
         "rank": 9,
         "name": "Kuon",
-        "price_usd": 816,
-        "price_eur": 750.72,
+        "price_usd": 815.28,
+        "price_eur": 750.06,
         "isHistory": false
       },
       {
@@ -3526,8 +3526,8 @@
       {
         "rank": 16,
         "name": "Obscure",
-        "price_usd": 354.91,
-        "price_eur": 326.52,
+        "price_usd": 356,
+        "price_eur": 327.52,
         "isHistory": false
       },
       {
@@ -3563,8 +3563,8 @@
       {
         "rank": 1,
         "name": "The Hilton Family",
-        "price_usd": 1311.48,
-        "price_eur": 1206.56,
+        "price_usd": 1311.7,
+        "price_eur": 1206.76,
         "isHistory": false
       },
       {
@@ -3646,23 +3646,23 @@
       },
       {
         "rank": 13,
+        "name": "Shin Megami Tensei: Persona 2: Innocent Sin [Limited Edition]",
+        "price_usd": 162.03,
+        "price_eur": 149.07,
+        "isHistory": false
+      },
+      {
+        "rank": 14,
         "name": "PSP 3000 Limited Edition Metal Gear Version [Green]",
         "price_usd": 161.3,
         "price_eur": 148.4,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 15,
         "name": "PSP 3000 Limited Edition Ratchet & Clank Version",
         "price_usd": 160.75,
         "price_eur": 147.89,
-        "isHistory": false
-      },
-      {
-        "rank": 15,
-        "name": "Shin Megami Tensei: Persona 2: Innocent Sin [Limited Edition]",
-        "price_usd": 160.48,
-        "price_eur": 147.64,
         "isHistory": false
       },
       {
@@ -3726,8 +3726,8 @@
       {
         "rank": 4,
         "name": "Motherbase",
-        "price_usd": 215.74,
-        "price_eur": 198.48,
+        "price_usd": 215.05,
+        "price_eur": 197.85,
         "isHistory": false
       },
       {
@@ -3990,8 +3990,8 @@
       {
         "rank": 1,
         "name": "Donkey Kong Country [5-Game Crate]",
-        "price_usd": 1455.67,
-        "price_eur": 1339.22,
+        "price_usd": 1455.62,
+        "price_eur": 1339.17,
         "isHistory": false
       },
       {
@@ -4316,100 +4316,100 @@
       },
       {
         "rank": 7,
+        "name": "Fishbone [Homebrew]",
+        "price_usd": 250,
+        "price_eur": 230,
+        "isHistory": false
+      },
+      {
+        "rank": 8,
         "name": "Waterworld",
         "price_usd": 210,
         "price_eur": 193.2,
         "isHistory": false
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "Wario Land [Not For Resale]",
         "price_usd": 209.97,
         "price_eur": 193.17,
         "isHistory": false
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "Virtual Lab [Homebrew]",
         "price_usd": 179.35,
         "price_eur": 165,
         "isHistory": false
       },
       {
-        "rank": 10,
+        "rank": 11,
         "name": "Bound High",
         "price_usd": 177.61,
         "price_eur": 163.4,
         "isHistory": false
       },
       {
-        "rank": 11,
+        "rank": 12,
         "name": "3D Tetris",
         "price_usd": 176.28,
         "price_eur": 162.18,
         "isHistory": false
       },
       {
-        "rank": 12,
+        "rank": 13,
         "name": "Hyper Fighting [Homebrew]",
         "price_usd": 159,
         "price_eur": 146.28,
         "isHistory": false
       },
       {
-        "rank": 13,
+        "rank": 14,
         "name": "Flashboy+",
         "price_usd": 148.61,
         "price_eur": 136.72,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 15,
         "name": "Hyperboy",
         "price_usd": 129,
         "price_eur": 118.68,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 16,
         "name": "Nintendo Virtual Boy AC Adapter",
         "price_usd": 121.63,
         "price_eur": 111.9,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 17,
         "name": "Innsmouth Mansion [Homebrew]",
         "price_usd": 117.96,
         "price_eur": 108.52,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 18,
         "name": "Virtual Boy Controller",
         "price_usd": 110.42,
         "price_eur": 101.59,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 19,
         "name": "Virtual Bowling [Homebrew]",
         "price_usd": 109.99,
         "price_eur": 101.19,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 20,
         "name": "Nester's Funky Bowling",
         "price_usd": 87.37,
         "price_eur": 80.38,
-        "isHistory": false
-      },
-      {
-        "rank": 20,
-        "name": "SD Gundam Dimension Wars [Homebrew]",
-        "price_usd": 65,
-        "price_eur": 59.8,
         "isHistory": false
       }
     ],
@@ -4573,8 +4573,8 @@
       {
         "rank": 3,
         "name": "Super Robot Taisen Compact 3",
-        "price_usd": 152.81,
-        "price_eur": 140.59,
+        "price_usd": 152.78,
+        "price_eur": 140.56,
         "isHistory": false
       },
       {
