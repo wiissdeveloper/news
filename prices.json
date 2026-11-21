@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20",
+  "updated": "2026-11-21",
   "systems": {
     "3do": [
       {
@@ -170,8 +170,8 @@
       {
         "rank": 4,
         "name": "Eli's Ladder",
-        "price_usd": 1510.22,
-        "price_eur": 1389.4,
+        "price_usd": 1509.87,
+        "price_eur": 1389.08,
         "isHistory": false
       },
       {
@@ -240,8 +240,8 @@
       {
         "rank": 14,
         "name": "Halloween",
-        "price_usd": 460,
-        "price_eur": 423.2,
+        "price_usd": 456.42,
+        "price_eur": 419.91,
         "isHistory": false
       },
       {
@@ -1539,14 +1539,14 @@
       },
       {
         "rank": 17,
-        "name": "Drill Dozer [Not for Resale]",
+        "name": "Gameboy Advance SP [Groudon Edition]",
         "price_usd": 300,
         "price_eur": 276,
         "isHistory": false
       },
       {
         "rank": 18,
-        "name": "Gameboy Advance SP [Groudon Edition]",
+        "name": "Drill Dozer [Not for Resale]",
         "price_usd": 300,
         "price_eur": 276,
         "isHistory": false
@@ -1719,8 +1719,8 @@
       {
         "rank": 2,
         "name": "Mega Man",
-        "price_usd": 268.06,
-        "price_eur": 246.62,
+        "price_usd": 250,
+        "price_eur": 230,
         "isHistory": false
       },
       {
@@ -1768,8 +1768,8 @@
       {
         "rank": 9,
         "name": "Tails' Adventure",
-        "price_usd": 83.44,
-        "price_eur": 76.76,
+        "price_usd": 82.59,
+        "price_eur": 75.98,
         "isHistory": false
       },
       {
@@ -1837,14 +1837,14 @@
       },
       {
         "rank": 19,
-        "name": "Super Star Wars: Return of the Jedi",
-        "price_usd": 45.96,
-        "price_eur": 42.28,
+        "name": "Urban Strike",
+        "price_usd": 45,
+        "price_eur": 41.4,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "Urban Strike",
+        "name": "Gear Master Converter",
         "price_usd": 45,
         "price_eur": 41.4,
         "isHistory": false
@@ -1861,8 +1861,8 @@
       {
         "rank": 2,
         "name": "Outback Joey",
-        "price_usd": 3500.51,
-        "price_eur": 3220.47,
+        "price_usd": 3499.67,
+        "price_eur": 3219.7,
         "isHistory": false
       },
       {
@@ -1917,8 +1917,8 @@
       {
         "rank": 10,
         "name": "Crusader of Centy",
-        "price_usd": 470.61,
-        "price_eur": 432.96,
+        "price_usd": 472.81,
+        "price_eur": 434.99,
         "isHistory": false
       },
       {
@@ -1959,8 +1959,8 @@
       {
         "rank": 16,
         "name": "Sega Genesis [Altered Beast Bundle]",
-        "price_usd": 286.64,
-        "price_eur": 263.71,
+        "price_usd": 291.19,
+        "price_eur": 267.89,
         "isHistory": false
       },
       {
@@ -2523,8 +2523,8 @@
       {
         "rank": 15,
         "name": "Pokemon [Legendary Not For Resale Y90E]",
-        "price_usd": 675.96,
-        "price_eur": 621.88,
+        "price_usd": 674.18,
+        "price_eur": 620.25,
         "isHistory": false
       },
       {
@@ -2807,8 +2807,8 @@
       {
         "rank": 15,
         "name": "Flintstones Surprise at Dinosaur Peak",
-        "price_usd": 1250,
-        "price_eur": 1150,
+        "price_usd": 1247.31,
+        "price_eur": 1147.53,
         "isHistory": false
       },
       {
@@ -2841,9 +2841,9 @@
       },
       {
         "rank": 20,
-        "name": "Analogue NT Mini Noir",
-        "price_usd": 1099.49,
-        "price_eur": 1011.53,
+        "name": "Control Deck Test Cartridge",
+        "price_usd": 1083,
+        "price_eur": 996.36,
         "isHistory": false
       }
     ],
@@ -3100,8 +3100,8 @@
       {
         "rank": 16,
         "name": "Tatsujin",
-        "price_usd": 245.96,
-        "price_eur": 226.28,
+        "price_usd": 245.47,
+        "price_eur": 225.83,
         "isHistory": false
       },
       {
@@ -3356,8 +3356,8 @@
       {
         "rank": 12,
         "name": "Silent Hill",
-        "price_usd": 185,
-        "price_eur": 170.2,
+        "price_usd": 187.5,
+        "price_eur": 172.5,
         "isHistory": false
       },
       {
@@ -3420,14 +3420,14 @@
     "ps2": [
       {
         "rank": 1,
-        "name": "PlayStation 2 System [Blue Automotive Edition]",
+        "name": "PlayStation 2 System [Yellow Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
       },
       {
         "rank": 2,
-        "name": "PlayStation 2 System [Yellow Automotive Edition]",
+        "name": "PlayStation 2 System [Blue Automotive Edition]",
         "price_usd": 1999.99,
         "price_eur": 1839.99,
         "isHistory": false
@@ -3442,8 +3442,8 @@
       {
         "rank": 4,
         "name": "Playstation 2 Development Tool",
-        "price_usd": 1769.9,
-        "price_eur": 1628.31,
+        "price_usd": 1768.14,
+        "price_eur": 1626.69,
         "isHistory": false
       },
       {
@@ -4046,8 +4046,8 @@
       {
         "rank": 9,
         "name": "X-Zone",
-        "price_usd": 263.14,
-        "price_eur": 242.09,
+        "price_usd": 263.12,
+        "price_eur": 242.07,
         "isHistory": false
       },
       {
@@ -4102,8 +4102,8 @@
       {
         "rank": 17,
         "name": "Captain Commando",
-        "price_usd": 209.42,
-        "price_eur": 192.67,
+        "price_usd": 209.52,
+        "price_eur": 192.76,
         "isHistory": false
       },
       {
