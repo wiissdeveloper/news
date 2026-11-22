@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "systems": {
     "3do": [
       {
@@ -19,8 +19,8 @@
       {
         "rank": 3,
         "name": "DinoPark Tycoon",
-        "price_usd": 342.41,
-        "price_eur": 315.02,
+        "price_usd": 355.78,
+        "price_eur": 327.32,
         "isHistory": false
       },
       {
@@ -475,8 +475,8 @@
       {
         "rank": 7,
         "name": "Atari 400 Computer System",
-        "price_usd": 146.92,
-        "price_eur": 135.17,
+        "price_usd": 147.9,
+        "price_eur": 136.07,
         "isHistory": false
       },
       {
@@ -666,8 +666,8 @@
       {
         "rank": 14,
         "name": "Game Drive",
-        "price_usd": 94.94,
-        "price_eur": 87.34,
+        "price_usd": 95.29,
+        "price_eur": 87.67,
         "isHistory": false
       },
       {
@@ -951,8 +951,8 @@
       {
         "rank": 14,
         "name": "Sega Dreamcast Console",
-        "price_usd": 133.86,
-        "price_eur": 123.15,
+        "price_usd": 133.92,
+        "price_eur": 123.21,
         "isHistory": false
       },
       {
@@ -1079,8 +1079,8 @@
       {
         "rank": 12,
         "name": "Falsion",
-        "price_usd": 46,
-        "price_eur": 42.32,
+        "price_usd": 46.11,
+        "price_eur": 42.42,
         "isHistory": false
       },
       {
@@ -1093,8 +1093,8 @@
       {
         "rank": 14,
         "name": "Panic Space",
-        "price_usd": 42.22,
-        "price_eur": 38.84,
+        "price_usd": 42.21,
+        "price_eur": 38.83,
         "isHistory": false
       },
       {
@@ -1533,8 +1533,8 @@
       {
         "rank": 16,
         "name": "Car Battler Joe",
-        "price_usd": 315.34,
-        "price_eur": 290.11,
+        "price_usd": 315.07,
+        "price_eur": 289.86,
         "isHistory": false
       },
       {
@@ -1740,8 +1740,8 @@
       {
         "rank": 5,
         "name": "Pete Sampras Tennis",
-        "price_usd": 145.69,
-        "price_eur": 134.03,
+        "price_usd": 145.97,
+        "price_eur": 134.29,
         "isHistory": false
       },
       {
@@ -2131,8 +2131,8 @@
       {
         "rank": 20,
         "name": "King's Quest",
-        "price_usd": 58,
-        "price_eur": 53.36,
+        "price_usd": 55.75,
+        "price_eur": 51.29,
         "isHistory": false
       }
     ],
@@ -2338,8 +2338,8 @@
       {
         "rank": 9,
         "name": "San Francisco Rush 2049",
-        "price_usd": 272.83,
-        "price_eur": 251,
+        "price_usd": 272.02,
+        "price_eur": 250.26,
         "isHistory": false
       },
       {
@@ -2425,8 +2425,8 @@
       {
         "rank": 1,
         "name": "Pokemon [Not for Resale Arceus]",
-        "price_usd": 2722.8,
-        "price_eur": 2504.98,
+        "price_usd": 2722.65,
+        "price_eur": 2504.84,
         "isHistory": false
       },
       {
@@ -2446,8 +2446,8 @@
       {
         "rank": 4,
         "name": "Darkrai Distribution",
-        "price_usd": 2322.61,
-        "price_eur": 2136.8,
+        "price_usd": 2322.02,
+        "price_eur": 2136.26,
         "isHistory": false
       },
       {
@@ -2509,8 +2509,8 @@
       {
         "rank": 13,
         "name": "Pokemon [Not for Resale Diamond & Pearl]",
-        "price_usd": 889.9,
-        "price_eur": 818.71,
+        "price_usd": 889.12,
+        "price_eur": 817.99,
         "isHistory": false
       },
       {
@@ -2772,8 +2772,8 @@
       {
         "rank": 10,
         "name": "Hot Slots",
-        "price_usd": 2380.59,
-        "price_eur": 2190.14,
+        "price_usd": 2377.88,
+        "price_eur": 2187.65,
         "isHistory": false
       },
       {
@@ -2793,8 +2793,8 @@
       {
         "rank": 13,
         "name": "Peek-a-Boo Poker",
-        "price_usd": 1734.47,
-        "price_eur": 1595.71,
+        "price_usd": 1734.4,
+        "price_eur": 1595.65,
         "isHistory": false
       },
       {
@@ -2895,8 +2895,8 @@
       {
         "rank": 7,
         "name": "The Last Blade",
-        "price_usd": 101.31,
-        "price_eur": 93.21,
+        "price_usd": 102.12,
+        "price_eur": 93.95,
         "isHistory": false
       },
       {
@@ -2995,8 +2995,8 @@
       {
         "rank": 1,
         "name": "PC Engine LT",
-        "price_usd": 1990,
-        "price_eur": 1830.8,
+        "price_usd": 2162.76,
+        "price_eur": 1989.74,
         "isHistory": false
       },
       {
@@ -3355,16 +3355,16 @@
       },
       {
         "rank": 12,
-        "name": "Silent Hill",
-        "price_usd": 187.5,
-        "price_eur": 172.5,
+        "name": "Valkyrie Profile",
+        "price_usd": 198.97,
+        "price_eur": 183.05,
         "isHistory": false
       },
       {
         "rank": 13,
-        "name": "Valkyrie Profile",
-        "price_usd": 180.13,
-        "price_eur": 165.72,
+        "name": "Silent Hill",
+        "price_usd": 187.5,
+        "price_eur": 172.5,
         "isHistory": false
       },
       {
@@ -3398,8 +3398,8 @@
       {
         "rank": 18,
         "name": "Elemental Gearbolt",
-        "price_usd": 150.13,
-        "price_eur": 138.12,
+        "price_usd": 150.07,
+        "price_eur": 138.06,
         "isHistory": false
       },
       {
@@ -4394,8 +4394,8 @@
       {
         "rank": 18,
         "name": "Virtual Boy Controller",
-        "price_usd": 110.42,
-        "price_eur": 101.59,
+        "price_usd": 110.5,
+        "price_eur": 101.66,
         "isHistory": false
       },
       {
@@ -4486,72 +4486,72 @@
       },
       {
         "rank": 11,
-        "name": "Final Lap 2000",
-        "price_usd": 80,
-        "price_eur": 73.6,
-        "isHistory": false
-      },
-      {
-        "rank": 12,
         "name": "Ochan no Oekaki Logic",
         "price_usd": 80,
         "price_eur": 73.6,
         "isHistory": false
       },
       {
+        "rank": 12,
+        "name": "Final Lap 2000",
+        "price_usd": 80,
+        "price_eur": 73.6,
+        "isHistory": false
+      },
+      {
         "rank": 13,
+        "name": "Wonderswan Soda Blue Console",
+        "price_usd": 78.89,
+        "price_eur": 72.58,
+        "isHistory": false
+      },
+      {
+        "rank": 14,
         "name": "WonderSwan Metalic Blue",
         "price_usd": 76,
         "price_eur": 69.92,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 15,
         "name": "Rockman & Forte",
         "price_usd": 75.02,
         "price_eur": 69.02,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 16,
         "name": "WonderSwan Skeleton Green",
         "price_usd": 75,
         "price_eur": 69,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 17,
         "name": "Cho Aniki: Otoko no Tamafuda",
         "price_usd": 75,
         "price_eur": 69,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 18,
         "name": "Kaze no Klonoa: Moonlight Museum",
         "price_usd": 72.99,
         "price_eur": 67.15,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 19,
         "name": "Uzumaki: Denshi Kaiki Hen",
         "price_usd": 70,
         "price_eur": 64.4,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 20,
         "name": "Engacho",
         "price_usd": 69.19,
         "price_eur": 63.65,
-        "isHistory": false
-      },
-      {
-        "rank": 20,
-        "name": "Clock Tower for WonderSwan",
-        "price_usd": 61.55,
-        "price_eur": 56.63,
         "isHistory": false
       }
     ],
@@ -4615,8 +4615,8 @@
       {
         "rank": 9,
         "name": "Rockman EXE WS",
-        "price_usd": 129.93,
-        "price_eur": 119.54,
+        "price_usd": 129.7,
+        "price_eur": 119.32,
         "isHistory": false
       },
       {
@@ -4692,8 +4692,8 @@
       {
         "rank": 20,
         "name": "Wonder Swan Color",
-        "price_usd": 61.74,
-        "price_eur": 56.8,
+        "price_usd": 60.25,
+        "price_eur": 55.43,
         "isHistory": false
       }
     ],
@@ -4813,8 +4813,8 @@
       {
         "rank": 17,
         "name": "Martianoids",
-        "price_usd": 76.96,
-        "price_eur": 70.8,
+        "price_usd": 77.26,
+        "price_eur": 71.08,
         "isHistory": false
       },
       {
