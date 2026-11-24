@@ -1,6 +1,30 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "notices": [
+    {
+      "guid": "https://it.ign.com/xbox-series-x/229347/xbox-helix-avrebbe-dovuto-essere-un-pc-da-gaming-con-multiplayer-gratuito-ma-i-piani-sono-cambiati",
+      "title": "Xbox Helix avrebbe dovuto essere un PC da gaming con multiplayer gratuito, ma i piani sono cambiati",
+      "link": "https://it.ign.com/xbox-series-x/229347/xbox-helix-avrebbe-dovuto-essere-un-pc-da-gaming-con-multiplayer-gratuito-ma-i-piani-sono-cambiati",
+      "pubDate": "Tue, 24 Nov 2026 09:00:40 +0000",
+      "contentSnippet": "Costi troppo elevati.\nSecondo fonti attendibili, la nuova Xbox pensata sotto la gestione di Phil Spencer e Sarah Bond avrebbe avuto costi troppo elevati, e sarebbe stata ripensata dalla nuova direzione.",
+      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/f_n81h.jpg"
+    },
+    {
+      "guid": "https://it.ign.com/grand-theft-auto-vi/229346/gta-vi-ha-registrato-il-piu-grande-lancio-nella-storia-dellintrattenimento",
+      "title": "GTA VI ha registrato il più grande lancio nella storia dell'intrattenimento",
+      "link": "https://it.ign.com/grand-theft-auto-vi/229346/gta-vi-ha-registrato-il-piu-grande-lancio-nella-storia-dellintrattenimento",
+      "pubDate": "Tue, 24 Nov 2026 08:30:32 +0000",
+      "contentSnippet": "Incassati 3,79 miliardi di dollari al day one.\nGTA VI ha venduto oltre 32,5 milioni di copie al day one, generando introiti per 3,79 miliardi di dollari.",
+      "thumbnail": "https://sm.ign.com/ign_it/photo/default/gta-6-mini-golf-1787933915770_h7c7.jpg"
+    },
+    {
+      "guid": "https://it.ign.com/silver-pines/229311/silver-pines-la-recensione",
+      "title": "Silver Pines - La recensione",
+      "link": "https://it.ign.com/silver-pines/229311/silver-pines-la-recensione",
+      "pubDate": "Tue, 24 Nov 2026 08:00:54 +0000",
+      "contentSnippet": "Horror, survival, noir, David Lynch e tanto backtracking. Ecco a voi Silver Pines.\nChe ne dite di un'avventura investigativa in 2.5D che recupera diverse meccaniche dei primi Resident Evil, le atmosfere disturbanti di Silent Hill e una struttura esplorativa tipica dei metroidvania?",
+      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/blob_6cy8.jpg"
+    },
     {
       "guid": "https://www.gamesource.it/?post_type=notizie&p=1150411",
       "title": "GTA 6, I primi giocatori raccontano le loro impressioni",
@@ -72,30 +96,6 @@
       "pubDate": "Mon, 23 Nov 2026 13:45:01 +0000",
       "contentSnippet": "Rispetto al capitolo precedente, Grand Theft Auto VI introduce un livello di simulazione molto più profondo e stratificato. Molte delle nuove meccaniche dello Stato di Leonida non vengono spiegate esplicitamente dai tutorial iniziali, ma conoscerle fin dalle prime ore fa la differenza tra perdere migliaia di dollari contro la polizia e muoversi come veri professionisti…\nContinua a leggere su GameSource",
       "thumbnail": "https://www.gamesource.it/wp-content/uploads/2026/11/gta-6_-10-cose-che-il-gioco-non-spiega-e-consigli-utili-1024x576.webp"
-    },
-    {
-      "guid": "https://it.ign.com/grand-theft-auto-vi/229272/gta-vi-due-chiacchiere-con-rockstar-games-frame-rate-prima-persona-e-la-mancanza-di-proprieta-acquis",
-      "title": "GTA VI, due chiacchiere con Rockstar Games: frame rate, prima persona e la mancanza di proprietà acquistabili",
-      "link": "https://it.ign.com/grand-theft-auto-vi/229272/gta-vi-due-chiacchiere-con-rockstar-games-frame-rate-prima-persona-e-la-mancanza-di-proprieta-acquis",
-      "pubDate": "Mon, 23 Nov 2026 12:27:14 +0000",
-      "contentSnippet": "Ne abbiamo parlato con il team di sviluppo.\nGrand Theft Auto VI è incredibile, ma nel corso della nostra prova abbiamo notato qualche mancanza che ci ha spinto a non assegnare una valutazione perfetta. Ne abbiamo discusso con Rockstar Games.",
-      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/gtavi-52_n8xf.jpg"
-    },
-    {
-      "guid": "https://it.ign.com/offerte-amazon-videogiochi-sconti/229326/star-wars-galactic-racer-per-pc-e-in-offerta-su-instant-gaming-al-prezzo-piu-basso-dal-lancio",
-      "title": "Star Wars: Galactic Racer per PC è in offerta su Instant Gaming al prezzo più basso dal lancio",
-      "link": "https://it.ign.com/offerte-amazon-videogiochi-sconti/229326/star-wars-galactic-racer-per-pc-e-in-offerta-su-instant-gaming-al-prezzo-piu-basso-dal-lancio",
-      "pubDate": "Mon, 23 Nov 2026 11:37:24 +0000",
-      "contentSnippet": "Anche in edizione Deluxe.\nSu Instant Gaming è possibile acquistare Star Wars: Galactic Racer per PC a prezzi davvero ottimi.",
-      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/titolo_z6nf.jpg"
-    },
-    {
-      "guid": "https://it.ign.com/grand-theft-auto-vi/229323/gta-vi-il-gioco-delle-freccette-e-stato-eliminato-perche-non-cerano-denaro-o-tempo-illimitati",
-      "title": "GTA VI: il gioco delle freccette è stato eliminato perché non c'erano \"denaro o tempo illimitati\"",
-      "link": "https://it.ign.com/grand-theft-auto-vi/229323/gta-vi-il-gioco-delle-freccette-e-stato-eliminato-perche-non-cerano-denaro-o-tempo-illimitati",
-      "pubDate": "Mon, 23 Nov 2026 11:04:09 +0000",
-      "contentSnippet": "Non si può avere tutto.\nRockstar Games ha inserito tantissimi contenuti in GTA VI; tuttavia, alcuni minigiochi molto amati dai fan, come le freccette e il bowling, non sono stati inclusi.",
-      "thumbnail": "https://sm.ign.com/ign_it/news/r/rockstar-s/rockstar-says-darts-were-cut-from-gta-6-because-it-didnt-hav_vbyy.jpg"
     }
   ]
 }
