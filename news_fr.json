@@ -1,6 +1,46 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "notices": [
+    {
+      "guid": "https://www.gamekult.com/actualite/the-witcher-4-sony-et-cd-projekt-main-dans-la-main-pour-le-marketing-3050873173.html",
+      "title": "The Witcher 4 : Sony et CD Projekt main dans la main pour le marketing",
+      "link": "https://www.gamekult.com/actualite/the-witcher-4-sony-et-cd-projekt-main-dans-la-main-pour-le-marketing-3050873173.html",
+      "pubDate": "Wed, 25 Nov 2026 08:45:00 +0100",
+      "contentSnippet": "Bien placé dans la liste des jeux les plus attendus de ces prochaines années, The Witcher 4 ne naviguera pas tout seul dans les eaux troubles du marketing. Même si le jeu de CD Projekt n'en a sans doute pas besoin, il pourra manifestement s'appuyer sur les solides épaules d'un partenaire de taille : PlayStation.",
+      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050873173/the-witcher-4-3dcd7f5a__930_300__0-225-3840-1460.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2116690/dans-gta-6-les-joueurs-ont-trouve-un-secret-cache-de-gta-san-andreas-definitive-edition.htm",
+      "title": "Dans GTA 6, les joueurs ont trouvé un secret caché de GTA San Andreas Definitive Edition",
+      "link": "https://www.jeuxvideo.com/news/2116690/dans-gta-6-les-joueurs-ont-trouve-un-secret-cache-de-gta-san-andreas-definitive-edition.htm",
+      "pubDate": "Wed, 25 Nov 2026 07:05:07 +0100",
+      "contentSnippet": "Cinq ans après avoir dissimulé une mystérieuse photographie dans Grand Theft Auto: The Trilogy – The Definitive Edition, Rockstar Games confirme l'existence de ce premier aperçu caché dans GTA 6.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179552/1795524009-5171-card.jpg"
+    },
+    {
+      "guid": "https://www.actugaming.net/?p=835785",
+      "title": "Mise à jour Aniimo du 26 novembre : arrêt des serveurs et nouveautés, le patch note complet est là",
+      "link": "https://www.actugaming.net/mise-a-jour-aniimo-du-26-novembre-arret-des-serveurs-et-nouveautes-le-patch-note-complet-est-la-835785/",
+      "pubDate": "Wed, 25 Nov 2026 06:00:41 +0000",
+      "contentSnippet": "ActuGaming.net\nMise à jour Aniimo du 26 novembre : arrêt des serveurs et nouveautés, le patch note complet est là\n\nUne nouvelle mise à jour attend les joueurs et joueuses d’Aniimo ce 26 novembre, avec […]\nL'article Mise à jour Aniimo du 26 novembre : arrêt des serveurs et nouveautés, le patch note complet est là est disponible sur ActuGaming.net",
+      "thumbnail": "https://static.actugaming.net/media/2026/09/aniimo-key-art.jpg"
+    },
+    {
+      "guid": "https://www.actugaming.net/?p=833787",
+      "title": "Test The Witch’s Bakery – Un très bon cozy game où la boulangerie et la sorcellerie ne font qu’un",
+      "link": "https://www.actugaming.net/test-the-witchs-bakery-cozy-game-833787/",
+      "pubDate": "Wed, 25 Nov 2026 06:00:30 +0000",
+      "contentSnippet": "ActuGaming.net\nTest The Witch’s Bakery – Un très bon cozy game où la boulangerie et la sorcellerie ne font qu’un\n\nUne sorcière bien-aimée tenant une boulangerie dans une petite rue parisienne, c’est la proposition originale […]\nL'article Test The Witch’s Bakery – Un très bon cozy game où la boulangerie et la sorcellerie ne font qu’un est disponible sur ActuGaming.net",
+      "thumbnail": "https://static.actugaming.net/media/2024/09/the-witch-bakery-1.jpg"
+    },
+    {
+      "guid": "https://www.jeuxvideo.com/news/2116678/98-d-avis-positifs-c-est-l-antithese-absolue-de-gta-6-et-il-cartonne-depuis-10-jours.htm",
+      "title": "98% d'avis positifs ! C'est l'antithèse absolue de GTA 6 et il cartonne depuis 10 jours",
+      "link": "https://www.jeuxvideo.com/news/2116678/98-d-avis-positifs-c-est-l-antithese-absolue-de-gta-6-et-il-cartonne-depuis-10-jours.htm",
+      "pubDate": "Wed, 25 Nov 2026 06:05:08 +0100",
+      "contentSnippet": "À l'heure où la démesure semble être devenue le maître-mot de l'industrie vidéoludique, certains développeurs empruntent un chemin radicalement opposé. Et à en croire les évaluations laissées sur Steam ces derniers jours, les joueurs ne sont pas insensibles à cette proposition.",
+      "thumbnail": "https://image.jeuxvideo.com/medias-lg/179552/1795516679-9520-card.jpg"
+    },
     {
       "guid": "https://www.jeuxvideo.com/news/2116402/ce-rpg-se-deroule-a-montreuil-en-banlieue-parisienne-vous-controlez-un-provincial-qui-debarque-dans-le-93.htm",
       "title": "Ce RPG se déroule à Montreuil, en banlieue parisienne. Vous contrôlez un provincial qui débarque dans le 93",
@@ -56,46 +96,6 @@
       "pubDate": "Tue, 24 Nov 2026 18:34:23 +0000",
       "contentSnippet": "ActuGaming.net\nVotez dès maintenant pour les Steam Awards afin d’élire les meilleurs de ces 10 dernières années\n\nLes Game Awards n’offrent finalement que peu d’importance aux votes du public, mais il existe […]\nL'article Votez dès maintenant pour les Steam Awards afin d’élire les meilleurs de ces 10 dernières années est disponible sur ActuGaming.net",
       "thumbnail": "https://static.actugaming.net/media/2023/11/astarion-baldur.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=834147",
-      "title": "Curiosités WAiNK GTA 6 : emplacement des 35 lieux à scanner",
-      "link": "https://www.actugaming.net/emplacement-curiosites-waink-gta-6-834147/",
-      "pubDate": "Tue, 24 Nov 2026 18:27:04 +0000",
-      "contentSnippet": "ActuGaming.net\nCuriosités WAiNK GTA 6 : emplacement des 35 lieux à scanner\n\nDans GTA 6, vous serez contraints de trouver des curiosités WAiNK pour compléter le jeu […]\nL'article Curiosités WAiNK GTA 6 : emplacement des 35 lieux à scanner est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/11/GTA-6-26-1.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=835663",
-      "title": "Nintendo vous fait oublier le mauvais temps avec le retour de Wave Race: Blue Storm, disponible sur Switch 2",
-      "link": "https://www.actugaming.net/nintendo-vous-fait-oublier-le-mauvais-temps-avec-le-retour-de-wave-race-blue-storm-disponible-sur-switch-2-835663/",
-      "pubDate": "Tue, 24 Nov 2026 18:19:55 +0000",
-      "contentSnippet": "ActuGaming.net\nNintendo vous fait oublier le mauvais temps avec le retour de Wave Race: Blue Storm, disponible sur Switch 2\n\nNintendo continue d’alimenter son abonnement phare du Nintendo Switch Online + Pack additionnel en faisant […]\nL'article Nintendo vous fait oublier le mauvais temps avec le retour de Wave Race: Blue Storm, disponible sur Switch 2 est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/11/wave-race.jpg"
-    },
-    {
-      "guid": "https://www.gamekult.com/actualite/gta-6-online-cultive-autant-de-questions-que-de-promesses-3050873132.html",
-      "title": "Ultime bafouille - GTA 6 Online cultive autant de questions que de promesses",
-      "link": "https://www.gamekult.com/actualite/gta-6-online-cultive-autant-de-questions-que-de-promesses-3050873132.html",
-      "pubDate": "Tue, 24 Nov 2026 19:00:00 +0100",
-      "contentSnippet": "Grand Theft Auto VI est encore loin d'avoir révélé tous ses secrets aux dizaines de millions de joueurs qui s'y adonnent chaque jour depuis le 19 novembre, mais déjà la question se pose : que doit faire Rockstar Games avec Grand Theft Auto Online ? Une question simple en apparence mais qui reste enveloppée d'un épais mystère et qui divise la communauté.",
-      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050873132/gta-6-online-cultive-autant-de-questions-que-de-promesses-52d44297__930_300__0-926-3840-2160.jpg"
-    },
-    {
-      "guid": "https://www.actugaming.net/?p=835539",
-      "title": "Sans surprise, Showa American Story ne sortira pas cette année, son studio annonce un retard important d’un an",
-      "link": "https://www.actugaming.net/sans-surprise-showa-american-story-ne-sortira-pas-cette-annee-son-studio-annonce-un-retard-important-dun-an-835539/",
-      "pubDate": "Tue, 24 Nov 2026 16:23:43 +0000",
-      "contentSnippet": "ActuGaming.net\nSans surprise, Showa American Story ne sortira pas cette année, son studio annonce un retard important d’un an\n\nShowa American Story aura été l’une des bizarreries de la dernière Gamescom, même si en […]\nL'article Sans surprise, Showa American Story ne sortira pas cette année, son studio annonce un retard important d’un an est disponible sur ActuGaming.net",
-      "thumbnail": "https://static.actugaming.net/media/2026/11/showa-american-story.jpg"
-    },
-    {
-      "guid": "https://www.gamekult.com/actualite/wave-race-blue-storm-le-jeu-de-lancement-de-la-gamecube-refait-surface-pour-les-abonnes-nintendo-switch-online-3050873161.html",
-      "title": "Wave Race Blue Storm : le jeu de lancement de la GameCube refait surface pour les abonnés Nintendo Switch Online",
-      "link": "https://www.gamekult.com/actualite/wave-race-blue-storm-le-jeu-de-lancement-de-la-gamecube-refait-surface-pour-les-abonnes-nintendo-switch-online-3050873161.html",
-      "pubDate": "Tue, 24 Nov 2026 17:05:00 +0100",
-      "contentSnippet": "Troisième et dernier volet de la franchise, Wave Race : Blue Storm est de retour aujourd'hui dans le cadre de l'abonnement Nintendo Switch Online + Pack additionnel.",
-      "thumbnail": "https://cdn.gamekult.com/optim/images/news/30/3050873161/wave-race-blue-storm-le-jeu-de-lancement-de-la-gamecube-refait-surface-pour-les-abonnes-nintendo-switch-online-815efda5__930_300__0-279-3840-1513.jpg"
     }
   ]
 }

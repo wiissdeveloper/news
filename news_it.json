@@ -1,6 +1,30 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "notices": [
+    {
+      "guid": "https://it.ign.com/paralives/228891/paralives-una-galleria-di-immagini",
+      "title": "Paralives - Una galleria di immagini",
+      "link": "https://it.ign.com/paralives/228891/paralives-una-galleria-di-immagini",
+      "pubDate": "Wed, 25 Nov 2026 08:00:49 +0000",
+      "contentSnippet": "<img src=\"https://sm.ign.com/t/ign_it/gallery/p/paralives-/paralives-gameplay-screenshots_ek2a.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />",
+      "thumbnail": "https://sm.ign.com/ign_it/gallery/p/paralives-/paralives-gameplay-screenshots_ek2a.jpg"
+    },
+    {
+      "guid": "https://it.ign.com/paralives/228408/i-primi-inquilini-di-paralives",
+      "title": "I primi inquilini di Paralives",
+      "link": "https://it.ign.com/paralives/228408/i-primi-inquilini-di-paralives",
+      "pubDate": "Wed, 25 Nov 2026 08:00:49 +0000",
+      "contentSnippet": "I cittadini virtuali di Paralives Studio seguono le orme dei Sims. Forse un po' troppo?\nIn attesa della versione definitiva, abbiamo adottato qualcuno dei cittadini virtuali di questo simulatore di società.",
+      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/blob_9zhj.jpg"
+    },
+    {
+      "guid": "https://www.gamesource.it/?post_type=trucchi&p=1150495",
+      "title": "GTA 6: come registrare le auto rubate con segnalatore",
+      "link": "https://www.gamesource.it/trucchi/gta-6-come-registrare-auto-segnalatore/",
+      "pubDate": "Tue, 24 Nov 2026 21:27:29 +0000",
+      "contentSnippet": "In Grand Theft Auto VI non basta rubare una vettura sportiva e portarla in officina per farla diventare tua. Provando a immatricolare i mezzi di fascia alta, infatti, compare spesso il messaggio \"il segnalatore non può essere rimosso\", che impedisce sia la registrazione sia qualsiasi modifica estetica. La possibilità di registrare i veicoli rubati a…\nContinua a leggere su GameSource",
+      "thumbnail": "https://www.gamesource.it/wp-content/uploads/2026/11/gta-6_-come-registrare-le-auto-rubate-con-segnalatore-1-1024x576.webp"
+    },
     {
       "guid": "https://www.gamesource.it/?post_type=trucchi&p=1150329",
       "title": "Come fare soldi in GTA 6? I metodi più veloci ed efficaci",
@@ -72,30 +96,6 @@
       "pubDate": "Tue, 24 Nov 2026 11:30:34 +0000",
       "contentSnippet": "Costa meno di una colazione.\nL'ottimo Neon White, gioco d'azione che crea dipendenza, vi costa quanto una colazione con i nuovi sconti di Instant Gaming.",
       "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/neon-white-hero_nez4.jpg"
-    },
-    {
-      "guid": "https://it.ign.com/queens-domain/229352/queens-domain-vola-a-quota-300000-copie-vendute-in-tre-settimane",
-      "title": "Queen's Domain vola a quota 300.000 copie vendute in tre settimane",
-      "link": "https://it.ign.com/queens-domain/229352/queens-domain-vola-a-quota-300000-copie-vendute-in-tre-settimane",
-      "pubDate": "Tue, 24 Nov 2026 10:30:33 +0000",
-      "contentSnippet": "Il GdR retro-fantasy continua a macinare numeri da capogiro.\nQueen's Domain sta andando fortissimo: al suo terzo weekend supera 300.000 copie vendute, e il mezzo milione sembra raggiungibile entro fine anno.",
-      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/qd-top_79hp.jpg"
-    },
-    {
-      "guid": "https://it.ign.com/grand-theft-auto-vi/229351/gta-vi-lascia-a-bocca-aperta-anche-gli-sviluppatori-sembra-magia-nera",
-      "title": "GTA VI lascia a bocca aperta anche gli sviluppatori: \"Sembra magia nera\"",
-      "link": "https://it.ign.com/grand-theft-auto-vi/229351/gta-vi-lascia-a-bocca-aperta-anche-gli-sviluppatori-sembra-magia-nera",
-      "pubDate": "Tue, 24 Nov 2026 10:00:40 +0000",
-      "contentSnippet": "Rockstar Games continua a giocare un campionato a parte.\nDa Naughty Dog fino ai veterani di Battlefield, gli addetti ai lavori ammettono sui social di non riuscire nemmeno a spiegarsi come Rockstar abbia raggiunto un tale livello tecnico.",
-      "thumbnail": "https://sm.ign.com/ign_it/photo/default/screenshot-2026-08-27-at-21-29-49-netflix-1787933915770_4qje.jpg"
-    },
-    {
-      "guid": "https://it.ign.com/xbox-series-x/229347/xbox-helix-avrebbe-dovuto-essere-un-pc-da-gaming-con-multiplayer-gratuito-ma-i-piani-sono-cambiati",
-      "title": "Xbox Helix avrebbe dovuto essere un PC da gaming con multiplayer gratuito, ma i piani sono cambiati",
-      "link": "https://it.ign.com/xbox-series-x/229347/xbox-helix-avrebbe-dovuto-essere-un-pc-da-gaming-con-multiplayer-gratuito-ma-i-piani-sono-cambiati",
-      "pubDate": "Tue, 24 Nov 2026 09:00:40 +0000",
-      "contentSnippet": "Costi troppo elevati.\nSecondo fonti attendibili, la nuova Xbox pensata sotto la gestione di Phil Spencer e Sarah Bond avrebbe avuto costi troppo elevati, e sarebbe stata ripensata dalla nuova direzione.",
-      "thumbnail": "https://sm.ign.com/ign_it/screenshot/default/f_n81h.jpg"
     }
   ]
 }
