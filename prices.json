@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "systems": {
     "3do": [
       {
@@ -12,8 +12,8 @@
       {
         "rank": 2,
         "name": "Panasonic FZ-10 Console [Gex Bundle]",
-        "price_usd": 390.54,
-        "price_eur": 359.3,
+        "price_usd": 388.62,
+        "price_eur": 357.53,
         "isHistory": false
       },
       {
@@ -305,8 +305,8 @@
       {
         "rank": 3,
         "name": "Tank Command",
-        "price_usd": 275.68,
-        "price_eur": 253.63,
+        "price_usd": 272.84,
+        "price_eur": 251.01,
         "isHistory": false
       },
       {
@@ -410,8 +410,8 @@
       {
         "rank": 18,
         "name": "Klax [Homebrew]",
-        "price_usd": 118.8,
-        "price_eur": 109.3,
+        "price_usd": 118.74,
+        "price_eur": 109.24,
         "isHistory": false
       },
       {
@@ -474,100 +474,100 @@
       },
       {
         "rank": 7,
+        "name": "Airball",
+        "price_usd": 149.88,
+        "price_eur": 137.89,
+        "isHistory": false
+      },
+      {
+        "rank": 8,
         "name": "Atari 400 Computer System",
         "price_usd": 147.9,
         "price_eur": 136.07,
         "isHistory": false
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "Atari 410 Program Recorder",
         "price_usd": 143.03,
         "price_eur": 131.59,
         "isHistory": false
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "Atari 800 Console",
         "price_usd": 141.5,
         "price_eur": 130.18,
         "isHistory": false
       },
       {
-        "rank": 10,
+        "rank": 11,
         "name": "Scramble",
         "price_usd": 133.2,
         "price_eur": 122.54,
         "isHistory": false
       },
       {
-        "rank": 11,
+        "rank": 12,
         "name": "Crystal Castles",
         "price_usd": 132.85,
         "price_eur": 122.22,
         "isHistory": false
       },
       {
-        "rank": 12,
+        "rank": 13,
         "name": "Flip Flop",
         "price_usd": 131.38,
         "price_eur": 120.87,
         "isHistory": false
       },
       {
-        "rank": 13,
+        "rank": 14,
         "name": "Atari 1010 Program Recorder",
         "price_usd": 129.99,
         "price_eur": 119.59,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 15,
         "name": "Atari 400 Console",
         "price_usd": 107.32,
         "price_eur": 98.73,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 16,
         "name": "Super Zaxxon",
         "price_usd": 100.96,
         "price_eur": 92.88,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 17,
         "name": "Spy Hunter",
         "price_usd": 97.84,
         "price_eur": 90.01,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 18,
         "name": "Thunderfox",
         "price_usd": 94.99,
         "price_eur": 87.39,
         "isHistory": false
       },
       {
-        "rank": 18,
+        "rank": 19,
         "name": "Bounty Bob Strikes Back",
         "price_usd": 94.98,
         "price_eur": 87.38,
         "isHistory": false
       },
       {
-        "rank": 19,
+        "rank": 20,
         "name": "Atari 400 Mini",
         "price_usd": 90,
         "price_eur": 82.8,
-        "isHistory": false
-      },
-      {
-        "rank": 20,
-        "name": "Atari 800 XL Console",
-        "price_usd": 88.13,
-        "price_eur": 81.08,
         "isHistory": false
       }
     ],
@@ -631,8 +631,8 @@
       {
         "rank": 9,
         "name": "Lemmings",
-        "price_usd": 119,
-        "price_eur": 109.48,
+        "price_usd": 114.6,
+        "price_eur": 105.43,
         "isHistory": false
       },
       {
@@ -1113,23 +1113,23 @@
       },
       {
         "rank": 17,
+        "name": "Dracula II",
+        "price_usd": 40.24,
+        "price_eur": 37.02,
+        "isHistory": false
+      },
+      {
+        "rank": 18,
         "name": "BurgerTime",
         "price_usd": 40.01,
         "price_eur": 36.81,
         "isHistory": false
       },
       {
-        "rank": 18,
-        "name": "Dracula II",
-        "price_usd": 39.99,
-        "price_eur": 36.79,
-        "isHistory": false
-      },
-      {
         "rank": 19,
         "name": "Akumajou Dracula",
-        "price_usd": 39.99,
-        "price_eur": 36.79,
+        "price_usd": 40,
+        "price_eur": 36.8,
         "isHistory": false
       },
       {
@@ -1363,8 +1363,8 @@
       {
         "rank": 12,
         "name": "Analogue Pocket [Transparent Green]",
-        "price_usd": 547.21,
-        "price_eur": 503.43,
+        "price_usd": 547.85,
+        "price_eur": 504.02,
         "isHistory": false
       },
       {
@@ -1612,8 +1612,8 @@
       {
         "rank": 7,
         "name": "Pokemon Gold [Not For Resale]",
-        "price_usd": 395.21,
-        "price_eur": 363.59,
+        "price_usd": 396.58,
+        "price_eur": 364.85,
         "isHistory": false
       },
       {
@@ -1837,14 +1837,14 @@
       },
       {
         "rank": 19,
-        "name": "Gear Master Converter",
+        "name": "Urban Strike",
         "price_usd": 45,
         "price_eur": 41.4,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "Urban Strike",
+        "name": "Gear Master Converter",
         "price_usd": 45,
         "price_eur": 41.4,
         "isHistory": false
@@ -1903,8 +1903,8 @@
       {
         "rank": 8,
         "name": "Analogue Mega Sg [White]",
-        "price_usd": 530.37,
-        "price_eur": 487.94,
+        "price_usd": 529.14,
+        "price_eur": 486.81,
         "isHistory": false
       },
       {
@@ -1938,20 +1938,20 @@
       {
         "rank": 13,
         "name": "MUSHA",
-        "price_usd": 326.16,
-        "price_eur": 300.07,
+        "price_usd": 325.55,
+        "price_eur": 299.51,
         "isHistory": false
       },
       {
         "rank": 14,
-        "name": "Sega Nomad",
+        "name": "Sega Genesis Speakers",
         "price_usd": 300,
         "price_eur": 276,
         "isHistory": false
       },
       {
         "rank": 15,
-        "name": "Sega Genesis Speakers",
+        "name": "Sega Nomad",
         "price_usd": 300,
         "price_eur": 276,
         "isHistory": false
@@ -1980,8 +1980,8 @@
       {
         "rank": 19,
         "name": "Mega EverDrive PRO [Red]",
-        "price_usd": 245,
-        "price_eur": 225.4,
+        "price_usd": 249.99,
+        "price_eur": 229.99,
         "isHistory": false
       },
       {
@@ -2061,8 +2061,8 @@
       {
         "rank": 10,
         "name": "Power Supply",
-        "price_usd": 98.16,
-        "price_eur": 90.31,
+        "price_usd": 98.3,
+        "price_eur": 90.44,
         "isHistory": false
       },
       {
@@ -2189,8 +2189,8 @@
       {
         "rank": 8,
         "name": "Ecco Jr.",
-        "price_usd": 209.64,
-        "price_eur": 192.87,
+        "price_usd": 209.11,
+        "price_eur": 192.38,
         "isHistory": false
       },
       {
@@ -2358,23 +2358,23 @@
       },
       {
         "rank": 12,
+        "name": "Nintendo 64 Pikachu",
+        "price_usd": 227.47,
+        "price_eur": 209.27,
+        "isHistory": false
+      },
+      {
+        "rank": 13,
         "name": "Nintendo 64 Fire Orange",
         "price_usd": 224.23,
         "price_eur": 206.29,
         "isHistory": false
       },
       {
-        "rank": 13,
+        "rank": 14,
         "name": "Nintendo 64 Grape Purple",
         "price_usd": 197.57,
         "price_eur": 181.76,
-        "isHistory": false
-      },
-      {
-        "rank": 14,
-        "name": "Nintendo 64 Pikachu",
-        "price_usd": 196.66,
-        "price_eur": 180.93,
         "isHistory": false
       },
       {
@@ -2439,8 +2439,8 @@
       {
         "rank": 3,
         "name": "Zelda Twilight Princess [Preview Trailer]",
-        "price_usd": 2669.6,
-        "price_eur": 2456.03,
+        "price_usd": 2668.28,
+        "price_eur": 2454.82,
         "isHistory": false
       },
       {
@@ -2558,8 +2558,8 @@
       {
         "rank": 20,
         "name": "Pokemon Meloetta Distribution Cartridge",
-        "price_usd": 301.71,
-        "price_eur": 277.57,
+        "price_usd": 301.84,
+        "price_eur": 277.69,
         "isHistory": false
       }
     ],
@@ -2678,30 +2678,30 @@
       },
       {
         "rank": 17,
-        "name": "King of Fighters 2003",
-        "price_usd": 1000,
-        "price_eur": 920,
-        "isHistory": false
-      },
-      {
-        "rank": 18,
         "name": "Savage Reign",
         "price_usd": 1000,
         "price_eur": 920,
         "isHistory": false
       },
       {
+        "rank": 18,
+        "name": "King of Fighters 2003",
+        "price_usd": 1000,
+        "price_eur": 920,
+        "isHistory": false
+      },
+      {
         "rank": 19,
-        "name": "Neo Geo System",
-        "price_usd": 983.73,
-        "price_eur": 905.03,
+        "name": "NEO SD PRO [Vengeance Hunters Edition",
+        "price_usd": 999.99,
+        "price_eur": 919.99,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "Last Hope: Pink Bullets",
-        "price_usd": 900,
-        "price_eur": 828,
+        "name": "Neo Geo System",
+        "price_usd": 983.73,
+        "price_eur": 905.03,
         "isHistory": false
       }
     ],
@@ -2821,8 +2821,8 @@
       {
         "rank": 17,
         "name": "Power Blade 2",
-        "price_usd": 1149.9,
-        "price_eur": 1057.91,
+        "price_usd": 1137.44,
+        "price_eur": 1046.44,
         "isHistory": false
       },
       {
@@ -2909,8 +2909,8 @@
       {
         "rank": 9,
         "name": "Pocket Reversi",
-        "price_usd": 83.6,
-        "price_eur": 76.91,
+        "price_usd": 83.59,
+        "price_eur": 76.9,
         "isHistory": false
       },
       {
@@ -3016,8 +3016,8 @@
       {
         "rank": 4,
         "name": "1941: Counter Attack",
-        "price_usd": 557.55,
-        "price_eur": 512.95,
+        "price_usd": 553.18,
+        "price_eur": 508.93,
         "isHistory": false
       },
       {
@@ -3136,23 +3136,23 @@
     "pcfx": [
       {
         "rank": 1,
-        "name": "Chip Chan Kick",
-        "price_usd": 337.14,
-        "price_eur": 310.17,
-        "isHistory": false
-      },
-      {
-        "rank": 2,
         "name": "NEC PC-FX Console",
         "price_usd": 302.82,
         "price_eur": 278.59,
         "isHistory": false
       },
       {
-        "rank": 3,
+        "rank": 2,
         "name": "Cutie Honey FX",
         "price_usd": 269.99,
         "price_eur": 248.39,
+        "isHistory": false
+      },
+      {
+        "rank": 3,
+        "name": "Chip Chan Kick",
+        "price_usd": 210.94,
+        "price_eur": 194.06,
         "isHistory": false
       },
       {
@@ -3321,8 +3321,8 @@
       {
         "rank": 7,
         "name": "PSOne Slim Console with LCD Screen Combo",
-        "price_usd": 255.22,
-        "price_eur": 234.8,
+        "price_usd": 251.97,
+        "price_eur": 231.81,
         "isHistory": false
       },
       {
@@ -3349,8 +3349,8 @@
       {
         "rank": 11,
         "name": "Clock Tower 2",
-        "price_usd": 232.5,
-        "price_eur": 213.9,
+        "price_usd": 234.2,
+        "price_eur": 215.46,
         "isHistory": false
       },
       {
@@ -3477,8 +3477,8 @@
       {
         "rank": 9,
         "name": "Kuon",
-        "price_usd": 815.28,
-        "price_eur": 750.06,
+        "price_usd": 814.29,
+        "price_eur": 749.15,
         "isHistory": false
       },
       {
@@ -3498,8 +3498,8 @@
       {
         "rank": 12,
         "name": "Resident Evil 4 Chainsaw Controller",
-        "price_usd": 506.03,
-        "price_eur": 465.55,
+        "price_usd": 506.45,
+        "price_eur": 465.93,
         "isHistory": false
       },
       {
@@ -3519,15 +3519,15 @@
       {
         "rank": 15,
         "name": "Silent Hill: Shattered Memories",
-        "price_usd": 422.5,
-        "price_eur": 388.7,
+        "price_usd": 392.25,
+        "price_eur": 360.87,
         "isHistory": false
       },
       {
         "rank": 16,
         "name": "Obscure",
-        "price_usd": 356,
-        "price_eur": 327.52,
+        "price_usd": 352.5,
+        "price_eur": 324.3,
         "isHistory": false
       },
       {
@@ -3875,8 +3875,8 @@
       {
         "rank": 5,
         "name": "Fire Emblem: Thracia 776 [Deluxe Pack]",
-        "price_usd": 444,
-        "price_eur": 408.48,
+        "price_usd": 431.5,
+        "price_eur": 396.98,
         "isHistory": false
       },
       {
@@ -3903,8 +3903,8 @@
       {
         "rank": 9,
         "name": "Ganpuru",
-        "price_usd": 308.16,
-        "price_eur": 283.51,
+        "price_usd": 300.74,
+        "price_eur": 276.68,
         "isHistory": false
       },
       {
@@ -4345,8 +4345,8 @@
       {
         "rank": 11,
         "name": "Bound High",
-        "price_usd": 177.61,
-        "price_eur": 163.4,
+        "price_usd": 177.19,
+        "price_eur": 163.01,
         "isHistory": false
       },
       {
@@ -4380,8 +4380,8 @@
       {
         "rank": 16,
         "name": "Nintendo Virtual Boy AC Adapter",
-        "price_usd": 121.63,
-        "price_eur": 111.9,
+        "price_usd": 120.77,
+        "price_eur": 111.11,
         "isHistory": false
       },
       {
@@ -4480,8 +4480,8 @@
       {
         "rank": 10,
         "name": "WonderSwan Skeleton Pink",
-        "price_usd": 86.05,
-        "price_eur": 79.17,
+        "price_usd": 85.97,
+        "price_eur": 79.09,
         "isHistory": false
       },
       {
