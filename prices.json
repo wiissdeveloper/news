@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "systems": {
     "3do": [
       {
@@ -68,8 +68,8 @@
       {
         "rank": 10,
         "name": "Panasonic 3DO FZ-1",
-        "price_usd": 208.5,
-        "price_eur": 191.82,
+        "price_usd": 202.04,
+        "price_eur": 185.88,
         "isHistory": false
       },
       {
@@ -708,8 +708,8 @@
       {
         "rank": 20,
         "name": "Desert Strike",
-        "price_usd": 65.72,
-        "price_eur": 60.46,
+        "price_usd": 65.66,
+        "price_eur": 60.41,
         "isHistory": false
       }
     ],
@@ -964,14 +964,14 @@
       },
       {
         "rank": 16,
-        "name": "Code Breaker",
+        "name": "JoJo's Bizarre Adventure",
         "price_usd": 119.99,
         "price_eur": 110.39,
         "isHistory": false
       },
       {
         "rank": 17,
-        "name": "JoJo's Bizarre Adventure",
+        "name": "Code Breaker",
         "price_usd": 119.99,
         "price_eur": 110.39,
         "isHistory": false
@@ -1334,14 +1334,14 @@
       },
       {
         "rank": 8,
-        "name": "Analogue Pocket [Black Anodized]",
+        "name": "Analogue Pocket [Supreme Red]",
         "price_usd": 700,
         "price_eur": 644,
         "isHistory": false
       },
       {
         "rank": 9,
-        "name": "Analogue Pocket [Supreme Red]",
+        "name": "Analogue Pocket [Black Anodized]",
         "price_usd": 700,
         "price_eur": 644,
         "isHistory": false
@@ -1356,8 +1356,8 @@
       {
         "rank": 11,
         "name": "Amazing Tater",
-        "price_usd": 677.66,
-        "price_eur": 623.45,
+        "price_usd": 649.95,
+        "price_eur": 597.95,
         "isHistory": false
       },
       {
@@ -1688,16 +1688,16 @@
       },
       {
         "rank": 18,
-        "name": "Pokemon Crystal",
-        "price_usd": 153,
-        "price_eur": 140.76,
+        "name": "Gameshark [Special Edition for Pokemon Crystal]",
+        "price_usd": 150,
+        "price_eur": 138,
         "isHistory": false
       },
       {
         "rank": 19,
-        "name": "Gameshark [Special Edition for Pokemon Crystal]",
-        "price_usd": 150,
-        "price_eur": 138,
+        "name": "Pokemon Crystal",
+        "price_usd": 149.49,
+        "price_eur": 137.53,
         "isHistory": false
       },
       {
@@ -1837,14 +1837,14 @@
       },
       {
         "rank": 19,
-        "name": "Urban Strike",
+        "name": "Gear Master Converter",
         "price_usd": 45,
         "price_eur": 41.4,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "Gear Master Converter",
+        "name": "Urban Strike",
         "price_usd": 45,
         "price_eur": 41.4,
         "isHistory": false
@@ -2040,8 +2040,8 @@
       {
         "rank": 7,
         "name": "Master Everdrive",
-        "price_usd": 112.7,
-        "price_eur": 103.68,
+        "price_usd": 112.75,
+        "price_eur": 103.73,
         "isHistory": false
       },
       {
@@ -2054,8 +2054,8 @@
       {
         "rank": 9,
         "name": "Master EverDrive X7",
-        "price_usd": 104.31,
-        "price_eur": 95.97,
+        "price_usd": 104.15,
+        "price_eur": 95.82,
         "isHistory": false
       },
       {
@@ -2265,16 +2265,16 @@
       },
       {
         "rank": 19,
-        "name": "Gaiares [Retro-Bit]",
-        "price_usd": 107.16,
-        "price_eur": 98.59,
+        "name": "Megadrive II Infra Red Control Pad",
+        "price_usd": 111.48,
+        "price_eur": 102.56,
         "isHistory": false
       },
       {
         "rank": 20,
-        "name": "Saturday Night Slam Masters",
-        "price_usd": 106.67,
-        "price_eur": 98.14,
+        "name": "Gaiares [Retro-Bit]",
+        "price_usd": 107.16,
+        "price_eur": 98.59,
         "isHistory": false
       }
     ],
@@ -2665,8 +2665,8 @@
       {
         "rank": 15,
         "name": "SVC Chaos",
-        "price_usd": 1312.9,
-        "price_eur": 1207.87,
+        "price_usd": 1304.62,
+        "price_eur": 1200.25,
         "isHistory": false
       },
       {
@@ -3044,8 +3044,8 @@
       {
         "rank": 8,
         "name": "PC Engine Duo-RX",
-        "price_usd": 449.72,
-        "price_eur": 413.74,
+        "price_usd": 449.64,
+        "price_eur": 413.67,
         "isHistory": false
       },
       {
@@ -3221,8 +3221,8 @@
       {
         "rank": 13,
         "name": "Der Langrisser FX",
-        "price_usd": 100.49,
-        "price_eur": 92.45,
+        "price_usd": 100.54,
+        "price_eur": 92.5,
         "isHistory": false
       },
       {
@@ -3370,8 +3370,8 @@
       {
         "rank": 14,
         "name": "PSOne LCD Screen",
-        "price_usd": 179.72,
-        "price_eur": 165.34,
+        "price_usd": 180.37,
+        "price_eur": 165.94,
         "isHistory": false
       },
       {
@@ -3391,8 +3391,8 @@
       {
         "rank": 17,
         "name": "Silent Hill [Greatest Hits]",
-        "price_usd": 155,
-        "price_eur": 142.6,
+        "price_usd": 154.93,
+        "price_eur": 142.54,
         "isHistory": false
       },
       {
@@ -3646,44 +3646,44 @@
       },
       {
         "rank": 13,
+        "name": "Shin Megami Tensei: Persona [Collector's Edition]",
+        "price_usd": 164.03,
+        "price_eur": 150.91,
+        "isHistory": false
+      },
+      {
+        "rank": 14,
         "name": "Shin Megami Tensei: Persona 2: Innocent Sin [Limited Edition]",
         "price_usd": 162.87,
         "price_eur": 149.84,
         "isHistory": false
       },
       {
-        "rank": 14,
+        "rank": 15,
         "name": "PSP 3000 Limited Edition Metal Gear Version [Green]",
         "price_usd": 161.3,
         "price_eur": 148.4,
         "isHistory": false
       },
       {
-        "rank": 15,
+        "rank": 16,
         "name": "PSP 3000 Limited Edition Ratchet & Clank Version",
         "price_usd": 160.75,
         "price_eur": 147.89,
         "isHistory": false
       },
       {
-        "rank": 16,
+        "rank": 17,
         "name": "Legend of Heroes: Trails in the Sky [Premium Edition]",
         "price_usd": 159.81,
         "price_eur": 147.03,
         "isHistory": false
       },
       {
-        "rank": 17,
+        "rank": 18,
         "name": "PSP 3000 Kingdom Hearts Limited Edition",
         "price_usd": 155,
         "price_eur": 142.6,
-        "isHistory": false
-      },
-      {
-        "rank": 18,
-        "name": "Shin Megami Tensei: Persona [Collector's Edition]",
-        "price_usd": 149.87,
-        "price_eur": 137.88,
         "isHistory": false
       },
       {
@@ -4678,8 +4678,8 @@
       {
         "rank": 18,
         "name": "Mr. Driller",
-        "price_usd": 76.5,
-        "price_eur": 70.38,
+        "price_usd": 76.69,
+        "price_eur": 70.55,
         "isHistory": false
       },
       {
@@ -4820,8 +4820,8 @@
       {
         "rank": 18,
         "name": "Deus Ex Machina",
-        "price_usd": 64.26,
-        "price_eur": 59.12,
+        "price_usd": 64.56,
+        "price_eur": 59.4,
         "isHistory": false
       },
       {
